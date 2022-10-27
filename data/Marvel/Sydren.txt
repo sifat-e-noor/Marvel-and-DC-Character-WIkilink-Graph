@@ -1,0 +1,334 @@
+{{Short description|Fictional comic book agency}}
+{{For|the organization appearing in ''The Saint and the Fiction Makers''|S.W.O.R.D. (The Saint)}}
+{{For|the Japanese television series|High&Low: The Story of S.W.O.R.D.}}
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|name = S.W.O.R.D.
+|image = The Peak (S.W.O.R.D. 1).jpg
+|imagesize = <!-- default 250 -->
+|caption = The Peak, headquarters of S.W.O.R.D.<br/>Art by Steven Sanders.
+|publisher = [[Marvel Comics]]
+|group = y
+|debuthead =
+|debut = ''[[Astonishing X-Men]]'' vol. 3 #6
+|debutmo = December
+|debutyr = 2004
+|creators = [[Joss Whedon]] (writer)<br/>[[John Cassaday]] (artist)
+|type = Intelligence agency
+|business =
+|organisation =
+|organization = y
+|team = y
+|base = The Peak
+|owners =
+|employees =
+|members = [[Beast (comics)|Beast]]<br/>[[Abigail Brand]]<br/>Agent Deems<br/>[[Henry Peter Gyrich]]<br/>[[Lockheed (comics)|Lockheed]]<br/>[[Spider-Woman (Jessica Drew)|Spider-Woman]]<br/>Sydren
+|fullroster =
+
+<!-- Series section -->
+|title = S.W.O.R.D.
+|cvr_image = <!-- filename format only -->
+|cvr_caption =
+|schedule = Monthly
+|format =
+|limited =
+|ongoing = Y
+|1shot =
+|SciFi = first
+|Superhero = y
+|multigenre = y
+|pub_series =
+|date =
+|1stishhead =
+|1stishyr = 2010
+|1stishmo = January
+|endishyr = 2010
+|endishmo = May
+|1stishhead# =
+|1stishyr# =
+|1stishmo# =
+|endishyr# =
+|endishmo# =
+|issues = 5
+|main_char_team =
+|writers = [[Kieron Gillen]]
+|artists =
+|pencillers = [[Steve Sanders (comics)|Steve Sanders]]
+|inkers = [[Craig Yeung]]
+|letterers = [[Dave Lanphear]]
+|colorists = [[Matt Wilson (comics)|Matt Wilson]]
+|editors = [[Daniel Ketchum]]<br/>[[Nick Lowe (comics)|Nick Lowe]]<br/>[[Joe Quesada]]
+|creative_team_month =
+|creative_team_year =
+|creators_series = [[Kieron Gillen]]<br/>[[Steve Sanders (comics)|Steve Sanders]]
+|TPB = No Time to Breathe
+|ISBN = 0-7851-4076-X
+<!-- Category section -->
+|cat = intelligence agencies
+|subcat = Marvel Comics
+|altcat =
+|hero =
+|villain =
+|sortkey = S.W.O.R.D.
+}}
+'''S.W.O.R.D.''' ('''Sentient World Observation and Response Department''') is a [[fiction]]al [[counterterrorism]] and [[intelligence (information gathering)|intelligence]] agency appearing in [[American comic book]]s published by [[Marvel Comics]]. Its purpose is to deal with [[Extraterrestrial life in popular culture|extraterrestrial]] threats to world security and is the space-based counterpart of [[S.H.I.E.L.D.]], which deals with local threats to the world.
+
+The organization appears in several forms of media, such as ''[[The Avengers: Earth's Mightiest Heroes]]'' and the [[Marvel Cinematic Universe]] (MCU) miniseries ''[[WandaVision]]'' on [[Disney+]].
+
+==Publication history==
+S.W.O.R.D. was first introduced in ''[[Astonishing X-Men]]'' vol. 3 #6 and was created by [[Joss Whedon]] and [[John Cassaday]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=366}}</ref>
+
+==Fictional organization biography==
+In the comics, S.W.O.R.D. was originally an offshoot of S.H.I.E.L.D., but since the departure of [[Nick Fury]] as director of S.H.I.E.L.D., relations between the two organizations have become strained. The head of S.W.O.R.D. is Special Agent [[Abigail Brand]]. Its primary command-and-control headquarters are aboard the orbital [[space station]] known as the Peak.
+
+S.W.O.R.D. had an undercover operative in the [[X-Mansion]]. In ''Astonishing X-Men'' vol. 3, #17, the identity of this undercover operative was revealed to be [[Lockheed (comics)|Lockheed]].
+
+===In "Unstoppable"===
+The [[Astonishing X-Men]], as well as [[Armor (comics)|Hisako Ichiki]], [[Ord (comics)|Ord of the Breakworld]], and [[Danger Room|Danger]], are taken to deep space by S.W.O.R.D. and Agent [[Abigail Brand]]. S.W.O.R.D. psychics fail to detect Cassandra Nova in [[Emma Frost]]'s shattered psyche. Though emotionally wounded, Emma recovered fast enough to be present for the team's departure to the Breakworld, where they planned to disable a missile aimed at Earth. Before they reached Breakworld, they were attacked by enemy vessels. After creating a diversion, the X-Men and Agent Brand landed on the planet, where Agent Deems was being tortured in prison.
+
+Brand, [[Cyclops (Marvel Comics)|Cyclops]], Emma Frost, and [[Beast (comics)|Beast]] landed together, while [[Wolverine (character)|Wolverine]], Hisako, [[Colossus (comics)|Colossus]], and [[Kitty Pryde]] landed elsewhere. Wolverine's spacecraft disintegrated in mid-air and they were forced to abandon ship. Kitty and Colossus phased through the pod to the planet's surface, where they landed unharmed. Hisako and Wolverine landed with the impact burning Wolverine's skin.
+
+Another team composed of Lockheed, Sydren, and S.W.O.R.D. troops converged upon a place called "the Palace of the Corpse".
+
+Near the end Agent Brand informs Kitty that Lockheed is working for S.W.O.R.D. as their undercover agent. 
+
+===In "Secret Invasion"===
+During the 2008 "[[Secret Invasion]]" storyline, S.W.O.R.D.'s headquarters called the Peak is destroyed by a [[Skrull]] infiltrator posing as [[S.H.I.E.L.D.]]'s [[Dum Dum Dugan]]. Many agents die in the initial explosion, though others survive due to hostile-environment suits. Brand, encased in one of the suits, manages to make her way into one of the Skrull ships.{{issue|date=September 2017}}
+
+===In "Dark Reign"===
+During the 2008 - 2009 "[[Dark Reign (comics)|Dark Reign]]" storyline, S.H.I.E.L.D. is reformed as [[H.A.M.M.E.R.]] under [[Norman Osborn]]. S.W.O.R.D.'s position under H.A.M.M.E.R. has not yet been revealed. In the ''[[Beta Ray Bill]]: Godhunter'' mini-series, Beta Ray Bill visits Agent Brand aboard the rebuilt Peak in order to obtain information about the whereabouts of [[Galactus]].
+
+==''S.W.O.R.D.'' volume 1==
+During the 2009 Chicago Comic Con, it was announced that [[Kieron Gillen]] will collaborate with Steven Sanders on a ''S.W.O.R.D.'' [[ongoing series]] that began in November 2009.<ref>{{Cite web | last1=George | first1=Richard |first2=Jesse  |last2=Schedeen  | url=http://comics.ign.com/articles/101/1012437p1.html | title=Taking Control of S.W.O.R.D. | work=[[IGN]] | date=August 10, 2009 | access-date=August 16, 2009}}</ref><ref>{{Cite web | first=Marc | last=Strom | url=http://marvel.com/news/comicstories.9122.Chicago_Con_~apos~09~colon~_S~dot~W~dot~O~dot~R~dot~D~dot~_Ongoing | title=Chicago Con '09: S.W.O.R.D. Ongoing | work=Marvel.com | date=August 10, 2009 | access-date=August 16, 2009}}</ref> The new series starts with [[Henry Peter Gyrich]] being assigned as S.W.O.R.D. co-commander alongside [[Abigail Brand]].
+
+In the first arc, Gyrich is able to persuade the heads of S.W.O.R.D. to pass legislation to have all aliens currently living on Earth deported from the planet while Brand was distracted with another mission. He manages to take several notable aliens into custody including [[Noh-Varr]], [[Adam X the X-Treme|Adam X]], [[Beta Ray Bill]], [[Jazinda]], [[Karolina Dean]], and [[Hepzibah (comics)|Hepzibah]].<ref>''S.W.O.R.D.'' #2 (February 2010)</ref>
+
+The series was cancelled with issue #5. The first issue started with estimated direct sales of 21,988,<ref>{{Cite web | url=http://www.icv2.com/articles/news/16433.html | title=Top 300 Comics Actual–November 2009 | work=ICv2 | date=December 7, 2009 | access-date=January 16, 2010}}</ref> but that had dropped to 15,113 by the second issue.<ref>{{Cite web | url=http://www.icv2.com/articles/news/16618.html | title=Top 300 Comics Actual–December 2009 | work=ICv2 | date=January 12, 2010 | access-date=January 16, 2010}}</ref>
+
+The Peak is later evacuated after it is damaged by the [[Apocalypse Twins]].<ref>''Uncanny Avengers'' #7</ref> The debris from the station nearly destroys [[Rio de Janeiro]], but is safely vaporized by [[Sunfire (comics)|Sunfire]].<ref>''Uncanny Avengers'' #8</ref>
+
+The organization is shown as working smoothly and functioning when it sends a capture team to take custody of alien refugees and a paramedic assistance team to the Jean Grey School. Unfortunately, both teams are murdered by the same Brood-based threat.<ref>''Wolverine and the X-Men'' #6 (April 2012)</ref>
+
+The rebuilt station is overtaken by alien [[Symbiote (comics)|symbiotes]] and [[Brood (comics)|Brood]] warriors. The station's personnel are taken for hosts.<ref>''Spider-Man and the X-Men'' #5 (2015)</ref>
+
+==''S.W.O.R.D.'' volume 2==
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics-->
+| 2ndary_box = y
+| title               = S.W.O.R.D.
+| image               = S.W.O.R.D. (vol 2) 1 cover.jpg
+| imagesize           = 250
+| caption             = Cover to ''S.W.O.R.D.'' (vol. 2) #1, by Valerio Schiti.
+| schedule            = Monthly
+| publisher           = [[Marvel Comics]]
+| issues              =
+| writers             = [[Al Ewing]]
+| artists             = Valerio Schiti<!--'''Main covers'''-->
+| colorists           = 
+| letterers           = 
+| editors             = '''Editor''' <br> Jordan D. White <br> '''Assistant Editor''' <br> Annalise Bissa <br> '''Head of X''' <br> [[Jonathan Hickman]]
+|main_char_team=Abigail Brand<br>[[Cable (character)|Cable]]<br>[[Joanna Cargill|Frenzy]]<br>[[Fabian Cortez]]<br>[[Magneto (Marvel Comics)|Magneto]]<br>[[Eden Fesi|Manifold]]<br>[[Wiz Kid]]
+}}
+
+''S.W.O.R.D.'' was relaunched in December 2020 as part of "[[Reign of X]]". Written by [[Al Ewing]] and drawn by Valerio Schiti, the initial team consisted of Abigail Brand, [[Cable (character)|Cable]], [[Joanna Cargill|Frenzy]], [[Fabian Cortez]], [[Magneto (Marvel Comics)|Magneto]], [[Eden Fesi|Manifold]] and [[Wiz Kid]].<ref>{{cite web|url=https://www.marvel.com/articles/comics/al-ewing-takes-mutantkind-beyond-the-stars-in-s-w-o-r-d|title=Al Ewing Takes Mutantkind Beyond the Stars in 'S.W.O.R.D.'|publisher=[[Marvel Comics]]|date=September 23, 2020|access-date=September 24, 2020}}</ref>
+
+S.W.O.R.D. (Sentient World Observation and Response Directorate) was restored when Abigail Brand resigned from Alpha Flight after the Alliance-Cotati conflict feeling that the space program wasn't properly utilized and when the mutant nation repowered the abandoned Peak space station. In cooperation with the [[Quiet Council of Krakoa]], it became the mutant nation's representative to the outer universe.
+
+With '''[[Abigail Brand]]''' as the Station Commander, S.W.O.R.D functions with a six-tier organizational structure:
+
+* Technology/Engineering
+** Station Technologist – '''Wiz Kid''' (Takeshi Matsuya)
+* Logistics
+** Quintician – '''[[Eden Fesi|Manifold]]''' (Eden Fesi)
+** Teleport Team
+*** '''[[Blink (comics)|Blink]]''' (Clarice Ferguson)
+*** '''Lila Cheney'''
+*** [[Gateway (comics)|Gateway]]
+*** '''[[Vanisher (comics)|Vanisher]]''' (Telford Porter)
+*** '''[[Amelia Voght|Voght]]''' (Amelia Voght)
+* Medical/Energy Resources
+** Executive Producer – '''Khora of the Burning Heart'''; '''[[Fabian Cortez]]''' (''formerly'')
+* Diplomacy/Negotiation
+** Amabassador Extraordinary – '''[[Joanna Cargill|Frenzy]]''' (Joanna Cargill)
+** Ambassador In Training – '''[[Armor (Marvel Comics character)|Armor]]''' (Hisako Ikichi)
+** Galactic Ambassador – '''Paibok''' (from the Kree/Skrull Alliance)
+* Security
+** Security Director – '''[[Cable (character)#Nathan Summers (time-displaced version)|Cable]]''' (Nathan Summers)
+** Security Team
+*** '''[[Random (comics)|Random]]''' (Marshall Stone III)
+*** '''[[Risque (comics)|Risque]]''' (Gloria Muñoz)
+*** '''[[Forearm (comics)|Forearm]]''' (Michael McCain)
+*** '''[[Slab (comics)|Slab]]''' (Christopher Anderson)
+***'''[[Ruckus (comics)|Ruckus]]''' (Clement Wilson)
+***'''[[Thumbelina (comics)|Thumbelina]]''' (Kristina Anderson)
+* Observation/Analysis
+** Psionic Analyst – '''[[Mentallo]]''' (Marvin Flumm)
+** Analysis Team
+*** '''[[Peepers (Marvel Comics)|Peeper]]''' (Peter Quinn)
+
+
+S.W.O.R.D. also formed '''The Six,''' a mutliversal far-retrieval circuit, utilizing mutant technology. There are two stages require for a full retrieval:
+
+# First Stage – Translocation: a circuit of five mid-to-long range teleporters which acts as the anchor for translocation. [''Back-up: Nightcrawler and Magik'']
+# Second Stage – Retrieval: a circuit of six mutants with combining their protection and augmentation powers to reach different points in space.
+#* '''The Control''' – Wiz Kid: unify the first stage circuit of teleporters and adjust the mutant circuits in operation. [''Back-up: Forge'']
+#* '''The Power''' – Khora the Burning Heart; Fabian Cortez (''formerly''): provide the boost required for the circuit operation.
+#* '''The Shield''' – Armor: generate a protective exoskeleton that extends to the entire circuit. [''Back-up: Skids'']
+#* '''The Guide''' – Manifold: trans-locate the entirety of the second stage circuit while saving his energies for the retrieval.
+#* '''The Eye''' – Peeper: spot specific particles of their target. [''Back-up: Doc'']
+#* '''The Foundry''' – Risque: create a small field around their target condensing and containing it to help bring it back to Earth. [''Back-up: Zorn'']
+
+==Roster==
+===Volume 1===
+{| class="wikitable" style="width:100%; text-align:left; margin:1em auto 1em auto;"
+|+Former members of S.W.O.R.D.
+! scope="col"| Character
+! scope="col"| Alias
+! scope="col"| Joined in
+! scope="col"| Notes
+|-
+| colspan="2"| [[Abigail Brand]]
+| rowspan="2"| ''Astonishing X-Men'' (vol. 3) #10
+| Leader
+|-
+| colspan="2"| Sydren
+| A Drenx who is skilled in hacking and working on alien technology.
+|-
+| Agent Paulletz
+| {{n/a|Not known}}
+| ''Astonishing X-Men'' (vol. 3) #20
+|
+|-
+| colspan="2"| Cecilia
+| ''S.W.O.R.D.'' #2
+|
+|-
+| colspan="2"| K'eel R'kt
+| ''Infinity: Against the Tide: Infinite Comic'' #1
+| A [[Skrull]] science officer that was rescued from the Builders by Silver Surfer.
+|-
+|}
+
+''Former Members:''
+*Agent Deems – An autistic S.W.O.R.D. agent.
+*[[Beast (comics)|Beast]]
+*Benjamin Deeds – A mutant with transmorphing abilities.
+*[[Death's Head]]
+*[[Henry Peter Gyrich]]
+*[[Lockheed (comics)|Lockheed]]
+*Manifold Tyger – A tiger-like technician who secretly worked for the Providian Order.
+*Mindee – An alias of Irma Cuckoo of the [[Stepford Cuckoos]].
+*Reilly Marshall – An ex-S.H.I.E.L.D. and S.W.O.R.D. agent who currently works for the U.N. Security Council.
+*[[Jessica Drew|Spider-Woman]]
+
+===Volume 2===
+{| class="wikitable plainrowheaders" border="1"
+|-
+! scope="col" | Issues
+! scope="col" | Characters
+|-
+| align="center"| #1
+| {{hlist|[[Amelia Voght]]|[[Armor (Marvel Comics character)|Armor]]|[[Abigail Brand|Brand]]|[[Blink (comics)|Blink]]|[[Cable (character)#Nathan Summers (time-displaced version)|Cable]]|[[Joanna Cargill|Frenzy]]|[[Fabian Cortez|Cortez]]{{efn|name=Cortez|Credited as Fabian Cortez}}|[[Gateway (comics)|Gateway]]|[[Lila Cheney]]|[[Magneto (Marvel Comics)|Magneto]]|[[Eden Fesi|Manifold]]|[[Paibok]]|[[Peepers (Marvel Comics)|Peepers]]|[[Random (comics)|Random]]|[[Risque (comics)|Risque]]|[[Vanisher]]|[[Wiz Kid|Wiz-Kid]]}}
+|-
+| align="center"| #2
+| {{hlist|Brand|Cortez|Frenzy|Magneto|Manifold|[[Mentallo]]|Paibok|Random|[[Sunfire (comics)|Sunfire]]|Wiz-Kid}}
+|-
+| align="center"| #3
+| {{hlist|Brand|Manifold}}
+|-
+| align="center"| #4
+| {{hlist|Brand|Cable|Cortez|[[Fabio Medina|Egg]]|[[Elixir (comics)|Elixir]]|Frenzy|[[Hope Summers (comics)|Hope]]|Magneto|Manifold|Mentallo|[[Proteus (Marvel Comics)|Proteus]]|[[Tempus (comics)|Tempus]]|Wiz-Kid}}
+|-
+| align="center"| #5
+| {{hlist|Amelia Voght|Brand|Cortez{{efn|name=Cortez|Credited as Fabian Cortez}}|[[Emma Frost]]|[[Jean Grey]]|Magneto|[[Professor X]]|[[Storm (Marvel Comics)|Storm]]}}
+|-
+| align="center"| #6
+| {{hlist|Brand|Frenzy|Magneto|Manifold|Paibok|Storm|Wiz-Kid}}
+|-
+| align="center"| #7
+| {{hlist|Brand|[[Doctor Doom]]|Frenzy|[[Hulkling]]|Khora the Burning Heart|Manifold|Paibok|Storm}}
+|-
+| align="center"| #8
+| {{hlist|Storm}}
+|-
+| align="center"| #9
+| {{hlist|Brand|Cable|Forearm|Frenzy|Manifold|Random|Storm|Wiz-Kid}}
+|-
+| align="center"| #10
+| {{hlist|Brand|Cable|Frenzy|Storm|Wiz-Kid}}
+|}
+
+{{Notelist}}
+
+==Collected editions==
+The related ''Beta Ray Bill'' series has been collected into ''Beta Ray Bill: Godhunter'' (104 pages, October 2009, {{ISBN|0-7851-4232-0}}).
+
+===Volume 1===
+{| class="wikitable"
+!Title
+!Material collected
+!Pages
+!Publication date
+!ISBN
+|-
+|''X-Men: S.W.O.R.D. - No Time to Breathe''
+|''S.W.O.R.D.'' #1–5
+|128
+|July 7, 2010
+|{{ISBN|0-7851-4076-X}}
+|}
+===Volume 2===
+{| class="wikitable"
+!#
+!Title
+!Material collected
+!Pages
+!Publication date
+!ISBN
+|-
+|1
+|''S.W.O.R.D. By Al Ewing – Volume 1''
+|''S.W.O.R.D.'' #1–6
+|152
+|September 7, 2021
+|{{ISBN|978-1302927516}}
+|-
+|2
+|''S.W.O.R.D. By Al Ewing – Volume 2''
+|''S.W.O.R.D.'' #7–11
+|176
+|February 15, 2022
+|{{ISBN|978-1302931469}}
+|}
+
+==In other media==
+===Television===
+* S.W.O.R.D. appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' animated series.<ref>{{cite web|url=https://sciencefiction.com/2012/04/23/avengers-earths-mightiest-heroes-welcome-to-the-kree-empire-recap/|title='Avengers: Earth's Mightiest Heroes: Welcome To The Kree Empire' – Recap|last=Flynn|first=Caleigh|website=Science Fiction|date=April 23, 2012|access-date=July 31, 2019|archive-url=https://web.archive.org/web/20181019135556/http://sciencefiction.com/2012/04/23/avengers-earths-mightiest-heroes-welcome-to-the-kree-empire-recap/|archive-date=October 19, 2018|url-status=live}}</ref> Introduced in the episode "Welcome to the Kree Empire", this version of the organization operates out of [[Kang the Conqueror]]'s captured spaceship, the ''Damocles''. When [[Kree]] soldiers attack, Agents [[Carol Danvers]] and [[Abigail Brand]] mobilize to fend them off, with assistance from government agent [[Henry Peter Gyrich]] and the Kree's slave Sydren. Once S.W.O.R.D. retakes the ''Damocles'', Sydren joins the organization. In the episode "Secret Invasion", a [[Skrull]] posing as Gyrich attempts to place a bomb on the ''Damocles'', but Sydren detects it and evacuates the ship in time before it explodes.
+* The creative team behind the live-action [[Marvel Cinematic Universe]] (MCU) TV series ''[[Agents of S.H.I.E.L.D.]]'' intended to incorporate S.W.O.R.D., but were refused permission by [[Marvel Studios]].<ref>{{cite web|url=https://tvline.com/2020/08/12/agents-of-shield-series-finale-daisy-outer-space-sword/|title=S.H.I.E.L.D. Series Finale Mystery: Is [Spoiler] Now an Agent of S.W.O.R.D.?|last=Webb Mitovich|first=Matt Webb|website=TV Line|date=August 12, 2020|access-date=August 14, 2020}}</ref> 
+* S.W.O.R.D. appears in the live-action MCU miniseries ''[[WandaVision]]''. This version of the organization's full name is the '''Sentient Weapon Observation Response Division'''<ref name="S.W.O.R.D.">{{Cite web |last=Barnhardt |first=Adam |date=January 12, 2021 |title=WandaVision: SWORD Has New Name in the MCU  |url=https://comicbook.com/tv-shows/news/wandavision-new-sword-name-revealed-marvel-comics/ |url-status=live |archiveurl=https://web.archive.org/web/20210113142300/https://comicbook.com/tv-shows/news/wandavision-new-sword-name-revealed-marvel-comics/|archivedate=January 13, 2021|access-date=January 13, 2021|website=Comicbook.com}}</ref> and was founded by [[Maria Rambeau]]. Following the events of the film ''[[Avengers: Infinity War]]'', S.W.O.R.D. recovered [[Vision (Marvel Cinematic Universe)|Vision]]'s body from [[Wakanda]] and under acting director [[Tyler Hayward]], investigate Westview, New Jersey after [[Wanda Maximoff (Marvel Cinematic Universe)|Wanda Maximoff]] places it under a hex. Under Hayward's orders, they use a drone empowered by Maximoff to reactivate Vision. When she opens the hex to allow Westview's residents to escape, she inadvertently allows Hayward, the original Vision, and several S.W.O.R.D. agents in. However, Wanda's sons [[Wiccan (character)|Billy]] and [[Speed (Marvel Comics)|Tommy]] disarm them while a fictional Vision that Wanda created causes the original Vision to flee. Additionally, former S.W.O.R.D. agent and Maria's daughter, [[Monica Rambeau (Marvel Cinematic Universe)|Monica Rambeau]], and astrophysicist Dr. [[Darcy Lewis]] confront Hayward, who is later arrested by the FBI.
+
+===Film===
+S.W.O.R.D. was originally intended to appear in the live-action MCU film ''[[Thor (film)|Thor]]'' (2011), in a deleted post-credits scene wherein [[Erik Selvig]] tells [[Jane Foster (Marvel Cinematic Universe)|Jane Foster]] and Darcy Lewis to "cross reference... with the S.W.O.R.D. database". Due to complications with [[20th Century Fox]], which owned the film rights to S.W.O.R.D. members [[Lockheed (comics)|Lockheed]] and Abigail Brand at the time however, the scene was cut.<ref>{{Cite news|url=https://screenrant.com/thor-sword-mcu-deleted-scene/|title=Thor Almost Introduced S.W.O.R.D. To The MCU|last=Bacon|first=Thomas|website=[[Screen Rant]]|date=March 9, 2019|access-date=July 3, 2019|archive-url=https://web.archive.org/web/20190731005221/https://screenrant.com/thor-sword-mcu-deleted-scene/|archive-date=July 31, 2019|url-status=live}}</ref>
+
+===Video games===
+* A variation of S.W.O.R.D. appears in ''[[Marvel Super Hero Squad (video game)|Marvel Super Hero Squad]]''. This version is depicted as an evil version of [[S.H.I.E.L.D.]] that the [[Silver Surfer]] encounters while in an alternate dimension.
+* S.W.O.R.D. appears in ''[[Marvel Avengers Alliance#Marvel: Avengers Alliance Tactics|Marvel Avengers Alliance Tactics]]''.
+
+==See also==
+*[[S.W.O.R.D. (Marvel Cinematic Universe)]]
+*[[List of government agencies in Marvel Comics]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://marvel.wikia.com/wiki/Sentient_World_Observation_and_Response_Department_%28Earth-616%29 S.W.O.R.D.] at Marvel Database Project
+*[http://www.comicvine.com/sword/4060-41666/ S.W.O.R.D.] at Comic Vine
+*{{Comicbookdb|type=team|id=626|title=S.W.O.R.D.}}
+*[https://web.archive.org/web/20110521070426/http://runaways.mergingminds.org/ S.W.O.R.D.] at Runaways.mergingminds
+
+{{S.H.I.E.L.D.}}
+{{X-Men characters}}
+{{X-Comics}}
+
+[[Category:X-Men supporting characters]]
+[[Category:S.H.I.E.L.D. agents| ]]

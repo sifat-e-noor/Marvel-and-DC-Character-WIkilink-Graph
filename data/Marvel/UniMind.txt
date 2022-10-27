@@ -1,0 +1,321 @@
+{{short description|Group of comic book characters}}
+{{Redirect|The Eternals|the film based on the characters|Eternals (film)|other uses|Eternal (disambiguation)}}
+{{Distinguish|Externals}}<!-- Another Marvel Comics team -->
+{{More citations needed|date=November 2021}}
+{{Use American English|date=December 2021}}
+{{Use mdy dates|date=May 2018}}
+{{Infobox comics species and title
+|group = y
+<!-- Species section -->
+|species             = Eternals
+|image               = Eternals v4.jpg
+|imagesize           = 
+|caption             = Cover of ''Eternals'' (vol. 4) #1 (August 2008)<br>by [[Daniel Acuña]]
+|publisher           = [[Marvel Comics]]
+|debut               = ''The Eternals'' #1
+|debutmo             = July
+|debutyr             = 1976
+|creators            = [[Jack Kirby]]
+|deities             = 
+|homeworld           = 
+|members             = [[List of Eternals]]
+|powers              = 
+<!-- Series section -->
+|title               = The Eternals'' or ''Eternals
+|cvr_image           = Eternals 1.png
+|cvr_caption         = {{Descript-cvr|The Eternals|1|1|Jul 1976|art=[[Jack Kirby]]}}
+|schedule            = Monthly
+|format              = '''(vol. 1, 4 & 5)'''<br /> [[Ongoing series]]<br />'''(vol. 2 & 3)'''<br />[[Limited series (comics)|Limited series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = Y
+|pub_series          = Marvel Comics
+|date                = 
+|1stishhead          = vol. 1
+|1stishyr            = 1976
+|1stishmo            = July
+|endishyr            = 1978
+|endishmo            = January
+|1stishhead1         = vol. 2
+|1stishyr1           = 1985
+|1stishmo1           = October
+|endishyr1           = 1986
+|endishmo1           = September
+|1stishhead2         = vol. 3
+|1stishyr2           = 2006
+|1stishmo2           = August
+|endishyr2           = 2007
+|endishmo2           = March
+|1stishhead3         = vol. 4
+|1stishyr3           = 2008
+|1stishmo3           = August
+|endishyr3           = 2009
+|endishmo3           = March
+|1stishhead4         = vol. 5
+|1stishyr4           = 2021
+|1stishmo4           = January
+|endishyr4           = present 
+|endishmo4           = 
+|issues              = '''(vol. 1)'''<br /> 19, 1 Annual<br />'''(vol. 2)'''<br />12<br />'''(vol. 3)'''<br />7<br/>'''(vol. 4)'''<br/>9, 1 Annual<br />'''(vol. 5)'''<br />4 (as of April 21, 2021)
+|main_char_team      = 
+|writers             = [[Jack Kirby]] (vol. 1)<br />
+[[Kieron Gillen]] (vol. 5)
+|artists             = Esad Ribíc (vol. 5)
+|pencillers          = Jack Kirby (vol. 1)
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = Jack Kirby's Eternals Omnibus
+|ISBN                = 0-7851-2205-2
+|TPB1                = Neil Gaiman's Eternals (hardcover)
+|ISBN1               = 0-7851-2541-8
+|TPB2                = To Slay a God
+|ISBN2               = 0-7851-2978-2
+<!-- Category section -->
+|subcat              = Marvel Comics
+|alttop              = y
+|sortkey             = Eternals
+|addpubcat1          = 
+}}
+The '''Eternals''' are a fictional [[Extraterrestrial life|extraterrestrial]] race of [[humanoid]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. They were created by [[Jack Kirby]], making their first appearance in ''The Eternals'' #1 (July 1976).<ref>{{cite book|last1=DeFalco|first1=Tom|title=The Marvel Encyclopedia|last2=Sanderson|first2=Peter|last3=Brevoort|first3=Tom|last4=Teitelbaum|first4=Michael|last5=Wallace|first5=Daniel|last6=Darling|first6=Andrew|last7=Forbeck|first7=Matt|last8=Cowsill|first8=Alan|last9=Bray|first9=Adam|date=2019|publisher=DK Publishing|isbn=978-1-4654-7890-0|page=125}}</ref>
+
+In the [[Marvel Universe]], the Eternals are an offshoot of humanity known as '''''Homo immortalis''''' which were created one million years ago by the enigmatic [[Extraterrestrial life|alien]] [[Celestial (comics)|Celestials]] to defend Earth with their superhuman powers and abilities. Their primary adversaries are the [[Deviant (comics)|Deviants]], who share a similar origin and pose a regular threat to humanity. Due to their virtual immortality, Eternals have largely secluded themselves from humans, with their god-like status forming the basis of various mythological figures around the world.
+
+Since their appearance, the Eternals have had several of their own series, in addition to crossing into other titles, such as ''Thor'' and ''X-Men''.<ref>{{Cite web|date=2019-07-14|title=The Eternals: Where to Start Reading about the MCU's Next Movie Franchise|url=https://www.cbr.com/eternals-where-to-start-reading/|access-date=2021-11-14|website=CBR|language=en-US}}</ref><ref>{{Cite magazine|title=How the Eternals Fit Into the Marvel Cinematic Universe|url=https://time.com/6112800/the-eternals-marvel-explained/|access-date=2021-11-14|magazine=Time|language=en}}</ref> They made their debut in the [[Marvel Cinematic Universe]] with their own feature film ''[[Eternals (film)|Eternals]]'', directed by [[Chloé Zhao]], which was released November 5, 2021.<ref name="Phase4DelayAgain">{{Cite web |url=https://www.thewrap.com/disney-pushes-black-widow-back-to-2021/ |title=Disney Pushes 'Black Widow' Back to 2021 |last1=Gonzalez |first1=Umberto |last2=Welk |first2=Brian |date=September 23, 2020 |website=[[TheWrap]] |url-status=live |archive-url=https://web.archive.org/web/20200923173000/https://www.thewrap.com/disney-pushes-black-widow-back-to-2021/ |archive-date=September 23, 2020 |access-date=September 23, 2020}}</ref>
+
+==Publication history==
+In 1970, Jack Kirby left Marvel Comics to work at [[DC Comics]], where he began the saga of the [[New Gods]], an epic story involving mythological and science fiction concepts. Though he had planned for a definitive ending, the series was abruptly cancelled. Upon his return to Marvel, Kirby continued exploring his interest in high-concept science fiction through ''The Eternals''.<ref>{{Cite web|last1=August 18|first1=Devan Coggan|last2=EDT|first2=2021 at 09:00 AM|title=Meet the 'Eternals': A guide to Marvel's 10 newest heroes|url=https://ew.com/movies/eternals-character-guide/|access-date=2021-11-14|website=EW.com|language=en}}</ref>
+
+Originally titled "The Celestials", Marvel changed the title to "Return of the Gods", whose comic book cover bore stylistics similarities to [[Erich von Daniken]]'s book ''[[Chariots of the Gods?]]''. To avoid potential legal issues, the name was again changed to “Eternals".<ref>{{Cite book|last=Ro|first=Ronin|title="Tales To Astonish"|publisher=Bloomsbury Publishing|year=2004|isbn=1-58234-566-X|location=New York, NY|page=188}}</ref> The Eternals' saga was thematically similar to the New Gods', and the series was also eventually canceled without resolving many of its plots.<ref name="IGNEternals">{{cite web|url=https://www.ign.com/articles/2019/07/21/marvels-the-eternals-movie-explained-is-the-next-big-mcu-franchise-about-thanos-race|title=Marvel's Eternals Explained|last=Schedeen|first=Jesse|website=[[IGN]]|date=July 21, 2019|access-date=July 22, 2019|archive-url=https://web.archive.org/web/20190721181616/https://www.ign.com/articles/2019/07/21/marvels-the-eternals-movie-explained-is-the-next-big-mcu-franchise-about-thanos-race|archive-date=July 21, 2019|url-status=live}}</ref><ref name="denofgeek">{{cite web|url=https://www.denofgeek.com/us/books/marvel/282226/who-are-eternals-explained-comics-history|title=Who Are Marvel's Eternals: Comic History Explained|last=Buxton|first=Marc|website=[[Den of Geek]]|date=July 18, 2019|access-date=July 22, 2019|archive-url=https://web.archive.org/web/20190719164703/https://www.denofgeek.com/us/books/marvel/282226/who-are-eternals-explained-comics-history|archive-date=July 19, 2019|url-status=live}}</ref><ref name="io9">{{cite web|url=https://io9.gizmodo.com/who-are-the-eternals-the-cosmic-superheroes-who-could-1825503953|title=Who Are the Eternals, the Cosmic Superheroes Who Could Be the Future of the MCU?|last=Whitbrook|first=James|website=[[io9]]|date=September 26, 2018|access-date=July 22, 2019|archive-url=https://web.archive.org/web/20181127114634/https://www.cbr.com/eternals-movie-secrets-revealed-marvel/|archive-date=November 27, 2018|url-status=live}}</ref> Writers [[Roy Thomas]] and [[Mark Gruenwald]] used the Eternals in a ''[[Thor (Marvel Comics)|Thor]]'' storyline that concluded in ''Thor'' #301,<ref>''Thor'' Annual #7 (1978) and ''Thor'' #291-301 (May 1979 - November 1980)</ref> resolving those lingering plotlines. Subsequent to the ''Thor'' storyline, the Eternals (and the mythology connected to them) have appeared or been mentioned in numerous Marvel comics.<ref name="io9" /><ref name="IGNEternals" /> In particular, the Celestials' experiment on humanity has been used to explain how certain humans can develop super-powers. The [[Titan (Marvel Comics location)|Titanians]] (created by [[Jim Starlin]]) and [[Uranian (comics)|Uranians]] (created by [[Stan Lee]])<ref>''Marvel Boy'' #1 (December 1950)</ref> were later [[retroactive continuity|retconned]] as being Eternals as well.<ref>{{cite web|url=https://www.cbr.com/eternals-movie-secrets-revealed-marvel/|title=Eternals: 25 Things Marvel Fans Don't Know About The Next Big Movie Property|last=Krinsky|first=Randy|website=[[Comic Book Resources]]|date=November 26, 2018|access-date=July 22, 2019|archive-url=https://web.archive.org/web/20181127114634/https://www.cbr.com/eternals-movie-secrets-revealed-marvel/|archive-date=November 27, 2018|url-status=live}}</ref><ref name="io9" />
+
+''The Eternals'' returned for a 12-issue [[miniseries]] in 1985 under writer [[Peter B. Gillis]] and penciler [[Sal Buscema]].<ref name="IGNEternals" /><ref name=gcd-vol2>[http://www.comics.org/series/3016/ ''Eternals'' (Marvel, 1985 series)] at the [[Grand Comics Database]]. Note: Copyrighted title per its published postal indicia is '"Eternals''. Trademarked cover logo is ''The Eternals''.</ref><ref name=toonopedia>[http://toonopedia.com/eternals.htm ''The Eternals''] at [[Don Markstein's Toonopedia]].  {{webarchive|url=https://www.webcitation.org/6iLRhnN5q?url=http://toonopedia.com/eternals.htm |date=June 18, 2016 }} from the original on June 17, 2016.</ref> According to comic-book historian [[Peter Sanderson]], "editor in chief [[Jim Shooter]] disliked Gillis’s scripts, so [[Walter Simonson]] wrote the final four issues."<ref name=cic194>{{cite web |first=Peter |last=Sanderson |author-link=Peter Sanderson |date=September 17, 2007 |url=http://www.quickstopentertainment.com/2007/09/17/comics-in-context-194-eternal-verities/ |title=Comics in Context #194: Eternal Verities |publisher=[[Quick Stop Entertainment]] |access-date=February 20, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20081030064617/http://www.quickstopentertainment.com/2007/09/17/comics-in-context-194-eternal-verities/ |archive-date=October 30, 2008 }}</ref>
+
+In 2000, a one-shot comic called ''New Eternals: Apocalypse Now'' #1 featured an older conflict between the Eternals and X-Men villain Apocalypse. In 2003, writer [[Chuck Austen]] and artist [[Kev Walker]] rebooted the franchise for Marvel's mature readers-focused MAX imprint, resulting in ''The Eternal''.<ref name="IGNEternals" /><ref>{{cite web|url=https://www.cbr.com/max-muscle-austen-talks-war-machine-2-0-the-eternal-world-watch/|title=MAX Muscle: Austen talks 'War Machine 2.0' & 'The Eternal' & 'World Watch'|last=Singh|first=Arune|website=[[Comic Book Resources]]|date=March 21, 2003|access-date=July 22, 2019|archive-url=https://web.archive.org/web/20190722232249/https://www.cbr.com/max-muscle-austen-talks-war-machine-2-0-the-eternal-world-watch/|archive-date=July 22, 2019|url-status=}}</ref>
+
+[[Neil Gaiman]],<ref>{{cite web |url=http://classic.newsarama.com/marvelnew/Eternals/GaimanEternals.html |title=Know Your Eternals: Neil Gaiman |archive-url=https://web.archive.org/web/20090215040228/http://classic.newsarama.com/marvelnew/Eternals/GaimanEternals.html |archive-date=February 15, 2009 |work=[[Newsarama]] |date=May 31, 2006 |via=[[Marvel Knights]] imprint}}</ref><ref>{{cite web |url=http://www.comicbookresources.com/?page=article&id=11093 |title=CCI XTRA: Spotlight on Neil Gaiman |archive-url=https://web.archive.org/web/20121007033014/http://www.comicbookresources.com/?page=article&id=11093 |archive-date=October 7, 2012 |work=[[Comic Book Resources]] |date=August 3, 2007}}</ref> with artist [[John Romita, Jr.]],<ref>{{cite web |url=http://www.comicbookresources.com/?id=7266&page=article |title=Following in the Footsteps: Romita Talks "Eternals" |archive-url=https://web.archive.org/web/20131015104751/http://www.comicbookresources.com/?id=7266&page=article |archive-date=October 15, 2013 |work=[[Comic Book Resources]] |date=June 9, 2006}}</ref> created a 2006 miniseries, which helped bring the Eternals' role in the modern Marvel Universe up-to-date.<ref>{{cite web |url=http://www.comicbookresources.com/?page=article&id=7260 |title=From Here to Eternalty: Lowe Talks "Eternals" |archive-url=https://web.archive.org/web/20090215003427/http://www.comicbookresources.com/?page=article&id=7260 |archive-date=February 15, 2009 |work=[[Comic Book Resources]] |date=June 8, 2006}}</ref> Originally solicited as a six-issue series, an extra issue was added to the run, because, according to editor [[Nick Lowe (comics)|Nick Lowe]], "There was too much story to fit into the structure we set for ourselves. Neil was starting issue five and told me that he might need a seventh issue. He just had too much story to fit in six issues (even with the first and sixth double-sized)."<ref>{{cite web |url=http://www.comicbookresources.com/?page=article&id=8687 |title="Eternals" Expands To Seven & Nick Lowe Explains |archive-url=https://web.archive.org/web/20090215003432/http://www.comicbookresources.com/?page=article&id=8687 |archive-date=February 15, 2009  |work=[[Comic Book Resources]] |date=November 24, 2006}}</ref>
+
+A fourth ''Eternals'' series ran as an [[ongoing series]] for nine issues and one annual from August 2008 – March 2009.
+
+The Eternals returned in [[Jason Aaron]]'s ''[[Avengers (comics)|Avengers]]'', a story arc involving the Dark [[Celestial (comics)|Celestials]], which saw the Eternals all killed in the fourth issue. However, the characters were resurrected in their new ongoing series launched in January 2021 by writer [[Kieron Gillen]] and artist [[Esad Ribić]]. <ref name="io9"/><ref>{{cite web |url=https://www.marvel.com/comics/issue/85560/eternals_2021_1 |title=''Eternals'' (vol. 5) #1 |website=marvel.com |access-date=August 30, 2021 }}</ref>
+
+==Fictional history==
+When the [[Celestial (comics)|Celestials]] visited Earth one million years ago and performed genetic experiments on early [[Archaic humans|proto-humans]], they created two divergent races: the long-lived Eternals, and the genetically unstable and monstrously grotesque [[Deviant (comics)|Deviants]]. These experiments also led to the capacity for super-powered [[Mutant (Marvel Comics)|mutations]] in humans. They also performed this experiment on other planets (such as the [[Kree]] and [[Skrull]] homeworlds) with similar results.
+
+Despite looking human, Eternals are [[Longevity|much longer-lived]] (but were not originally fully [[Immortality|immortal]]) and that kept them from having much contact with their human cousins. Eternals have a low birth rate; they can interbreed with humans but the result is always a normal human (although Joey Athena, son of [[Thena]] and a normal human seems to have become an Eternal with long lived properties and powers).<ref>''Eternals'' (vol. 4) #9. Marvel Comics.</ref> Despite this, the Eternals have in general protected the human race, especially from the Deviants, with whom they have always had an enmity. The Eternals also developed advanced technology.{{citation needed|date=November 2021}}
+
+Long ago, a civil war broke out amongst the Eternals over whether to conquer the other races, with one faction led by Kronos and the other by his warlike brother, Uranos. Kronos's side prevailed, and Uranos and his defeated faction left Earth and journeyed to Uranus where they built a colony. Some of Uranos's group soon tried to return to Earth to re-kindle the war, but they were attacked by a passing Kree ship and forced to land on Saturn's moon [[Titan (Marvel Comics location)|Titan]]. There they built another colony (experiments performed by Kree scientists on a captured Eternal led them to go to [[Earth]] and perform their own genetic experiments on a group of humans, thus creating the [[Inhumans]].){{citation needed|date=November 2021}}
+ 
+One day, Kronos's experiments in cosmic energy caused a catastrophic release of energy throughout the Eternals' city, Titanos, destroying it, activating latent genes in the Eternals, and disintegrating the scientist's body. The Eternals now found they could channel large quantities of cosmic energy themselves, granting them near-godlike power. The accident left Kronos in an [[immaterialism|immaterial]] state, so a new leader had to be chosen. For the first time, the Eternals merged into a single being, the Uni-Mind, to decide which of Kronos's sons, [[Zuras]] or [[A'lars]] should be the new leader. Zuras was chosen to be the Prime Eternal, and A'lars chose to leave Earth to avoid causing another civil war, and journeyed to Titan.{{citation needed|date=November 2021}}
+
+There he found that a war (allegedly caused by the [[Dragon of the Moon]]) had erupted on Titan and wiped out all but one member, a woman named [[Sui-San]]. A'lars fell in love with her, and in time they repopulated Titan. Due to the mix of activated genes from A'lars and unactivated ones from Sui-San, these new Titanian Eternals are not as powerful or immortal as Terran Eternals, but are more powerful and longer-lived than the earlier pre-civil war Titanian Eternals.{{citation needed|date=November 2021}}
+
+While Zuras ruled, three new Eternal cities were built. The first was [[Olympia (comics)|Olympia]], located in the mountains of Greece, near the main portal between the Earth dimension and the [[Olympians (Marvel Comics)|Olympians']] home dimension, which led many ancient Greeks to confuse some of the godlike Eternals with members of the Olympian pantheon. Eventually, an agreement was reached with the gods where some Eternals, such as Thena, would impersonate the Olympians before their worshipers. The other two Eternal cities were Polaria (located in Siberia) and Oceana (in the Pacific).{{citation needed|date=November 2021}}
+
+Eighteen-thousand years ago, the Celestials returned to Earth. The Deviants attacked them, but the Celestials counterattacked, resulting in the sinking of [[Mu (lost continent)|Mu]] and [[Atlantis (Marvel Comics)|Atlantis]], and much worldwide havoc. The Eternals helped rescue many humans. An Eternal named [[Valkin]] was entrusted by the Celestials with an artifact of great power for safekeeping.{{citation needed|date=November 2021}}
+
+At some point during the early centuries, [[Ikaris]] and the Eternals came into conflict with the immortal mutant, [[Apocalypse (comics)|Apocalypse]]. This conflict ended when Ikaris and the Eternals defeated him. Ikaris believed Apocalypse was dead.{{citation needed|date=November 2021}}
+
+1,000 years ago, the [[Asgardians (Marvel Comics)|Asgardian]] god [[Thor (Marvel Comics)|Thor]] encountered some Eternals, but the encounter was erased from his mind, to prevent him from learning about the Celestials, who were about to return to Earth. An Eternal named [[Ajak]] became the Celestials' spokesperson, and put himself to sleep when the Celestials left, to wait for their return 1,000 years later to judge humanity.{{citation needed|date=November 2021}}
+
+During the early 20th century, a human scientist made contact with the Uranian Eternals and was taken to live with them along with his young son, who would later become [[Marvel Boy (Robert Grayson)|Marvel Boy]].<ref>''Marvel Boy'' #1 (December 1950). Marvel Comics.</ref> The Uranians were eventually killed by Deathurge.<ref>''[[Quasar (Wendell Vaughn)|Quasar]]'' #2 (November 1989). Marvel Comics.</ref> After World War II, some Eternals allied with humans and Deviants to form the Damocles Foundation, which tried to create a new breed of superhuman to rule Earth.<ref>''X-Force'' #79 (1998). Marvel Comics.</ref> Some Eternals, such as [[Makkari (comics)|Makkari]], were also active as [[superheroes]], or living amongst humans, keeping their true nature hidden. The Eternals also helped to move the Inhumans' city to the Himalayas to keep it hidden.{{citation needed|date=November 2021}}
+
+At some point, [[Thanos]] of the Eternals of Titan nearly destroyed their colony, but they rebuilt it, and would help Earth's heroes to oppose him on several occasions.{{citation needed|date=November 2021}}
+
+===Modern Age===
+In recent times, Ikaris met the archaeologist Daniel Damian and his daughter Margo, and accompanied them into an old Eternal city in the Andes, where he awakened Ajak. Ajak began the process to receive the Celestials. These movements alerted the Deviants, who decided to attack New York and to provoke fear in the humans against the coming celestials.<ref>''Eternals'' #1-4. Marvel Comics.</ref> When the Celestials returned to judge the worthiness of their creations a few years ago, the Eternals found themselves clashing with the Deviants again, and decided to publicly reveal their existence to humanity.<ref>''Eternals'' #5-10. Marvel Comics.</ref> Zuras feared what would happen if the Celestials judged unfavorably. They encountered Thor again, and were attacked by Thor's father [[Odin (Marvel Comics)|Odin]] and the Olympian gods, who tried to prevent their interfering with the gods' plans to attack the Celestials. Eventually, the Eternals decided to help the gods and formed a Uni-Mind to assist the [[Destroyer (Thor)|Destroyer's]] assault on the Celestials.<ref>''Thor'' #284-301. Marvel Comics.</ref>
+
+They were forced to dissolve back into Eternals by the Celestials, and the shock of the attack killed Zuras. Before his spirit fully left the material plane, he instructed his daughter Thena to take his people to explore space. Since then, the Eternals have helped Earth's heroes, particularly the [[Avengers (comics)|Avengers]], against several menaces. They also discovered the existence of the Titanian Eternals.<ref>''The Avengers'' #246-248. Marvel Comics.</ref>
+
+Some time later, the Deviant's aristocracy, led by Brother Tode, attacked Olympia, kidnapping the Eternals and intending to disintegrate them. The hero [[War Machine|Iron Man (James Rhodes)]]  rescued the Eternals and helped them defeat the deviants. Then the Eternals transformed the deviant's aristocracy into a synthetic cube, killing them.<ref>''Iron Man'' Annual #6. Marvel Comics.</ref> The Eternals formed a Uni-Mind to discuss their future on earth, after which most of the Eternals (led by Valkin), went to the stars. But a handful&nbsp;– those most heavily involved in Earthly affairs&nbsp;– remained behind on Earth.<ref>''The Avengers'' #248. Marvel Comics.</ref> Thena came to lead the remaining Eternals but she wasn't very respected by her subjects.<ref>''Eternals'' (vol. 2) #1. Marvel Comics.</ref>
+
+With the ascension of Priestlord Ghaur as leader of the Deviants, the Eternals joined the Avengers in defeating him after he absorbed the power of a Celestial and tried to gain godhood. Meanwhile, Ikaris questioned Thena for her poor choices as leader of the Eternals. She was subtly being controlled by a brain mine put in her by [[Kro (comics)|Kro]]. After a special ceremony, Ikaris succeeded her as leader of the Earth's Eternals. The lover of Ikaris, Margo Damian, was captured by Ghaur's minions and was killed as a result of a Deviant experiment on her.<ref>''Eternals'' (vol. 2) #1-12. Marvel Comics.</ref>
+
+After the death of his daughter, Daniel Damian decided to take revenge against the Deviants and the Eternals. With the help of ancient Eternal machines, he forged a prophecy to incite war between the two races and transformed Ajak in a murderous monster. When his plan was discovered by the Eternals, Ajak reverted to his original form and regretted the killings that he had committed, so he killed Damian and himself.<ref>''Eternals: Herod Factor'' #1 (1991). Marvel Comics.</ref>
+
+The Eternals Gilgamesh <ref>''The Avengers'' #299. Marvel Comics.</ref> and Sersi briefly became part of the Superhero team Avengers.<ref>''The Avengers'' #310. Marvel Comics.</ref> When Sersi became sick with the ''Mahd Wy'ry'' disease, a uncurable degenerating Eternal disease, Ikaris and other Eternals tried to bring her to Olympia and perform a rite of Cleansing. Sersi rejected the idea, on the basis that the ritual was designed to kill the infected Eternal, and solicited his family to perform  the ''Gann Josin'' bond between her and her lover the [[Black Knight (Dane Whitman)|Black Knight]]. Ikaris was furious and performed the bond without consent of the Knight.<ref>''The Avengers'' #361 (1993). Marvel Comics.</ref> Later Thena and other Eternals helped the Avengers in the battle against  the Gatherers and Proctor, who was an alternate Black Knight and who infected Sersi with the ''Mahd Wy'ry'' disease for spite.<ref>''The Avengers'' #374-375 (1994). Marvel Comics.</ref>
+
+The Eternals fought once more against Ghaur and the Deviants, with the help of the [[Heroes for Hire]]. The mad priest tried to form an ''Anti-Mind'' with some captured eternals, to defeat any invasion of the Celestials.<ref>''Heroes for Hire'' (vol. 2) #4-7 (1997). Marvel Comics.</ref>  Later they were at odds with Apocalypse and briefly posed  as a superhero team called ''the New Breed''.<ref>''The New Eternals: Apocalypse Now'' #1 (2000). Marvel Comics.</ref>
+
+[[Image:New Eternals 1.png|thumb|right|Cover of ''New Eternals: Apocalypse Now'' #1 (February 2000) by [[Joe Bennett (artist)|Joe Bennett]]]]
+
+===Memory loss and the Dreaming Celestial===
+The Eternals began reappearing on Earth in [[Neil Gaiman]]'s new take on the immortal beings. Most seemed to have no memory of their own history and abilities, except Ikaris, and few records of their previous appearances remain. The Eternal known as [[Sprite (Eternal)|Sprite]], angered at having to remain an eleven-year-old and unable to grow any further, managed to change reality, inducing collective amnesia in the Eternals as well as distorting their perceptions of history. He used a Uni-Mind with the [[Dreaming Celestial]] and other unwilling eternals to achieve his desire, transforming himself in a mortal 11 years old kid.<ref>''Eternals:'' (vol. 3) #5 (2006). Marvel Comics.</ref>  This can possibly be seen as Gaiman's attempt to [[retroactive continuity|retcon]] some details of the characters; early stories as well as [[OHOTMU|officially published statistics]] portrayed most of the current generation of Eternals&nbsp;– such as Ikaris and Thena&nbsp;– as being "only" several tens of thousands of years old but Gaiman's run describes them as being closer to a million years old.{{citation needed|date=November 2021}}
+
+[[Makkari (comics)|Makkari]] was working as a medicine intern, Sersi was planning to kickstart her party planner business. Meanwhile, Thena was working as a weapons scientist in [[Stark Industries]]. She was also married and had a young son. Druig was apparently alive again and he was the Deputy minister of Vorozheika (a fictional post-soviet country). Ikaris contacted Makkari, but he did not believe the eternal's words about the past and rejected him.<ref>''Eternals'' (vol. 3) #1 (2006). Marvel Comics.</ref> Then, Makkari met Sersi again, become attracted to her and accompanied her to a party that she was organizing for Druig of Vorozheika. Thena assisted too. In the party, the amnesic Eternals are attacked by mercenaries of another faction of Vorozheika government. The reunion of the four Eternals triggered a recovery of their powers. Ikaris was captured by two deviants and they were experimenting in ways of destroy his body, until that they seemingly killed him with a particle accelerator.<ref>''Eternals'' (vol. 3) #2 (2006). Marvel Comics.</ref> However, Ikaris was resurrected by a special machine in the Antarctic base of the Eternals. With their returned powers, Druig took control of Vorozheika. Thena frees herself from the mercenaries that captured her and Makkari went to talk to Sprite, who now was a young celebrity. Sprite trapped the amnesic Eternal and told him  his plans and the reasons why he did the reality changes.<ref>''Eternals:'' (vol. 3) #3-4 (2006). Marvel Comics.</ref>
+
+[[Image:The Eternals 2.jpg|thumb|left|Cover of ''The Eternals'' (vol. 5) #2 (February 2021) by [[Esad Ribic]]]]
+It was uncovered that Ajak had been revived too and that it had been he who contracted the two Deviants. He succeeded in awakening an amnesic Zuras. The two Deviants managed to kidnap Sprite, and the trapped Makkari, using him to awaken the Dreaming Celestial, who was under Golden Gate Park in San Francisco. Upon awakening, the Celestial decided to judge humanity. The Eternals, now remembering their past, arrived in San Francisco, and realizing that they cannot stop the Celestial, decided to leave him be. Makkari was transformed by the Celestial into his spokesman. The Deviants called him ''Skadrach'', and respected him, because the Dreaming Celestial was adored as their god. Sprite was killed by Zuras because of his actions and the rest of the Eternals then embarked on a quest to find and recruit the other members who had similarly forgotten their true selves due to Sprite's trickery.<ref>''Eternals'' (vol. 3) #5-7 (2006). Marvel Comics.</ref>
+
+The Dreaming Celestial told Makkari the reasons for the creation of the Eternals and Deviants, and helped him to find more Eternals. Ajak, jealous of Makkari's new function, manipulated Gilgamesh into killing Makkari. With help of Sersi, Makkari was reborn and the Dreaming Celestial stopped a planned autodestruction.<ref>''Eternals:'' (vol. 4) #1-7 (2008). Marvel Comics.</ref> Then the Eternals stopped the invasion of the Horde.<ref>''Eternals'' (vol. 4) #8-9 (2008). Marvel Comics.</ref>
+
+With their numbers completed, and with the new information given by the Dreaming Celestial, the Eternals  debated what to do with mankind and the Deviants—leave them alone, protect them or rule them.<ref>''Hulk'' #49 (2008). Marvel Comics.</ref> They formed another Unimind to decide what to do  and decided to hold themselves apart from the mortal world.<ref>''Thor: The Deviants Saga'' #1-5 (2012). Marvel Comics.</ref>
+
+===The Final Host===
+When Celestials literally began "raining" down on Earth, the Avengers are forced to reunite again and just in time to see the arrival of the Final Host which is composed of Dark Celestials that are each physically unique and were the ones who easily took down their brethren.<ref>''Avengers'' (vol. 8) #1. Marvel Comics.</ref> In an attempt to learn more about these new breed of Celestials, [[Iron Man]] and [[Doctor Strange]] travelled to the Mountains of Greece in order to try to get some answers from The Eternals. When Stark and Strange arrived, there were no signs of life to be found as almost all of the Eternals were dead, with Strange deducing that the wounds were self-inflicted. Only Ikaris was left barely alive and reveals that the Eternals were never meant to protect Humanity as they thought. Instead, because the Celestials saw the human population as a useful pathogen to act as antibodies against the Horde, the Eternals were created to defend the process under the false impression that they were actually protecting the human race. This discovery drove all Eternals mad which either made them turn against each other or commit suicide. Ikaris is also able to reveal that the only way to prevent the Final Host from unleashing the Horde is the Uni-Mind and sends a message into Stark's mind before dying.<ref>''Avengers'' (vol. 8) #4. Marvel Comics.</ref>
+
+===Resurrection and their confrontation with Thanos===
+{{expand section|date=July 2022}}
+
+===Judgment Day===
+{{expand section|date=July 2022}}
+
+==Powers and abilities==
+Due to the cosmic energy that suffuses an Eternal's body and the unbreakable mental hold they have over their physiological processes, the Eternals of Earth are effectively immortal.<ref>{{Cite web|title=The History of Marvel's ETERNALS Explained|url=https://nerdist.com/article/marvel-eternals-comic-book-history-origin-explainiac/|access-date=2021-11-14|website=Nerdist|language=en-US}}</ref> They live for millennia, do not fatigue from physical exertion, are immune to [[disease]] and [[poison]], and are unaffected by environmental extremes of cold and heat. Most cannot be injured by conventional weaponry, and even if they somehow are, an Eternal can rapidly regenerate any damage as long as they are able to retain their mental hold over their bodies; this mental bond can be broken. In the 2006 series it was also stated that Eternals are able to absorb oxygen directly from water, and therefore cannot drown. In the same series, Ikaris was plunged into molten metal and experienced great pain, but no physical injury, which the Deviants attributed to a forcefield which protects Ikaris even when unconscious. It is unclear if all Eternals share this degree of protection.{{citation needed|date=November 2021}}
+
+At one time, the official limit to the Eternals' durability was such that they could only be permanently destroyed by dispersing their bodies' molecules over a wide area.<ref>''The [[Official Handbook of the Marvel Universe]]'' #4. Marvel Comics.</ref>
+This degree of extreme durability was revealed to have increased to a much greater degree; as demonstrated in the 2006 ''Eternals'' limited series,<ref name="2006_2">''Eternals'' (vol. 3) #2. Marvel Comics.</ref> it is shown that even total molecular dispersal is insufficient to destroy an Eternal. As long as "The Machine" (a restoration device of Celestial origin; possibly the Earth itself)<ref name="2006_6">''Eternals'' (vol. 3) #6. Marvel Comics.</ref> keeps running, any destroyed Eternal will eventually return, as was the case with Ikaris after he was completely vaporized by a [[particle accelerator]] as part of a series of "experiments" performed upon him by the Deviants.{{citation needed|date=November 2021}}
+
+This same cosmic energy can be channeled for a number of superhuman abilities. All Eternals are potentially capable of:
+
+* Superhuman strength. The limits of their strength can be increased as a result of years of focusing some of their energy towards that purpose.
+* Superhuman speed, reflexes, agility, stamina and durability
+* Invulnerability
+* Immortality
+* Accelerated healing
+* Projecting concussive blasts, heat, and/or blinding flashes of energy from their eyes and hands
+* [[Flight]], and levitating others
+* Reading/[[Mind control|controlling minds]]
+* Generating illusions
+* [[Teleportation|Teleporting]] vast distances, though most Eternals prefer not to use this ability as many find it uncomfortable (and according to the 2006 series, it also greatly depletes their store of cosmic energy)
+* Transmuting objects, altering both their shape and composition. (The extent of this ability can vary from one Eternal to another).
+* Generating force-fields
+* In addition, groups of Eternals, as few as three at a time,<ref name="2006_6"/> can initiate a transformation into a gestalt being called the Uni-Mind, a vastly powerful psionic entity that contains the totality of the powers and abilities of all the beings that comprise it.{{citation needed|date=November 2021}}
+
+Some Eternals choose to focus on a particular power in order to increase their effectiveness with it. [[Sersi]], for example, has developed the power of transmutation further than any other Eternal. Additionally, some Eternals choose to focus their cosmic energies into other, non-standard abilities. [[Ikaris]], for example, channels cosmic energy to greatly enhance his senses, while [[Interloper (comics)|the Interloper]] uses his to generate fear in others, and [[Makkari (comics)|Makkari]] uses his cosmic energies for superspeed.{{citation needed|date=November 2021}}
+
+===Limitations===
+The 2006 [[retcon]] of the Eternals' origins and abilities introduces a significant limitation to their powers, and possibly to their free will, with numerous references to Eternals being "programmed" or "hardwired." They cannot attack their Celestial "masters" for any reason, whether they make a conscious decision to do so or are tricked into accidentally striking the beings.<ref name="2006_4">''Eternals'' (vol. 3) #4. Marvel Comics.</ref><ref>''[[The Incredible Hercules]]'' #3. Marvel Comics.</ref> Any such attempt shuts down the body of the attacking Eternal and is implied to be an automatic defense mechanism of the Celestials' armor.<ref>''Eternals'' (vol. 4) #4. Marvel Comics.</ref> On one occasion, when the Eternals attempted to form a Uni-Mind with the intent of keeping the [[Dreaming Celestial]] asleep, they were immediately shut down and reverted to their original forms. Furthermore, Eternals are compelled to attack and neutralize any being that attacks a Celestial.<ref>''Eternals'' (vol. 3) #5. Marvel Comics.</ref>
+
+As presented in Gaiman's Volume 3, the Eternals are aware of their role on Earth and the duties and constraints placed on them by the Celestials. Ikaris describes himself as "a humanoid-based repair and maintenance unit left behind by unknowable alien gods to make sure that the earth is still here and in good shape when they get back."<ref name="2006_4"/> Zuras phrased the same concept more philosophically: "We are the Eternals. We are the court of last resort for humanity and for all living things on Earth. [...] We do not choose sides. Countries are lines in the sand, empires rise and fall. We are timeless. We will still be here tomorrow, and a hundred centuries from now."<ref name="2006_6"/>
+
+==Members==
+{{main|List of Eternals}}
+
+===Generations===
+The Eternals are split between five different generationals groups:<ref>{{cite web|url=https://screenrant.com/eternals-mcu-surprising-facts/|title=10 Things You Need To Know About The Eternals|last=Sherlock|first=Ben|website=[[Screen Rant]]|date=May 22, 2019|access-date=August 25, 2019|archive-url=https://web.archive.org/web/20190710203504/https://screenrant.com/eternals-mcu-surprising-facts/|archive-date=July 10, 2019|url-status=live}}</ref>
+* '''First Generation Eternal''' (''those born before the fall of Titanos''): Arlok, Astron, Daina, Kronos/Chronos/Chronus, Master Elo, Oceanus, Shastra, Thyrio, Uranos.
+* '''Second Generation Eternal''' (''those alive at the time of Chronus's experiment''): [[Mentor (A'lars)]], Amaa, Cybele, Forgotten One/[[Gilgamesh (Marvel Cinematic Universe)|Gilgamesh]], Helios, Perse, Rakar, Tulayn, Valkin, Virako, Zuras.
+*'''Third Generation Eternal''' (''those born after Chronos's experiment but before the Second Host''): Aginar, [[Ajak]], Arex, Atlo, Domo, [[Ikaris]], Interloper, Mara, [[Phastos]], Sigmar, [[Thanos]], [[Thena]], Veron, Zarin, Eros
+* '''Fourth Generation Eternal''' (''those born after the coming of the Second Host, 20,000 years ago''): Argos, Ceyote, Chi Demon, the Delphan brothers, [[Druig]], Khoryphos, [[Makkari (comics)|Makkari]], Psykos, [[Sersi]], [[Kingo Sunen|Kingo]] Sunen, El Vampiro.
+* '''Fifth Generation Eternal''' (''those born after the coming of the Third Host, 3,000 years ago''): Aurelle, [[Sprite (Eternal)|Sprite]], Titanis.
+
+==Antecedents==
+* [[Arthur C. Clarke]]'s book ''[[Childhood's End]]'' from 1953 provided inspiration, including the idea of "Overlords" who control Earth's fate and will reveal themselves further after a 50-year waiting period, the idea of demons being humanity's memory of another species, and the "Overmind" concept which seems to influence the comic's "Uni-Mind".
+* Mercury and Hurricane, two characters depicted by Jack Kirby through [[Timely Comics]], the 1940s predecessor of Marvel, were [[retroactive continuity|retconned]] as being guises of the Eternal Makkari.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/178 |access-date=8 April 2020 |page=179}}</ref>
+{{clear}}
+
+==The Eternal==
+
+''The Eternal'' is a series from Marvel's [[MAX (comics)|MAX]] imprint written by [[Chuck Austen]], based on an idea he had been working on for a while: "I pitched this back when I first started working at Marvel, but Joe Quesada was against doing it. He saw no future in this particular old Kirby concept." Austen described the plot as involving "Ikaeden, the leader of the Eternals, who arrives on Earth at the dawn of man, and evolves humankind from [[Homo erectus|homo-erectus]] so he can use them as slaves to mine raw materials for the Celestials, his bosses, basically," as well as "Kurassus, who is the second-in-command of the mining mission, and who is determined to undermine Ikaeden and kill Ikaeden's precious slave-girl and son."<ref name=cbr1944>{{cite web |last=Singh |first=Arune |date=March 21, 2003 |url=http://www.comicbookresources.com/?page=article&id=1944 |title=MAX Muscle: Austen talks 'War Machine 2.0' & 'The Eternal' & 'World Watch' |publisher=[[Comic Book Resources]] |access-date=February 22, 2009 |archive-url=https://web.archive.org/web/20090213231902/http://www.comicbookresources.com/?page=article&id=1944 |archive-date=February 13, 2009 |url-status=live |df=mdy-all }}</ref> In an interview with [[Newsarama]] he gave an outline of his planned plot:
+
+{{blockquote|In this version, we take some of the concepts from [the original series] and build around them, throwing away some stuff and keeping others. We're actually going back in time to see Ikaris birth and development on Earth, meet his parents, and then move forward into contemporary time. When we get to contemporary time, the Celestials return to judge Earth, but there's no fifty-year 'study and evaluation period.' We've already been judged and found wanting, too violent to be allowed to flourish and spread, and Ikaris and the others have to stop the Celestials, who consider us their property, from destroying the entire planet as they have done to many others, including another in the [[Solar System]].<ref>{{cite web |first=Alex Jr. |last=Segura |date=March 20, 2003 |url=http://classic.newsarama.com/AustenJune.htm |title=Austen Adds Two - War Machine 2 & The Eternal |publisher=[[Newsarama]] |access-date=February 23, 2009}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>}}
+
+Originally planned as an ongoing series,<ref name=cbr1944/> it was cancelled after six issues.<ref>{{cite web |last=Brady |first=Matt |date=August 25, 2003 |url=http://forum.newsarama.com/showthread.php?s=&threadid=5317 |title=The Eternal, The Crew Cancelled |publisher=[[Newsarama]] |access-date=February 22, 2009 }}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Reception===
+Reception of the series was mixed. Peter Sanderson calls it "a ghastly mini-series ... which utilized the names like 'Eternal' and 'Celestial' from Kirby’s series but otherwise had nothing to do with it."<ref name=cic194 /> Les Bowman on ICv2, replying to specific concerns about the sexual content, said that "[m]uch like the [[Rawhide Kid]], Marvel's editorial staff has decided to completely wreck the heritage of a well liked character, or in the case of the Eternals, a group, by perverting it for the reason of free press coverage."<ref>{{cite web |last=Bowman |first=Les |date=June 13, 2003 |url=http://www.icv2.com/articles/talkback/2890.html |title=Les 'Bo' Bowman of The Gamer's Den on The Eternal |publisher=ICv2 |access-date=February 22, 2009 |archive-url=https://web.archive.org/web/20081007005731/http://www.icv2.com/articles/talkback/2890.html |archive-date=October 7, 2008 |url-status=live |df=mdy-all }}</ref> Reviews at [[Comics Bulletin]] were much more positive,<ref>{{cite web |author=Page45 |date=July 8, 2003 |url=http://www.comicsbulletin.com/reviews/105768356854678.htm |title=Review of ''The Eternal'' #1 |publisher=[[Comics Bulletin]] |access-date=February 22, 2009 |archive-url=https://web.archive.org/web/20110523092647/http://www.comicsbulletin.com/reviews/105768356854678.htm |archive-date=May 23, 2011 |url-status=live |df=mdy-all }}</ref><ref>{{cite web |last=McCoy |first=Paul Brian |date=August 8, 2003 |url=http://www.comicsbulletin.com/reviews/106038334710856.htm |title=Review of ''The Eternal'' #3 |publisher=[[Comics Bulletin]] |access-date=February 22, 2009 |archive-url=https://web.archive.org/web/20110523092718/http://www.comicsbulletin.com/reviews/106038334710856.htm |archive-date=May 23, 2011 |url-status=live |df=mdy-all }}</ref><ref>{{cite web |last=McCoy |first=Paul Brian |date=September 10, 2003 |url=http://www.comicsbulletin.com/reviews/106322839717282.htm |title=Review of ''The Eternal'' #4 |publisher=[[Comics Bulletin]] |access-date=February 22, 2009 |archive-url=https://web.archive.org/web/20110523092744/http://www.comicsbulletin.com/reviews/106322839717282.htm |archive-date=May 23, 2011 |url-status=live |df=mdy-all }}</ref> with the one for the final issue saying that the cancellation of the title was "a damn shame because it was the only MAX series to live up to the billing of the imprint" and that "[i]f you want to read a 1980s [[Epic Comics|EPIC]] style comic buy this issue and all the others that came before, I doubt there will ever be a trade."<ref>{{cite web|last=Moser |first=Bob |date=December 5, 2003 |url=http://www.comicsbulletin.com/reviews/107062004412769.htm |title=Review of ''The Eternal'' #6 |publisher=[[Comics Bulletin]] |access-date=February 22, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110609065755/http://www.comicsbulletin.com/reviews/107062004412769.htm |archive-date=June 9, 2011 }}</ref>
+
+== Eternals titles ==
+*''Eternals'' (vol. 1) #1–19 (written and [[penciller|penciled]] by [[Jack Kirby]], July 1976 - January 1978)
+*''Eternals Annual'' #1 (written and penciled by [[Jack Kirby]], 1977)
+*''Thor Annual'' #7 (September 1978)
+*''Thor'' (vol. 1 ) #283-301 (May 1979 - September 1980)
+*''What If...'' #23-30 (October 1980 - September 1981)
+*''Iron Man Annual'' #6 (November 1983)
+*''Avengers'' (vol. 1 ) #246-248 (August 1984- October 1984)
+*''Eternals'' (vol. 2) #1–12 ([[Limited series (comics)|limited series]], October 1985 - September 1986)
+*''The Avengers'' (vol. 1) #308-310 (October 1989 - November 1989)
+*''Eternals: The Herod Factor'' (November 1991)
+*''Avengers'' (vol. 1 ) #361, #374-375 (April 1993, May 1994 - June 1994 )
+*''Heroes for Hire'' (vol. 1 ) #4-7 (November 1997 - January 1998)
+*''The New Eternals: Apocalypse Now'' (also known as ''Eternals: The New Breed'') #1 (February 2000)
+*''Eternals'' (vol. 3) #1–7 (written by [[Neil Gaiman]], limited series, Jun. 2006 - February 2007)
+*''Eternals'' (vol. 4) #1–9, Annual #1 (August 2008 - March 2009)
+*''Hulk'' (vol 3.) #49 (May 2012)
+*''Thor:The Deviants Saga'' #2–5 (February 2012 - May 2012)
+*''Avengers'' (vol. 8) #4 (September 2018)
+*''Eternals'' (vol. 5) #1–12 (January 2021 – present)
+
+Others include:
+*''The Eternal'' #1–6 (written by [[Chuck Austen]], with pencils by [[Kev Walker]] and inks by [[Simon Coleby]], August 2003 - January 2004)
+
+== Collected editions ==
+A number of the series featuring the Eternals have been collected into [[Trade paperback (comics)|trade paperbacks]]:
+
+*''The Eternals'' (collects ''The Eternals'' (vol. 1) #1-19 and ''The Eternals'' Annual #1, 1976–1978, [[Marvel Omnibus]] hardback, 392 pages, July 2006, {{ISBN|0-7851-2205-2}}) collected as a softcovers:
+**''Volume 1'' (collects ''The Eternals'' (vol. 1) #1-11, softcover, 208 pages, July 2008, {{ISBN|0-7851-3313-5}})
+**''Volume 2'' (collects ''The Eternals'' (vol. 1) #12-19 and ''The Eternals'' Annual #1, softcover, 188 pages, October 2008, {{ISBN|0-7851-3442-5}})
+*''Thor: The Eternals Saga'':
+** ''Volume 1'' (collects ''Thor'' Annual #7 and ''Thor'' #283-291, softcover, 208 pages, October 2006, {{ISBN|0-7851-2404-7}})
+** ''Volume 2'' (collects ''Thor'' #292-301, softcover, 216 pages, April 2007, {{ISBN|0-7851-2405-5}})
+*''Eternals'' (collects ''Eternals'' (vol. 3) #1-7, 2006, softcover, 256 pages, Marvel Comics, July 2008, {{ISBN|0-7851-2177-3}}, March 2007, [[Panini Comics]], {{ISBN|1-905239-57-2}}, hardcover, 256 pages, May 2007, {{ISBN|0-7851-2176-5}}, April 2007, {{ISBN|0-7851-2541-8}})
+*''Eternals'':
+**''Volume 1: To Slay A God'' (collects ''Eternals'' (vol. 4) #1-6, softcover, 184 pages, March 2009, {{ISBN|0-7851-2978-2}})
+**''Volume 2: [[X-Men: Manifest Destiny|Manifest Destiny]]'' (collects ''Eternals'' (vol. 4) #7-9 and ''Eternals Annual'', softcover, 104 pages, September 2009, {{ISBN|0-7851-2979-0}})
+*''Eternals'':
+**''Volume 1: Only Death Is Eternal'' (collects ''Eternals'' (vol. 5) #1-6, softcover, 136 pages, September 2021, {{ISBN|978-1302925475}})
+**''Volume 2: Hail Thanos'' (collects ''Eternals'' (vol. 5) #7-12, softcover, 160 pages, July 2022, {{ISBN|978-1302925482}})
+**''Eternals: A History Written In Blood''  (collects ''Eternals: Thanos Rises'', ''Eternals: Celestia'', ''Eternals: The Heretic'', softcover, 112 pages, February 2023, {{ISBN|978-1302950804}})
+
+==Awards==
+*2007: Nominated for "Best Archival Collection/Project--Comic Books" Eisner Award, for [[Marvel Omnibus]] collection<ref>{{cite web |url=http://www.hahnlibrary.net/comics/awards/eisner07.php |title=2007 Will Eisner Comic Industry Awards |publisher=Hahnlibrary.net |date= |access-date=October 19, 2010 |archive-url=https://web.archive.org/web/20130921160241/http://www.hahnlibrary.net/comics/awards/eisner07.php |archive-date=September 21, 2013 |url-status=live |df=mdy-all }}</ref>
+
+==In other media==
+
+===Film===
+{{main|Eternals (film)}}
+The Eternals made their live action debut in a film adaptation for the [[Marvel Cinematic Universe]], released on November 5, 2021 with a focus on [[Ikaris]] and [[Sersi]] as its central characters.<ref>{{cite web|url=https://www.bleedingcool.com/2018/04/12/marvel-studios-announce-eternals-soon/|title=Rumor: Marvel Studios to Announce Eternals Movie Soon|publisher=Bleeding Cool|last=Johnston|first=Rich|date=April 12, 2018|access-date=April 12, 2018|archive-url=https://web.archive.org/web/20180422122239/https://www.bleedingcool.com/2018/04/12/marvel-studios-announce-eternals-soon/|archive-date=April 22, 2018|url-status=live|df=mdy-all}}</ref><ref>{{cite web|url=https://www.thewrap.com/marvel-kevin-feige-eternals/|title=Marvel Boss Kevin Feige Confirms 'Eternals' Movie in Development (Exclusive)|publisher=The Wrap|last=Gonzalez|first=Umberto|date=April 23, 2018|access-date=April 23, 2018|archive-url=https://web.archive.org/web/20180423204016/https://www.thewrap.com/marvel-kevin-feige-eternals/|archive-date=April 23, 2018|url-status=live|df=mdy-all}}</ref> Directed by [[Chloé Zhao]]<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/chloe-zhao-direct-marvel-studios-eternals-1143547|title=Marvel Studios' 'The Eternals' Finds Its Director With Chloé Zhao|last=Kit|first=Borys|work=[[The Hollywood Reporter]]|date=September 21, 2018|access-date=September 21, 2018|archive-url=https://web.archive.org/web/20180921215407/https://www.hollywoodreporter.com/heat-vision/chloe-zhao-direct-marvel-studios-eternals-1143547|archive-date=September 21, 2018|url-status=live|df=mdy-all}}</ref> with a script written by her, Patrick Burleigh, [[Matthew K. Firpo|Matthew]] and Ryan Firpo<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/marvel-sets-black-list-writers-eternals-movie-1112084|title=Marvel Sets Black List Writers for 'Eternals' Movie (Exclusive)|last=Kit|first=Borys|work=[[The Hollywood Reporter]]|date=May 15, 2018|access-date=May 15, 2018|archive-url=https://web.archive.org/web/20180516035214/https://www.hollywoodreporter.com/heat-vision/marvel-sets-black-list-writers-eternals-movie-1112084|archive-date=May 16, 2018|url-status=live}}</ref> and stars [[Gemma Chan]] as Sersi, [[Richard Madden]] as Ikaris, [[Kumail Nanjiani]] as [[Kingo Sunen|Kingo]], [[Lia McHugh]] as [[Sprite (Eternal)|Sprite]],  [[Brian Tyree Henry]] as [[Phastos]],  [[Lauren Ridloff]] as [[Makkari (comics)|Makkari]], [[Barry Keoghan]] as [[Druig]], [[Ma Dong-seok|Don Lee]] as [[Forgotten One (comics)|Gilgamesh]], [[Salma Hayek]] as [[Ajak]] and [[Angelina Jolie]] as [[Thena]].<ref>{{cite web|url=https://comicbook.com/marvel/2019/04/05/marvels-eternals-angelina-jolie-sersi-confirmed/|title=Marvel's 'Eternals': Angelina Jolie Reportedly Confirmed to Play Sersei|last=Outlaw|first=Kofi|work=ComicBook|date=April 6, 2019|access-date=April 6, 2019}}</ref><ref>{{Cite web|url=https://www.thewrap.com/marvel-studios-ma-dong-seok-the-eternals/|title=Marvel Studios Taps Ma Dong-seok for 'The Eternals' (Exclusive)|last=Gonzalez|first=Umberto|date=April 17, 2019|website=The Wrap|access-date=April 18, 2019}}</ref><ref>{{Cite web|url=https://variety.com/2019/film/news/richard-madden-eternals-1203207844/|title=Richard Madden in Talks to Star in Marvel's 'Eternals'|last=Kroll|first=Justin|date=2019-05-07|website=Variety|language=en|access-date=2019-05-10}}</ref><ref>{{cite web|url=https://mcucosmic.com/2019/06/01/keanu-reeves-is-being-sought-for-a-role-in-the-eternals-exclusive/|title=Keanu Reeves is Being Sought For a Role in 'The Eternals' (Exclusive)|website=MCU Cosmic|last=Conrad|first=Jeremy|date=June 1, 2019}}</ref><ref>{{cite web|url=https://www.thewrap.com/salma-hayek-marvel-studios-eternals/|title=Salma Hayek Eyed to Join Marvel Studios' 'The Eternals' (Exclusive)|website=The Wrap|last=Gonzalez|first=Umberto|date=June 26, 2019}}</ref><ref>{{cite web|url=https://variety.com/2019/film/features/avengers-marvel-comic-con-hall-h-1203262777/|title=What to Expect From Marvel's Comic-Con Presentation — and Why It's So Pivotal|website=Variety|last=Donnelly|first=Matt|date=July 10, 2019}}</ref><ref>{{cite web |last1=Stolworthy |first1=Jacob |title=Stranger Things' Millie Bobby Brown shuts down claims she's joining Marvel universe |url=https://www.independent.co.uk/arts-entertainment/films/news/millie-bobby-brown-marvel-role-mcu-the-eternals-stranger-things-eleven-instagram-a9004011.html |website=[[The Independent]] |access-date=21 July 2019 |date=14 July 2019}}</ref><ref>{{cite web |title=All of the Marvel Studios News Coming Out of Hall H at San Diego Comic-Con |url=https://www.marvel.com/articles/movies/sdcc-2019-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con |website=[[Marvel Entertainment|Marvel]] |access-date=21 July 2019 |date=21 July 2019}}</ref><ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/black-panther-2-release-date-kit-haringtons-role-eternals-confirmed-1233149|title=Marvel Confirms Kit Harington for 'Eternals,' Sets 'Black Panther II' Date|last=Couch|first=Aaron|work=[[The Hollywood Reporter]]|date=August 24, 2019|access-date=August 24, 2019|archive-url=https://web.archive.org/web/20190824180626/https://www.hollywoodreporter.com/heat-vision/black-panther-2-release-date-kit-haringtons-role-eternals-confirmed-1233149|archive-date=August 24, 2019|url-status=live}}</ref><ref>{{cite web|url=https://www.cnet.com/news/kit-harington-and-gemma-chan-join-marvels-the-eternals/|title=Kit Harington, Gemma Chan and Barry Keoghan join Marvel's Eternals|last=Keane|first=Sean|website=[[CNET]]|date=August 24, 2019|access-date=August 24, 2019|archive-url=https://web.archive.org/web/20190824192716/https://www.cnet.com/news/kit-harington-and-gemma-chan-join-marvels-the-eternals/|archive-date=August 24, 2019|url-status=live}}</ref>
+
+===Motion comic===
+* A [[Marvel Animation#Marvel Knights Animation|Marvel Knights Animation]] motion comic DVD was released on September 16, 2014.<ref>{{cite web|url=https://comicsworthreading.com/2014/10/25/eternals-a-marvel-knights-animation-motion-comic/|title=Eternals: A Marvel Knights Animation Motion Comic|website=Comics Worth Reading|author=Johanna|date=October 25, 2014|access-date=April 23, 2018|archive-url=https://web.archive.org/web/20180424071956/https://comicsworthreading.com/2014/10/25/eternals-a-marvel-knights-animation-motion-comic/|archive-date=April 24, 2018|url-status=live|df=mdy-all}}</ref>
+
+==Notes==
+{{Reflist|2}}
+
+== References ==
+{{refbegin}}
+*{{gcdb series|id=2346|title=The Eternals (1976)}}
+*{{gcdb series|id=3016|title=The Eternals (1985)}}
+*{{gcdb series|id=18442|title=The Eternals (2006)}}
+*{{gcdb series|id=31809|title=The Eternals (2008)}}
+*{{comicbookdb|type=team|id=257|title=The Eternals}}
+*[http://www.maelmill-insi.de/UHBMCC/eternals.htm The Eternals] at the Unofficial Handbook of Marvel Comics Creators
+*[http://www.marveldirectory.com/groupsandteams/eternals.htm The Eternals] at the Marvel Directory
+*[https://web.archive.org/web/20091027182726/http://www.geocities.com/brenni_au/Encyclopaedia.html  Encyclopaedia Olympianna]
+{{refend}}
+
+==External links==
+*{{official website|http://www.marvel.com/comics/Eternals}}{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.marvel.com/universe/Eternals Eternals] on the Marvel Universe
+*[http://marvel.wikia.com/wiki/Eternals Eternals] at the Marvel Database Project
+*[https://web.archive.org/web/20061119210220/http://forum.newsarama.com/showthread.php?t=67779 Know Your Eternals I: The Eternals], [[Newsarama]], April 21, 2006
+*[https://web.archive.org/web/20090215040310/http://forum.newsarama.com/showthread.php?t=68339 Know Your Eternals II: Celestials & Deviants], [[Newsarama]], April 25, 2006
+*[https://web.archive.org/web/20090215040506/http://forum.newsarama.com/showthread.php?t=68747 Know Your Eternals III: Kirby & The Eternals (I)], [[Newsarama]], April 28, 2006
+*[https://web.archive.org/web/20090215040512/http://forum.newsarama.com/showthread.php?t=69543 Know Your Eternals IV: The Marvel Universe and The Eternals], [[Newsarama]], May 4, 2006
+<!-- *[http://classic.newsarama.com/marvelnew/Eternals/Kirby01/EternalsiKirby.html Know Your Eternals V: The Eternals #1], [[Newsarama]], May 14, 2006 Images are still here but the URL needs changing to classic.newsarama.com - not worth making live unless they fix it -->
+
+===Reviews===
+<!-- For a reception section -->
+*[http://www.newsarama.com/comics/080609-BSEEternals01.html Best Shots Extra: The Eternals #1], [[Newsarama]], June 9, 2008
+
+{{Eternals}}
+{{Avengers characters}}
+{{Silver Surfer}}
+{{Jack Kirby}}
+{{Neil Gaiman}}
+{{Marvel Cosmic}}
+
+[[Category:Eternals (comics)|*]]
+[[Category:Comics by Jack Kirby]]
+[[Category:Comics by Neil Gaiman]]
+[[Category:Ancient astronauts in fiction]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Marvel Comics adapted into films]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:Fictional characters with immortality]]

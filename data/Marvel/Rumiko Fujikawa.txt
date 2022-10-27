@@ -1,0 +1,231 @@
+{{short description|None}}
+
+{{more citations needed|date=January 2017}}
+
+A collective of fictional characters appear in [[American comic books]] published by [[Marvel Comics]] featuring the superhero [[Iron Man]] as the main protagonist.
+
+From the introduction of '''[[Iron Man]]''' in ''[[Tales of Suspense]]'' #39 (1963), Iron Man has accumulated a large range of supporting characters. They are friends, employees of Tony Stark, and other superheroes. This is a list of them:
+{{TOC limit|3}}
+
+==Family==
+{{chart top|''[[Iron Man]]'' family tree}}
+{{Tree chart/start|style=font: 100% sans-serif;|align=center}}
+{{Tree chart| | | | | | | | | | | | | | | | | | | | | |,|-|-|-|.}}
+{{Tree chart| | | | |AMNDA|y|JUDEH| |EDWIN| |MARIA|y|HOWRD|| |!
+              |AMNDA=[[Iron Man#All-New, All-Different Marvel|Amanda Armstrong]]
+              |JUDEH=[[Iron Man#All-New, All-Different Marvel|Jude]]
+              |EDWIN=[[Edwin Jarvis]]<br>{{small|[[Crimson Cowl]]}}
+              |MARIA=[[Maria Stark|Maria Collins Stark (née Carbonell)]]
+              |HOWRD=[[Howard Stark|Howard Anthony Walter Stark]]
+              |MEPHISTO=[[Mephisto (comics)|Mephisto]]}}
+{{Tree chart| | | | | | | |`|-|-|-|-|-|.|D|~|~|~|~|e| | | | |FREDD
+              |FREDD=[[Morgan Stark#Fictional character biography|Freddie Stark]]}}
+{{Tree chart| | | | | |F|~|~|~|~|~|~|7|!|:| | | | |`|-|.| | | |!}}
+{{Tree chart|CRLDN|-|WRMCH| |SNSBR|-|TONYS|-|PEPPR| |ARNO1| |MORGN
+              |CRLDN=[[Carol Danvers]]<br>{{small|[[Ms. Marvel|Ms.]] / [[Captain Marvel (Marvel Comics)|Captain Marvel]]}}
+              |WRMCH=[[War Machine|James Rupert "Rhodey" Rhodes<br>{{small|War Machine / Iron Man}}]] {{small|/ [[Iron Patriot]]}}
+              |SNSBR=[[Sunset Bain|Sunset Bain<br>{{small|Madame Menace}}]]
+              |TONYS=[[Iron Man|Anthony E. "Tony" Stark<br>{{small|Iron Man}}]]
+              |PEPPR=[[Pepper Potts|Virginia "Pepper" Potts<br>{{small|Hera / Rescue / Coast Guard}}]]
+              |ARNO1=[[Arno Stark#Earth-616 version|Arno Stark I]]<br>{{small|[[Iron Man 2020]]<br>[[Arno Stark#Other versions|Dr. Gregory "Greg" Stark]]}}
+              |MORGN=[[Morgan Stark|Morgan Stark<br>{{small|Brass}}]] {{small|/ [[Ultimo (Marvel Comics)|Ultimo]]}}}}
+{{Tree chart| | | | | | | | | | | |F|J|)|-|-|-|.| | | | | | | |!}}
+{{Tree chart|GARYF|~|RNNIE|y|DMTRS|:|MARK1| |JRVIS| |RCHFT| |ARNO2
+              |GARYF=[[Ironheart (character)#Origins|Gary]]
+              |RNNIE=[[Ironheart (character)#Origins|Ronnie Williams]]
+              |DMTRS=[[Ironheart (character)#Origins|Demetrius "Riri" Williams, Sr.]]
+              |JRVIS=[[F.R.I.D.A.Y.]] & [[J.A.R.V.I.S.]]
+              |MARK1=[[Iron Man#Marvel Legacy|Mark One]]<br>[[Iron Man#Existing as an A.I.|{{small|A.I. Tony Stark}}]]
+              |RCHFT=[[Template:Fantastic Four family tree|Richards family]]
+              |ARNO2=[[Arno Stark#Iron Man 2020|Arno Stark II]]<br>{{small|[[Iron Man 2020]]}}}}
+{{Tree chart| | | | | |,|-|^|-|.|F|A|~|~|~|~|7|,|-|-|-|'}}
+{{Tree chart| | | | |SHARN| |IRONH| | | | | |NKANG
+              |SHARN=[[Ironheart (character)#Origins|Sharon Williams]]
+              |IRONH=[[Ironheart (character)|Riri Williams<br>{{small|Ironheart}}]]
+              |NKANG=[[Kang the Conqueror|Nathaniel "Nate" Richards]]<br>{{small|[[Iron Lad]] / [[Kang the Conqueror]]}}}}
+{{Tree chart| | | | | | | | | |!}}
+{{Tree chart| | | | | | | | |NTLIE
+              |NTLIE=[[Ironheart (character)#"Iron Man 2020"|N.A.T.A.L.I.E.]]}}
+{{Tree chart | |}}
+{{Tree chart/end}}
+{{Chart bottom}}
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! width="13%" |Character !!width="23%"| First appearance !!width="64%"| Description
+|-
+| [[Amanda Armstrong]] || ''International Iron Man'' #5 (Sept. 2016) || Amanda Armstrong is the biological mother of Tony Stark and a famous musician.
+|-
+| [[Arno Stark]] || ''[[Iron Man (comic book)|Iron Man]]'' #12 (Sept. 2013) || Arno Stark is the brother of Tony Stark and birth son of Howard and Maria Stark.
+|-
+| [[Edwin Jarvis]] || ''[[Tales of Suspense]]'' #59 (Nov. 1964) || Jarvis is the loyal household butler to the Stark family. He also served the [[Avengers (comics)|Avengers]].
+|-
+| [[Howard Stark]] || ''[[Iron Man (comic book)|Iron Man]]'' #28 (Aug. 1970) || Howard Stark is Tony Stark's father. He was CEO of Stark Industries and an inventor that built devices that have revolutionized the industrial world.
+|-
+| [[Maria Stark]] || ''[[Iron Man (comic book)|Iron Man]]'' #104 (Nov. 1977) || Maria Stark is Tony Stark's mother. She is a socialite, philanthropist and married to [[Howard Stark]]
+|-
+| [[Morgan Stark]] || ''[[Tales of Suspense]]'' #68 (Aug. 1965) || Morgan Stark is the cousin of Tony Stark.
+|-
+| [[Mephisto (comics)|Mephisto]] || ''[[Avengers (comics)|Avengers]]'' vol. 8 #31 (Feb. 2020) || Howard Stark sold Tony's soul to Mephisto.
+|}
+
+==Family from other media==<!-- alphabetical order -->
+
+* '''Gregory Stark''' – Tony Stark's older twin brother in Ultimate Marvel Universe. He's part of the Avengers Project led by Nick Fury.<ref>''Ultimate Comics Avengers'' #2</ref>
+* '''Morgan Stark''' – Morgan Stark is the daughter of [[Tony Stark]] and [[Pepper Potts]] in the [[Marvel Cinematic Universe]] film ''[[Avengers: Endgame]]'' (2019). Lexi Rabe portrayed Morgan Stark.
+* '''[[Andros Stark]]''' – Andros Stark is the grandson of Tony Stark in ''[[Iron Man: Armoured Adventures]]''. He went back in time from the year 2099 to protect the future.
+
+==Supporting characters==<!-- alphabetical order -->
+* '''Abraham "Abe" Zimmer''' – Abe Zimmer was a senior member of [[Stark Enterprises]] board of directors and trustee of Tony Stark's corporate assets.
+* '''Andy Bhang''' – Former Chief Robotics of Stark Unlimited, currently the owner of Bang Robotics.<ref>''Tony Stark: Iron Man #1''</ref>
+* '''Bambina Arbogast''' – Bambina Arbogast is the former executive assistant to Tony Stark at Stark International. 
+* [[Bethany Cabe]] – Bethany Cabe is Tony Stark's former girlfriend and Chief of Security at Stark Unlimited. She possess gymnastic abilities and was highly trained in hand-to-hand combat.<ref>{{Cite web|url=http://comicvine.gamespot.com/bethany-cabe/4005-33030/|title=Bethany Cabe (Character)}}</ref>
+* '''Doctor Shapiro''' – Doctor Shapiro is a hyper-intelligent cat working for Stark Unlimited, as an expert in superhuman biology.<ref>''Tony Stark: Iron Man'' #1</ref>
+* [[Eddie March]] – Eddie March is a boxer and friend to Tony Stark.<ref>''Iron Man #21''</ref>
+* [[F.R.I.D.A.Y.]] – An artificial intelligence that would appear as a hologram and act as Tony Stark's secretary.<ref>{{Cite web|url=https://comicvine.gamespot.com/friday/4005-121121/|title = Friday (Character)}}</ref>
+* [[Guardsman (comics)|Guardsman]] – Kevin O'Brien was head of the research department at Stark Industries and a close friend of Tony Stark. However, after building the Guardsman armor, Kevin O'Brien became an adversary to [[Iron Man]].
+* '''Halcyon''' – A deaf mutant street racer and engineer with the power to control his heartbeat.<ref>''Iron Man'' vol. 6 #1</ref>
+* [[Happy Hogan (comics)|Happy Hogan]] – Hired by Tony Stark as his chauffeur and personal assistant after Happy saves Tony's life.<ref>''Tales of Suspense'' #45</ref>
+* '''H.O.M.E.R.''' – Heuristically Operative Matrix Emulation Rostrum. An artificial intelligence in charge of all of Tony Stark's secret manufacturing projects.<ref>{{Cite web|url=http://comicvine.gamespot.com/homer/4005-86289/|title = HOMER (Character)}}</ref>
+* [[Ho Yinsen]] – A medical genius and pacifist. Plays a key role in Iron Man's origin story as a mentor and co-builder of his first armor.<ref>''Tales of Suspense'' #39</ref>
+* [[J.A.R.V.I.S.]] – The program that helps operate [[Pepper Potts]]'s Rescue suit.
+* [[Jocasta (comics)|Jocasta]] – Built by the robot [[Ultron]], she aided the [[Avengers (comics)|Avengers]]. Jocasta later became the Chief Robotics Ethicist at Stark Unlimited.<ref>''The Avengers'' #162</ref>
+* [[Maria Hill]] – Becomes a core member of Stark's [[S.H.I.E.L.D.]] cabinet and assists Stark in dealing with a sudden rise in various terrorist groups.<ref>''The New Avengers'' #4</ref>
+* [[Guardsman (comics)|Michael O'Brien]] – Michael O'Brien was a police sergeant who believed Iron Man was responsible for his brother's death. After fighting Iron Man as the [[Guardsman (comics)|Guardsman]], he discovered his mistake and eventually became an ally to Iron Man.<ref>''Iron Man'' #82</ref>
+* [[Maya Hansen]] – A scientist who developed the [[Extremis]] virus along with [[Aldrich Killian]]. She is an old friend of Stark.
+* [[Pepper Potts]] –  Originally a member of Tony Stark's secretarial pool. She later becomes part of a love triangle with Tony Stark and [[Happy Hogan (comics)|Happy Hogan]].<ref>''Tales of Suspense'' #45</ref>
+* [[Sal Kennedy]] – Sal Kennedy is a friend and mentor for Tony Stark and Maya Hansen.<ref>''Iron Man'' vol. 4 #2</ref>
+* [[Toni Ho]] – Dr. Toni Ho is an engineer and daughter of Ho Yinsen who wore the Iron Patriot armor as a member of the [[U.S.Avengers]].<ref name="U.S. Avengers #1">''U.S. Avengers'' #1</ref>
+* [[Riri Williams]] – Riri is a young girl who created her own version of the Iron Man Armour suit and is mentored by Tony Stark.<ref>''Invincible Iron Man'' vol. 2 #7</ref>
+* [[War Machine]] – James Rhodes is a pilot who helped Iron Man flee from the Viet Cong soldiers after his escape from [[Wong-Chu]]'s prison camp. He would later become Tony Stark's best friend and wear his own power armor.<ref>''Iron Man'' #118</ref>
+
+==Love interests==  <!-- time-order-logic-justice -->
+<!-- alphabetical order -->
+
+* '''Amara Perera''' – Dr. Amara Perera is a brilliant biophysicist who developed a cure for the mutant gene that theoretically prevented Mutants from receiving their abilities. Amara was the girlfriend of Tony Stark, who would later leave him for [[Victor Von Doom]].
+* [[Black Widow (Natasha Romanova)|Black Widow]] - First introduced as a Russian spy and as a villain of Stark himself. She would later redeem herself joining the [[S.H.I.E.L.D.]] and later becoming a member of the [[Avengers (comics)|Avengers]].<ref>{{Cite web|url=http://comicvine.gamespot.com/black-widow/4005-3200/|title = Black Widow (Character)}}</ref>
+* '''Cassandra Gillispie''' – Cassandra Gillespie was the daughter of a weapons manufacturer rival of Howard Stark. Cassandra and Tony Stark were seeing each other when he was studying at University of Cambridge. Years later, Tony Stark crossed paths with Cassandra when he was trying to find out about his true parentage.
+* [[Madame Masque]] – Whitney Frost is an occasional love interest, enemy of Iron Man and the daughter of Count Nefaria. Her birth name is Giuletta Nefaria. Raised as a wealthy socialite, Whitney Frost wore a golden mask to cover up her disfigured face and continues to do so after her face was healed due to paranoia.<ref>{{Cite web|url=https://comicvine.gamespot.com/madame-masque/4005-13940//|title=Madame Masque (Character)}}</ref>
+* '''Indries Moomji''' – Indries Moomji was the girlfriend of Tony Stark who was recruited by Obadiah Stane as the Queen in his group the Chessmen. She seduced Tony Stark and played a role leading to his downfall.
+* '''Rumiko Fujikawa''' – Girlfriend of Tony Stark and daughter of Kenjiro Fujikawa, the man who had taken over Stark's company during his stay in the [[Heroes Reborn (1996 comic)|Heroes Reborn]] universe.<ref>{{Cite web|url=http://comicvine.gamespot.com/rumiko-fujikawa/4005-4264/|title = Rumiko Fujikawa (Character)}}</ref>
+* [[Sunset Bain]] – Sunset Bain met Tony Stark when they were MIT undergraduate. She seduced him into revealing the security codes for Stark Industries and stole several prototypes. Shortly thereafter, Sunset founded Baintronics and broke it off with Tony Stark. She  assumed the Madame Menace persona to make underground arms deals while Baintronic minted a spotless reputation.
+* [[Wasp (comics)|Wasp]] – Wasp (Janet Van Dyme) founded the Avengers with Iron Man and had a significative relationship with him twice.<ref>{{Cite web|url=https://comicvine.gamespot.com/wasp/4005-1502/|title = Wasp (Character)}}</ref>
+* [[Patsy Walker|Patsy Walker/Hellcat]] - In Christopher Cantwell's run of ''Iron Man'', Patsy serves as Tony's love interest. Tony even proposes to her, though she turns him down. <ref>{{cite web|url=https://screenrant.com/iron-man-hellcat-love-interest-reason-comics/|title = Hellcat}}</ref>
+
+==Allies==  <!-- time-order-logic-justice -->
+<!-- alphabetical order -->
+
+{{div col|colwidth=22em}}
+* [[The Avengers (comics)|The Avengers]]
+** [[Captain America]]
+** [[Thor (Marvel Comics)|Thor]]
+** [[Hank Pym]]
+** [[Wasp (comics)#Nadia Pym|Wasp (Nadia Pym)]]
+** [[Hulk]]
+** [[Quicksilver (comics)|Quicksilver]]
+** [[Scarlet Witch]]
+** [[Hawkeye (Clint Barton)|Hawkeye]]
+** [[Black Panther (character)|Black Panther]]
+** [[Black Widow (Natasha Romanova)]]
+** [[Falcon (comics)|Falcon]]
+** [[Mar-Vell]]
+** [[Captain Marvel (Marvel Comics)|Captain Marvel]]
+** [[Ant Man|Scott Lang]]
+** [[Vision (Marvel Comics)|Vision]]
+** [[Hercules (Marvel Comics)|Hercules]]
+** [[Black Knight (Marvel Comics)|Black Knight]]
+** [[Blade (comics)|Blade]]
+** [[Robbie Reyes]]
+* [[S.H.I.E.L.D.]]
+** [[Nick Fury]]
+** [[Maria Hill]]
+** [[Jasper Sitwell]]
+* [[West Coast Avengers]]
+** [[Hawkeye (Clint Barton)|Hawkeye]] 
+** [[Mockingbird (Marvel Comics)|Mockingbird]]
+** [[Wonder Man]]
+** [[Thing (comics)|The Thing]]
+** [[Hank Pym]]
+** [[Moon Knight]]
+** [[Firebird (Marvel Comics)|Firebird]]
+** [[Wasp (comics)|The Wasp]]
+** [[Scarlet Witch]]
+** [[Vision (Marvel Comics)|Vision]]
+** [[U.S. Agent (comics)|U.S. Agent]]
+** [[Human Torch (android)|Human Torch]]
+** [[Quicksilver (comics)|Quicksilver]]
+** [[Machine Man]]
+** [[Living Lightning]]
+** [[Julia Carpenter|Spider-Woman]]
+** [[Darkhawk]]
+* [[List of Avengers members#Mightty Avengers (2008)|Mighty Avengers]]
+** [[Ms. Marvel]]
+** [[Wonder Man]]
+** [[Black Widow (Natasha Romanova)|Black Widow]]
+** [[Sentry (Robert Reynolds)|Sentry]]
+** [[Ares (Marvel Comics)|Ares]]
+* [[The New Avengers (comics)|New Avengers]]
+** [[Captain America]]
+** [[Luke Cage]]
+** [[Spider-Man]]
+** [[Wolverine (character)|Wolverine]]
+** [[Sentry (Robert Reynolds)|Sentry]]
+** [[Echo (Marvel Comics)|Echo]]
+** [[Spider-Woman]]
+** [[Dr Strange]]
+** [[Iron Fist (comics)|Iron Fist]]
+** [[Ronin (Marvel Comics)|Ronin]]
+* [[Fantastic Four]] / [[Future Foundation]] 
+** [[Mister Fantastic|Mister Fantastic (Reed Richards)]]
+** [[The Thing (comics)|The Thing (Ben Grimm)]]
+** [[Invisible Woman|Invisible Woman (Susan Storm)]]
+** [[Human Torch|Human Torch (Johnny Storm)]] 
+** [[Franklin Richards (comics)|Franklin Richards]]
+** [[Valeria Richards]]
+* [[Illuminati (comics)|Illuminati]]
+** [[Mister Fantastic|Mister Fantastic (Reed Richards)]]
+** [[Black Bolt]]
+** [[Doctor Strange]]
+** [[Black Panther (character)|Black Panther]]
+** [[Professor Xavier]]
+** [[Namor]]
+** [[Beast (comics)|Beast]]
+* [[Guardians of the Galaxy]]
+** [[Star-Lord]]
+** [[Gamora]]
+** [[Rocket Raccoon]]
+** [[Drax the Destroyer]]
+** [[Groot]]
+** [[Mantis (Marvel Comics)|Mantis]]
+** [[Moondragon]]
+* [[Force Works]] <!-- Leader of the team. Force Works maintained a different outlook than the Avengers, trying to preempt natural and man-made disasters-->
+** [[War Machine]]
+** [[Century (comics)|Century]]
+** [[Cybermancer]]
+** [[Moonraker (comics)|Moonraker]]
+** [[Scarlet Witch]]
+** [[Julia Carpenter|Spider-Woman (Julia Carpenter)]]
+** [[U.S. Agent (comics)|U.S. Agent]]
+** [[Daisy Johnson|Quake]]
+** [[Mockingbird]]
+** [[Wonder Man]]
+* [[The Avengers (comics)|All New All Different Avengers]]
+** [[Captain America (comics)|Falcon]]
+** [[Jane Foster (comics)|Jane Foster]]
+** [[Ms. Marvel (Kamala Khan)|Kamala Khan]]
+** [[Nova (Sam Alexander)]]
+** [[Spider-Man (Miles Morales)|Miles Morales]]
+{{div col end}}
+
+==See also==
+* [[List of Iron Man enemies]]
+* [[List of Captain America enemies]]
+
+== References ==
+{{Reflist}}
+
+{{Iron Man}}
+
+{{DEFAULTSORT:Iron Man supporting characters, List Of}}
+[[Category:Iron Man characters|supporting]]
+[[Category:Lists of Marvel Comics characters]]
+[[Category:Lists of supporting characters in comics]]

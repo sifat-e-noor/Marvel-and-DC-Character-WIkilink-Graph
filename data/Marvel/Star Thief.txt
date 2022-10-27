@@ -1,0 +1,366 @@
+{{short description|Fictional team from Marvel Comics}}
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|image               = New Warriors Volume 5 Issue 1 (2014) Variant Cover by Marcus To.jpg
+|imagesize           = <!-- default 250 -->
+|caption             = Cover art for ''New Warriors'' (vol 5) #1 by [[Marcus To]]
+|publisher           = [[Marvel Comics]]
+|debuthead           = 
+|debut               = ''[[Thor (Marvel Comics)|The Mighty Thor]]'' #411 (Cameo), #412 (Full)
+|debutmo             = December
+|debutyr             = 1989 
+|creators            = [[Tom DeFalco]] (writer)<br>[[Ron Frenz]] (artist)
+|group               = y
+|type                = Team
+|business            = 
+|organisation        = 
+|organization        = y
+|team                = 
+|base                = 
+|owners              = 
+|employees           = 
+|members             = '''Current Roster:'''<br>Haechi<br>[[Hummingbird (comics)|Hummingbird]]<br>[[Vance Astrovik|Justice]]<br>[[Nova (Sam Alexander)|Nova]]<br>[[Kaine Parker|Scarlet Spider]]<br>[[Robbie Baldwin|Speedball]]/Penance<br>[[Sun Girl (Marvel Comics)#Sun Girl #2|Sun Girl]]<br>[[Silhouette (comics)|Silhouette]]<br>Water Snake
+|fullroster          = [[List of New Warriors members|New Warriors members]]
+<!-- Series section -->
+|title               = The New Warriors
+|cvr_image           = <!-- filename format only -->
+|cvr_caption         = 
+|schedule            = Monthly
+|format              = '''(vol. 1–2, 4, 5)'''<br>[[Ongoing series]]<br>'''(vol. 3)'''<br>[[Limited series (comics)|Limited series]]
+|limited             = y
+|ongoing             = y
+|Superhero           = y
+|pub_series          = 
+|1stishhead          = vol. 1
+|1stishyr            = 1990
+|1stishmo            = July
+|endishyr            = 1996 
+|endishmo            = September
+|1stishhead1         = vol. 2
+|1stishyr1           = 1999
+|1stishmo1           = October
+|endishyr1           = 2000
+|endishmo1           = July
+|1stishhead2         = vol. 3
+|1stishyr2           = 2005
+|1stishmo2           = August 
+|endishyr2           = 2006
+|endishmo2           = February
+|1stishhead3         = vol. 4
+|1stishyr3           = 2007
+|1stishmo3           = August 
+|endishyr3           = 2009
+|endishmo3           = March
+|1stishhead4         = vol. 5
+|1stishyr4           = 2014
+|1stishmo4           = February
+|endishyr4           = 2015
+|endishmo4           = January
+|issues              = '''(vol. 1)''':<br>75 + 4 annuals + 1 ashcan<br>'''(vol. 2)''':<br>10 + 1 Wizard exclusive<br>'''(vol. 3)''':<br>6<br>'''(vol. 4)''':<br>20<br>'''(vol. 5)''':<br>12
+|main_char_team      = 
+|writers             = '''(vol. 1)''':<br>[[Fabian Nicieza]]<br>[[Evan Skolnick]]<br>'''(vol. 2)''':<br>[[Jay Faerber]]<br>'''(vol. 3)''':<br>[[Zeb Wells]]<br>'''(vol. 4)''':<br>[[Kevin Grevioux]]<br>'''(vol. 5)''':<br>[[Christopher Yost]]
+|artists             = 
+|pencillers          = '''(vol. 1)''':<br>[[Mark Bagley]]<br>[[Darick Robertson]]<br>[[Patrick Zircher]]<br>'''(vol. 2)''':<br>Steve Scott<br>[[Jamal Igle]]<br>'''(vol. 3)''':<br>[[Skottie Young]]<br>'''(vol. 4)''':<br>Paco Medina<br>Reilly Brown<br>'''(vol. 5)''':<br>[[Marcus To]]<br>Nick Roche
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = New Warriors Classic: Volume 1
+|ISBN                = 0-7851-3742-4
+<!-- Category section -->
+|cat                 = teams
+|subcat              = Marvel Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = New Warriors
+}}
+The '''New Warriors''' is a fictional [[superhero]] team appearing in [[American comic book]]s published by [[Marvel Comics]]. They traditionally consisted of teenage and young adult heroes, and were often seen to serve as a junior counterpart to [[Avengers (comics)|The Avengers]] in much the same way that the [[New Mutants]]/[[X-Force]] did with the [[X-Men]]. They made a cameo appearance in ''[[Thor (Marvel Comics)|The Mighty Thor]]'' #411 (December 1989) and made their full debut in ''The Mighty Thor'' #412.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=256}}</ref> Over the years, the New Warriors, in their various incarnations, have been featured in five different volumes.
+
+The New Warriors team was created by editor [[Tom DeFalco]], who brought together existing Marvel characters [[Firestar (Marvel Comics)|Firestar]], [[Vance Astrovik|Marvel Boy]], [[Namorita]], [[Nova (Richard Rider)|Nova]], and [[Robbie Baldwin|Speedball]], and added the newly created [[Night Thrasher (Dwayne Taylor)|Night Thrasher]]. Through the 75-issue comic series, the team fought adversaries, including the second [[Sphinx (Marvel Comics)#Meryet Karim|Sphinx]], the Folding Circle, and even the [[Fantastic Four]]. Over time, the team was joined by [[Silhouette (comics)|Silhouette]], [[Rage (comics)|Rage]], [[Hindsight (comics)|Hindsight Lad]], [[Donyell Taylor|Bandit]], [[Timeslip (comics)|Timeslip]], [[Cloak and Dagger (comics)|Dagger]], [[Darkhawk]], [[Alex Power|Powerpax]], [[Turbo (comics)|Turbo]], and the [[Scarlet Spider]].
+
+The second volume of ''New Warriors'' was published in 1999–2000 and ran for 11 issues before being cancelled. This team consisted of Namorita, Nova, Speedball, and Turbo, joined by new members [[Chris Bradley|Bolt]] and [[Aegis (Trey Rollins)|Aegis]].
+
+The third volume of the ''New Warriors'' was a six-issue mini-series that sees the superhero team cast as the stars of their own reality TV show. Night Thrasher, Nova, and Speedball were joined by [[Microbe (comics)|Microbe]] and [[Debrii]]. The New Warriors are at the center of a televised fight against a number of super villains in [[Stamford, Connecticut]], where [[Nitro (comics)|Nitro]] explodes, killing 612 people including several members of the New Warriors. The incident was one of the sparks that led to Marvel's ''[[Civil War (comics)|Civil War]]'' crossover in 2006 and 2007.
+
+The fourth ''New Warriors'' series saw Night Thrasher gather a group of former mutants and replace their lost superpowers with technology. The comic book was published from 2007 to 2009 and lasted for 20 issues. The story reveals that Night Thrasher is the original Night Thrasher's brother, formerly known as Bandit, who wants to travel back in time and change the events at Stamford that killed his brother. When they try to travel back in time, the team ends up in a dystopic future where the original Night Thrasher is a ruthless dictator. The New Warriors return to their own time and disband.
+
+The fifth ''New Warriors'' series was launched as part of the ''[[All-New Marvel NOW!]]'' initiative in 2014. The book lasted for 12 issues before being cancelled. The story saw original New Warriors members Justice (formerly Marvel Boy), Speedball, and Silhouette return to team up with the new [[Nova (Sam Alexander)|Nova]], [[Scarlet Spider]], [[Hummingbird (comics)|Hummingbird]], [[Sun Girl (Marvel Comics)#Sun Girl #2|Sun Girl]], Haechi and Water Snake.
+
+==General publication history==
+The New Warriors first appeared in issues 411 and 412 of the [[Marvel Comics]] title ''[[Thor (Marvel Comics)|The Mighty Thor]]''. The team was compiled by writer/editor [[Tom DeFalco]], consisting of the young superheroes [[Firestar (Marvel Comics)|Firestar]], [[Vance Astrovik|Marvel Boy]], [[Namorita]], [[Nova (Richard Rider)|Nova]] and [[Robbie Baldwin|Speedball]], all of whom were once featured in solo series or were [[supporting character]]s in more established series. To this mix DeFalco added [[Night Thrasher (Dwayne Taylor)|Night Thrasher]], an original character to serve as the team's founder and leader. The New Warriors were not [[sidekick]]s, as some prior teen superhero teams had been.
+
+The New Warriors were featured in an eponymous series from 1990 until 1996, written by [[Fabian Nicieza]] with art by [[Mark Bagley]]. Nicieza wrote the series for the first 53 issues. The series lasted for 75 issues and four annuals, spinning off a number of titles, including mini-series featuring Night Thrasher and Marvel Boy (by then renamed Justice) and ongoing series with Nova and Night Thrasher.
+
+A short-lived revival was launched in 1999, lasting for ten issues, and a [[Limited series (comics)|mini-series]] followed in 2005. In the mini-series, the New Warriors agreed to star in a [[reality television]] show to fund their team. A fourth series was launched in June 2007, spinning off of events in the ''[[Civil War (comics)|Civil War]]'' crossover.
+
+A new ongoing series started in February 2014, where a new team of New Warriors was brought together by the threat of the [[High Evolutionary]] who intended to eliminate the super-powered population of Earth.
+
+==''The New Warriors'' (vol. 1)==
+
+===Fictional team history===
+Dwayne Taylor, the vigilante known as [[Night Thrasher (Dwayne Taylor)|Night Thrasher]] meticulously researches a group of young heroes to help him wage a war on crime. They are Vance Astrovik aka [[Vance Astrovik|Marvel Boy]], Angelica Jones aka [[Firestar (Marvel Comics)|Firestar]] and [[Nova (Richard Rider)|Richard Rider]], who at that time believed he had been depowered after quitting the Nova Corps. During their first battle with [[Terrax]], a former herald of [[Galactus]], they are joined by Robbie Baldwin aka [[Robbie Baldwin|Speedball]] and [[Namorita]]. They defeat Terrax, but the [[Avengers (comics)|Avengers]] unintentionally end up taking the credit. The team decides to stay together and Speedball dubs them the New Warriors after a news report he had seen on the battle.<ref>''New Warriors'' #1</ref>
+
+The newly created team gets involved in a fight between [[Thor (Marvel Comics)|Thor]] and [[Juggernaut (comics)|Juggernaut]],<ref>''Thor'' #411–412</ref> helping Thor to send the Juggernaut to another dimension. In the team's second issue Night Thrasher's past comes back to haunt him as the brother and sister team of [[Midnight's Fire]] and [[Silhouette (comics)|Silhouette]] is introduced. Next, the corporation Genetech hires the [[Mad Thinker]] to gather information on the New Warriors in order to create their own superhumans, resulting in their battle with Genetech's team of superhumans, [[Psionex]].<ref>''New Warriors'' (vol. 1) #3–4</ref> The Warriors travel to stop a superhuman named [[Star Thief]] that is destroying space launches, with Firestar, Marvel Boy and Namorita ending up on the Moon with the [[Inhumans]]. The Team minus Night Thrasher travels to Brazil to rescue Speedball's mother from an environmental terrorist group and battle the [[Force of Nature (comics)|Force of Nature]]. Night Thrasher stays behind to patch things up with Silhouette and confronts the [[Punisher]]. Upon the Warriors return to New York, their headquarters (the Ambrose building) is trashed in a battle with the [[Hellions (Marvel Comics)|Hellions]] for the claim of Firestar.<ref>''New Warriors'' (vol. 1) #5–10</ref>
+
+===="Forever Yesterday"====
+Their next adventure involves the transforming of the world into an alternate one at the whim of [[Sphinx (Marvel Comics)#Meryet Karim|Meryet Karim]], the second [[Sphinx (Marvel Comics)|Sphinx]] as seen in the ''Forever Yesterday'' storyline. This alternate world involved Egypt becoming a super-power and the formation of the United States of Assyria where that reality's Avengers served as Meryet's government task force. This is undone by the New Warriors Nova, Marvel Man (Marvel Boy's alternate counterpart), Firestar, and Dwayne Taylor (who is not Night Thrasher in this reality).<ref>''New Warriors'' (vol. 1) #10–13</ref>
+
+====Folding Circle====
+The New Warriors, together with a few Psionex members, the [[Fantastic Four]], and the [[Silver Surfer]], fight a revitalized Terrax sometime after.<ref>''New Warriors'' (vol. 1) #15–17</ref> Around this time, [[Silhouette (comics)|Silhouette]] joins, and the New Warriors meet Avenger [[Rage (comics)|Rage]] and solo hero [[Darkhawk]]. [[Left Hand (comics)|The Left Hand]] has also begun collecting random superpowered individuals for a team he names the Folding Circle, one member being Silhouette's brother [[Midnight's Fire]].
+
+The Warriors also fought the [[Fantastic Four]] when Marvel Boy, who was under the [[Puppet Master (Marvel Comics)|Puppet Master's]] control, kidnapped the Puppet Master's daughter [[Alicia Masters]]. The Puppet Master knew something was wrong with her. It was later revealed that a Skrull, [[Lyja]] had been impersonating Alicia.
+
+Night Thrasher discovers his company, the Taylor Foundation, is involved in illegal dealings and sets out to find the truth. In the process, he discovers that his legal guardian, [[Andrew Chord]], has been betraying him for an unidentified period of time. The team confronts the mutant immortal [[Gideon (comics)|Gideon]] concerning his involvement and he handily defeats and tortures them before giving them the information they seek. Shortly thereafter, the team comes to a moral crossroads in a mission involving cocaine traffickers, and Thrasher leaves the team. Night Thrasher then comes into contact with the Folding Circle.<ref>''New Warriors'' (vol. 1) #18–23</ref>
+
+Returning home after the confrontation with Gideon, Marvel Boy accidentally kills his father when his father attacks him (as he has done in the past). Marvel Boy is arrested and found guilty of [[negligent homicide]], while Firestar reveals her love for him.<ref>''New Warriors'' (vol. 1) #20–25</ref>
+
+With previously unrevealed abilities, [[Tai (comics)|Tai]] (Thrasher's surrogate mother) confronts and seemingly kills [[Silhouette (comics)|Silhouette]]. Silhouette survives and assembles the remaining New Warriors. They learn from Chord of a mystical plot to take control of the world in Cambodia, and they recruit [[Rage (comics)|Rage]] and [[Darkhawk]] to help them. The Folding Circle also travels to Cambodia. The New Warriors (with later help of the Folding Circle) fight Tai, who reveals her plans for world domination. Tai is defeated and sacrificed in a mystical well along with the Left Hand. In the end, Thrasher rejoins the Warriors.<ref>''New Warriors'' (vol. 1) #21–25</ref>
+
+After the adventure Rage is kicked out of the Avengers and Speedball invites him to join the New Warriors. Meanwhile, just having been convicted of his father's murder, Marvel Boy is being escorted to the [[Vault (Marvel Comics)|Vault]] via a [[Guardsman (comics)|Guardsman]]-guarded prison van. Namorita, Nova, and Firestar try to free him from the van, but he refuses, determined to serve his sentence. Firestar and Marvel Boy share one last moment and declare their love for one another.<ref>''New Warriors'' (vol. 1) #26</ref>
+
+====Namorita as leader====
+[[Night Thrasher (Dwayne Taylor)|Night Thrasher]] leaves the team to put the Taylor Foundation in order, and [[Namorita]] assumes leadership. The team meet [[Turbo (comics)|Turbo]] (Michiko "Mickey" Musashi),<ref>''New Warriors'' (vol. 1) #27</ref> and get involved in the civil war in the country Trans-Sabal. Although they eventually retreat, the actions of the Warriors (most notably Namorita) have not helped the country.<ref>''New Warriors'' (vol. 1) #29–30</ref> Meanwhile, [[Silhouette (comics)|Silhouette]] has gone missing and [[Robbie Baldwin|Speedball]]'s parents split up. Speedball moves to New York with his mother to be closer to the New Warriors.
+
+The team faces the new villain [[Asylum (comics)|Darkling]] and meet [[Cloak and Dagger (comics)|Cloak and Dagger]] and a second [[Turbo (comics)|Turbo]] (Michael Jeffries).<ref>''New Warriors Annual'' #3, ''New Warriors'' (vol. 1) #32–34</ref> [[Vance Astrovik|Marvel Boy]] adapts to prison life and becomes good friends with the guards, most notably the man who would become [[Hybrid (Scott Washington)|Hybrid]]. Marvel Boy helps find a compromise between the inmates and the [[Vault (Marvel Comics)|Vault]] staff, quelling an inmate uprising.<ref>''New Warriors'' (vol. 1) #36</ref> Meanwhile, Carlton LaFroyge ([[Hindsight (comics)|Hindsight Lad]]), Speedball's new neighbor, blackmails him into giving him Warriors membership after Carlton discovers Speedball's secret identity.<ref>''New Warriors'' (vol. 1) #36–37</ref>
+
+Some time afterward, Namorita has a [[one-night stand]] with Kimeiko Ashu, a former adversary of Night Thrasher (unknown to her at that time). Ashu steals Namorita's address book, discovers the secret identities of the Warriors and kidnaps their families. [[Rage (comics)|Rage]]'s grandmother, the last member of his family, accidentally dies. In retaliation, Rage kills Ashu.<ref>''New Warriors'' (vol. 1) #37–38, ''Night Thrasher'' #1</ref> Night Thrasher justifies Rage's actions in court and the judge rules in Rage's favor and he is released into [[Andrew Chord|Chord]]'s custody. Namorita leaves the team, feeling guilty.<ref>''New Warriors'' (vol. 1) #39</ref>
+
+[[Nova (Richard Rider)|Nova]] is attacked by [[Supernova (Marvel Comics)|Garthan Saal]], a [[Nova Corps|Nova]] centurion, and after a conflict between the Warriors, Saal, [[Firelord (comics)|Firelord]], [[Air-Walker]], and a power-mad Nova, Xandar is restored. Nova is promoted to the rank of Centurion Prime and allowed to return to Earth to continue his activities as a superhero.<ref>''New Warriors'' (vol. 1) #40–42</ref>
+
+Meanwhile, Namorita faces trouble in [[Atlantis (Marvel Comics)|Atlantis]], and is captured. Her body is undergoing a cellular change, as a result of her being a clone, into a blue-skinned Atlantean. After a conversation with [[Namor]], she renames herself Kymaera and decides to rejoin the New Warriors. Later, Marvel Boy is released on parole, but after anti-mutant attacks on his mother, decides not to rejoin the New Warriors, instead joining [[Shinobi Shaw]] and the [[Upstarts (comics)|Upstarts]] (as planned by him and Thrasher) and renaming himself Justice.<ref>''New Warriors'' (vol. 1) #43–44</ref>
+
+===="Child's Play"====
+{{main|Child's Play (comics)}}
+Soon after, the "[[Child's Play (comics)|Child's Play]]" arc begins, with the Upstarts going on what is called the Younghunt, a mission to capture all of the surviving [[New Mutants]] (who are by then called [[X-Force]]) and [[Hellions (Marvel Comics)|Hellions]]. This competition brings the Upstarts into conflict with the Warriors ([[Firestar (Marvel Comics)|Firestar]] is a former Hellion) and X-Force. The Upstarts capture most of their targets, but [[Husk (comics)|Paige Guthrie]] convinces the [[Gamesmaster (comics)|Gamesmaster]] to play another game: instead of killing mutants, the Upstarts should try to find and train young mutants like her. The Gamesmaster is intrigued and cancels the competition.<ref>''New Warriors'' (vol. 1) #45–46, ''X-Force'' (vol. 1) #32–33</ref>
+
+===="Time And Time Again"====
+Shortly thereafter, the original Sphinx returns, stealing a portion of the power held by Meryet Karim. New Warriors had earlier encountered her in ''New Warriors'' #10–13. Anath-Na Mut plans his revenge against the Warriors, transporting away its eight active members ([[Firestar (Marvel Comics)|Firestar]], [[Vance Astrovik|Justice]], [[Namorita|Kymaera]], [[Night Thrasher (Dwayne Taylor)|Night Thrasher]], [[Nova (Richard Rider)|Nova]], [[Rage (comics)|Rage]], [[Silhouette (comics)|Silhouette]] and [[Robbie Baldwin|Speedball]]) to different places in the time-stream. In response, [[Hindsight (comics)|Hindsight Lad]] and [[Donyell Taylor|Bandit]] gather a new team of Warriors ([[Cloak and Dagger (comics)|Dagger]], [[Darkhawk]], [[Alex Power|Powerpax]] and [[Turbo (comics)|Turbo]]) to go and rescue the others with the aid of Meryet. They succeed and the two teams of Warriors combat the Sphinx together, who surrenders after learning of his own true nature and finally accepts Meryet's ages-old offer of love. They merge into one composite being and depart into the time-stream to begin their life together anew.<ref>''Nova'' (vol. 2) #6–7, ''New Warriors'' (vol. 1) #47–50, ''Night Thrasher'' (vol. 2) #11–12</ref> In ''New Warriors'' #51 the team is restructured as the [[Mad Thinker]] again advises the team, especially on the difficulties of growing up as individuals as a team. The main team is made up of the six original founders (Firestar, Justice, Kymaera, Night Thrasher, Nova, and Speedball). Rage. Hindsight Lad, Dagger and Alex Power become reserve members. Bandit and Silhouette leave the team.
+
+Later, they face the [[Psionex]] team again and travel to the country of Zaire, where the team is captured by the Soldiers of Misfortune.<ref>''New Warriors'' (vol. 1) #52–53</ref> At the end of the battle Kymeara is brainwashed and teleports away along with the villains.<ref>''New Warriors'' (vol. 1) #54–56</ref> Night Thrasher and Rage leave the team after a falling out over their absence on the team's previous mission, and the team also fights an enraged [[Namor]], who eventually decides to help the team in their search for Kymeara.<ref>''New Warriors'' (vol. 1) #57</ref>
+
+The Warriors help out with a UN peace conference, assisted by [[Sabra (comics)|Sabra]]. Nova loses his powers and Turbo and Alex Power become full members while Hindsight Lad becomes simply Hindsight. Night Thrasher and Rage decide to train Psionex.<ref>''New Warriors'' (vol. 1) #58–60</ref> Next, the team involves themselves into "[[Clone Saga#Establishing Ben Reilly as Spider-Man|Maximum Clonage]]", fighting and capturing [[Helix (Marvel Comics)|Helix]]. The [[Ben Reilly|Scarlet Spider]] joins the team afterwards.<ref>''New Warriors'' (vol. 1) #61–62, ''Spider-Man: Maximum Clonage Alpha''</ref>
+
+The team faces Psionex again, now led by former Warrior Night Thrasher, and also deal with a young girl, [[Timeslip (comics)|Rina Patel]], who has seen a vision of the future in which Speedball dies.<ref>First appearance of Timeslip in ''New Warriors'' (vol. 1) #59 and tracking down the Warriors since #60</ref> Speedball has had trouble controlling his powers.<ref>''New Warriors'' (vol. 1) #63–64</ref> They are almost able to retrieve Kymaera from the Soldiers of Misfortune, but fail.<ref>''New Warriors'' (vol. 1) #65</ref> The team next deal with an [[Scarlet Spider#Joe Wade|impostor Scarlet Spider]] after the real Scarlet Spider replaces [[Spider-Man]].<ref>''Web of Scarlet Spider'' #3–4, ''New Warriors'' (vol. 1) #67</ref>
+
+===="Future Shock"====
+Eventually, the team comes into contact with the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]], who are searching for [[Robbie Baldwin|Speedball]], calling him a time anomaly, before they disappear again. The original Sphinx returns, citing the same reasons, and kills Speedball. Another player, Advent, comes into play, killing all of the Warriors but [[Timeslip (comics)|Timeslip]]. Advent is a time-traveler, trying to alter time so that the future will be molded to his own wish. His son, Darrion Grobe seeks to stop him, and creates a duplicate of Speedball's body from when he was trapped in the kinetic dimension during "Time And Time Again", so that he can travel to the first alteration point, leaving the actual Speedball in the kinetic dimension, meaning that Darrion Grobe replaced Speedball from ''New Warriors'' (vol. 1) #50 and onwards. Instead of dying, the New Warriors are transported to the year 2092, where they have seven minutes to save themselves before reality is unmade and stop Advent. Meanwhile, the Sphinx takes care of Advent in 1996, thereby stopping Advent in 2092 as well. The New Warriors are led into the kinetic dimension by a hologram of Darrion Grobe, and with the help of Timeslip and the real Speedball, are able to return to their proper time.<ref>''New Warriors'' (vol. 1) #68–71</ref>
+
+====Volume's end====
+[[File:NW75.jpg|thumb|150px|left|Cover to ''New Warriors'' #75, the double-sized finale to the series' run. Pencils by [[Patrick Zircher]].]]
+Later, a rogue faction of [[Hydra (comics)|HYDRA]] reveals that it has been living in the team's basement even before the team moved in, but they are stopped by the combined actions of the Warriors and the [[Avengers (comics)|Avengers]].<ref>''New Warriors'' (vol. 1) #72</ref> [[Helix (Marvel Comics)|Helix]] and [[Turbo (comics)|Turbo]] (Michiko) both decide to leave, but Turbo is confronted by a man called Dan Jones, who has come to reclaim the Torpedo suit the Turbos wear. Dan Jones is in fact the last [[Dire Wraith]] Volx, an enemy the Warriors fought against before and who killed the other Turbo (Mike). Volx claims the suit and kidnaps [[Smartship Friday|Friday]] (the Kymellian spaceship which is not only an ally of [[Power Pack]], but also of the Warriors).
+
+With the help of the [[Mad Thinker|Thinker]], [[Night Thrasher (Dwayne Taylor)|Night Thrasher]] and [[Rage (comics)|Rage]] rescue [[Namorita]] from the Soldiers of Misfortune, while the Warriors join forces with [[Supernova (Marvel Comics)|Garthan Saal]] to stop Volx, almost leading to the death of Friday. During the adventure, [[Firestar (Marvel Comics)|Firestar]] asks [[Vance Astrovik|Justice]] to marry her, to which he happily agrees. Night Thrasher, Rage, and Namorita join their former teammates, thanks to the Thinker. Garthan Saal sacrifices himself against Volx, transferring his powers to [[Nova (Richard Rider)|Nova]]. Eventually, the reunited New Warriors defeat Volx, at the cost of [[Timeslip (comics)|Timeslip]]'s powers. Timeslip sabotages the power neutralizer Volx meant to use to rid every superhuman on Earth of their powers. Turbo decides to use the suit to continue on in Mike's honor, and offers Hindsight the chance to share it with her as Mike did. [[Alex Power]] decides to leave the team, believing that Power Pack could've defeated Volx without nearly destroying Friday. Night Thrasher, Namorita, and Rage rejoin the Warriors as old grudges are mended and the team comes full circle.<ref>''New Warriors'' (vol. 1) #73–75</ref> During a mission involving a [[Badoon]] invasion sometime later, [[Ultra Girl]] and [[Slapstick (comics)|Slapstick]] help out the Warriors and are made members.<ref>As revealed within ''Avengers: The Initiative'' #10</ref>
+
+==''The New Warriors'' (vol. 2)==
+[[File:New Warriors 1 (1999).jpg|thumb|right|150px|''New Warriors'' (vol. 2) #1 (October, 1999)]]
+
+===Publication history===
+A short-lived relaunch began in 1999 and ran for 11 issues. It was written by [[Jay Faerber]] and pencilled by a variety of artists, including Steve Scott, [[Karl Kerschl]] and [[Jamal Igle]]. Faerber and Igle would go on to collaborate on several other projects. Original members [[Namorita]], [[Nova (Richard Rider)|Nova]], and [[Robbie Baldwin|Speedball]] were joined by returning member [[Turbo (comics)|Turbo]] and new members [[Chris Bradley|Bolt]] and [[Aegis (Trey Rollins)|Aegis]]. The last was an all-new character, reminiscent of Night Thrasher. A promotional issue #0 was given away with ''[[Wizard (magazine)|Wizard Magazine]]''.
+
+===Fictional team history===
+[[Robbie Baldwin|Speedball]] tries to assemble a new team after they disbanded (between the first and second volume), but initially fails. [[Namorita]] and [[Nova (Richard Rider)|Nova]] arrive to cheer him up when they are called in to fight [[Blastaar]], and they are quickly aided by [[Chris Bradley|Bolt]], [[Firestar (Marvel Comics)|Firestar]], [[Vance Astrovik|Justice]], [[Turbo (comics)|Turbo]], and new hero [[Aegis (Trey Rollins)|Aegis]]. Although Justice and Firestar decline to rejoin the team, the other heroes agree to reform the New Warriors.<ref>''New Warriors'' (vol. 2) #1</ref> Shortly thereafter, they fight the Eugenix group, who try to kill Namorita for being a clone.<ref>''New Warriors'' (vol. 2) #2</ref>
+
+They next involve themselves in a gang war, at the behest of Aegis. This leads to their headquarters being destroyed and the team being ambushed by [[Heavy Mettle]]. This group of villains had been hired by Joe Silvermane, the former [[Blackwing (character)|Blackwing]]. They move into a new headquarters, a firehouse supplied by a firefighter named Dalton Beck (who is actually the villain Firestrike) as a ploy by Silvermane so that he can attain Turbo's suit.<ref>''New Warriors'' (vol. 2) #3–4</ref> They also team up with [[Generation X (comics)|Generation X]] to stop the new villain Biohazard.<ref>''New Warriors'' (vol. 2) #5</ref> After an adventure in the subway, Turbo decides to trust Dalton with her secret identity, and Firestrike hesitates, but eventually decides to not kill Turbo. She uncovers his identity as Firestrike accidentally, but he surrenders and assists the Warriors in apprehending Silvermane.<ref>''New Warriors'' (vol. 2) #6–7</ref> However, the two lovers are forced to split up as Beck enters the Federal Witness Protection Program.
+
+In Seattle, [[Night Thrasher (Dwayne Taylor)|Night Thrasher]] and [[Iron Fist (comics)|Iron Fist]] fight [[The Hand (comics)|The Hand]], which is able to kidnap Iron Fist. Night Thrasher calls in the Warriors to help him. They are able to find Iron Fist and their opponent [[Junzo Muto]], but the ritual of stealing Iron Fist's powers has already been completed. Junzo initially defeats them thanks to their lack of teamwork, but finds his match in Night Thrasher. Fatigue strikes however, and the Warriors are forced to retreat.<ref>''New Warriors'' (vol. 2) #8</ref> They next face the rogue sentient [[Iron Man's armor#Renaissance Armor ("Heroes Return")/Sentient armor|Iron Man armor]] and are promptly defeated, before it sacrifices its existence to save Tony Stark from dying.<ref>''New Warriors'' (vol. 2) #9</ref>
+
+In the last issue of the series (''New Warriors'' vol. 2, #10) the team (minus Nova and Speedball) travels to [[Olympus (Marvel Comics)|Olympus]], brought there by [[Hercules (Marvel Comics)|Hercules]], and meets [[Zeus (Marvel Comics)|Zeus]]. Aegis is accused of stealing his magical breastplate by Hercules, but it was in fact a gift from [[Athena (Marvel Comics)|Athena]]. During the following battle with Hercules, Aegis proves his worth and he is accepted by both Hercules and Zeus. Bolt also decides to reveal that he is sick with the [[Legacy Virus]] to the team. In the last pages, Night Thrasher, seeing the good the Warriors having been doing lately, decides to return to the team. He is happily accepted.
+
+==''The New Warriors'' (vol. 3)==
+[[File:Newwarriors1june2005.jpg|thumb|left|150px|''New Warriors'' (vol. 3) #1 (June, 2005)]]
+
+===Publication history===
+A six issue mini-series of the title was released starting in June 2005, written by [[Zeb Wells]] and illustrated by [[Skottie Young]]. It features the team as the stars of a reality TV show.  The line-up includes previous members [[Namorita]], [[Night Thrasher (Dwayne Taylor)|Night Thrasher]], [[Nova (Richard Rider)|Nova]] and [[Robbie Baldwin|Speedball]], along with one new character, [[Microbe (comics)|Microbe]]. A second new character, [[Debrii]], joins in issue 4. A trade paperback collection of all six issues was released in January 2006.
+
+===Fictional team history===
+
+====''Civil War''====
+{{main|Civil War (comics)}}
+The New Warriors, including [[Microbe (comics)|Microbe]], [[Namorita]], [[Night Thrasher (Dwayne Taylor)|Night Thrasher]] and [[Robbie Baldwin|Speedball]] ([[Nova (Richard Rider)|Nova]] had gone into space to play a part in Marvel's ''[[Annihilation (comics)|Annihilation]]'' storyline), take part in a televised fight with a group of supervillains. During the fight, one of the supervillains, [[Nitro (comics)|Nitro]], explodes, killing 612 people, including most of the New Warriors. This serves as the start of the ''[[Civil War (comics)|Civil War]]'' story arc.
+
+Throughout the story arc, five former New Warriors ([[Cloak and Dagger (comics)|Dagger]], [[Debrii]], [[Vance Astrovik|Justice]], [[Silhouette (comics)|Silhouette]], and [[Ultra Girl]]) join [[Captain America]]'s [[Secret Avengers]], an underground coalition of anti-registration superheroes.
+
+A listing of the Warriors on DestroyAllWarriors.com, a fictional anti-Warriors website created by [[Hindsight (comics)|Hindsight]], indicates that all of the Warriors involved in the Stamford incident have been killed. Cameraman John Fernandez is listed as well.<ref>''She-Hulk'' (vol. 2) #8</ref> The explosion throws Speedball hundreds of miles into Upstate New York. Although he survived the blast, he was depowered due to a kinetic overload.<ref>''[[Civil War: Front Line]]'' #1</ref> Two unfortunate men who found his body after the blast are accidentally killed when his body releases its stored kinetic energy.
+
+Speedball seems to be depowered, and is imprisoned, facing criminal charges for the Stamford disaster. However, he regains his powers, which are now activated whenever he experiences pain. Feeling guilty for his role in the deaths of so many people, Speedball takes on the new identity of Penance and joins the government-funded [[Thunderbolts (comics)|Thunderbolts]]. Firestar decides to retire from the superhero business altogether,<ref>''Civil War: Front Line'' #2</ref> although she later appears as a member of [[Young Allies (Marvel Comics)#Heroic Age|Young Allies]]<ref>''Onslaught Unleashed'' #1 (Released February 2011, Published April 2011)</ref> Former New Warrior Aegis appears in ''X-Factor'' #9, escaping from [[S.H.I.E.L.D.]]'s [[Superhuman Restraint Unit]] with the help of [[Jamie Madrox]].  He later dies after jumping out a window expecting his armor to protect him.<ref>''Incredible Hercules'' #127 (May 2009)</ref> Justice, Silhouette, Debrii, [[Rage (comics)|Rage]], [[Timeslip (comics)|Timeslip]], [[Alex Power|Zero-G]] and Aegis all appear on the cover of ''[[Avengers: The Initiative]]'' #1 as a part of the 142 registered superheroes.<ref>[http://www.marvel.com/news/comicstories.947 ''Avengers: The Initiative'' #1 Character Map] {{webarchive|url=https://archive.today/20120526061017/http://www.marvel.com/news/comicstories.947 |date=2012-05-26 }} at Marvel.com</ref> Justice has a prominent role in this series as trainer to the recruits.  Turbo is a member of the [[Loners]]<ref>''Runaways'' vol. 2, #1 (April 2005)</ref> and a student at the [[Avengers Academy]].<ref>''Avengers Academy'' #21 (Published November 2011, Released January 2012)</ref> [[Darkhawk]] has his amulet ripped off at Murderworld <ref>''Avengers Arena'' #3 (Released January 2013, Published March 2013)</ref> and Bolt dies at the hands of his former mentor [[David North (comics)|Agent Zero]].<ref>''Weapon X'' vol. 2, #21 (May 2004)</ref>
+
+==''New Warriors'' (vol. 4)==
+[[File:New Warriors Vol 4 issue 9 cover.jpg|thumb|right|150px|''New Warriors'' (vol. 4) #9 (April, 2008)]]
+
+===Publication history===
+In vol. 4, #2 of New Warriors, Night Thrasher tries to talk the depowered Sofia Mategna into joining the team. She refuses him and the rest of the team is seen in the shadows watching the exchange. In the next issue the team is revealed, though not all of their identities. The team is shown to be:
+
+*'''[[Barnell Bohusk|Blackwing]]''' (Barnell Bohusk)  – Bohusk is the depowered mutant known as Beak. Blackwing wears a suit based on the [[Vulture (Marvel Comics)|Vulture's]] that gives him flight, super strength and the ability to fire energy blasts.<ref>''New Warriors'' (vol. 4) #3</ref>
+*'''[[Chamber (comics)|Decibel]]''' (Jonothon "Jono" Evan Starsmore) – Starsmore is the depowered mutant known as Chamber. Decibel uses the [[Klaw (Marvel Comics)|Klaw]]'s device which gives him sonic abilities including flight, the ability to create sound constructs and the ability to fire energy blasts.
+*'''[[Tattoo (comics)|Longstrike]]''' (Christine Cord) – Cord is the depowered mutant known as Tattoo and the sister of Phaser. Longstrike wears a version of [[Stilt-Man]]'s armor that allows her to extend her limbs and grants her super strength.<ref name="nw4"/>
+*'''[[Donyell Taylor|Night Thrasher]]''' (Donyell Taylor) – Taylor is the only member of the team to be a former New Warrior. He appeared in vol. 2 as Bandit. Night Thrasher is a skilled martial artist as well as bio electric mutant.
+*'''[[Phaser (comics)|Phaser]]''' (Christian Cord) – Cord is the depowered mutant known as Radian and the brother of Longstrike. Phaser wears armor based on the [[Beetle (comics)|Beetle's]] that allows him flight and the ability to fire energy blasts. 
+*'''[[Stacy X|Ripcord]]''' (Miranda Leevald) – Leevald is the depowered mutant known as Stacy X. She is also equipped with [[Spider-Man|web shooters]], [[Leap-Frog (comics)|frog springs]], and a [[Slyde]] suit.<ref name="NW 4 #6">''New Warriors'' (vol. 4) #6</ref> 
+*'''[[Redneck (comics)|Skybolt]]''' (Vincent Stewart) – Stewart is the depowered mutant known as Redneck. Skybolt wears a version of [[Turbo (comics)|Turbo's]] armor that gives him flight and houses various weapons. 
+*'''[[Angel Salvadore|Tempest]]''' (Angel Salvadore) – Salvadore is the depowered mutant known as Angel. Tempest uses technology that gives her flight as well as fire and ice powers.<ref name="nw4">''New Warriors'' (vol. 4) #4</ref> 
+*'''[[Jubilee (comics)|Wondra]]''' (Jubilation Lee) – Lee is the depowered mutant known as Jubilee. Wondra wears the [[Wizard (Marvel Comics)|Wizard]]'s technology allowing her to manipulate gravity that grants her flight, super strength and a personal force field<ref name="New Warriors vol. 4 #2">''New Warriors'' (vol. 4) #2</ref>
+
+Grace and Kaz are also introduced in the third issue. Grace is a teenager who has a natural talent with technology. Kaz builds the weapons that Night Thrasher designs. On their first mission the team goes up against a new [[Zodiac (comics)#Fourth Zodiac|Zodiac]]. Longstrike is killed when she tries to take on this incarnation's version of [[Cancer (comics)|Cancer]].<ref name="nw4" /> In issue #6, the team reveals each of their identities to the rest of the team. This is the first time Ripcord is clearly identified as Stacy X. Night Thrasher does not reveal his identity to the team, but it is revealed to the readers at the end of the issue.
+
+Night Thrasher announces that he is breaking up the team. Sofia comes to their headquarters and joins the team after making an impassioned speech about why they should stay together. She becomes [[Wind Dancer|Renascence]]. Renascence uses six metallic tentacles that can fire energy blasts. She also uses technology that creates a force field around her.<ref>''New Warriors'' vol. 4, #7</ref> Several new characters are introduced during the series' run. They include a team of supervillains named Alphaclan.<ref>''New Warriors'' vol. 4, #9 (April 2008)</ref> In issue #10, a third teenager named Aja is introduced as part of the support staff. He is another technological expert, specializing in computers.
+
+Later in the series the team is apprehending another new supervillain team, the Dread Dealers, when they are attacked by the New Warriors Task Force, led in part by Detective Bev Sykes. During the battle, Ripcord and Skybolt are apparently killed (Stacy X shows up later with her powers in ''Vengeance'' #1).<ref>''New Warriors'' vol. 4, #16 (November 2008)</ref> The team finds out that Night Thrasher has been manipulating them all while finding artifacts necessary to make a time machine. His plan is to go back in time to stop the Stamford accident and keep his brother from dying. Instead, the team ends up in a future in which the country is run by Iron Man (who in this reality is a resurrected Dwayne Taylor) and Night Thrasher is Tony Stark.<ref>''New Warriors'' vol. 4, #17 (December 2008)</ref> Taylor kills the defenseless Stark simply because he is an "enemy of the state". Donyell ends up having to kill the brother he traveled through time to save. Once the team is back in their own time, they agree to disband.<ref>''New Warriors'' vol. 4, #20 (March 2009)</ref>
+
+===Counter Force Team===
+In the pages of ''[[Avengers: The Initiative]]'' #6 (January 2008), the team's drill instructor [[Gauntlet (comics)|Gauntlet]] is left battered with 'NW' (the New Warriors tag) sprayed on him.<ref>''Avengers: The Initiative'' #6 (January 2008)</ref> It is revealed that former New Warrior [[Slapstick (comics)|Slapstick]] attacked Gauntlet out of revenge for the man's comments about his dead friends while drilling the Initiative recruits. Unfortunately, [[Rage (comics)|Rage]] is suspected of the crime. In ''Avengers: The Initiative'' #10 (May 2008) Justice forms a team including former New Warriors [[Debrii]], Rage, Slapstick and [[Ultra Girl]].<ref>''Avengers: The Initiative'' #10 (May 2008)</ref>
+
+In ''Avengers: The Initiative'' #12, [[Vance Astrovik|Justice's]] team of New Warriors joins forces with the [[Michael Van Patrick#First clone|MVP clone]] and the surviving [[Michael Van Patrick#Scarlet Spiders|Scarlet Spiders]] as a ''Counter Force'' of underground registered heroes intent on monitoring the actions of the [[Fifty State Initiative]]. Ultra Girl decides to leave Counter Force to stay with the Initiative, telling Vance that she still believes in the Initiative.
+
+The team later partners with [[Donyell Taylor|Night Thrasher]]'s new team of Warriors to uncover the truth about the Stamford Incident and the original [[Night Thrasher (Dwayne Taylor)|Night Thrasher's]] death.<ref>''New Warriors'' vol. 4, #15 (October 2008)</ref>
+
+Following the disbandment of the last team of Warriors, Counter Force has reclaimed the ''New Warriors'' name and they have added the new Night Thrasher to their ranks. With [[Green Goblin|Norman Osborn]] taking control of the Initiative, the New Warriors return to [[Camp Hammond (comics)|Camp Hammond]] to reveal the truth of MVP's death, but they find themselves forced to defend the Initiative from the reactivated Thor clone (now called [[Ragnarok (comics)|Ragnarok]]). During the battle, the Warriors suffer another casualty when Ragnarok kills one of the Scarlet Spiders.<ref>''Avengers: The Initiative'' #22 (April 2009)</ref>
+
+The new New Warriors now call themselves the Avengers Resistance and are fugitives, being accused of releasing the clone of Thor. They work alongside [[Gauntlet (comics)|Gauntlet]] and [[Tigra]].<ref>''Avengers: The Initiative'' #26 (September 2009)</ref> The Avengers Resistance later help the Initiative team called [[Heavy Hitters (comics)|Heavy Hitters]] to secede from the program. Later,  Night Thrasher is captured and Debrii resigns from the group.<ref>''Avengers: The Initiative'' #28 (November 2009)</ref>
+
+After the events of "[[Siege (comics)|Siege]]", the Avengers Resistance becomes obsolete. Justice and Tigra become staff members of [[Avengers Academy]],<ref>''Avengers Academy'' #1</ref> while Gauntlet returns to the Army.<ref>''Age of Heroes'' #2 (June 2010)</ref>
+
+==''New Warriors'' (vol. 5)==
+
+===Publication history===
+''New Warriors'' was launched in February 2014 as part of [[All-New Marvel NOW!]] with [[Christopher Yost|Chris Yost]] as the writer and [[Marcus To]] as the main artist.<ref>{{cite web |url=http://www.newsarama.com/19234-nycc-2013-superior-spider-man-friends-live.html |title = spiderman 1 {{!}} GamesRadar+}}</ref>
+
+In this new team, [[Vance Astrovik|Justice]] and [[Robbie Baldwin|Speedball]] are returning Warriors, while [[Nova (Sam Alexander)|Nova]] (Sam Alexander), [[Scarlet Spider]] (Kaine), [[Hummingbird (comics)|Hummingbird]] (Aracely Penalba), [[Sun Girl (Marvel Comics)#Sun Girl #2|Sun Girl]] (Selah Burke), an [[The Inhumans|Inhuman]] named Haechi (Mark Sim), and an [[Atlantis (Marvel Comics)|Atlantean]] [[Water Snake (Marvel comics)|Water Snake]] (Faira Sar Namora) are among the new members.<ref name="NW v5 #1">''New Warriors'' vol. 5 #1 (February 2014)</ref> Later issues added two [[New Men (Marvel Comics)|New Men]] (Jack Waffles and Mr. Whiskers) as supporting cast and [[Silhouette (comics)|Silhouette]] as a member. ''New Warriors'' Volume 5 ended with issue 12.<ref>[http://www.comicbookresources.com/?page=article&id=54945 "Superior Foes," "New Warriors" End in November]</ref>
+
+===Fictional team history===
+Having taken the road again after renouncing their teacher jobs at [[Avengers Academy]], Speedball and Justice find themselves in the town of New Salem, Colorado, where they get into a little fight with the [[Salem's Seven]], but quickly patch things up after it is clear it was nothing more than a misunderstanding; their leader, Vertigo, explains later to Justice that the place is a haven for all people "born of magic" with Salem's Seven acting as the town's resident protectors. While the conversation deviates to Justice's and Speedball's intention of reforming the New Warriors and the difficulties that that will probably bring due the team's persisting bad reputation for their involvement in the Civil War events, they notice the teleportation arrival into the town of a trio of enigmatic figures clad in advanced armor. One of these beings declares that "the blood here is tainted" and all must be burned down.<ref name="NW v5 #1" />
+
+In the ensuing fight, these three strange individuals tell Justice of how they once tried to help [[Mutant (Marvel Comics)|mutantkind]] but were instead betrayed by the [[X-Men]]. Eventually, Speedball and the rest of the Salem's Seven are drawn into the combat, but that is still not enough to halt the mysterious assailants who declare that Robbie is also "corrupted" – "altered by an other-dimensional energy". The strangers knock out [[Salem's Seven|Brutacus]], one of the town protectors, to later take a gene sample of him "as requested by their lord". Taking advantage of their enemies' distraction, Justice manages to land a telekinetic blow on the face of the trio's leader and crack his armor, revealing him to be a hairy humanoid. As Vance tries to parley with them, the enigmatic attackers simply continue their proclamations against the town's inhabitants and mutants, arguing there is no point trying to talk as "judgement is coming", to later teleport out of town.<ref name="NW v5 #2">''New Warriors'' vol. 5 #2</ref>
+
+Armed with the scant facts they learned of their aggressors, Justice uses his telekinetic powers to propel himself and Speedball to [[Avengers Tower]] at a vertiginous velocity. They are met by an empty place with the exception of [[Edwin Jarvis]], the tower's resident butler, who informs them that the [[Avengers (comics)|Avengers]] are busy elsewhere and conducts them to the Avengers's database. There they discover a video file made by [[Cyclops (Marvel Comics)|Cyclops]] that reveals the identity of the town attackers: the [[Evolutionaries (comics)|Evolutionaries]], a group of pre-homo sapiens that had been transformed in the ancient past by [[Phastos]] of the [[Eternals (comics)|Eternals]], who gave them advanced intelligence, armor and power, and assigned them the mission to protect the most advanced human subspecies from the others; at that time, homo sapiens. But left to their own devices, the Evolutionaries had decided that the most advanced subspecies in the present were the mutants and that the best way to protect them was to annihilate the rest of humanity, a situation that the X-Men stopped.<ref name="NW v5 #2" />
+
+While pondering why the Evolutionaries had changed objectives once again, Justice and Speedball hear an alarm and the computer informs them of an emergency taking place on New York's subway system. With none else to attend to it, Justice asks Robbie if he can act as an Avenger for a day, to which Speedball responds that he won't: he will act as a [New] Warrior. They head out and arrive just in time to rescue [[Haechi (Marvel Comics)|Mark Sim]] and [[Sun Girl (Marvel Comics)#Sun Girl #2|Sun Girl]], two inexperienced heroes who had tried to stop a second group of Evolutionaries from killing the mutant [[Morlocks]] that live in New York's sewer near the subway.<ref name="NW v5 #2" /> As the enemy flees with the arrival of Speedball and Justice, a new problem arises when police arrives to the scene and the officers start to panic at Mark Sim because his appearance coincides with ill-reported accounts of witnesses (and due the general public distress at the [[Inhumans#Infinity|new Inhumans]] popping up from the general population in the aftermath of [[Thanos]]'s [[Infinity (comic book)|recent invasion of Earth]]). As a shooting starts, the four heroes escape from there through the air with Justice shielding them from the bullets.<ref name="NW v5 #3">''New Warriors'' vol. 5 #3</ref>
+
+As the four recover on the roof of a nearby building, Mark succumbs to his emotions, the incident with the police being the last's straw on a series of awful days since he gained his powers (and the horn on his head). The other three try to reassure him and calm his uncertainty at what the future holds for him. But an argument is bred between Justice and Sun Girl on differing opinions about it, which Robbie tries to broker or stop. To prove her point and to demonstrate Mark's energy absorption abilities, Sun Girl shoots the distressed young man, to the shock of Justice and Speedball. After the situation defuses, they discuss what to do with the Evolutionaries: Justice wants to leave this matter on the hands of the Avengers when they return, but Sun Girl convinces them to take care of it themselves. However, Justice wants to first find [[Nova (Sam Alexander)|Nova]], their New Warriors reservist member.<ref name="NW v5 #3" />
+
+Meanwhile, in the sunny beaches of [[Mazatlan]], Mexico, [[Hummingbird (comics)|Aracely]] and [[Kaine Parker|Kaine]] make a stop to look for food supplies after she depleted them with her constant snacking.<ref name="NW v5 #1" />
+
+Seeing that Nova doesn't answer his phone, they head back to the Salem's Seven and through their help and that of New Salem's magical inhabitants, they locate the boy. As it turns out, he along with [[Hummingbird (comics)|Hummingbird]], [[Kaine Parker|Scarlet Spider]] and [[Faira Sar Namora]] of Atlantis, were kidnapped separately by the Evolutionaries and the [[High Evolutionary]], and were held as prisoners in [[Transia|Mount Wundagore]]. Rushing, they arrive as the Evolutionaries are about to execute Nova, following his and the other prisoners' attempt to break out. Justice tries to reason with the High Evolutionary, but as this one gives a cryptic refusal and Nova reveals his plan of eliminating "mostly everyone", they opt to skip the diplomacy. A chaotic fight ensues, with the prisoners, Sun Girl, Mark and the New Warriors forming an impromptu team that manages to defeat the small army of Evolutionaries through their diverse and very different powers and abilities.<ref name="NW v5 #4">''New Warriors'' vol. 5 #4</ref>
+
+However, with his allies defeated, the High Evolutionary accelerates his plan and decides to activate the machine he was working on. Nova tries to stop him, but he is knocked unconscious by an energy blast. The others pursue the High Evolutionary and try to reanimate Nova, who manages to mumble to the team the machine's purpose – killing "people with powers". The machine begins its process, bathing the entire mountain in a pinkish light: everyone on the team is then brought down to the ground as an excruciating sensation of pain torments their bodies and minds. Everyone but Sun Girl, who is a normal non-altered human without special genes, alien ancestry or magic.<ref name="NW v5 #4" />
+
+Noticing this, the High Evolutionary approaches her politely and explains that he didn't intended for the situation to occur in that manner; before the outbreak and the fight, he was trying to use Nova's helmet to allow his machine to work more efficiently and quickly, saving its victims of any lengthy pain as they die. Also, that he took no pleasure on any of these events and, as he had stated before, he would have wanted to act differently but had no time to do so; he had been informed that the [[Celestials (comics)|Celestials]] – a group of insanely powerful, impossibly technologically advanced, almost unstoppable aliens who had manipulated life across the universe since billions of years ago for their own mysterious purposes – would come to "judge" Earth very soon. Should the Celestials find the inhabitants of a planet wanting, they would annihilate them and, allegedly, this time they expected Earth to contain only one dominant species: humanity, with no offshoots or deviations of any kind. Thus the reason the High Evolutionary created the machine to kill any mutant, inhuman, hybrid or person of any kind that could displease the Celestials.<ref name="NW v5 #4" />
+
+==''New Warriors'' (vol. 6)==
+Marvel Comics announced that on April 15, 2020, a new version of the team would appear, this time with new characters forming the New Warriors: Screentime, Snowflake, Safespace, B-Negative and Trailblazer.<ref>{{Cite web|url=https://www.marvel.com/articles/comics/introducing-the-new-new-warriors|title=Introducing the New 'New Warriors'|website=Marvel Entertainment|language=en|access-date=2020-03-20}}</ref><ref>{{Citation|title=NEW WARRIORS Trailer {{!}} Marvel Comics|url=https://www.youtube.com/watch?v=5PCWUCv1rnU|language=en|access-date=2020-03-20}}</ref> The direction of the new characters – particularly the use of pejorative internet slang in names as well as the perceived political agenda of the writing – was met with considerable backlash from online audiences.<ref>{{cite web|last1=Gramuglia|first1=Anthony|title=Why Marvel's 'New' New Warriors Have Already Sparked Backlash|url=https://www.cbr.com/new-warriors-backlash-explained/|website=CBR|date=March 19, 2020}}</ref><ref>{{cite news|last1=West|first1=Amy|title=Marvel unveils first non-binary superhero - though their name has already sparked a big backlash|url=https://www.digitalspy.com/movies/a31851425/marvel-non-binary-superhero-snowflake-backlash/|work=Digital Spy|date=March 21, 2020}}</ref>
+As of September 2022 no New Warriors comics have been released and the title has been removed from [[ComiXology]] with both Marvel and its creators refusing to comment on the future of the comic or if the series has quietly been canceled.<ref>{{Citation|title=Canceled or..? The eight 2020 Marvel titles that never came out - and the latest|url=https://www.gamesradar.com/missing-marvel-titles-2020/|work=gamesradar.com|date=May 1, 2021}}</ref>
+
+==Membership==
+{{main|List of New Warriors members}}
+
+The founding members of the New Warriors were Speedball, Night Thrasher, Namorita, Kid Nova (better known as Nova), Firestar, and Marvel Boy (currently Justice).
+
+==Enemies==
+* [[Cardinal (comics)|Cardinal]] - A mercenary whose armored suit grants him flight and super-strength.
+* Folding Circle - A group of mutates who can tap into the Universal Wellspring.
+** [[Left Hand (comics)|Left Hand]] - The leader of the Folding Circle who encompasses dark energy in his left hand.
+** [[Bloodstrike (Marvel Comics)|Bloodstrike]] - A member of the Folding Circle with super-strength.
+** [[Midnight's Fire]] - A martial artist member of the Folding Circle with enhanced senses, strength, speed, and agility.
+** [[Smiling Tiger]] - A member of the Folding Circle with razor-sharp claws.
+* [[Force of Nature (comics)|Force of Nature]] - An eco-terrorist group.
+** [[Aqueduct (comics)|Aqueduct]] - A water-manipulating villain.
+** [[Firebrand (Marvel Comics)|Firebrand]] - A villain who uses fire-based technology.
+** Silk Fever - A pyrokinetic villain.
+** [[Aireo|Skybreaker]] - An aerokinetic [[Inhumans|Inhuman]].
+** Terraformer - A creation of [[Plantman]].
+* [[Heavy Mettle]] - A supervillain team established by [[Blackwing (character)|Joseph Manfredi]].
+** Firestrike - The leader of Heavy Mettle whose suit enables him to perform fire attacks.
+** Barracuda - A supervillain whose armor grants her super-strength enables her to survive underwater.
+** [[Blackwing (character)|Blackwing]] - A female supervillain whose armor enables her to fly.
+** Riot - A supervillain whose armor enables him to produce super-strong sound-waves enough to knock a human down.
+** Stronghold - A supervillain whose armor grants him super-strength.
+** Warbow - An archery supervillain who uses special arrows for his bow.
+* [[Nitro (comics)|Nitro]] - An explosive supervillain.
+* [[Psionex]] - A group of artificially-created supervillains created by Harmon Furmintz of Genetech.
+** Asylum - An unnamed mental patient who was imbued with [[Darkforce]] energies that converted her body into a psionic mist which caused hallucinations in anyone who touched it.
+** Coronary - A medical student who became a bio-telepath, capable of inducing different bodily states on other people - vomiting, unconsciousness, etc. For some reason, his genetic alterations also gave his body a crystalline composition.
+** Impulse - A violent former gang member who was granted enhanced reflexes and speed. He wielded poisoned barbs on his gauntlets.
+** Mathemanic - A genius mathematician who received the ability to transmit mathematic figures telepathically, which can have various disabling effects.
+** [[Pretty Persuasions]] - An exotic dancer who received the ability to amplify the erotic urges of other people, and can manifest a psionic energy whip.
+* [[Ragnarok (comics)|Ragnarok]] - A cyborg clone of [[Thor (Marvel Comics)|Thor]].
+* Sea Urchin - An armored mercenary and salvager.
+* [[Skrull]] - A race of shapeshifting aliens.
+* [[Sphinx (Marvel Comics)|Sphinx]] - An ancient Egyptian magician.
+* [[Star Thief]] - A supervillain who can fly and has energy projection abilities.
+
+==Other versions==
+===New Warriors (MC2)===
+In the alternate time line known as [[Marvel Comics 2|MC2]], [[Spider-Girl (Mayday Parker)|Spider-Girl]] reforms the New Warriors<ref>''Spider-Girl'' #30 (March 2001)</ref> and fights with them. However, when Spider-Girl makes a truce with supervillains Funny Face and Angel Face, the team shuns her.
+
+The new roster includes the [[Buzz (Marvel Comics)|Buzz]], [[Darkdevil]], [[Alternative versions of the Green Goblin#MC2|Golden Goblin]], [[Raptor (Marvel Comics)#Brenda Drago|Raptor]] and the twin crime fighters sharing the identity of [[Ladyhawk (comics)|Ladyhawk]]. The team receives support from [[Normie Osborn#MC2|Normie Osborn]], including unlisted cell phones.
+
+===Wolfpack (House of M)===
+Within the House of M reality created by the [[Scarlet Witch]], [[Luke Cage#"House of M"|Luke Cage]], leader of the Human Resistant Movement, makes treaties among the rival gangs. Among them is one called the [[Wolfpack (Marvel Comics)#House of M|Wolfpack]], and the majority of its members have been New Warriors in the 616 reality. The gang's roster includes [[Darkhawk#House of M|Darkhawk]], [[Julie Power|Lightspeed]], [[Rage (comics)#House of M|Rage]], [[Robbie Baldwin#House of M|Speedball]], [[Turbo (comics)#House of M|Turbo]] and [[Alex Power#House of M|Zero-G]].<ref>From ''House of M: Avengers'' #3</ref>
+
+==Collected editions==
+{{see also|List of New Warriors issues}}
+The series have been collected into a number of [[trade paperback (comics)|trade paperbacks]]:
+
+* ''New Warriors'' (vol. 1):
+** ''Beginnings'' (collects ''The New Warriors'' (vol. 1) #1–4 and ''Thor'' #411–412), September 1992, {{ISBN|0-87135-916-2}}
+** ''New Warriors Classic: Volume 1'' (collects ''The New Warriors'' (vol. 1) #1–6 and ''Thor'' #411–412), 208 pages, August 2009, {{ISBN|0-7851-3742-4}}
+** ''New Warriors Classic: Volume 2'' (collects ''The New Warriors'' (vol. 1) #7–10, ''Annual'' #1; ''New Mutants Annual'' (vol.1) #7, ''Uncanny X-Men Annual'' #15 and ''X-Factor Annual'' (vol.1)  #6), 256 pages, May 2009, {{ISBN|0-7851-4263-0}}
+** ''New Warriors Classic: Volume 3'' (collects ''The New Warriors'' (vol. 1) #11–19 and ''Avengers'' (vol.1) #341–342), October 2011
+** ''Spider-Man and New Warriors: Hero Killers'' (collects ''New Warriors Annual'' #2, ''Amazing Spider-Man Annual'' #26, ''Web of Spider-Man Annual'' #8, ''The Spectacular Spider-Man Annual'' #12)
+** ''New Warriors: Darkness and Light'' (collects ''New Warriors'' (Vol. 1) #27–36, ''New Warriors Annual'' #3, ''Night Thrasher: Four Control'' #1–4, material from ''Marvel Holiday Special 1992''), 2018, ({{ISBN|978-1302913717}})
+** ''X-Force: Child's Play'' (''New Warriors'' #45–46), August 2012
+** ''Spider-Man: The Complete Clone Saga Epic'' Book 4 (''New Warriors'' #61), 2010, {{ISBN|978-0785149552}}
+** ''Spider-Man: The Complete Clone Saga Epic'' Book 5 (''New Warriors'' #62–64), 2011, {{ISBN|978-0785150091}}
+** ''Spider-Man: The Complete Ben Reilly Epic'' Book 1 (''New Warriors'' #65–66), 2011, {{ISBN|978-0785155454}}
+** ''Spider-Man: Clone Saga Omnibus'' Vol. 2 (''New Warriors'' #61–66), 2017, {{ISBN|978-1302907983}}
+** ''Spider-Man: The Complete Ben Reilly Epic'' Book 2 (''New Warriors'' #67), 2011
+** ''Spider-Man: Ben Reilly Omnibus'' Vol. 1 (''New Warriors'' #67), 2019, ({{ISBN|978-1302913854}})
+** ''New Warriors Omnibus Vol. 1'' (collects ''New Warriors'' (vol. 1) #1–26, ''New Warriors Annual'' #1–2, ''Avengers'' #341–342, material from ''Thor'' #411–412, ''New Mutants Annual'' #7, ''Uncanny X-Men Annual'' #15, ''X-Factor Annual'' #6, ''Amazing Spider-Man Annual'' #26, ''Spectacular Spider-Man Annual'' #12, ''Web of Spider-Man Annual'' #8)
+* ''New Warriors: Reality Check'' (collects ''The New Warriors'' (vol. 3) #1–6), 144 pages, March 2006, {{ISBN|0-7851-1661-3}}
+* ''New Warriors'' (vol. 4):
+** ''Defiant'' (collects ''New Warriors'' (vol. 4) #1–6), 144 pages, January 2008, {{ISBN|0-7851-2674-0}}
+** ''Thrashed'' (collects ''New Warriors'' (vol. 4) #7–13), 168 pages, September 2008), {{ISBN|0-7851-2675-9}}
+** ''Secret Invasion'' (collects ''New Warriors'' (vol. 4) #14–20), 176 pages, March 2009, {{ISBN|0-7851-3176-0}}
+*''New Warriors'' (vol. 5):
+**''The Kids Are All Fight'' (collects ''New Warriors'' (vol. 5) #1–6), 136 pages, August 2014, {{ISBN|0785154531}}
+**''Always and Forever'' (collects ''New Warriors'' (vol. 5) #7–12), 136 pages, January 2015), {{ISBN|078515454X}}
+
+==In other media==
+===Television===
+* The New Warriors make a cameo appearance in the ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episodes "To Battle the Living Planet" and "Doomsday", consisting of [[Darkhawk]], [[Vance Astrovik|Justice]], and [[Robbie Baldwin|Speedball]].<ref>[http://marvel.toonzone.net/fanfourtas/cameos/ ''Fantastic Four'' The Animated Series: Cameos] at ToonZone.net</ref>
+* A New Warriors-esque group appear in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''{{'}}s first two seasons, led by [[Spider-Man]] and consisting of [[Luke Cage|Power Man]], [[Nova (Sam Alexander)|Nova]], [[Iron Fist (comics)|Iron Fist]], and [[White Tiger (Ava Ayala)|White Tiger]], who are all members of [[S.H.I.E.L.D.]]'s training program for teenage superheroes. In the third season, ''Web Warriors'', [[Agent Venom]], the [[Amadeus Cho|Iron Spider]], [[Ka-Zar (Kevin Plunder)|Ka-Zar]], [[Zabu]], [[Cloak and Dagger (comics)|Cloak and Dagger]], [[Squirrel Girl]], and [[Triton (comics)|Triton]] form the New Warriors proper. The [[Rhino (character)|Rhino]] is also a member until he is brainwashed and forced to serve [[Doctor Octopus]] until the series finale. In the fourth season, ''Ultimate Spider-Man vs. the Sinister 6'', the [[Ben Reilly|Scarlet Spider]], [[Spider-Man (Miles Morales)|Kid Arachnid]], the [[Sandman (Marvel Comics)|Sandman]], [[Julia Carpenter|Madame Web]], [[Harry Osborn]] / [[Iron Patriot#American Son|Patrioteer]], Frances Beck / [[Mysterio]] II, the [[Vulture (Marvel Comics)|Vulture]], [[Steel Spider]], and [[John Jameson (comics)|Man-Wolf]] are added to the team.
+* A live-action half-hour ''[[New Warriors (TV pilot)|New Warriors]]'' sitcom, starring a version of the eponymous team with elements of the [[Great Lakes Avengers]], was in development by [[Marvel Television]] and [[ABC Studios]] as part of the [[Marvel Cinematic Universe]]. The team was going to consist of Squirrel Girl, [[Mister Immortal]],<ref name=Goldberg /> [[Night Thrasher (Dwayne Taylor)|Night Thrasher]], Speedball, [[Microbe (comics)|Microbe]], and [[Debrii]].<ref name=Truitt>{{cite web|url=https://www.usatoday.com/story/life/tv/2017/04/19/sneak-peek-squirrel-girl-leads-freeform-series-new-warriors/100581106/|title=Exclusive sneak peek: Squirrel Girl leads the team of Freeform's 'New Warriors'|last=Truitt|first=Brian|work=[[USA Today]]|date=April 19, 2017|access-date=April 19, 2017|archive-url=https://web.archive.org/web/20170420052727/https://www.usatoday.com/story/life/tv/2017/04/19/sneak-peek-squirrel-girl-leads-freeform-series-new-warriors/100581106/|archive-date=April 20, 2017|url-status=live}}</ref> Reportedly, Squirrel Girl's sidekick [[Squirrel Girl#Tippy-Toe|Tippy Toe]] was also going to appear in the series.<ref name=Truitt /> In July 2017, the ''New Warriors'' cast was officially announced to be [[Milana Vayntrub]] as Doreen Green / Squirrel Girl, [[Derek Theler]] as Craig Hollis / Mister Immortal, [[Jeremy Tardy]] as Dwayne Taylor / Night Thrasher, [[Calum Worthy]] as Robbie Baldwin / Speedball, [[Matthew Moy]] as Zach Smith / Microbe, [[Kate Comer]] as Deborah Fields / Debrii, and [[Keith David]] as Ernest Vigman;<ref name=Goldberg>{{cite news |url=https://www.hollywoodreporter.com/live-feed/marvels-new-warriors-squirrel-girl-cast-milana-vayntrub-derek-theler-topline-freeform-comedy-1019588 |title=Marvel's 'New Warriors' Sets Its Cast — Including Squirrel Girl (Exclusive) |date=July 10, 2017 |newspaper=The Hollywood Reporter |first=Lesley |last=Goldberg |access-date=August 5, 2017 }}</ref> a character who would have become the series' version of [[MODOK]].<ref>{{cite web|url=https://screenrant.com/marvel-new-warriors-show-modok-debut-keith-david/|title=Canceled New Warriors Show Would Have Been M.O.D.O.K. Live-Action Debut|website=Screen Rant|last=Hood|first=Cooper|date=June 17, 2020|access-date=June 17, 2020|archive-url=https://web.archive.org/web/20200618041546/https://screenrant.com/marvel-new-warriors-show-modok-debut-keith-david/|archive-date=June 17, 2020|url-status=live}}</ref> The show originally received a direct-to-series order with 10 episodes to debut on [[Freeform (TV channel)|Freeform]] in 2018, co-produced by ABC Signature.<ref>{{cite news|last1=Petski|first1=Denise|title=Marvel's 'New Warriors' Gets Straight-To-Series Order At Freeform|url=https://deadline.com/2017/04/marvels-new-warriors-straight-to-series-order-freeform-squirrel-girl-1202061953/|access-date=April 5, 2017|work=Deadline|date=April 5, 2017}}</ref> However, on November 1, 2017, it was announced that the series would no longer air on Freeform and was being shopped to other networks, with some sources saying the series could find a home on Disney's then-upcoming subscription streaming service, [[Disney+]].<ref>{{cite web|url=https://www.hollywoodreporter.com/live-feed/marvels-new-warriors-wont-air-freeform-series-will-be-shopped-1052696|title=Marvel's 'New Warriors' Won't Air on Freeform, Series Will Be Shopped Elsewhere (Exclusive)|last=Goldberg|first=Lesley|publisher=The Hollywood Reporter|date=November 1, 2017|access-date=November 2, 2017}}</ref> In September 2019, following the restructuring of both Marvel Television and its parent company Disney, the series was officially considered dead.<ref>{{Cite web |url=https://www.hollywoodreporter.com/live-feed/ghost-rider-drama-marvel-tv-dead-at-hulu-1243409 |title='Ghost Rider' Drama From Marvel TV Dead at Hulu |last=Goldberg |first=Lesley |date=September 25, 2019 |work=[[The Hollywood Reporter]] |url-status=live |archive-url=https://web.archive.org/web/20190925221838/https://www.hollywoodreporter.com/live-feed/ghost-rider-drama-marvel-tv-dead-at-hulu-1243409 |archive-date=September 25, 2019 |access-date=October 13, 2019}}</ref>
+
+===Music===
+The debut [[Single (music)|single]] from [[transgender]] recording artist and songwriter Olivia Ryan, "New Warriors", was partially inspired by and indirectly references several members of the titular group. The single and corresponding music video were both released in January 2021.<ref>{{Cite web|last=|first=|date=January 15, 2021|title=New Warriors by Olivia Ryan|url=https://open.spotify.com/track/0KkjiDzr4FvJJv4MaytWNJ?si=cgY_oV9ETkygLGUdb6MbCA|url-status=live|archive-url=|archive-date=|access-date=January 18, 2021|website=Spotify}}</ref><ref>{{Cite web|last=|first=|date=January 1, 2021|title=New Warriors by Olivia Ryan|url=https://www.youtube.com/watch?v=RkyR-N3PyJE|url-status=live|archive-url=|archive-date=|access-date=January 18, 2021|website=YouTube}}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.newwarriors.com New Warriors]
+*{{comicbookdb|type=team|id=32|title=New Warriors}}
+*{{gcdb series|id=4035|title=''The New Warriors'' (vol. 1)}}
+*{{comicbookdb|type=title|id=872|title=''The New Warriors'' (vol. 1)}}
+*{{gcdb series|id=7302|title=''The New Warriors'' (vol. 2)}}
+*{{comicbookdb|type=title|id=965|title=''The New Warriors'' (vol. 2)}}
+*{{gcdb series|id=21467|title=''The New Warriors'' (vol. 3)}}
+*{{comicbookdb|type=title|id=876|title=''The New Warriors'' (vol. 3)}}
+*{{gcdb series|id=25084|title=''New Warriors'' (vol. 4)}}
+*{{comicbookdb|type=title|id=14073|title=''New Warriors'' (vol. 4)}}
+*{{gcdb series|id=79116|title=''New Warriors'' (vol. 5)}}
+*{{comicbookdb|type=title|id=42914|title=''New Warriors'' (vol. 5)}}
+{{wikiquote}}
+*[http://www.marvel.com/universe/New_Warriors New Warriors] at the Marvel Universe
+*[http://marvel.wikia.com/wiki/New_Warriors_(Earth-616) New Warriors] at the Marvel Database Project
+
+{{New Warriors}}
+{{Avengers characters}}
+{{Nova}}
+{{Skrull}}
+
+[[Category:Characters created by Ron Frenz]]
+[[Category:Characters created by Tom DeFalco]]

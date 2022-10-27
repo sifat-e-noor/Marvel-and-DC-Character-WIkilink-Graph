@@ -1,0 +1,320 @@
+{{Short description|Fictional species of aliens appearing in Marvel comics}}
+{{distinguish|Sha'ir|Shia}}
+{{Infobox comics species 
+|image     = 
+|imagesize = 250
+|caption   = Interior artwork of ''X-Men Messiah Complex Mutant Files'' #1. Art by [[Steve Epting]].
+|publisher = [[Marvel Comics]]
+|debut     = ''[[Uncanny X-Men|X-Men]]'' #97
+|debutmo   = February
+|debutyr   = 1976
+|creators  = [[Chris Claremont]] (writer)<br>[[Dave Cockrum]] (artist)
+|deities   = [[Sharra]] and [[K'ythri]] 
+|homeworld = Aerie; later moved to Chandilar
+|members   = See [[#Known Shi'ar|Known Shi'ar]]
+|powers    = 
+|subcat    = Marvel Comics
+|altcat    = Marvel Comics alien species
+|sortkey   = Shi'ar
+|et        = y
+}}
+The '''Shi'ar''' ({{IPAc-en|ʃ|iː|ˈ|ɑr}} {{respell|SHEE|ar|'}}) are a [[List of fictional humanoid species in comics|fictional species]] of [[Extraterrestrial life|alien]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The Shi'ar Empire (or [[Imperium]]), is a vast collection of alien species, cultures, and worlds situated close to the [[Skrull]] and [[Kree]] Empires. The Shi'ar are one of the three main extraterrestrial empires depicted in the [[Marvel Universe]], alongside the [[Kree]] and [[Skrull]].
+
+==Publication history==
+The Shi'ar first appeared in ''[[Uncanny X-Men|X-Men]]'' #97 (Feb. 1976) and were created by writer [[Chris Claremont]] and artist [[Dave Cockrum]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |pages=324–325}}</ref>
+
+==Biology==
+The Shi'ar are [[Ectotherm|cold-blooded]]<ref name="Astonish57">''Astonishing X-Men'' vol. 3 #57. Marvel Comics.</ref> [[humanoid]]s of [[wikt:avian|avian]] descent; they resemble [[human]]s with [[feather]]ed crests atop their [[head (anatomy)|head]]s in lieu of [[hair]]. Two different styles are common: most Shi'ar, particularly those of the [[aristocracy]], have feathers sprouting in a triangular shape away from the face, one peak on the top of the head and one peak on each side slightly over the shoulder; the other commonly seen "hairstyle" is bushy on both sides and very flat on the top.<ref name=ohotmis27>''The Official Handbook of the Marvel Universe'' vol. 2 #7. Marvel Comics.</ref>
+
+Internally, they have lightweight and hollow bones, and on their forearms there are still some vestigial feathers left of wings that were lost over millions of years of [[evolution]].<ref name="Avengers379">''The Avengers'' #379. Marvel Comics.</ref> The average Shi'ar can lift 1 ton in Earth-like gravity and has far greater stamina than the average human. Most Shi'ar have no other special abilities, though occasionally a genetic throwback appears possessing wings that allow for flight (an example of  [[atavism]]).<ref>''All-New Official Handbook of the Marvel Universe Update'' #3. Marvel Comics.</ref><ref>''Marvel Encyclopedia'' #1. Marvel Comics.</ref> The superhuman Shi'ar can at least lift one ton through exercise.<ref name=ohotmis27/> [[Wasp (Marvel Comics)|Wasp]] stated that the Shi'ar aren't stronger than the Humans.<ref>''Avengers West Coast'' #81. Marvel Comics.</ref>
+
+The Shi'ar conceive their offspring in eggs. They are nurtured in special chambers and the children are referred to as [[hatchling]]s.{{issue|date=June 2019}}
+
+The Shi'ar have more [[chakras]] than a human.<ref>''A+X'' #15. Marvel Comics.</ref>
+
+Unlike Humans the Shi'ar do not dream, except for those born "defective" or "infected by dreams".<ref name="Astonish57" /> Such Shi'ar include Warbird and the Shi'ar having survived the Fianden's weapons.<ref>''Astonishing X-Men'' vol. 3 #58. Marvel Comics.</ref>
+
+There have also been Shi'ar who had developed superpowers such as Electron, Rook'shir, Deathcry, Dakari, White Noise and Black Light.<ref>''X-Men: Messiah Complex - Mutant Files'' #1. Marvel Comics.</ref> This can be explained as most of them are members of the Imperial Family and because of Rook'shir, who had transmitted his Phoenix Force manipulation power to his descendants.<ref name="Uncanny479">''The Uncanny X-Men'' #479. Marvel Comics.</ref>
+
+Some Shi'ar have also telepathic abilities.<ref name="Uncanny483">''The Uncanny X-Men'' #483. Marvel Comics.</ref>
+
+==Technology==
+The Shi'ar possess technologies common to most Marvel alien races, including:
+
+* [[Starship]]s capable of moving [[faster-than-light]]<ref name="Uncanny483" />
+* Energy-based weapons in their ships and in their handheld weapons<ref name="xmen135mc" /><ref name="ucyxm157">''The Uncanny X-Men'' #157. Marvel Comics.</ref><ref name="SpotlightStarjammers1">''X-Men: Spotlight on...Starjammers'' #1. Marvel Comics.</ref>
+* [[Force shield|force fields]]<ref name="ucxm2425">''The Uncanny X-Men'' #485. Marvel Comics.</ref>
+* Faster-than-light communication{{issue|date=June 2019}}
+* [[Teleportation]] technology<ref>''X-Men: Kingbreaker'' #4. Marvel Comics.</ref>
+* [[Robot]]s<ref name="ucxm2425"/>
+* [[Missile]]s<ref name='icx-m2353'/>
+
+The Shi'ar also possess technologies fairly unusual to them, including:
+
+* [[Hologram]] technology: which is used by the X-Men in their [[Danger Room]].<ref name='icx-m2353'>''The Uncanny X-Men'' #476. Marvel Comics.</ref>
+* Cloaking technology: rendering a craft completely invisible, used by the X-Men on their [[Blackbird (comics)|Blackbird]] aircraft.{{issue|date=June 2019}}
+* Stargates: Devices in a network system. They are used for travel to faraway distances including instantaneous travel between galaxies. There are planet-based Stargates (used for personal travel to other solar systems and galaxies) and enormous space-based versions (used for starships to travel through).<ref name="Xmen105">''X-Men'' #105. Marvel Comics.</ref>
+* Starcracker technology: This is the Shi'ar ultimate weapon. The Starcracker causes stars to go supernova.<ref name="wok1mc"/>
+* Warp-Capable Warships: Ranging in size from small starships to planetoid sized ships.<ref name="ucyxm157"/>
+* Armageddon-class Killstations: Orbital battle space stations.<ref name="xmev1" />
+* Flying Walker-Spacecraft: Spaceships with walker-like legs used on land.<ref name='icx-m2353'/>
+* Nega-Bomb: A Galactic-level weapon used to destroy Dwarf Galaxies, like the Large Magellanic Cloud.<ref>''Wonder Man'' #8-9. Marvel Comics.</ref><ref name="Avengers347">''The Avengers'' #347. Marvel Comics.</ref> There are also lower yield Nega-Bombs used to destroy planets.<ref>''War of Kings'' #2. Marvel Comics.</ref>
+* Fusion Space Mines<ref name="Starjammers1">''Starjammers'' #1. Marvel Comics.</ref>
+
+According to a statement by [[Emma Frost]] in ''The Astonishing X-Men'' #9, most if not all Shi'ar technology is [[sentience|sentient]].<ref>''X-Men'' #108. Marvel Comics.</ref>
+
+==Culture==
+===Language===
+A Shi'ar "Galaxian" has stated that they have learned nearly every spoken language.<ref>''The Uncanny X-Men'' #477. Marvel Comics.</ref>
+
+The Shi'ar have multiple forms, including the High Shi'ar, used for formal events,<ref name="Unlimited5">''X-Men Unlimited'' #5. Marvel Comics.</ref> and Shi'ar Glorkon dialect.<ref>''All-New X-Men'' #24. Marvel Comics.</ref>
+
+Mostly for tactical terms or insults, the Shi'ar insert words of their language into English sentences.{{issue|date=June 2019}}
+
+===Philosophy===
+Traditionally, the Imperium has aggressively absorbed new cultures. [[Warren Ellis]]' 1995 ''[[Starjammers]]'' limited series described the story of the Shi'ar deities [[Sharra]] and [[K'ythri]] as a parable which guides the Shi'ar expansionist philosophy to other worlds:
+
+<blockquote>Sharra and K'ythri are the gods in marriage. The gods who didn't want to marry, but were forced into it. In marriage they found strength and in strength they found love. That's what the Shi'ar Imperium does. It marries other cultures. Shotgun weddings.</blockquote><ref>''Starjammers'' #1-4. Marvel Comics.</ref>
+
+There are aggressive and violent ancient traditions, such as the Rite of Arin'nn Haelar, which is a battle to the death. This rite can be invoked to settle disagreements and their outcomes are accepted by the Imperium.<ref>''The Avengers'' vol. 3 #35. Marvel Comics.</ref> Their philosophy also impact their court as they don't recognize insanity.<ref>''Thanos'' #10. Marvel Comics.</ref>
+
+X-Men writer [[Ed Brubaker]] compared the Shi'ar to ''[[Star Trek]]'''s [[Romulan]]s, saying they are "smart, aggressive, and mean".<ref>[http://forum.newsarama.com/showthread.php?t=101434 Uncanny in Space - Talking X-Men With Ed Brubaker] {{webarchive|url=https://web.archive.org/web/20071015195321/http://forum.newsarama.com/showthread.php?t=101434 |date=2007-10-15 }}, [[Newsarama]], February 12, 2007 (accessed 15 Feb 2007)</ref>
+
+===Politics===
+Though the empire has grown to include hundreds of thousands of different sentient species and worlds, the Shi'ar race controls and governs the empire. Its central base of power is located on the "throneworld" Chandilar, while the Shi'ar homeworld is called Aerie (it is unknown if the planet still exists). The leader of the empire is given the title Majestor (male) or Majestrix (female) and is a [[heredity|hereditary]] position, occupied by members of the royal family of the Shi'ar. Formerly, the Neramani family represented the royal bloodline.<ref name='ohotmus'>''The Official Handbook of the Marvel Universe'' #10. Marvel Comics.</ref>
+
+The Shi'ar Empire is one of the most advanced and expansive civilizations in the universe, spanning entire [[Galaxy|galaxies]]. It is mainly an economic co-operative, where trade with other galactic powers is its driving force. Not all races have the same rights in the Imperium, as the Shi'ar appear to have a disproportionate influence on its governance.
+
+It is nominally ruled over by a high council, which has representatives from a large majority of the alien races that exist within the Imperium. However, in practice, the head of the council (the Majestor or Majestrix) exercises strong executive control and can institute policy virtually by decree.
+
+The leader of the Shi'ar empire is protected by his or her own personal guard called the [[Imperial Guard (Marvel Comics)|Imperial Guard]], which is made up of the most powerful and elite soldiers from throughout the Empire with most of them being Shi'ar and others being from other alien races in the Shi'ar's jurisdiction.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=181}}</ref> The Imperial Guard is led by a [[praetor]]. The military itself (outside of the Imperial Guard) has been depicted as consisting almost exclusively of Shi'ar personnel, at least in most of the command positions.<ref name='ohotmus'/><ref>''The Uncanny X-Men'' #471. Marvel Comics.</ref>
+
+Though having warlike and militaristic ancestry, the Shi'ar Empire has largely occupied the role of peacekeepers in many interstellar affairs. Just to name a few, [[Lilandra Neramani|Empress Lilandra Neramani]] tried to broker peace between the [[Kree|Kree Empire]] and the [[Skrull|Skrull Empire]] to help bring an end to their devastating war: she sought interstellar accord when deciding how to end the threat of the [[Dark Phoenix Saga|Dark Phoenix]], and attempted to avenge the destruction of Tarnax IV, the Skrull throneworld, by [[Galactus]].
+
+===Attitude toward the arts===
+The Shi'ar consider artistic creativity to be a sign of insanity and deviance, as they lack the ability to dream. Shi'ar who have the ability to dream and create do all they can to suppress their impulses. In the past, execution was a common remedy to such 'infections'. A race called the Fianden had the ability to cause any Shi'ar to dream; this caused mass catatonia and insanity in most Shi'ar, although a small subset who already are able to dream recover after a brief delay. The Fianden were wiped out in a mass genocide. After they were used to destroy the Fianden, the Shi'ar executed all of the natural dreamers to purge the taint from their bloodlines. Nevertheless, the trait does still emerge periodically, to continued violent repression.<ref>''Astonishing X-Men'' vol. 3 #57-58. Marvel Comics.</ref><ref>''Star-Lord'' #8. Marvel Comics.</ref>
+
+==Fictional race biography==
+After leaving their world, the Shi'ar started an intergalactic Empire and forced other cultures in order to become stronger and ruled for millions of years.<ref>''Marvel Encyclopedia #X-Men''. Marvel Comics.</ref><ref>''Starjammers'' #4. Marvel Comics.</ref> Such cultures included the Chameloids, Lupaks, Stygians, Strontians, Hodinn, Saurids and many more. When the Shi'ar invaded the homeworld of the Mephitisoids, they declared to bring civilization to the primitive world. However this was a lie and the Mephitisoids had technology almost equal to the Shi'ar. The Shi'ar conquered the peaceful Mephistoids stealing their technology. However, the true history was lost to legend and propaganda.<ref name="Avengers379" />
+
+When the Shi'ar known as Rook'shir was bonded to the Phoenix Force, he became Dark Phoenix and wreaked havoc across Shi'ar Empire. In order to stop him, the first Imperial Guard sent Gladiator after him, who killed him. For years all his descendants were culled, out of fear that one of them might host the Phoenix Force like their ancestor. Rook'shir left behind a sword known as the Blade of the Phoenix which contained a small portion of the Phoenix Force's power. The sword could only be lifted by Rook'shir's descendants. Korvus is the only known surviving descendant of Rook'shir.<ref name="Uncanny479" />
+
+===M'Kraan Crystal===
+{{Main|The Dark Phoenix Saga}}
+D'Ken Neramani, a corrupt Shi'ar ruler, attempted to use the powerful [[M'Kraan Crystal]] to take over the universe. His younger sister Lilandra and her new allies, the X-Men, foiled his plans. He was rendered [[coma]]tose by the crystal and Lilandra then took over as the Majestrix of the Shi'ar Empire. The X-Men, as well as most of Earth's other superheroes, have had cordial if not friendly relations with the Shi'ar Empire ever since.<ref>''X-Men'' #107-109. Marvel Comics.</ref>
+
+===Trial of Galactus===
+The Shi'ar put [[Mister Fantastic|Reed Richards]] on trial for the crimes of genocide. He was guilty of reviving Galactus after he was defeated on Earth. Shortly after his revival, Galactus proceeded to consume the [[Skrull]] throneworld, resulting in the death of billions. [[Uatu]] the [[Watcher (comics)|Watcher]], acting as his [[lawyer]] and with the help of [[Odin (comics)|Odin]] and Galactus himself, convinced the gathered tribunal that Galactus is a necessary force of betterment of the universe and is not a villain. This was done by summoning [[Eternity (comics)|Eternity]]. The truth as shown by Eternity however, is so grand and overpowering that none of the tribunal's members can remember it fully, although the comprehension stays.<ref>''Fantastic Four'' #261-262. Marvel Comics.</ref>
+
+===Deathbird, the Kree-Shi'ar War, and the Spartoi===
+In the 1980s, Lilandra and D'Ken's unstable exiled elder sibling [[Deathbird]] made several attempts to overthrow her sister from power. Deathbird even resorted to attacking Lilandra's Earth-based allies in order to achieve her goals. She is also responsible for initially directing the alien parasites known as the [[Brood (comics)|Brood]] towards the Earth and its heroes.<ref>''The Uncanny X-Men'' #162. Marvel Comics.</ref> Deathbird was eventually deposed with the assistance of the X-Men.<ref name="ReferenceB">''The Uncanny X-Men'' #275. Marvel Comics.</ref>
+
+In the 1992 [[fictional crossover|crossover]] "[[Operation: Galactic Storm]]," the Shi'ar annexed the [[Kree]] Empire at the end of the Kree-Shi'ar War and Deathbird was placed into a prominent position as [[viceroy]] of Hala, the Kree homeworld. However, Deathbird did not last long in this position and has since abandoned her responsibilities and it appears that the Kree Empire has, at least in some part, been re-established.
+
+The Shi'ar have had recent contact with the [[Spartoi (comics)|Spartoi]].<ref>''Inhumans'' vol. 3 #3-4. Marvel Comics.</ref>
+
+===Phalanx===
+The empire came under the threat of the "techno-organic" alien race known as the [[Phalanx (comics)|Phalanx]] after they infiltrated the Shi'ar Empire as the "Pure", killing tens of thousands before the X-Men fought them on the Shi'ar throneworld and separated the transmode virus from its hosts, killing most of those Phalanx.<ref>''The Uncanny X-Men'' #343-344. Marvel Comics.</ref><ref>''Warlock'' #7-8. Marvel Comics.</ref>
+
+===Cassandra Nova===
+[[Professor X]]'s [[evil twin]] sister [[Cassandra Nova]] single-handedly destroys a good portion of the Shi'ar Empire. Inhabiting the body of her brother, Nova asserts control of Empress Lilandra and causes a Shi'ar civil war. Jean Grey is instrumental in ending this threat.<ref>''New X-Men'' #122-126. Marvel Comics.</ref>
+
+===Phoenix Endsong and End of Greys===
+{{Main|X-Men: Phoenix – Endsong|End of Greys}}
+Despite the aid she gave them by eliminating the threat of Cassandra Nova, the Shi'ar still held a grudge against Jean Grey for the destruction she caused as Dark Phoenix. In the [[X-Men: Phoenix - Endsong|Phoenix Endsong]] series, a group of Shi'ar tried to eliminate both the Phoenix Force and Jean Grey. Jean, however, escaped their [[suicide bomb]] attack and returned to the White Hot Room to restore herself.<ref>''X-Men Phoenix Endsong'' #5. Marvel Comics.</ref> In the "End of Greys" story arc, the Shi'ar wanted to wipe out the Grey [[genome]] and [[Quentin Quire]] with the purpose of eliminating the possibility of a new [[Omega-level mutant]] becoming a host for the Phoenix Force. The [[Shi'ar Death Commandos]] murdered Jean Grey's [[Dr. John Grey|father]], [[Gailyn Bailey|niece]], [[Joey Bailey|nephew]], and other relatives in an [[alien invasion]] on Earth, thus inciting the wrath of [[Rachel Summers]], the daughter of Jean Grey and Scott Summers from an alternate future, who has since declared vengeance on the entire Shi'ar Empire.<ref>''The Uncanny X-Men'' #466-468. Marvel Comics.</ref> Recent events seem to indicate the Shi'ar Council was responsible for this, and that Lilandra is unaware of what has been done in her name.<ref>''The Uncanny X-Men'' #481. Marvel Comics.</ref>
+
+===Fall of the Shi'ar===
+{{Main|The Rise and Fall of the Shi'ar Empire}}
+Another Shi'ar threat comes from an X-Men villain called [[Vulcan (Marvel Comics)|Vulcan]]. During his tenure as majestor of the empire, D'Ken killed Vulcan's mother Katherine Summers (also mother to longtime X-Men [[Cyclops (Marvel Comics)|Scott]] and [[Havok (comics)|Alex Summers]]) and made him a slave for most of his adolescent life. Bent on revenge against D'Ken, Vulcan attacks the Empire. Not only that, but within the empire, there is a coup to dethrone Lilandra and return D'Ken to power, with the aid of Deathbird. The X-Men once again team up with their space allies, the [[Starjammers]], to stop both Vulcan and the plot to return rulership of the empire to D'Ken. In the end, Vulcan kills his father, [[Corsair (comics)|Corsair]], and D'Ken, and assumes the throne of the Shi'ar Empire for himself, with Deathbird as his queen; Lilandra and the Starjammers now lead a resistance against Vulcan's rule. This occurs in a 12 issue arc entitled "[[The Rise and Fall of the Shi'ar Empire]]".<ref>''The Uncanny X-Men'' #475-486. Marvel Comics.</ref>
+
+===Emperor Vulcan===
+{{Main|X-Men: Emperor Vulcan}}
+The civil war between Vulcan's forces and those loyal to the dethroned Lilandra rages on. Led by Havok and the Starjammers, Lilandra's forces gradually whittle away at Vulcan's forces, which are plagued by defections. The Shi'ar, contrary to Vulcan's expectations, are not happy to have an outsider as their ruler. Vulcan is discouraged by this, but Deathbird convinces him that they will come to accept him.<ref name='xmev1'>''X-Men: Emperor Vulcan'' #1. Marvel Comics.</ref>
+
+Warned in advance of a rebel raid on Feather's Edge, Vulcan and his fleet ambush the Starjammers. However, in the middle of the battle, his ship, the Hammer, is destroyed by the Scy'ar Tal (translates as "Death to the Shi'ar"). Vulcan and [[Gladiator (Kallark)|Gladiator]] (still the praetor of his Imperial Guard) attack the leader of the Scy'ar Tal and are easily defeated, whereupon they retreat deeper into Shi'ar space.<ref name='xmev1'/>
+
+Marvel Girl makes contact with the Eldest Scy'ar Tal and discovers their true origin. The Scy'ar Tal were originally called the M'Kraan. Early in their history, the Shi'ar attacked them, killed a great number of their people, making the rest flee for their lives. Eventually, the Shi'ar settled on their planet, took the M'Kraan Crystal as their own, and passed down the legend of the M'Kraan Crystal as a sacred gift from their deities, Sharra & K'ythri. The M'Kraan then changed their name to Scy'ar Tal and devoted their culture and society to the destruction of the Shi'ar Empire. With their first attack, they destroyed Feather's Edge by transporting a star to obliterate it. After which, Vulcan makes contact with the Starjammers to call a temporary ceasefire.<ref name="ReferenceC">''X-Men: Emperor Vulcan'' #2. Marvel Comics.</ref>
+
+Under the ceasefire, the Shi'ar and the Starjammers decide to take out the Finality, thus crippling the Scy'ar's biggest threat. Once Havok and Vulcan are in position to destroy Finality, the Eldest Scy'ar tries to stop them. Once Vulcan figures out how the Eldest is powered, he severs the connection Eldest has with his brothers, making him powerless. Once the connection is severed, the Scy'ar become disorganized, and the tide of the battle shifts to the Sh'ar. The Shi'ar then proceed to attack both the Scy'ar and the Starjammers. Meanwhile, Vulcan blasts Havok into a sun.
+
+Vulcan decides to use Finality to destroy the Scy'ar by using the weapon to place a star in the middle of their fleet. Alex returns and, having absorbed enough power to burn him, decides to end things with Vulcan. While they battle, Rachel and Korvus try, but fail to stop the beacon that will initiate the attack by the Shi'ar. The Shi'ar Imperial Guard end Alex's battle with Vulcan by appearing with the Starjammers in captivity, threatening to kill them. Before surrendering, Alex destroys Finality. With Alex and the Starjammers in custody Vulcan declares that he will return the Shi'ar Empire to its former glory.<ref>''X-Men: Emperor Vulcan'' #5 (Mar. 2008).</ref>
+
+===X-Men: Kingbreaker===
+{{Main|X-Men: Kingbreaker}}
+Vulcan and the Shi'ar were featured prominently in the mini-series X-Men: Kingbreaker that revolved around Vulcan and the Starjammers following the conclusion of the mini-series Emperor Vulcan. This mini-series led to the War of Kings event and revealed that eons ago the Shi'ar, used dark sorcery to created and stored in Null Space the Tree of Shadows which is the repository for all of the Darkhawk amulets used to empower the Fraternity of Raptors to whom the Shi'ar intended to use to maintain the Shi'ar Empire as it evolved over the centuries. The Fraternity of Raptors refer to their mission to protect the long term interests of the empire as "The Great Purpose."<ref>''War of Kings: Ascension'' #2</ref> However, as the Shi'ar Empire aggressively expanded so to did the Fraternity of Raptors and eventually they grew too powerful for the Empire to control. Therefore, they all were sealed in patches of dark matter throughout Shi'ar territory and their history almost completely forgotten.<ref>''War of Kings: Darkhawk'' #2</ref>
+
+===War of Kings===
+{{Main|War of Kings}}
+The story revolved around the [[Starjammers]], the Shi'ar, the [[Inhumans]], the Kree, the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]], and the [[Nova Corps]].<ref>[http://www.newsarama.com/comics/080727-WarofKings.html SDCC '08 - Abnett & Lanning on Marvel's 'War of Kings'], [[Newsarama]], July 27, 2008</ref>
+
+The Shi'ar end up in conflict with the Inhumans and the Kree. After the death of Lilandra and the presumed deaths of Vulcan and [[Black Bolt]], Gladiator assumes the throne and surrenders to the Inhumans and the Kree when the damage to the Shi'ar military is too much.
+
+===Infinity===
+During the "[[Infinity (comic book)|Infinity]]" storyline, it is revealed that at some point, the Shi'ar managed to take control of their own empire back from the Kree as Gladiator appears as a member of the Galactic Council representing the Shi'ar Empire.<ref>''Infinity'' #3</ref>
+
+===Time Runs Out===
+When the Shi'ar found out that the reason for the decay of the universe was on Earth, they decided to destroy the planet.<ref>''Avengers'' vol. 5 #41. Marvel Comics.</ref> However, the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] managed to warn the [[Avengers (comics)|Avengers]] about the attack.<ref>''Avengers'' vol 5. #42. Marvel Comics.</ref>
+
+When approaching Earth, the Shi'ar alerted humanity about their destruction of Earth. However [[Sunspot (comics)|Sunspot]] and [[Advanced Idea Mechanics#Avengers Idea Mechanics|A.I.M.]] used a super weapon to retaliate against the Shi'ar, while [[S.H.I.E.L.D.]]'s Avengers used a Planetkiller to attack from behind. However, A.I.M.'s weapon exploded due to overheat, and the Planetkiller was destroyed by the [[Annihilation Wave]]. The Avengers were ready to meet their end, but the [[Illuminati (comics)|Illuminati]] intervened used the controller disk of a rogue planet that shared the same space with Earth, while Iron Man flew to the Sol's Hammer, and used it, successfully destroying the Shi'ar fleet, including the Imperial Guards.<ref>''Avengers'' vol. 5 #43-44. Marvel Comics.</ref>
+
+===All-New, All-Different Marvel===
+As part of the "[[All-New, All-Different Marvel]]," it was revealed that some Shi'ar that are living on Earth have established a Shi'ar corporation called Shi'ar Solutions Consolidations.<ref name="Mighty Thor #8">''The Mighty Thor'' vol. 2 #8. Marvel Comics.</ref>
+
+====Asgard/Shi'ar War====
+During "The Asgard/Shi'ar War" storyline, the Shi'ar Gods Sharra and K'ythri do a "Challenge of the Gods" by bringing the Shi'ar fleet to [[Asgard (comics)|Asgard]] whilst threatening Earth with their Super Destroyers.<ref name="Thor16">''The Mighty Thor'' vol. 2 #16. Marvel Comics.</ref> An event which had been secretly instigated by [[Loki (Marvel Comics)|Loki]] behind closed doors.<ref name="Mighty Thor #17"/> In the Natural Disasters Round, Sharra and K'ythri use their power to cause a tidal wave in order to ferment greater worship in the survivors. Thor impedes their efforts by saving lives instead of claiming them, the round going to her as the living Shi'ar people are thankful for her mercy; much to her displeasure.<ref name="Thor15">''The Mighty Thor'' vol. 2 #15. Marvel Comics.</ref> Round after round where countless denizens of the Shi'ar are slaughtered in these inane divinity games weights heavily on Thor/Jane's conscience. Until finally after the Genesis Round, where the Shi'ar gods use dust to create Shi'ar Giants who indiscriminately murder more of their worshipers causes the [[Jane Foster (comics)|female Thor]] to fight them. As the female Thor failed to create life, the Shi'ar won the Genesis Round.<ref name="Mighty Thor #17">''The Mighty Thor'' vol. 2 #17. Marvel Comics.</ref> Having had enough of the murderous spectacles, Thor chose to directly challenge the Shi'ar gods; later receiving some unexpected help from the Asgardian Gods themselves. It was this act that tilted the Challenge of the Gods in her favor as none had ever brought so many divine under their banner to fight at their side before, causing the new Thor to be crowned winner of the Challenge. Greatly angered at such a turn of events Sharra and K'ythri order their Majestor to eviscerate her homeworld in retribution; but the Emperor of the Shi'ar rebel's against their gods after their wanton display.<ref>''The Mighty Thor'' vol. 2 #18. Marvel Comics.</ref> In their final fit of mindless ire, the Shi'ar gods summoned the Phoenix Force to eviscerate the galaxy spiting everyone who defied them. Later after a sorrowing battle following the appeasement of the Phoenix, the former gods of the empire are taken away to the dungeons of ''Omnipotence City'' for their crimes and reckless actions. All while [[Quentin Quire|Kid Omega]], holder of a Phoenix Force shard, acts as a stand in for the divinity of the Shi'ar empire.<ref>''The Mighty Thor'' vol. 2 #19. Marvel Comics.</ref>
+
+====Infinity Countdown====
+During the [[Infinity Countdown|search of the Infinity Stones]], Razor reveals the true origin of the Tree of Shadows and the creation of the Fraternity of Raptors, according to Razor the Tree of Shadows was created eons ago by the [[Elders of the Universe|Elder of the Universe]] known as The Gardener who tried to bring life to the Null Space and planted it in the [[Darkforce Dimension]]. Eventually, Null Space and the Tree of Shadows were discovered by a more pre-historic version of the Shi'ar and the Skrulls, a find that ended in war erupting between the two alien races. The war ranged until one member of the Shi'ar was able to grasp one of the seeds of the Tree. His physiology, fear and belief's shaped the birth of the most vicious killing machine the universe had ever seen, the first Raptor and while the Skrulls, being shape-shifters, were still able to hold out against the Shi'ar, they eventually were nevertheless slaughtered by Raptor Prime, a creature of instinct and adaptation which quickly learnt to use their enemies shape-shifting abilities as well. It can be assumed that due to the incident with Rook'shir, the Shi'ar then intended to use the seeds of the Tree of Shadows to create an army to unleash Ratha'kon or the Dark Starhawk, a being who would be able to contain and act as a "predator" to the Phoenix Force, however, while the Fraternity of Raptors attempted to mimic the Cosmic entity, because of their mechanoid nature, they were unable to unlock much less ascertain the coveted true power of which within their ranks.<ref>''Infinity Countdown: Darkhawk'' #2. Marvel Comics.</ref><ref name="ReferenceA">''Infinity Countdown: Darkhawk'' #3. Marvel Comics.</ref> Which was why Gyre, a corrupted anathema of the Fraternity utilized the once Nova turned Raptor Robbie Rider; brother of Richard Rider and traitor to the Nova Corp and Earth. Sought to utilize the amulet of [[Darkhawk|Christopher Powell]] as the conduit in which Talon-R would become host to the Dark Starhawk with intent to raze the planet Earth, but was destroyed by the possessed entity due to his reviled nature as a result.<ref>''Infinity Countdown: Darkhawk'' #4. Marvel Comics.</ref>
+
+====Mr. & Mrs. X====
+Though largely prosperous for a time the Shi'ar still suffer from the occasional strife brought upon by the treacherous Deathbird. She and her rebel faction stand against the empire on the grounds that [[Gladiator (Kallark)|Kallark]], head of the Imperial Guard and current Majestor of the Shi'ar, isn't a true Shi'ar and thus believe his rule to be illegitimate.<ref name="MrMrs3">''Mr & Mrs X'' #3. (Nov. 2018). Marvel Comics.</ref> To actualize their claim, the insurgents are in hot pursuit of an item pertaining critical importance to the Shi'ar Imperium, a glowing egg contain the next successor to monarchy and the throne.<ref>''Mr & Mrs X'' #1 (Sept. 2018). Marvel Comics.</ref> In truth the shell was only a telepathic mirage thrown up by its true contents, the prize in actuality being the genetically engineered daughter of Professor and Lilandra Neramani whom after having telepathically scanned the minds of X-Men newlyweds Rogue and Gambit, took the name of Xandra when modeling herself after her deceased parents. Kitty Pryde goes on to say that the reason she's such a sought after commodity across the spaceways is because she was sworn into the Shi'ar royal line by her mother on top of having inherited her father's vast psionic talents making her both an Omega Level Weapon not to mention a highly coveted political bargaining chip to the Shi'ar themselves.<ref name="MrMrs3" />
+
+==Known Shi'ar==
+The following are members of the Shi'ar:
+
+* '''Adam Neramani'''<ref>''X-Force'' Annual #2 (October 1993). Marvel Comics.</ref>&nbsp;– The genetically engineered son of former Emperor D'Ken. Adam is a Shi'ar/Human hybrid,<ref>''X-Men'' #39. Marvel Comics.</ref> created by combining the DNA of D'Ken and Katherine Summers with the only purpose for D'Ken to introduce a hybrid with a specific genetic potential into the Shi'ar Monarchy and to rule the Shi'ar Empire.<ref>''Captain Marvel'' vol. 3 #3. Marvel Comics.</ref> Adam Neramani is, therefore, half-brother of Scott and Alex Summers, however when the truth about his heritage was discovered, Adam requested that knowledge to be erased from his mind and his brothers so he could get on with his life.<ref>''X-Men Legends'' #2. Marvel Comics.</ref>
+* '''Araki'''<ref name="X-Men #122. Marvel Comics">''X-Men'' #122. Marvel Comics.</ref>&nbsp;– He was both the Prime Minister of the Shi'ar Imperium and the Lord Chancellor of the Empire´s ruling emperor or empress. Noted for his wisdom and venerated among the Shi'ar for his political savvy and diplomacy, Araki had his own DNA sequence and consciousness copied and used as a form of cloned reincarnation with the intention of serving the Shi'ar Empire for generations.<ref>''War of Kings'' #4</ref> While the exact differences between the incarnations of Araki has not been clarified, one such version, '''Araki 6'''<ref>''New X-Men'' #133. Marvel Comics.</ref> is seen announcing to Professor Xavier the annulment of his marriage to Empress Lilandra.<ref>''New X-Men'' #133</ref> Araki was later cloned again, as a female, and served as adviser for the former Majestor Gladiator.<ref>''War of Kings: Who Will Rule?'' #1</ref>
+* '''Aroke'''<ref name="Avengers347" />&nbsp;– One of the Lords Chamberlain who informed the Majestix Lilandra of the Shi'ar's victory over the Kree.
+* '''Alake'''<ref>''Avengers'' #345. Marvel Comics.</ref>&nbsp;– A Praetor in the Shi'ar military.
+* '''Ava'Dara Naganandini'''<ref>''Wolverine and the X-Men'' #1. Marvel Comics.</ref>&nbsp;– A member of the Shi'ar Warbirds.
+* '''Avios'''<ref name=msdp1>''Maximum Security: Dangerous Planet'' #1. Marvel Comics.</ref>&nbsp;– A royal aid to the Neramani family.
+* '''Atratus'''<ref>''Nova Special'' #1. Marvel Comics.</ref>&nbsp;– An old man who hired Monark the Starstalker to kidnap [[Alex Summers]].
+* '''Babob'''<ref name="SpotlightStarjammers1" />&nbsp;– A Praetor in the Shi'ar military.
+* '''Baranka'''<ref name="Unlimited5" />&nbsp;– A Shi'ar Royal Concierge that escorted Jubilee, Forge, Storm and Professor X from L’Deroh’s transport ship to Luten, who saw that they were dressed for the ceremony Lilandra had summoned them to.
+* '''Black Light'''<ref name=xmsos2>''X-Men: Spotlight on...Starjammers'' #2. Marvel Comics.</ref>&nbsp;– A member of the Imperial Guards and twin brother of White Noise.
+* '''Bloodwing'''<ref>''Captain Marvel'' vol. 4 #14. Marvel Comics.</ref>&nbsp;– A member of the fanatical Crystal Claws, a Shi'ar group dedicated to returning D'Ken back to power. He sought to kill [[Legacy (Marvel Comics)|Legacy]] in order to allow his sister, Kaladar, to pass on to the next life.
+* '''C'efn'''<ref>''Excalibur'' #69. Marvel Comics.</ref>&nbsp;– A Commander in the Grand Jahr, a military fleet of ships with the sole purpose of bringing new planets into the Shi'ar Empire. He and his crew were all killed as their ship warped into a star.
+* '''[[Cerise (comics)|Cerise]]'''<ref>''Excalibur'' #46. Marvel Comics.</ref>&nbsp;–  Member of The Graces.
+* '''Chakar'''<ref name=roma4kc>''Rom'' Annual #4. Marvel Comics.</ref>&nbsp;– A Praetor in Shi'ar military. He was killed by the crazed [[Spaceknight]] Plor.
+* '''Davis Cameron'''<ref name=xtxm6>''X-Treme X-Men'' #6. Marvel Comics.</ref>&nbsp;– A Human Mutant and Shi'ar hybrid.<ref>''Heroic Age: X-Men'' #1. Marvel Comics.</ref>
+* '''Dai'andral'''<ref>''X-Men: Deadly Genesis'' #4. Marvel Comics.</ref>&nbsp;– A Shi'ar that befriended Gabriel Summers and brought him a book about mythology, which inspired him to name himself Vulcan.
+* '''Dakari'''<ref name=roma4kc/>&nbsp;– A powerful Praetor of the Shi'ar military. He was killed by the ship medic who stole the armor of the Spaceknights Pulsar in order to free his race.
+* '''D'Ken'''<ref name="X-Men #97">''X-Men'' #97. Marvel Comics. February 1976.</ref>&nbsp;– The former Majestor of the Shi'ar and the brother of Lilandra and Deathbird.
+* '''D'Keth'''<ref>''X-Men'' vol. 4 #19. Marvel Comics.</ref>&nbsp;– The son of D'Kath, was a member of the Weather Council, an advisory body who counsel the entire Shi'ar.
+* '''[[Deathbird]]'''<ref>''Ms. Marvel'' #9. Marvel Comics.</ref>&nbsp;– The sister of Lilandra Neramani and D'Ken.
+* '''[[Deathcry]]'''<ref>''The Avengers'' #363. Marvel Comics.</ref>&nbsp;– A Shi'ar commando who is the niece of Lilandra.
+* '''D'rehn'''<ref name="Starjammers1" />&nbsp;–
+* '''D'Syndri'''<ref>''The Uncanny X-Men'' Annual #5. Marvel Comics, 1981.</ref>&nbsp;– An imperial Pathfinder who was killed in Manhattan by a squad of [[Badoon]] hunters.
+* '''Dahrev'''<ref name=wokw2mc>''War of Kings: Warriors'' #2. Marvel Comics.</ref>&nbsp;– A instructor at the Chandilar Academy.
+* '''[[Electron (comics)|Electron]]'''<ref name="X-Men #107. Marvel Comics">''X-Men'' #107. Marvel Comics.</ref>&nbsp;– A Shi'ar who is a member of the Imperial Guard.
+* '''Erik the Red'''<ref name="X-Men #97"/>&nbsp;– A Shi'ar spy who is a member of the Shi'ar Imperial Agency.
+* '''Eluke'''<ref name=xmen135mc>''X-Men'' #135. Marvel Comics.</ref>&nbsp;– A crew member of a Shi'ar star-cruiser. He witnessed the Dark Phoenix destroy a star system and he with the crew were killed when their ship was caught in the explosion.
+* '''Fath'raj'''<ref name=nv21>''Nova'' vol. 2 #1. Marvel Comics.</ref>&nbsp;– A member of a team consisted of gladiators who tested the fighting capabilities of the [[Nova Corps]]men.
+* '''Forunn'''<ref name=newxm61>''New X-Men'' #122. Marvel Comics.</ref>&nbsp;– A medic who was killed by Cassandra Nova.
+* '''Freena'''<ref name=wokw2mc/>&nbsp;– A student at the Chandilar Academy.
+* '''Frr'dox'''<ref name="Mighty Thor #8"/>&nbsp;– A Shi'ar who is the Supreme Director of Interstellar Operations at Shi'ar Solutions Consolidations.
+<!-- HE IS STRONTIAN, NOT OF THE SHI'AR RACE * '''[[Gladiator (Kallark)]]''' – Commander of the Imperial Guard -->
+* '''Heather Cameron'''<ref name=xtxm6/>&nbsp;– A Human mutant and Shi'ar hybrid.
+* '''Immundra'''<ref name=newxm61/>&nbsp;– A Shi'ar driven insane by Cassandra Nova.
+* '''Jorrsk'''<ref name=newxm61/>&nbsp;– A officer who along with his crew were killed by Cassandra Nova.
+* '''Juber'''<ref name=xmen135mc/>&nbsp;– The commander of the Shi'ar Star-cruiser. He along with his crew were killed when caught in the explosion caused by the Dark Phoenix.
+* '''K'illace'''<ref name="ReferenceD">''X-Men Unlimited'' #13. Marvel Comics.</ref>&nbsp;– A Shi'ar commander.
+* '''K'renn'''<ref>''Nova'' vol. 2 #17. Marvel Comics.</ref>&nbsp;– 
+* '''K'rin'''<ref>''The Avengers'' #389. Marvel Comics.</ref>&nbsp;– A Shi'ar nursemaid.
+* '''K'rk'N'Kazaii'''<ref name="Xmen105" />&nbsp;– A captain in the Shi’ar empire's fleet and one of best officers.
+* '''K'Tor'''<ref name="Uncanny X-Men #478">''The Uncanny X-Men'' #478. Marvel Comics.</ref>&nbsp;– He is the vice-chancellor to Lilandria.
+* '''K'toth'''<ref>''Devil Dinosaur Spring Fling'' #1. Marvel Comics.</ref>&nbsp;– A Praetor in the Shi'ar military.
+* '''Ka'ardum'''<ref>''The Uncanny X-Men'' #484. Marvel Comics.</ref>&nbsp;– A major-general in the Shi'ar army.
+* '''Kachil'''<ref>''Guardians of the Galaxy'' vol. 2 #13. Marvel Comics.</ref>&nbsp;– The commander of the Shi'ar super destroyer Lamentations of the Enemy's Widow.
+* '''[[Korvus]]'''<ref name="Uncanny X-Men #478"/>&nbsp;– Wielder of The Blade of the Phoenix.
+* '''[[K'ythri]]'''<ref name="Starjammers #1">''Starjammers'' #1</ref>&nbsp;– One of the two chief deities of the Shi'ar. Husband of Sharra.
+* '''L'Deroh'''<ref name="Unlimited5"/> - An envoy of royal commission stationed on the planet Kree-Kar, he was sent by Lilandra to Earth to retrieve the X-Men for the ceremony of the annexation of the Kree Empire to the Shi’ar territory. Once he reached Earth, L’Deroh beamed Professor X, Jubilee, Forge and Storm without explanation, and  moved toward the Kree galaxy. He played a hologram of Lilandra ordering their presence and as they arrived, he turned them over to Baranka and Luten to prepare them for the ceremony.
+* '''[[Lilandra Neramani]]'''<ref name="X-Men #97"/>&nbsp;– The former Majestrix of the Shi'ar and the sister of D'Ken and Deathbird.
+* '''Luten'''<ref name="Unlimited5"/>&nbsp;– A Shi'ar Royal Concierge who saw that Jubilee, Forge, Storm and Professor X were dressed for the ceremony Lilandra had summoned them to.
+* '''Lyth'ka'''<ref>''Captain Marvel'' vol. 3 #1. Marvel Comics.</ref>&nbsp;– A Shi'ar Commander.
+* '''M'korr'''<ref>''Ultimates'' vol. 2 #7. Marvel Comics.</ref>&nbsp;– A Shi'ar commander who wanted to use the energy emitting from a [[Cosmic Cube]] as an excuse to invade Earth as part of the Shi'ar Empire.
+* '''Maelen'''<ref name="X-Men #122. Marvel Comics"/>&nbsp;– A chancellor of Lilandra.
+* '''Magique'''<ref name="X-Men #107. Marvel Comics"/>&nbsp;– A Shi'ar who is a member of the Imperial Guard.
+* '''Magique II'''<ref>''Guardians of the Galaxy'' vol. 5 #1. Marvel Comics.</ref>&nbsp;– Replaced the previous one.
+* '''Malick Tarcel'''<ref>''Nova'' vol. 4 #18. Marvel Comics.</ref>&nbsp;– A Shi'ar that was promoted to the new Nova Prime.
+* '''Milyann tec Hilyiani'''<ref name="Starjammers1"/>&nbsp;– A messenger who informed the Minister of Peace T'cahr that the Starjammers had destroyed a ship commanded by D'rehn.
+* '''Mimoza'''<ref name="SpotlightStarjammers1" />&nbsp;– A Shi'ar soldier who attacked the Starjammers.
+* '''Misa'''<ref>''Legendary Star-Lord'' #5. Marvel Comics.</ref>&nbsp;– A  member of the Slaughter Squad, a group gathered by Mister Knife to do his biddings. She was later by [[the Black Vortex]].<ref>''Guardians of the Galaxy & X-Men: Black Vortex Alpha'' #1. Marvel Comics.</ref>
+* '''Mylz-ob'ryn'''<ref>''Captain Marvel'' vol. 3 #1. Marvel Comic.</ref>&nbsp;– A chief of operations.
+* '''N'Ruto'''<ref name="Uncanny X-Men #478"/>&nbsp;– A Shi'ar commander.
+* '''Nassis'''<ref name=wokw2mc/>&nbsp;– A former Shi'ar student turned Brood.
+* '''Nightscream'''<ref>''Generations: The Marvels'' #1. Marvel Comics.</ref>&nbsp;– A Shi'ar that tried to purchase ''Women's Magazine'' from Carol Danvers under the alias of Barbara Nelson.
+* '''[[Oracle (Marvel Comics)|Oracle]]'''<ref name="X-Men #107. Marvel Comics" />– A long-time member and warrior serving in the Royal Elite of the Shi'ar Imperial Guard.
+* '''Ou'zli'''<ref name="sb1mc">''Starblast'' #1. Marvel Comics.</ref>&nbsp;– A Shi'ar Captain.
+* '''P!rai'''<ref name="ReferenceB"/>&nbsp;– She approached Forge during the restoration ceremony of Empress Lilandra Neramani.
+* '''P'kar'''<ref name=msdp1/>&nbsp;–
+* '''P'krrd'''<ref>''Inhumans'' vol. 3 #2. Marvel Comics.</ref>&nbsp;– A Praetor in Shi'ar military.
+* '''Peri'''<ref>''Classic X-Men'' #14. Marvel Comics.</ref>&nbsp;– A member of the Pathfinders squad, gave his life to save Lilandra from D'Ken.
+* '''Pupugli'''<ref name="SpotlightStarjammers1" />&nbsp;– A Shi'ar soldier who attacked the Starjammers.
+* '''Rugar'''<ref>''Quasar'' #33. Marvel Comics.</ref>&nbsp;– A Shi'ar scientist who created the Nega-Bomb.
+* '''Raptor Prime'''<ref name="ReferenceA"/>&nbsp;– An ancestor of the more evolved Shi'ar and the one to give birth to the most vicious killing machine the universe had ever seen, the first Raptor, a creature of instinct and adaptation.
+* '''Rook'shir'''<ref name="Uncanny479"/>&nbsp;– A Shi'ar who is the ancestor of Korvus and one of the hosts of the Phoenix Force.
+* '''Samédàr'''<ref>''The Uncanny X-Men'' #154. Marvel Comics.</ref>&nbsp;– Lord Samédàr became Grand Admiral after Lilandra was made Shi'ar Empress.
+* '''Sapt'''<ref>''The Uncanny X-Men'' #156. Marvel Comics.</ref>&nbsp;– He was tasked by Samedar to watch over Colossus and Kitty Pride.
+* '''[[Sharra]]'''<ref name="Starjammers #1"/>&nbsp;– One of the two chief deities of the Shi'ar. Wife of K'ythri.
+* '''Shi'ar Giants'''<ref name="Mighty Thor #17"/>&nbsp;- A race of Shi'ar who are giants that were created by K'ythri and Sharra.
+* '''Shy'tarra'''<ref name=nv21/>&nbsp;– A member of a team consisted of gladiators who tested the fighting capabilities of the Nova Corpsmen.
+* '''Si'ani'''<ref name="sb1mc"/>&nbsp;– A Shi'ar Astrogator.
+* '''Sovel Redhand'''<ref>''X-Men: Legacy'' #220. Marvel Comics.</ref>&nbsp;– Captain of a group of Salvagers of various races.
+* '''Syth'kach'''<ref>''The New Warriors'' #41. Marvel Comics.</ref>&nbsp;– A communications officer on a Shi'ar warship which was destroyed by [[Supernova (Marvel Comics)|Supernova]].
+* '''T'Cahar'''&nbsp;– A friend of D'Ken's before his fall and formerly the Minister of Peace for the Shi'ar.
+* '''T'Korr'''<ref name="wok1mc">''War of Kings: Warriors'' #1. Marvel Comics.</ref>&nbsp;– He  was Majestor of the Shi'ar Empire centuries ago and the one who first assembled the Imperial Guard.
+* '''T'kyll Alabar'''<ref>''The Avengers'' #378. Marvel Comics.</ref>&nbsp;– He was the son of a lesser family who fought against the Mephitisoids and was promoted to a high position of power, commanding the first Shi'ar Imperial Fleet. He along with the Mephitisoids leader, Butcher, were put in stasis in order to prevent any further problem and after twelve-hundred years they crashlanded on Earth where he along with Avengers battled the Mephitisoids and Kree.
+* '''Tiv'''<ref>''X-Men'' #189. Marvel Comics.</ref>&nbsp;– A Shi'ar monitor.
+* '''Urizen Ul'var'''<ref>''X-Men'' #198. Marvel Comics.</ref>&nbsp;–
+* '''Vitana'''<ref name="wok1mc"/>&nbsp;– Former chancellor of the Shi'ar Empire.
+* '''Vivali'''<ref name="ReferenceD"/>&nbsp;– A commander of a Shi'ar fleet that went after the [[Silver Surfer]] believing that he was involved in the destruction of the planet Zenn-La.
+* '''Vyr'tal'''<ref name="ReferenceC"/>&nbsp;– He was the Emperor of the Shi'ar Empire, when they discovered the M'Kraan Crystal.
+* '''Wiwarto'''<ref name="SpotlightStarjammers1" />&nbsp;– A praetor who attacked the Starjammers.
+* '''White Noise'''<ref name=xmsos2/>&nbsp;– A member of the Imperial Guards and twin sister of Black Light.
+* '''Xandra'''<ref>''Mr. and Mrs. X'' #2. Marvel Comics.</ref>&nbsp;– The genetically engineered daughter of Lilandra and Charles Xavier and current Majestrix of the Shi'ar Empire.<ref>''New Mutants'' vol. 4 #7</ref> 
+* '''Ya'lont'''<ref>''X-Force'' vol. 2 #5. Marvel Comics.</ref>&nbsp;– A Shi'ar Praetor and Admiral in the Shi'ar military.
+* '''Yahnos Tr'morr'''<ref>''X-Force and Cable'' Annual #'96. Marvel Comics.</ref>&nbsp;– A commander in the Shi'ar military.
+* '''Za'ken'''<ref>''The Avengers'' #398. Marvel Comics.</ref>&nbsp;– A exile, he teamed up with [[Hercules (Marvel Comics)|Hercules]] and Deathcry and attempt to return from exile.
+
+==Other versions==
+===Ultimate Marvel===
+In the [[Ultimate Marvel]] universe, the Shi'ar are not an alien race, but a religious group whose beliefs are said to have descended from alien knowledge. They worship the [[Phoenix God|Phoenix]], believing it to be a god of not only destruction, but renewal. Their beliefs state that all of the [[Earth]] was originally a prison created by ancient alien civilizations to hold the Phoenix, but its presence at the core led to the creation of life on Earth, and the Phoenix's direct influence resulted in all major steps of [[evolution]] for man, and specifically, led to the creation of [[Mutant (Marvel Comics)|mutants]]. The Ultimate version of the [[Hellfire Club (comics)#Ultimate Hellfire|Hellfire Club]] is an offshoot of the Shi'ar religion that believes the Phoenix only desires destruction.<ref>''Ultimate X-Men'' #23. Marvel Comics.</ref>
+
+Recently an alternate version of the Lilandra character has turned up in the [[Ultimate Marvel]] universe's [[Ultimate X-Men]] title. [[Lilandra Neramani#Ultimate Marvel|Ultimate Lilandra]] is not an alien, but the Majestrix of the Church of Shi'ar Enlightenment, and contacts [[Professor Xavier]] with the offer of funding his school's immense budget, in exchange for the chance to see if [[Jean Grey]] is the human host for The Phoenix.<ref>''Ultimate X-Men'' #66. Marvel Comics.</ref>
+
+===Age of Apocalypse===
+In the ''[[Age of Apocalypse]]'' reality, the Shi'ar Empire was almost decimated by the Brood. However, D'Ken remains as Majestor of the Imperium, while Lilandra has been executed and Deathbird leads the Starjammers.<ref>''X-Men'' #41. Marvel Comics.</ref><ref>''Tales from the Age of Apocalypse'' #2. Marvel Comics.</ref><ref>''Gambit and the X-Ternals'' #2-3. Marvel Comics.</ref>
+
+===MC2===
+In ''[[Last Planet Standing]]'', a limited series set in the alternate timeline known as [[Marvel Comics 2|MC2]], the Shi'ar homeworld is destroyed by [[Galactus]].
+
+=== 2099 ===
+In ''[[Marvel 2099]]'', is mentioned that the encroaching twilight of the Shi'ar left a void of power.<ref>''2099: Manifest Destiny'' #1. Marvel Comics.</ref>
+
+=== Marvel Zombies ===
+In ''[[Marvel Zombies Return]]'', led by [[Luke Cage]] of another reality, the Shi'ar were defeated and killed by the zombified heroes of the Earth.<ref>''Marvel Zombies Return'' #5. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+* The Shi'ar Empire appears in the [[X-Men: The Animated Series|1990s X-Men TV series]], the first appearance being part of the Phoenix Saga, with other appearances later on including the Dark Phoenix Saga.
+* The Shi'ar are briefly referenced in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Live Kree or Die." They appear as one of the Kree's enemy races.
+* In the second season of ''[[Legion (TV series)|Legion]]'', Cary describes a piece of technology of "advanced", but "not Shi'ar."
+
+===Video games===
+* In [[X-Men (1993 video game)|X-Men]] for the [[Sega Genesis]], the X-Men visit the Shi'ar empire.
+* The Shi'ar appear in ''[[Marvel: Ultimate Alliance]]''. The heroes travel to a Shi'ar warship to obtain a shard of the [[M'Kraan Crystal]]. Unfortunately, some of the Shi'ar soldiers and the Imperial Guard have sided with Deathbird in overthrowing Lilandra Neramani. The heroes had to fight Deathbird, the Imperial Guard members on her side, and an army of Shi'ar Soldiers, Shi'ar Soldier Commanders, Shi'ar Gunners, Shi'ar Gunnery Sergeants, and Shi'ar Trackers in order to restore Lilandra to the throne.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marveldatabase|Shi'ar (Race)|Shi'ar}}
+* [https://comicvine.gamespot.com/shiar/4060-55854/ Shi'ar] at Comic Vine
+* {{comicbookdb|type=team|id=301|title=Shi'ar}}
+
+{{X-Men characters}}
+{{Ultimate X-Men}}
+{{Inhumans}}
+{{Guardians of the Galaxy}}
+{{Skrull}}
+{{Marvel Cosmic}}
+
+[[Category:Shi'ar| ]]
+[[Category:Fictional governments]]
+[[Category:X-Men]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Fictional humanoids]]
+[[Category:X-Men supporting characters]]
+[[Category:Avian humanoids]]

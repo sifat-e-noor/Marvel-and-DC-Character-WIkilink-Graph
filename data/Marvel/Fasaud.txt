@@ -1,0 +1,445 @@
+{{short description|None}}
+{{Use dmy dates|date=December 2018}}
+The [[Marvel Universe|Marvel]] universe debuted in the pages of ''[[Fantastic Four]]'' in 1961, created by [[Stan Lee]] and [[Jack Kirby]]. At that time, ''[[Strange Tales]]'' also published stories featuring the Fantastic Four cast, mostly the [[Human Torch]] and [[Thing (comics)|Thing]], where other villains also debuted. The following is a list of antagonists that were introduced in Fantastic Four, Strange Tales and other Marvel comics. The Fantastic Four is regarded as possessing one of the strongest rogues' galleries in [[Marvel Comics]].<ref>[https://nerdist.com/article/kevin-feige-fantastic-four-x-men-marvel/ Nerdist]</ref>
+
+==''Fantastic Four'' debuts==
+{| class=wikitable
+|- style="background:#EFEFEF"
+|- bgcolor="#CCCCCC"
+|[[Supervillain]] name
+|Notable [[alter ego]] 
+|[[First appearance]] issue #
+|[[List of comics creators|Creator]]
+|Notes
+|-
+| [[Mole Man]] and his [[Moloids]]
+| Harvey Rupert Elder
+| ''Fantastic Four'' No. 1 (November 1961)
+| [[Stan Lee]]<br>[[Jack Kirby]]
+| An [[wikt:underground|underground]] leader of [[Subterranea (comics)|Subterranea]], who plans to take over the outer world that rejected him. Rules over different creatures and has access to highly advanced technology.
+|-
+| [[Skrull]]s
+| Various
+| ''Fantastic Four'' No. 2 (January 1962)
+| [[Stan Lee]]<br>[[Jack Kirby]]
+| An alien race that can shapeshift and are bent on taking over the Earth.
+|-
+| [[Miracle Man]]
+| Joshua Ayers
+| ''Fantastic Four'' No. 3 (March 1962)
+| [[Stan Lee]]<br>[[Jack Kirby]]
+| A magician with megalomaniacal goals.
+|-
+| [[Namor]] the Sub-Mariner
+| Namor McKenzie
+| ''Fantastic Four'' No. 4 (May 1962)
+| [[Bill Everett]]
+| An underwater [[antihero]] who tried to win [[Invisible Woman]]'s heart. He is the [[King]] of [[Atlantis (Marvel Comics)|Atlantis]]. Originally the character was created for the [[Invaders (Comics)|Invaders]] for [[Timely Comics]], and was reintroduced into Marvel Comics in 1962. 
+|-
+| [[Doctor Doom]]
+| Victor von Doom
+| ''Fantastic Four'' No. 5 (July 1962)
+| Stan Lee<br>Jack Kirby
+| The Fantastic Four's deadliest [[archenemy]]. Ruler of [[Latveria]], bent on dominating the Earth. A skilled sorcerer and one of the smartest people on [[Earth 616]]. Met [[Reed Richards]] and [[Ben Grimm]] while at college at the fictional Empire State University. He was permanently disfigured after an accident in which he tried contacting his deceased mother from beyond the grave. This disfigurement was only made worse when he prematurely put on his iconic mask before it was cool. One of Marvel's biggest and most popular villains.
+While typically an enemy of the Fantastic Four, he has been known to help them, such as with the birth of [[Valeria Richards]].<ref>''Fantastic Four'' Vol 3 #54. (June 2002)</ref>
+|-
+| Kurrgo
+| Kurrgo
+| ''Fantastic Four'' No. 7 (July 1962)
+| Stan Lee<br>Jack Kirby
+| A Xantha who is the dictator of the planet Xanth and master of its technology that is more advanced than Earth's technology. He had his [[robot]] bring the Fantastic Four to Xantha to help save his kind from an asteroid that will destroy Xanth. When Mister Fantastic came up with a way to shrink the Xanthas with a special gas in order to save them and relocate them to another planet by enlarging them, Kurrgo still plotted to rule his kind. Though he was thought to have perished in Xanth's destruction, ''Marvel Feature'' #11 revealed that Kurrgo's [[robot]] saved him and took him to a hidden spaceship which they used to escape Xanth's destruction. In order to regain control of the Xantha who have settled on New Xanth and repelled him with their technology, Kurrgo and his robot went to Earth to plan to use Thing in overcoming the Xantha only to end up competing against [[Leader (character)|Leader]] after discovering that [[Hulk]] was stronger than Thing.
+|-
+| [[Puppet Master (Marvel Comics)|Puppet Master]]
+| Phillip Masters
+| ''Fantastic Four'' No. 8 (Nov. 1962)
+| Stan Lee<br>Jack Kirby
+| An artist that can control people with [[puppet]]s he creates in their image using special [[radioactive]] clay. Is the step-father of [[Alicia Masters]], [[Ben Grimm]]'s future wife. 
+|-
+| [[Impossible Man]]
+| 
+| ''Fantastic Four'' No. 11 (Feb 1963)
+| Stan Lee<br>Jack Kirby
+| An alien that can [[shapeshift]] from the planet Poppup. He has a hivemind containing all the consciousnesses of Poppup before it was consumed by Galactus <ref>Fantastic Four #175(July, 1976)</ref>.
+|-
+| [[Red Ghost (character)|Red Ghost]] and his Super-Apes
+| Ivan Kragoff
+| ''Fantastic Four'' No. 13 (April 1963)
+| Stan Lee<br>Jack Kirby
+| A ghost-like figure with three super-powered primates. A [[Soviet]] scientist who uses the same technology as the Fantastic Four to make it to the moon. 
+|-
+| [[Mad Thinker]] and his [[Awesome Android]]
+| Julius
+| ''Fantastic Four'' No. 15 (Jun 1963)
+| Stan Lee<br>Jack Kirby
+| A genius specializing in evil robotics who usually comes up with very elaborate, infallible, devious plans that unfold like clockwork.
+|-
+| [[Super-Skrull]]
+| Kl'rt
+| ''Fantastic Four'' No. 18 (Sep. 1963)
+| Stan Lee<br>Jack Kirby
+| A [[Skrull]] with the combined powers of the [[Fantastic Four]] and also [[hypnosis]].
+|-
+| Rama-Tut
+| Nathaniel Richards
+| ''Fantastic Four'' No. 19 (Oct. 1963)
+| Stan Lee<br>Jack Kirby
+| One of the many names of [[Kang the Conqueror]], an [[Avengers (comics)|Avengers]] villain and [[Mister Fantastic|Reed Richard's]] descendant.
+|- 
+| [[Molecule Man]]
+| Owen Reece
+| ''Fantastic Four'' No. 20 (November 1963)
+| Stan Lee<br>Jack Kirby
+| A villain or a [[reluctant hero]] with the power of molecular manipulation. Originally could only control inorganic matter, but can now control organic matter as well.
+|-
+| [[Hate-Monger]]
+| Clone of [[Adolf Hitler]]
+| ''[[Fantastic Four]]'' No. 21 (December 1963)
+| Stan Lee<br>Jack Kirby
+| 
+|- 
+| [[Infant Terrible]]
+| 
+| ''Fantastic Four'' No. 24 (March 1964)
+| Stan Lee<br>Jack Kirby
+|
+|- 
+| [[Diablo (Marvel Comics)|Diablo]]
+| Esteban Corazón de Ablo
+| ''Fantastic Four'' No. 30 (September 1964)
+| Stan Lee<br>Jack Kirby
+| An evil [[alchemist]] from medieval [[Spain]] who controls the [[Four Elements]]
+|- 
+| [[Attuma]]
+| 
+| ''Fantastic Four'' No. 33 (December 1964)
+| Stan Lee<br>Jack Kirby
+| An Atlantean who is also Namor's [[archenemy]].
+|- 
+| [[Dragon Man (comics)|Dragon Man]]
+| 
+| ''Fantastic Four'' No. 35 (February 1965).
+| Stan Lee<br>Jack Kirby
+| A robot in the form of a [[humanoid]] [[dragon]] that was brought to life by [[Diablo (comics)|Diablo]]. He later gains intelligence and sentience, becoming an ally and teacher to the [[Future Foundation]]. 
+|- 
+| [[Frightful Four]]
+| 
+| ''Fantastic Four'' No. 36 (March 1965)
+| Stan Lee<br>Jack Kirby
+| The evil version of the Fantastic Four. Led by the Human Torch's enemy [[Wizard (Marvel Comics)|Wizard]]. The lineup frequently changes, with founding members [[Wizard (Marvel Comics)|Wizard]], [[Medusa (Marvel Comics)|Medusa]], [[Sandman (Marvel Comics)|Sandman]], and [[Paste-Pot Pete]]. 
+|- 
+| [[Maximus (comics)|Maximus the Mad]]
+| Maximus Boltagon
+| ''Fantastic Four'' No. 47 (Feb. 1966)
+| Stan Lee<br>Jack Kirby
+| A member of the [[Inhumans]] who wants to take over his brother and [[archenemy]] [[Black Bolt]]'s reign as ruler of the Inhumans.
+|- 
+| [[Galactus]]
+| 
+| ''Fantastic Four'' No. 48 (March 1966)
+| Stan Lee<br>Jack Kirby
+| A gigantic cosmic entity that feeds on planets. Also the [[Silver Surfer]]'s [[archenemy]] and frequent master.
+|- 
+| [[Klaw (character)|Klaw]]
+| Ulysses Klaue
+| ''Fantastic Four'' No. 56 (Nov 1966)
+| Stan Lee<br>Jack Kirby
+| A human physicist who has been transformed into solid sound and who wears a sonic emitter on his right wrist as a prosthetic device. Also known as an enemy of [[Black Panther (comics)|Black Panther]].
+|- 
+| [[Blastaar]]
+| 
+| ''Fantastic Four'' No. 62 (May 1967)
+| Stan Lee<br>Jack Kirby
+| A villain from the [[Negative Zone]] with the power to project blasts of highly concussive kinetic force from his hands.
+|- 
+| [[Ronan the Accuser]]
+| 
+| ''Fantastic Four'' No. 65 (Aug. 1967)
+| Stan Lee<br>Jack Kirby
+| The Supreme Accuser of the [[Kree]] Empire.
+|- 
+| [[Kree]]
+| 
+| ''Fantastic Four'' No. 65 (Aug. 1967)
+| Stan Lee<br>Jack Kirby
+| A scientifically and technologically advanced militaristic alien race.
+|- 
+| [[Psycho-Man]]
+| 
+| ''Fantastic Four Annual'' No. 5 (Nov. 1967)
+| Stan Lee<br>Jack Kirby
+| A member of a microscopic race who can manipulate [[emotions]].
+|- 
+| [[Annihilus]]
+| 
+| ''Fantastic Four Annual'' No. 6 (November 1968)
+| Stan Lee<br>Jack Kirby
+| A villain from the Negative Zone that wields a cosmic control rod to take over the Earth.
+|- 
+| [[Overmind (comics)|Overmind]]
+| 
+| ''Fantastic Four'' No. 113 (August 1971)
+| Stan Lee<br>[[John Buscema]]
+| An alien belonging to the [[Eternals (comics)|Eternals]].
+|- 
+| [[Air-Walker]]
+| Gabriel Lan
+| ''Fantastic Four'' No. 120 (March 1972)
+| Stan Lee<br>John Buscema
+| The Xandarian Herald of Galactus.
+|- 
+| [[Nicholas Scratch]]
+| 
+| ''Fantastic Four'' No. 185 (August 1977)
+| [[Len Wein]]<br>[[George Pérez]]
+| A wizard and the son of Fantastic Four supporting character [[Agatha Harkness]].
+|- 
+| [[Salem's Seven]]
+| 
+| ''Fantastic Four'' No. 186 (September 1977)
+| Len Wein<br>George Pérez
+| A team of seven magical supervillains that are children of [[Nicholas Scratch]] and grandchildren of [[Agatha Harkness]].
+|- 
+| [[Terrax]] the Tamer
+| Tyros
+| ''Fantastic Four'' No. 211 (Oct. 1979)
+| [[Marv Wolfman]]<br>[[John Byrne (comics)|John Byrne]]<br>[[Joe Sinnott]]<br>[[Ben Sean]]
+| A [[Herald of Galactus]] who later betrayed him.
+|-
+| Karisma
+| Mary Brown
+| ''Fantastic Four'' #266 (May, 1984)
+| John Byrne
+| Mary Brown is a supervillain who uses radiation wavelengths to become irresistible to men.
+|- 
+| [[Kristoff Vernard]]
+| Kristoff von Doom
+| ''Fantastic Four'' No. 247 (October 1982)
+| John Byrne
+| Someone who takes the identity of [[Doctor Doom]] for a while before becoming an ally for the Fantastic Four. Originally Doctor Doom's heir apparent. 
+|- 
+| [[Terminus (comics)|Terminus]] 
+|
+| ''Fantastic Four'' No. 269 (August 1984)
+| John Byrne
+| An alien destroyer.
+|- 
+| Fasaud 
+|
+| ''Fantastic Four'' No. 308 (November 1987)
+| [[Steve Englehart]] and [[John Buscema]]
+| A man transformed into a living electronic image.
+|- 
+| [[Paibok]] the Power Skrull 
+| 
+| ''Fantastic Four'' No. 358 (November 1991)
+| [[Tom DeFalco]]<br>[[Paul Ryan]]<br>[[Danny Bulanadi]]
+| A powerful [[Skrull]].
+|- 
+| [[Devos the Devastator]] 
+| 
+| ''Fantastic Four'' No. 359 (December 1991)
+| Tom DeFalco<br>Paul Ryan<br>Danny Bulanadi
+| An extraterrestrial vigilante dedicated to bringing peace to the universe, but holds the rather warped view that this can only be done by destroying anyone whom he deems a threat to galactic peace.
+|- 
+| [[Occulus]] 
+| 
+| ''Fantastic Four'' No. 363 (Apr 1992)
+| Tom DeFalco<br>Paul Ryan
+| One of the first villains imprisoned in the Negative Zone prison.
+|- 
+| [[Hyperstorm]]
+| Johnathon Richards
+| ''Fantastic Four'' No. 406 (November 1995)
+| Tom DeFalco<br>Paul Ryan<br>Dan Bulanadi
+|Reed and Sue's grandson from the future and an enemy of the Fantastic Four. 
+|- 
+| [[Abraxas (comics)|Abraxas]]
+| 
+| ''Fantastic Four Annual 2001'' (September 2001)
+| [[Carlos Pacheco]]
+| A cosmic entity who seeks to destroy all realities.
+|- 
+| Salamandra
+| 
+| ''Fantastic Four'' No. 514 (August 2004)
+| Paco Medina
+| A half-human/half-dragon woman who is the Wizard's ex-wife.
+|-
+| Quiet Man
+| possibly "John Eden"
+| ''Fantastic Four'' Vol. 5 No. 5 (July 2014)
+| James Robinson<br>Leonard Kirk
+| A genius level intellect who considers himself Reed's arch-rival.
+|-
+| Victorious
+| Zora Vukovic
+| ''Fantastic Four'' Vol. 6 No. 1 (October 2018)
+| Dan Slott<br>Simone Bianchi
+| A dedicated patriot and freedom fighter in her homeland of Latveria, she was given cosmic powers bestowed by Doctor Doom.
+|}
+
+==''Strange Tales'' debuts==
+{| class=wikitable
+|- style="background:#EFEFEF"
+|- bgcolor="#CCCCCC"
+|[[Supervillain]] name
+|Notable [[alter ego]] 
+|[[First appearance]] issue #
+|[[List of comics creators|Creator]]
+|Notes
+|-
+| [[Wizard (Marvel Comics)|Wizard]]
+| Bentley Wittman
+| ''Strange Tales'' No. 102 (Nov 1962)
+| Stan Lee<br>[[Larry Lieber]]<br>Jack Kirby
+| An enemy of the [[Human Torch]] and the founder of the [[Frightful Four]].
+|-
+| [[Trapster|Paste-Pot Pete/Trapster]]
+| Peter Petruski
+| ''Strange Tales'' No. 104 (January 1963)
+| Stan Lee<br>Jack Kirby
+| An original member of the [[Frightful Four]], Trapster can trap people with adhesives or lubricants.
+|}
+
+==Other titles debuts==
+{| class=wikitable
+|- style="background:#EFEFEF"
+|- bgcolor="#CCCCCC"
+|[[Supervillain]] name
+|Notable [[alter ego]] 
+|[[First appearance]] issue #
+|width=10%|[[List of comics creators|Creator]]
+|Notes
+|-
+| [[Kang the Conqueror]] 
+| Nathaniel Richards
+| ''Avengers'' No. 8 (Sep. 1964)
+| Stan Lee<br>Jack Kirby
+| This prime Avengers villain has many ties to the team and has had more than a few battles with the Fantastic Four as well.
+|-
+| [[Immortus]]
+| Nathaniel Richards
+| ''Avengers'' No. 10 (Nov 1964)
+| Stan Lee<br>Jack Kirby
+| The future version of [[Kang the Conqueror]].
+|-
+| [[Ego the Living Planet]] 
+| 
+| ''Thor'' No. 132 (September 1966)
+| Stan Lee<br>Jack Kirby
+| A powerful living [[planet]] that is primarily a [[villain]] of [[Thor (Marvel Comics)|Thor]].
+|-
+| [[Mephisto (comics)|Mephisto]]
+| 
+| ''Silver Surfer'' No. 3 (Dec. 1968)
+| Stan Lee<br>John Buscema
+| This Prince of Darkness has tried to tamper with the souls of the Fantastic Four and will most likely try to do it again. One of the Ghost Rider's archenemies, besides [[Blackheart]].
+|-
+| [[Living Monolith]] 
+| Ahmet Abdol
+| ''X-Men'' No. 54 (Mar 1969)
+| Arnold Drake<br>Roy Thomas<br>Don Heck<br>Neal Adams
+| An [[X-Men]] villain who was the Living [[Pharaoh]] while in his normal appearance, but once he obtained enough cosmic energy, he would increase in mass, size and power, thus becoming the Living [[Monolith]]. 
+|-
+| [[Llyra]]
+| 
+| ''Sub-Mariner'' No. 32 (December 1970)
+| Roy Thomas<br>Sal Buscema
+| A female Atlantean who is also an enemy of [[Namor]].
+|-
+| [[Brute (Reed Richards)|Brute]] 
+| Reed Richards of Counter-Earth
+| ''Marvel Premiere'' No. 2 (May 1972)
+| [[Roy Thomas]]<br>[[Gil Kane]]
+| An evil counterpart of Reed Richards from [[Counter-Earth (comics)|Counter-Earth]].
+|-
+| [[Aron (comics)|Aron]]
+| 
+| ''Captain Marvel'' No. 39 (Jul 1975)
+| [[Steve Englehart]]<br>[[Al Milgrom]]
+| A rogue [[Watcher (comics)|Watcher]] that likes to manipulate the Fantastic Four.
+|-
+| Ion
+| Voletta Todd
+| ''Machine Man'' #15 (June 1980)
+| [[Tom DeFalco]]<br>[[Steve Ditko]]
+| Violetta Todd is the niece of [[Blazing Skull]] who projects electromagnic energy.
+|-
+| [[Beyonder]] 
+| 
+| ''Secret Wars'' No. 1 (May 1984)
+| [[Jim Shooter]]<br>[[Mike Zeck]] 
+| A sentient universe come to Earth in human form to study humanity.
+|-
+| [[Lucia von Bardas]]
+| 
+| ''Secret War'' No. 1 (February 2004)
+| Brian Michael Bendis<br>Gabriele Dell'Otto
+| A woman [[cyborg]] from [[Latveria]].
+|-
+| [[Maker (Reed Richards)|Maker]]
+| Reed Richards
+| ''[[Ultimate Fantastic Four]]'' No. 1 (February 2004)
+| Brian Michael Bendis<br>Mark Millar<br>Adam Kubert
+| The [[Ultimate Marvel]] version of Reed Richards who became corrupt.
+|}
+
+==Other major villains==
+Stan Lee and Jack Kirby collaborated on the first 102 consecutive issues of ''Fantastic Four''. Most of the major Marvel concepts, i.e., [[Latveria]], [[Atlantis (Marvel Comics)|Atlantis]], [[Wakanda]], [[Attilan]], the [[Negative Zone]], the [[Microverse]], [[Subterranea (comics)|Subterranea]] and [[Avalon (Marvel Comics)|Avalon]] which later became a huge part of other major Marvel characters, debuted in ''Fantastic Four''. Following are some of the villains who have gone on to become major villains of various Marvel franchises.
+
+{| class=wikitable
+|- style="background:#EFEFEF"
+|- bgcolor="#CCCCCC"
+|[[Supervillain]] name
+|Franchise 
+|[[First appearance]] issue #
+|-
+|Skrulls
+| '''[[Marvel Universe]]'''
+| ''Fantastic Four'' No. 2 (January 1962)
+|-
+|Immortus (Kang the Conqueror)
+| '''[[Avengers (comics)|Avengers]]'''
+| ''Fantastic Four'' No. 19 (Oct. 1963)
+|- 
+|Molecule Man
+| '''Marvel Universe'''
+| ''Fantastic Four'' No. 20 (November 1963)
+|- 
+|Attuma
+|'''[[Namor]]'''
+| ''Fantastic Four'' No. 33 (December 1964)
+|- 
+|Maximus the Mad
+| '''[[Inhumans]]''' 
+| ''Fantastic Four'' No. 47 (Feb. 1966)
+|- 
+|Galactus
+| '''[[Silver Surfer]]''' 
+| ''Fantastic Four'' No. 48 (March 1966)
+|- 
+|Klaw
+|'''[[Black Panther (comics)|Black Panther]]'''
+| ''Fantastic Four'' No. 56 (Nov 1966)
+|- 
+|Kree
+|'''Marvel Universe''' 
+| ''Fantastic Four'' No. 65 (Aug. 1967)
+|-
+|[[Enclave (comics)|Enclave]]
+|'''[[Adam Warlock]]''' 
+| ''Fantastic Four'' No. 66 (Sep. 1967)
+|- 
+|Annihilus
+| '''Marvel Universe''' 
+| ''Fantastic Four Annual'' No. 6 (November 1968)
+|}
+
+==References==
+{{reflist}}
+
+{{Fantastic Four}}
+
+[[Category:Fantastic Four lists|Enemies]]
+[[Category:Lists of Marvel Comics characters|Fantastic Four enemies, List of]]
+[[Category:Lists of Marvel Comics supervillains|Fantastic Four enemies]]

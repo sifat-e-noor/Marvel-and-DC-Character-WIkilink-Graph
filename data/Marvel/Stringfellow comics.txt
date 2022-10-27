@@ -1,0 +1,148 @@
+{{short description|Fictional comic book organization}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|image= <!-- "filename format only -->
+|imagesize= <!-- numeral only, defaults to 250 -->
+|caption=
+|publisher=[[Marvel Comics]]
+|debut=''New X-Men'' vol. 2 #128 (August 2002)
+|creators=
+|type=Support agency
+|business=
+|organisation=
+|organization=y
+|base= bases around the world
+|owners=[[Professor X]] (founder)
+|employees=[[Domino (comics)|Domino]] (Hong Kong)<br>[[Sunspot (comics)|Sunspot]] (Los Angeles)<br>[[Warpath (comics)|Warpath]] (Mumbai)
+|fullroster=[[#Known locations & members]]
+|cat=agencies
+|subcat=Marvel Comics
+|sortkey=X-Corporation
+|}}
+The '''X-Corporation''' ('''X-Corp''') is a fictional institution appearing in [[American comic book]]s published by [[Marvel Comics]], commonly in association with the [[X-Men]] comics. This organization was created to ensure the protection of [[Mutant (Marvel Comics)|mutant]] rights throughout the world due to the increasing number of mutants and widespread [[bigotry]] and [[hate crime]]s against them.
+
+==Fictional history==
+X-Corp was founded by [[Professor X|Prof. Charles Xavier]], the founder of the X-Men.<ref>''[[X-Men: Legacy|New X-Men]]'' #128 (Aug. 2002)</ref> Its purpose is to provide support for "civilian" mutant populations on a global scale in a world where the mutant population was outgrowing the reach of the X-Men. X-Corp offices are located in many major cities in every continent, and each office is managed by a former member of the X-Men or one of their satellite teams, such as [[Sunspot (comics)|Sunspot]] or [[Domino (comics)|Domino]]. The worldwide headquarters of the X-Corporation is the [[X-Mansion]]. X-Corp works with local governments, such as when they took in the superstrong twelve-year-old orphan [[Molly Hayes]] on behalf of the Social Services of Los Angeles.
+
+It should not be confused with the [[X-Corps]], a short-lived [[paramilitary]] team led by [[Banshee (comics)|Banshee]], which merged with the X-Corporation after its dissolution, most of its members transferring to the Paris branch.
+
+In the wake of the [[Decimation (comics)|Decimation of mutantkind]], wherein 90-95% of the mutant population was rendered genetically and physically human and thus powerless, several bombings occurred at X-Corporation locales. For the safety of those operating the facilities, and to regroup all empowered members, [[Cyclops (Marvel Comics)|Cyclops]] ordered the evacuation of all X-Corp offices and the organization appears to be dead. With the minimal mutant population and the strict government rules imposed on mutants, the organization would serve no purpose.
+
+==''X-Corp'' (volume 1)==
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics-->
+|title=X-Corp
+|image=
+|imagesize= 250
+|caption=
+|schedule=Monthly
+|publisher=[[Marvel Comics]]
+|issues=5 (as of June 23, 2021)
+| creators            = 
+| writers             = Tini Howard
+| artists             = Valentine De Landro<br>Alberto Foche
+| colorists           = 
+| letterers           = 
+| editors             ='''Editor''' <br> Jordan D. White <br> '''Assistant Editor''' <br> Lauren Amaro <br> '''Head of X''' <br> [[Jonathan Hickman]] 
+|main_char_team=Angel<br>
+Penance<br>
+Multiple Man<br>
+Trinary<br>
+Mastermind<br>
+}}
+A business delegation representing the nation of Krakoa debuted as part of ''[[Reign of X]]'' in 2021. X-Corp will handle the mutantkind's business interests and has expanded into two branches:<ref>''X-Corp'' #3</ref>
+
+* X-Corp Pharma: Research, development, and production of Krakoa's pharmaceuticals.
+* X-Corp Telecom: Development of the Ionospheric Bandwidth Generator for faster communication. The mutant circuit of '''Vulcan''', '''Bishop''', '''Thunderbird''' and '''Sunspot''' activates the generator.
+
+The Board of Director includes:
+
+* '''[[Warren Worthington III|Angel]]''' (Warren Worthington III) – Chairperson
+* '''[[M (Marvel Comics)|Penance]]''' (Monet St. Croix) – CXO
+* '''[[Mastermind (Jason Wyngarde)|Mastermind]]''' (Jason Wyngrade) – CXO
+*'''[[Selene (comics)|Selene]] – CXO'''
+*'''Trinary''' (Shilpa Khatri) – CXO
+
+Other supporting members include '''Multiple Man''', '''Jumbo Carnation''' and '''[[Wind Dancer]]''' (Sofia Mantega).
+
+===Collected Editions===
+{| class="wikitable"
+!#
+!Title
+!Material collected
+!Pages
+!Publication date
+!ISBN
+|-
+|1
+|''X-Corp by Tini Howard – Volume 1''
+|''X-Corp'' #1–5
+|144
+|September 6, 2021
+|{{ISBN|978-1302930202}}
+|-
+|}
+
+==Known Locations & Members==
+{| class="wikitable" width=100%
+! Branch
+! First appearance
+! Members
+|-
+||[[New York City|New York]]
+||''New Mutants'' vol. 2 #13
+||[[Professor X]] (Founder)
+|-
+||[[Amsterdam]]
+||''New X-Men'' Annual 2001 (mentioned)
+||-unknown-
+|-
+||[[Hong Kong]]
+||''New X-Men'' Annual 2001
+|| [[Domino (comics)|Domino]] • [[Risque (comics)|Risque]]
+|-
+||[[London]]
+||
+||-unknown-
+|-
+||[[Los Angeles, California|Los Angeles]]
+||''X-Treme X-Men'' #31
+|| [[Empath (comics)|Empath]] • [[Magma (comics)|Magma]] • [[Skids (comics)|Skids]] (undercover [[S.H.I.E.L.D.]] agent) • Skitz • Stringfellow • [[Sunspot (comics)|Sunspot]] (former COO of Los Angeles Branch; former Lord Imperial of the Hellfire Club)
+|-
+||[[Melbourne]]
+||''New X-Men'' Annual 2001 (mentioned)
+||-unknown-
+|-
+||[[Mumbai]]
+||''New X-Men'' #133 (destroyed in ''Excalibur'' vol. 2 #5)
+|| [[Feral (comics)|Feral]] • [[Sunfire (comics)|Sunfire]] • [[Thornn]] • [[Warpath (comics)|Warpath]]
+|-
+||[[Nairobi]]
+||
+||-unknown-
+|-
+||[[Paris]]
+||''New X-Men'' #128 (Car-bombed and destroyed on [[Decimation (comics)|M-Day]])
+|| [[Cannonball (comics)|Cannonball]] • [[Darkstar (Marvel Comics)|Darkstar]] • [[Holly (comics)|Holly]] (secretary) • [[M (Marvel Comics)|M]] • [[Jamie Madrox|Multiple Man]] • [[Rictor]] • [[Sabra (comics)|Sabra]] • [[Siryn]]
+|-
+||[[Singapore]]
+||''Excalibur'' vol. 2 #5
+|| [[Lifeguard (comics)|Lifeguard]] • [[Neal Shaara|Thunderbird (Neal Shaara)]]
+|-
+||[[Krakoa]]
+||''X-Corp'' #1
+||[[Professor X]] • [[Cyclops (Marvel_Comics)|Cyclops]] • [[Warren Worthington III|Archangel/Angel]] • [[M (Marvel Comics)|M / Penance]] • [[Jamie Madrox|Multiple Man]] • [[Selene (comics)|Selene]] • Trinary • [[Mastermind (Jason_Wyngarde)|Mastermind]] • [[Vulcan (Marvel_Comics)|Vulcan]] • [[Bishop (Marvel_Comics)|Bishop]] • [[Neal Shaara|Thunderbird]] • [[Sunspot (comics)|Sunspot]] • [[Wind Dancer]] • Jumbo Carnation
+|-
+|}
+
+==Alternate uses==
+In the [[Marvel Trading Card Game]], '''X-Corp''' is the evil scientific corporation that is controlled by the [[Hobgoblin (comics)|Hobgoblin]], from the [[Spider-Man]] series.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=6&fldAuto=56 Uncannyxmen.net feature on X-Corporation]
+
+{{X-Men characters}}
+
+[[Category:X-Men]]
+[[Category:X-Men supporting characters]]

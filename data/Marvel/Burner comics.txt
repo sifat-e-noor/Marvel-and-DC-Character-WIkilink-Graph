@@ -1,0 +1,926 @@
+{{Short description|Marvel Comic series}}
+{{Redirect|The New Mutants|the film based on the comics|The New Mutants (film)|the 1982 graphic novel|The New Mutants (graphic novel)}}
+{{Infobox comics organization <!-- Wikipedia:WikiProject Comics -->
+| name = New Mutants
+| image = File:New_Mutants.jpg
+| imagesize =
+| caption = Cover of ''New Mutants'' vol. 3 #1 (April 2009) by Diogenes Neves. Clockwise from top left: Warlock, Sunspot, Cannonball, Danielle Moonstar, Magma, Karma, Magik, Cypher, and Legion
+| publisher = [[Marvel Comics]]
+| debut = ''[[The New Mutants (graphic novel)|The New Mutants]]'' (September 1982)
+| business =
+| organisation =
+| organization =
+| creators = [[Chris Claremont]]<br>[[Bob McLeod (comics)|Bob McLeod]]
+| base = '''Former:'''<br />[[X-Mansion|Xavier's School for Gifted Youngsters]]<br />[[Ship (comics)|Ship]]<br />'''Current:'''<br />[[Krakoa|Akademos Habitat]]
+| employees =
+| members ='''Original:'''<br />[[Danielle Moonstar|Mirage]]<br />[[Cannonball (Marvel Comics)|Cannonball]]<br />[[Karma (character)|Karma]]<br />[[Sunspot (Marvel Comics)|Sunspot]]<br />[[Wolfsbane (character)|Wolfsbane]]<br />'''Other:'''<br />See [[New_Mutants#Team_roster|List]]
+| subcat = Marvel Comics
+| hero = x
+}}
+
+The '''New Mutants''' are a group of fictional [[Mutant (Marvel Comics)|mutant]] [[superheroes]] appearing in [[American comic books]] published by [[Marvel Comics]], generally in association with the [[X-Men]]. Originally depicted as the teenaged junior class at the [[X-Mansion|Xavier Institute]], subsequent stories have depicted the characters as adult superheroes (in their eponymous series as well as in related titles such as [[X-Force]] and [[Avengers (comics)|The Avengers]]) or as teachers and mentors to younger mutants.
+
+The team first appeared in  ''[[The New Mutants (graphic novel)|The New Mutants]]'' (September 1982) by [[Chris Claremont]] and artist [[Bob McLeod (comics)|Bob McLeod]], part of the ''[[Marvel Graphic Novel]]'' [[line (comics)|line]], followed by an [[ongoing series]] which ran from 1983 until 1991. Like the ''X-Men'' parent title, also written by Claremont, ''The New Mutants'' featured an [[ensemble cast]], with stories often focused on interpersonal relationships and coming-of-age arcs, blending [[Drama_(film_and_television)#Teen_drama|teen drama]] with action and adventure. The title was later taken over by writer [[Louise Simonson]], ultimately taking a more action-oriented focus under artist [[Rob Liefeld]], who relaunched the characters as [[X-Force]] following the series' end.
+
+Since their inception, several ''New Mutants'' series have been published, either focusing on the continuing adventures of the original lineup, new groups of young mutants, or some combination of both. Individual characters have appeared in [[X-Men in other media|various film, television, and other media adaptations of the X-Men franchise]], while most of the original lineup of the New Mutants was featured in the 2020 [[20th Century Studios]] [[horror film]] of [[The New Mutants (film)|the same name]].<ref name="Mar2020ReleaseDelay">{{Cite news |last=D'Alessandro |first=Anthony |url=https://deadline.com/2020/03/mulan-new-mutants-antlers-moved-coronavirus-1202881355/ |title='Mulan', 'New Mutants' & 'Antlers' Moved By Disney As Coronavirus Grips Release Schedule |date=March 12, 2020 |work=[[Deadline Hollywood]] |access-date=March 15, 2020 |url-status=live |archive-url=https://web.archive.org/web/20200312222510/https://deadline.com/2020/03/mulan-new-mutants-antlers-moved-coronavirus-1202881355/ |archive-date=March 12, 2020 }}</ref>
+
+== Original run ==
+By the early 1980s, ''[[Uncanny X-Men]]'' (under the authorship of [[Chris Claremont]]) had become one of the comic book industry's most successful titles, prompting Marvel editor-in-chief [[Jim Shooter]] to launch ''The New Mutants'', the first of several ''[[X-Men]]'' spin-offs. ''X-Men'' editor [[Louise Simonson]] recalled "Neither Chris [Claremont] or I really wanted to do it. We wanted ''X-Men'' to be special and by itself, but Shooter told us that if we didn't come up with a new 'mutant' book, someone else would."<ref name="PoorDoug">{{cite news | last = Grant | first= Paul J. | date = August 1993 | title = Poor Dead Doug, and Other Mutant Memories | work = [[Wizard (magazine)|Wizard]]: X-Men Turn Thirty | pages = 66–69}}</ref> The name was a modification of [[Stan Lee]]'s original name for the X-Men, "The Mutants".<ref name="PoorDoug"/> The series was primarily written by Chris Claremont (#1-54, 63, 81, Annual 1-3) and Louise Simonson (#55-80, 82-91, 93-97, Annual 4-6), with Rob Liefeld plotting the final issues (#98-100) with writer [[Fabian Nicieza]]. The only issue written by a fill-in was #92, written by Dwight Zimmerman.
+
+The New Mutants were teenaged students of [[X-Mansion|Professor Charles Xavier's School for Gifted Youngsters]] and wore matching uniforms, much like the original X-Men, who had since grown into adulthood.<ref name="back29">{{cite journal|last=Buchanan|first=Bruce |title=The New Mutants: From Superhero Spin-Off to Sci-Fi/Fantasy|journal=[[Back Issue!]]|issue=29|pages=62–68 |publisher=[[TwoMorrows Publishing]]|date=August 2008|location=Raleigh, North Carolina}}</ref> These students resembled the "all-new, all-different X-Men" of their era in terms of ethnic diversity. Reflecting later on his run on the title, Claremont spoke about the appeal of stories focused on this younger cast: "The X-Men are fun but they’re grown-ups. They’re already set. The kids are the fungible ones. They’re making mistakes and they don’t know quite what they’re doing. This adventure might lead them to Asgard, the next one might lead them to someone committing suicide. It’s like seeing the evolution of Prince Hal through Henry IV 1 & 2, leading up to Henry V. It’s about growing and learning and taking responsibility."<ref>{{cite web|title=Exclusive: X-Men's Chris Claremont talks through five key storylines|last=Lynskey|first=Dorian|url=https://www.empireonline.com/movies/features/x-men-wolverine-jean-grey-chris-claremont-five-key-storylines}}</ref>
+
+The original team consisted of:
+
+* '''[[Cannonball (Marvel Comics)|Cannonball]]''' (Samuel Guthrie), a 16-year-old boy from [[Kentucky]], [[United States]] and eventual co-leader, with the ability to generate thermo-chemical energy and propel himself through the air.
+* '''[[Karma (character)|Karma]]''' (Xi'an Coy Manh), a 19-year-old girl from [[Vietnam]] and the team's original leader, who could mentally possess other people's bodies.
+* '''[[Danielle Moonstar|Mirage]]''' (Danielle Moonstar, originally codenamed Psyche), a girl who is a [[Cheyenne people|Cheyenne]] [[Native Americans in the United States|Native American]] and eventual co-leader after Karma's apparent death, who could create visual [[empathy|empathic]] three-dimensional illusions.
+* '''[[Sunspot (Marvel Comics)|Sunspot]]''' (Roberto da Costa), a 14-year-old boy from [[Brazil]] who had [[superhuman strength]] fueled by sunlight and could store solar energy in his body to use his super strength.
+* '''[[Wolfsbane (character)|Wolfsbane]]''' (Rahne Sinclair), a 13-year-old religious girl from [[Scotland]], [[United Kingdom]] who could transform into a [[wolf]] and a [[werewolf]]-like creature.
+
+The team was intended to debut in their own series. As the first issue was nearing completion, Shooter ordered it to be reworked into a graphic novel so that ''[[Marvel Graphic Novel]]'' could make its deadline for the next issue. Thus, the New Mutants debuted in ''Marvel Graphic Novel'' #4 (December 1982), which continued a plotline from ''Uncanny X-Men.'' (Despite this, the graphic novel missed its shipping slot by two weeks due to artist [[Bob McLeod (comics)|Bob McLeod]]'s [[honeymoon]].)<ref name="PoorDoug" />
+
+The series was originally written by Claremont and illustrated by McLeod, the team's co-creators, but McLeod soon passed artistic duties on to [[Sal Buscema]]. McLeod was unprepared for the demands of doing both pencils and inks on a monthly book, prompting him to have Buscema do the breakdowns after the first three issues, and left entirely after issue #8 when he began to lose interest in the stories.<ref name="back29"/> Claremont gave the series a darker tone, which was heightened with the arrival of artist [[Bill Sienkiewicz]]. Sienkiewicz's avant garde art style and painted covers broke through the conventional comic book boundaries of the day and helped ''The New Mutants'' stand out on the shelf.<ref name="back29"/>
+
+In addition to very serious depictions of teenage angst and growing pains, the series featured themes of [[mysticism]]. The stories also relied on wilder, more far-fetched premises than were typical of ''X-Men'' at the time, shaping into more of a [[science fiction]] and [[fantasy]] series than the superhero coming-of-age comic it had been touted as in its early days.<ref name="back29"/> Locales included demonic dimensions, alternate futures, and an ancient Roman civilization hidden within the [[Amazon rainforest]]. The New Mutants also encountered a secret society called the [[Hellfire Club (comics)|Hellfire Club]], and began a rivalry with their young apprentices, the [[Hellions (Marvel Comics)|Hellions]].
+
+After the apparent death of Karma, Cannonball and Dani Moonstar act as co-leaders.<ref>''The New Mutants'' #7 (September 1983)</ref> New recruits included:
+
+* '''[[Cypher (Marvel Comics)|Cypher]]''' (Douglas Ramsey), an otherwise ordinary young man who could learn to read or speak any language rapidly, whether it was human, alien, or machine, making him an unmatched computer expert.
+* '''[[Magik (Illyana Rasputina)|Magik]]''' (Illyana Rasputin), sister of the [[Russia]]n X-Man [[Colossus (comics)|Colossus]] and long-time resident of the X-Mansion, an accomplished mystic who could open "teleportation discs" allowing travel to [[Otherplace|Limbo]] and from there, any point on [[Earth]].
+* '''[[Magma (comics)|Magma]]''' (Amara Juliana Olivians Aquilla), a fiercely tempered native of a secret [[Rome|Roman]] society in the [[Amazon Basin|Amazon]] who can control [[lava]].<ref name="back29"/>
+* '''[[Warlock (New Mutants)|Warlock]]''', an extraterrestrial of the [[techno-organic virus|techno-organic]] race known as the [[Technarchy]]. Considered a pariah due to the uncommon trait of empathy.
+
+A supplementary ''New Mutants Annual'' series began in 1984. These annuals were always written by whoever was the regular ''New Mutants'' writer at the time and often included significant changes to the status quo. These changes were not explained in the parent series, so that readers would have to buy ''New Mutants Annual'' in order to follow events in both series. The 1985 annual was solicited as ''New Mutants Annual'' #2, but published as ''New Mutants Special Edition'' #1 because it exceeded the maximum page count for an annual.<ref>"Report Card" letters page, ''The New Mutants'' #30 (August 1985).</ref>
+
+In 1986, [[Professor X]] was written out of the series. Before he left, he made the X-Men's one-time nemesis, [[Magneto (Marvel Comics)|Magneto]], headmaster of his school.<ref>''Uncanny X-Men'' #200 (December 1985)</ref> Magneto would be the team's longest-running headmaster, holding the position from ''New Mutants'' #35 through to #75. Fiercely overprotective of his students, particularly after the events of the "[[Mutant Massacre]]" and "[[Fall of the Mutants]]", he was increasingly used as an uptight [[Foil (literature)|foil]] for the adventurous New Mutants, setting rules that they would inevitably break in the interests of helping their friends.
+
+With Claremont taking on ''[[Wolverine (comic book)|Wolverine]]'' and ''[[Excalibur (comics)|Excalibur]]'', he left ''The New Mutants'' and the series was turned over to writer [[Louise Simonson]] and illustrator [[Bret Blevins]] with issue #55 (Sept. 1987). Simonson was intended to be only a fill-in writer for the six months Claremont needed to get the two new series launched, but he ultimately remained with his new projects, and Simonson ended up writing the series for over three years.<ref name="PoorDoug"/> During her run, Magma is written out of the book,<ref>''The New Mutants'' #57 (November 1987). Marvel Comics.</ref> and Magik is de-aged back to childhood.<ref>''The New Mutants'' #73 (March 1989). Marvel Comics.</ref> Due to his unpopularity with New Mutants readers and artists, Cypher is killed off in ''The New Mutants'' #60 (February 1988). Simonson recalled, "He wasn't fun to draw. He just stood around and hid behind a tree during a fight... Every artist who ever did him said 'Can't we kill this guy?' We would get letters from fans about how much they hated him."<ref name="PoorDoug" /> Simonson also folded the [[X-Terminators]], a group of young wards from ''[[X-Factor (comics)|X-Factor]]'', into the New Mutants.<ref>''The New Mutants'' #76 (June 1989)</ref>
+
+The X-Terminators added to the team were:
+
+* '''[[Tabitha Smith|Boom-Boom]]''' (Tabitha Smith), a teen runaway who could create "plasma bombs."
+* '''[[Rusty Collins|Firefist]]''' (Rusty Collins), a [[pyrokinesis|pyrokinetic]] wanted by the [[Federal government of the United States|U.S. government]].
+* '''[[Rictor]]''' (Julio Richter), a young [[Mexico|Mexican]] who could create [[shock wave]]s.
+* '''[[Skids (character)|Skids]]''' (Sally Blevins), a former [[Morlocks (comics)|Morlock]] who could project a frictionless [[force shield|force field]] around her body.
+
+In 1989, Simonson crafted a saga in which the team journeyed to [[Asgard (comics)|Asgard]], the home of the gods of [[Norse mythology]]. The storyline wrote Dani Moonstar out of the series, as she joined the Norse pantheon as one of the [[Valkyrior]].<ref name=autogenerated1>''The New Mutants'' #87 (March 1990)</ref> However, the most controversial issue of her run was New Mutants #64. Titled "Instant Replay!", the story deals with the New Mutants' mourning for Cypher, and includes a scene in which Warlock attempts to resurrect Cypher by taking his corpse out of its coffin and showing it to Cypher's loved ones. Simonson holds it to be her favorite New Mutants story, though she acknowledges that many readers found it too morbid.<ref name="PoorDoug" />
+
+Sales of the series had slumped for several years, but took a sharp upturn after [[Rob Liefeld]] took over the penciling and co-plotting chores at the end of 1989.{{Citation needed|date=October 2008}} A new mentor for the group, the mysterious mercenary [[Cable (comics)|Cable]], was introduced,<ref name=autogenerated1 /> further helping sales. Over the next year, several longtime team members were written out or killed off. However, the relationship between Liefeld and Simonson was fraught with tension, and Simonson claims that editor [[Bob Harras]] dealt with the situation by rewriting her plots and dialogue so that the characterizations did not make sense: "Although I wasn't being fired, I think I was being shoved out the door with both hands by Bob Harras. Bob was only doing what he had to do, I expect, which was make Rob Liefeld happy."<ref name="PoorDoug" /> Simonson eventually gave in, leaving after issue #97. When Liefeld and [[Fabian Nicieza]], who wrote dialogue based on Liefeld's plots, took over as writers of the final three issues of the series, they included several harder-edged characters:
+
+* '''[[List of Marvel Comics characters: C|"Domino"]]''' (Vanessa Geraldine Carlysle), Cable's pale-skinned, black-garbed mercenary lover. Actually Copycat, impersonating [[Domino (comics)|Domino]].
+* '''[[Feral (character)|Feral]]''' (Maria Callasantos), who possessed a bestial temperament and appearance.
+* '''[[Shatterstar]]''' (Gaveedra Seven), a swashbuckling warrior from another dimension.
+* '''[[Warpath (comics)|Warpath]]''' (James Proudstar), the younger brother of slain X-Man [[Thunderbird (John Proudstar)|Thunderbird]] and a former Hellion, an [[Apache]] who possessed super strength and speed.
+
+''The New Mutants'' was cancelled in 1991 with issue #100, but the new platoon-like team formed by Cable continued in ''[[X-Force]]'', a successful series (whose first issue sold approximately five million copies){{Citation needed|date=September 2008}} that would continue until 2002, and feature a variety of the former ''New Mutants'' cast.
+
+== New X-Men: Academy X ==
+{{Infobox comics organization <!-- Wikipedia:WikiProject Comics -->
+| name = New Mutants (Training Squad)
+| image = Newmutants2.jpg
+| imagesize =
+| caption = The New Mutants from ''New X-Men: Academy X'' #2 by Randy Green. From left to right: Danielle Moonstar, Surge, Prodigy, Wind Dancer, Elixir, Wallflower.
+| publisher = [[Marvel Comics]]
+| debut = ''New X-Men: Academy X'' #2 (August 2004)
+| creators = [[Nunzio DeFilippis]]<br />[[Christina Weir]]<br />[[Keron Grant]]<br />Randy Green
+| base = [[X-Mansion|Xavier Institute for Higher Learning]]
+| members = [[Danielle Moonstar]] (advisor)<br />[[Elixir (comics)|Elixir]]<br />[[Icarus (comics)|Icarus]]<br />[[Prodigy (David Alleyne)|Prodigy]]<br />[[Surge (Marvel Comics)|Surge]]<br />[[Wallflower (comics)|Wallflower]]<br />[[Wind Dancer]]<br />[[Wither (comics)|Wither]]
+| subcat = Marvel Comics
+| hero = y
+| sortkey = New Mutants
+}}
+{{Main|New X-Men (2004 series)}}
+The second incarnation of the ''New Mutants'' debuted in 2003 with an ongoing series of the same name, written by [[Nunzio DeFilippis]] and [[Christina Weir]]. The series would continue for 13 issues, until June 2004, before being relaunched as ''[[New X-Men (2004 series)|New X-Men: Academy X]]'' in July 2004, with a new #1.
+
+The series featured a handful of the dozens of mutant teenagers attending the [[X-Mansion|Xavier Institute]], as well as their instructors, which included various [[X-Men]] as well as former members of the original New Mutants ([[Karma (comics)|Karma]], [[Magma (comics)|Magma]], [[Danielle Moonstar|Dani Moonstar]], and [[Wolfsbane (comics)|Wolfsbane]]).
+
+The featured group of students never refer to themselves as "the New Mutants" before the series relaunch as ''New X-Men: Academy X'' in 2004, and the reorganization of the Xavier Institute student body into various training squads. The New Mutants, advised by Dani Moonstar, were:
+
+* '''[[Elixir (character)|Elixir]]''' (Josh Foley) – Josh is an [[Mutant (Marvel Comics)#Omega-level mutants|Omega-Level mutant]] who can manipulate his or others' biologies to heal or harm. In addition, Elixir possesses gold skin which converts to black when he uses his powers offensively. He was one of the 27 students at the Xavier Institute to retain his powers after "M-Day".  He was seemingly killed by the [[Dark Riders (comics)|Dark Riders]] before returning with vastly enhanced abilities.  He is currently taking refuge in Tibet with [[Shen Xorn|Xorn]].
+* '''[[List of Marvel Comics characters: I|Icarus]]''' (Joshua "Jay" Guthrie) – Jay possesses red angelic wings on his back that allow him to fly and which grant him an accelerated healing process. Furthermore, he possesses the ability to manipulate his own voice. He was one of the 27 students at the Xavier Institute to retain his powers after "M-Day". Jay's wings are amputated by [[William Stryker|Stryker]],<ref>''New X-Men'' vol. 2, #23 (April 2006)</ref> who later kills him.<ref>''New X-Men'' vol. 2, #27 (August 2006)</ref>
+* '''[[Prodigy (David Alleyne)|Prodigy]]''' (David Alleyne) – David was the team's co-leader who could temporarily gain the knowledge and skills of those near him. Although he was de-powered after "M-Day", he has retained all the knowledge he had acquired prior to the "Decimation".<ref>''New X-Men'' vol. 2, #43 (December 2007)</ref> Current member of the Young Avengers.
+* '''[[Surge (Marvel Comics)|Surge]]''' (Noriko Ashida) – Noriko is [[Japanese people|Japanese]]. She absorbs electricity from her environment which she can discharge as powerful electric blasts or utilize as superhuman speed. She requires mechanical gauntlets to prevent overcharge. Surge was one of the 27 students at the [[X-Mansion|Xavier Institute]] to retain her powers after "M-Day". She is currently a student of the Jean Grey School for Higher Learning.
+* '''[[Wallflower (comics)|Wallflower]]''' (Laurie Collins) – Laurie is a shy girl who generates highly potent [[pheromone]]s that influence people's emotions. She was one of the 27 students at the Xavier Institute to retain her powers after "M-Day". Laurie was later killed by one of [[William Stryker|Stryker]]'s men.<ref>''New X-Men'' vol. 2, #25 (June 2006)</ref>
+* '''[[Wind Dancer]]''' (Sofia Mantega) – Sofia was the other co-leader and was a temperamental aerokinetic who was particularly adept at using this power to manipulate sound. She was depowered after "M-Day" and joined a group of fellow ex-mutants as part of the [[New Warriors]].  Donning a variety of mechanical gear, she took up the codename Renascence before the group disbanded.  Her current whereabouts are unknown.
+* '''[[Wither (comics)|Wither]]''' (Kevin Ford) – Kevin could cause organic material to decay with his touch. He eventually switches to the [[Hellions (Marvel Comics)|Hellions]] squad.<ref>''New X-Men: Academy X'' #6 (December 2004)</ref> He is later killed by Elixir.<ref>''X-Force'' vol. 3, #25 (Released March 2010, Published May 2010)</ref>
+
+Another such group, advised by Emma Frost, was known as the [[Hellions (Marvel Comics)|Hellions]] and, like their predecessor, was the arch-rival of the New Mutants. Whereas the original ''New Mutants'' series revolved around battles with world-threatening menaces, ''New Mutants'' volume 2 focused on the characters' personal relationships and struggles with controlling their powers.
+
+After "[[Decimation (comics)|M-Day]]", the cataclysmic event that decimated the world's mutant population, only 27 of the 182 students enrolled at the Xavier Institute retained their powers. The New Mutants and the other training squads were disbanded, and the remaining students were folded into a single junior team, the New X-Men.<ref>''New X-Men'' vol 2, #23 (April 2006)</ref>
+
+{{Notelist}}
+
+== Original team reunion ==
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|name= New Mutants
+|image= New Mutants (vol.3) 1 cover.jpg
+|imagesize= 250
+|caption= Variant cover to ''New Mutants,'' vol. 3 #1 by [[Bob McLeod (comics)|Bob McLeod]].
+|publisher= [[Marvel Comics]]
+|debut= ''New Mutants'' #1 (2009)
+|creators= [[Zeb Wells]] (writer)<br />Diogenes Neves (artist)
+|base= [[Asteroid M#Fifth version/Utopia|Utopia]]<br />1128 Mission Street, [[San Francisco]]
+|members=
+|subcat=
+|hero=
+|villain=
+}}
+
+In May 2009, a third volume of ''New Mutants'' was launched. The series was initially written by [[Zeb Wells]] and pencilled by Diogenes Neves with the titular characters forming a new field team for the [[X-Men]]. The team is a reunion of the cast from the first volume, consisting of [[Cannonball (comics)|Cannonball]], [[Karma (comics)|Karma]], [[Magik (Illyana Rasputin)|Magik]], [[Magma (comics)|Magma]], [[Dani Moonstar]] and  [[Sunspot (comics)|Sunspot]].
+
+The reunion is spun from events from the limited series ''[[X-Infernus]]''. Magik shows up at the X-Men headquarters in San Francisco, claiming to be from the future and warning that Dani Moonstar and Karma are in danger. Once tests show that Illyanna is not an imposter, Cannonball leads a rescue mission with her. They are joined by Magma and Sunspot.<ref>''New Mutants'' vol. 3, #1 (July 2009)</ref> They end up taking on [[Legion (Marvel Comics)|Legion]].
+
+In later issue, Warlock returns to Earth<ref>''New Mutants'' vol. 3, #5 (Released September 2009, Published November 2009)</ref> and Cypher reappears alive, under the control of [[Selene (comics)|Selene]]. After Warlock frees him from Selene's control, Cypher joins the team.<ref>''New Mutants'' vol. 3, #6 (Released October 2009, Published December 2009)</ref><ref>''New Mutants'' vol. 3, #8 (Released December 2009, Published February 2010)</ref>
+
+During "[[Siege (comics)|Siege]]", [[Hela (comics)|Hela]] empowers Dani (now going by the codename Mirage<ref>''New Mutants'' vol. 3, #10 (Released February 2010, Published April 2010)</ref>) as a Valkyrie to bring the souls of the fallen [[Asgard (comics)|Asgardians]] to her. During "[[X-Men: Second Coming]]", Karma loses her leg after being repeatedly stabbed by [[Cameron Hodge]].<ref>''New Mutants'' vol. 3, #13 (Released May 2010, Published July 2010)</ref> It is replaced with a bionic one.
+
+Magik leads the team to [[Otherplace|Limbo]], as part of her plan for revenge against the Elder Gods. [[Cyclops (Marvel Comics)|Cyclops]] has her imprisoned for her actions.<ref>''New Mutants'' vol. 3, #25 (Released May 2011, Published July 2011)</ref> In the same issue, Cannonball and Karma also leave the team.
+
+After they successfully rescue him from [[Sugar Man]], [[Nate Grey]] joins the team.<ref>''New Mutants'' vol. 3, #28 (Published July 2011, Released September 2011)</ref>
+
+When the X-Men split in ''[[X-Men: Schism]]'', the team sides with Cyclops and stays on Utopia.<ref>''New Mutants'' vol. 3, #33 (Published November 2011, Released January 2012)</ref> Their next mission is to find [[Blink (comics)|Blink]]. After locating her and helping her defeat a mutant rock band (Diskhord), Blink returns with them but decides to join the X-Men at the [[X-Mansion|Jean Grey School of Higher Learning]].<ref>''New Mutants'' vol. 3, #36 (Published January 2012, Released March 2012)</ref> She does join them during the last issues of the series.<ref>''New Mutants'' vol. 3, #45 (Published July 2012, Released September 2012)</ref>
+
+==Krakoan era==
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics-->
+|title=New Mutants
+|image=New Mutants (vol. 4) 1 cover.jpg
+|imagesize= 250
+|caption=Cover to ''New Mutants'' (vol. 4) #1 by [[Rod Reis]].
+|schedule=Monthly
+|publisher=[[Marvel Comics]]
+|issues=16 (as of February 24, 2021)
+| writers             = [[Jonathan Hickman]]<br>[[Ed Brisson]]<br>Vita Ayala
+| artists             = '''Interiors:''' <br>[[Rod Reis]]<br>Flaviano<br>Marco Failla<br>'''Main covers:''' <br>Rod Reis<br>[[Mike del Mundo]]
+| colorists           = Rod Reis<br>Carlos Lopez
+| letterers           = Travis Lanham
+| editors             = '''Editor''' <br> Jordan D. White <br> '''Assistant Editor''' <br> Annalise Bissa <br> '''Head of X''' <br> [[Jonathan Hickman]]
+}}
+
+''New Mutants'' was relaunched in November 2019 as part of [[Dawn of X]]. Written by [[Jonathan Hickman]] and Ed Brisson, and drawn by Rod Reis, the initial team consisted of [[Chamber (character)|Chamber]], [[Cypher (Marvel Comics)|Cypher]], [[Karma (character)|Karma]], [[Magik (Illyana Rasputina)|Magik]], [[Danielle Moonstar|Mirage]], [[List of Marvel Comics characters: M|Mondo]], [[Sunspot (Marvel Comics)|Sunspot]] and [[Wolfsbane (character)|Wolfsbane]].<ref>[https://www.marvel.com/comics/issue/76757/new_mutants_2019_1 ''New Mutants'' (2019) #1]</ref> A second team comprising [[Armor (Marvel Comics character)|Armor]], [[Tabitha Smith|Boom Boom]], [[List of Marvel Comics characters: G|Glob]], Maxime and Manon debuted in issue #3 (December 2019).<ref>[https://www.marvel.com/comics/issue/76759/new_mutants_2019_3 ''New Mutants'' (2019) #3]</ref>
+
+Vita Ayala took over the title December 2020, featuring older New Mutants Karma, Magik, Mirage, Warlock, Warpath, and Wolfsbane acting as teachers and mentors to a new group of younger students known as the Lost Club.<ref>{{cite web|url=https://www.previewsworld.com/Article/245726-Vita-Ayala-and-Rod-Reis-Take-the-New-Mutants-on-a-Wild-Ride-in-the-Aftermath-of-X-of-Swords|title=Vita Ayala and Rod Reis Take the New Mutants on a Wild Ride in the Aftermath of X of Swords|website=previewsworld.com|date=September 14, 2020|access-date=November 26, 2020}}</ref> This new group of students (which includes Anole, Scout, Rain Boy, Cosmar, and No-Girl) falls under the influence of, and later into conflict with the Shadow King, culminating in an adventure through the astral plane.<ref>''New Mutants'' (2019) #23]</ref>
+
+===Volume 4 issues===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+Reception of issues of ''New Mutants'' volume 4
+|-
+! scope="col"| '''Issue'''
+! scope="col"| '''Publication Date'''
+! scope="col"| '''Writer(s)'''
+! scope="col"| '''Artist'''
+! scope="col"| '''Colorist'''
+! scope="col"| '''Comic Book Roundup rating'''<ref>{{cite web|url=https://comicbookroundup.com/comic-books/reviews/marvel-comics/new-mutants-(2019)|title=New Mutants (2019) Comic Series Reviews at ComicBookRoundUp.com|publisher=Comic Book Roundup|access-date=2020-02-20}}</ref>
+! scope="col"| '''Estimated sales to North American retailers (first month)'''
+|-
+| #1
+| November 6, 2019
+| Jonathan Hickman & Ed Brisson
+| colspan="2" rowspan="2"| Rod Reis
+| '''8.4''' by 25 professional critics
+| 138,484<ref name="Nov19sales">{{cite web|url=https://www.comichron.com/monthlycomicssales/2019/2019-11.html|title=November 2019 Comic Book Sales to Comics Shops|publisher=Comichron|access-date=2020-01-22}}</ref>
+|-
+| #2
+| November 27, 2019
+| Jonathan Hickman
+| '''8.9''' by 14 professional critics
+| 60,518<ref name="Nov19sales"/>
+|-
+| #3
+| December 11, 2019
+| rowspan="2"| Ed Brisson
+| Flaviano
+| rowspan="2"| Carlos Lopez
+| '''7.6''' by 14 professional critics
+| 49,991<ref name="Dec19sales">{{cite web|url=https://www.comichron.com/monthlycomicssales/2019/2019-12.html|title=December 2019 Comic Book Sales to Comics Shops|publisher=Comichron|access-date=2020-01-22}}</ref>
+|-
+| #4
+| December 18, 2019
+| Marco Failla
+| '''7.3''' by 9 professional critics
+| 47,489<ref name="Dec19sales"/>
+|-
+| #5
+| January 8, 2020
+| Jonathan Hickman
+| colspan="2"| Rod Reis
+| '''8.7''' by 13 professional critics
+| 50,013<ref name="Jan20sales">{{cite web|url=https://www.comichron.com/monthlycomicssales/2020/2020-01.html|title=January 2020 Comic Book Sales to Comics Shops|publisher=Comichron|access-date=2020-02-18}}</ref>
+|-
+| #6
+| January 22, 2020
+| Ed Brisson
+| Flaviano
+| Carlos Lopez
+| '''6.9''' by 11 professional critics
+| 46,521<ref name="Jan20sales"/>
+|-
+| #7
+| February 19, 2020
+| Jonathan Hickman
+| colspan="2"| Rod Reis
+| '''8.2''' by 13 professional critics
+| 40,427<ref name="Feb20sales">{{cite web|url=https://www.comichron.com/monthlycomicssales/2020/2020-02.html|title=February 2020 Comic Book Sales to Comics Shops|publisher=Comichron|access-date=2020-03-17}}</ref>
+|-
+| #8
+| February 26, 2020
+| rowspan="6"| Ed Brisson
+| Marco Failla
+| rowspan="5"| Carlos Lopez
+| '''7.2''' by 11 professional critics
+| 39,251<ref name="Feb20sales"/>
+|-
+| #9
+| March 11, 2020
+| rowspan="3"| Flaviano
+| '''7.8''' by 11 professional critics
+| 40,974<ref>{{cite web|url=https://www.comichron.com/monthlycomicssales/2020/2020-03.html|title=March 2020 Comic Book Sales to Comics Shops|publisher=Comichron|access-date=2020-04-30}}</ref>
+|-
+| #10
+| June 10, 2020
+| '''7.5''' by 10 professional critics
+| rowspan="2" {{n/a|Data not available}}
+|-
+| #11
+| July 22, 2020
+| '''7.4''' by 8 professional critics
+|-
+| #12
+| September 2, 2020
+| Marco Failla
+| '''8.3''' by 9 professional critics
+| 26,500&ndash;31,000<ref>{{cite web|url=https://www.comichron.com/monthlycomicssales/2020/2020-09.html|title=Comichron: September 2020 Comic Book Sales to Comic Shops|website=comichron.com|access-date=December 17, 2020}}</ref>
+|-
+| #13
+| October 14, 2020
+| rowspan="4" colspan="2"| Rod Reis
+| '''8.5''' by 8 professional critics
+| 45,000&ndash;50,000<ref>{{cite web|url=https://www.comichron.com/monthlycomicssales/2020/2020-10Diamond.html|title=Comichron: October 2020 Comic Book Sales to Comic Shops|website=comichron.com|access-date=December 17, 2020}}</ref>
+|-
+| #14
+| December 16, 2020
+| rowspan="3"| Vita Ayala
+| '''8.0''' by 11 professional critics
+| rowspan="3" {{n/a|Data not yet available}}
+|-
+| #15
+| January 27, 2021
+| '''7.9''' by 9 professional critics
+|-
+| #16
+| February 24, 2021
+| '''7.8''' by 6 professional critics
+|-
+|}
+
+== Team roster ==
+
+In 1982, the original New Mutants team debuted in  ''[[Marvel Graphic Novel]]'' #4.<ref name="Original nm">{{cite web|url=https://www.marvel.com/articles/comics/didja-know-new-mutants-are-in-the-news |title=Didja Know... New Mutants Are in the News |author=Beard, Jim |date=September 1, 2020 |access-date=October 19, 2020}}</ref> Originally led by Professor X, and later by Magneto, the lineup gradually expanded to include additional recruits, with subsequent volumes and titles have features a variety of team members and associated characters.
+
+{| class="wikitable" style="width:70%;"
+|+ Original members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:20%;"| Joined in
+! style="width:20%;"| Notes
+|-
+| '''[[Professor X]]'''
+| Charles Francis Xavier
+| Marvel Graphic Novel #4 (1982)
+| Team founder
+|-
+| [[Karma (comics)|Karma]]
+| Xi'an "Shan" Coy Manh
+| Marvel Graphic Novel #4 (1982)
+| Original team leader
+|-
+| [[Wolfsbane (comics)|Wolfsbane]]
+| Rahne Sinclair
+| Marvel Graphic Novel #4 (1982)
+|
+|-
+| [[Danielle Moonstar|Psyche / Mirage]]
+| Danielle Moonstar
+| Marvel Graphic Novel #4 (1982)
+| Eventual co-leader
+|-
+| [[Cannonball (comics)|Cannonball]]
+| Samuel Zachary Guthrie
+| Marvel Graphic Novel #4 (1982)
+| Eventual co-leader
+|-
+| [[Sunspot (comics)|Sunspot]]
+| Roberto Da Costa
+| Marvel Graphic Novel #4 (1982)
+|
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ Later recruits
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:20%;"| Joined in
+! style="width:20%;"| Notes
+|-
+| [[Kitty Pryde|Shadowcat]]
+| Katherine Anne Pryde
+| ''Uncanny X-Men'' #167 (1983)
+| Leaves to rejoin X-Men team in ''Uncanny X-Men'' #168
+|-
+| [[Magma (comics)|Magma]]
+| Amara Juliana Olivians Aquilla
+| ''New Mutants'' #13 (1984)
+|
+|-
+| [[Magik (Illyana Rasputin)|Magik]]
+| Illyana Nikolievna Rasputina
+| ''New Mutants'' #14 (1984)
+|
+|-
+| colspan="2" | [[Warlock (New Mutants)|Warlock]]
+| rowspan="2" | ''New Mutants'' #21 (1984)
+|
+|-
+| [[Cypher (comics)|Cypher]]
+| Douglas Aaron Ramsey
+|-
+| '''[[Magneto (Marvel Comics)|Magneto]]'''
+| Max "Magnus" Eisenhardt
+| ''Uncanny X-Men'' #200 (1985)
+| Headmaster (replacing Xavier)
+|-
+| [[Bird-Brain (Marvel Comics)|Bird-Brain]]
+| Bird Boy
+| ''New Mutants'' #55 (1987)
+|
+|-
+| [[Rusty Collins|Firefist]]
+| Russell "Rusty" Collins
+| rowspan="4" |''New Mutants'' #77 (1989)
+|-
+| [[Skids (comics)|Skids]]
+| Sally Blevins
+|
+|-
+| [[Rictor]]
+| Julio Esteban Richter
+|-
+| [[Tabitha Smith|Boom-Boom]]
+| Tabitha "Tabby" Smith
+|
+|-
+| '''[[Cable (comics)|Cable]]'''
+| Nathan Christopher Charles Summers
+| ''New Mutants'' #89 (1990)
+| Leader (replacing Magneto)
+|-
+| [[Warpath (comics)|Warpath]]
+| James Proudstar
+| ''New Mutants'' #99 (1991)
+|
+|-
+| [[Shatterstar]]
+| Gaveedra Seven/Benjamin Russell
+| rowspan="2" | ''New Mutants'' #100 (1991)
+|
+|-
+| [[Feral (comics)|Feral]]
+| Maria Callasantos
+|
+|-
+| [[Blink (comics)|Blink]]
+| Clarice Ferguson
+| rowspan="5" | ''Cable'' #150 (2017)
+|
+|-
+| colspan="2" | [[Longshot (Marvel Comics)|Longshot]]
+|
+|-
+| [[X-23]]
+| Laura Kinney
+|
+|-
+| [[Armor (comics)|Armor]]
+| Hisako Ichiki
+|
+|-
+| colspan="2" | [[Doop (comics)|Doop]]
+|
+|-
+| [[Strong Guy]]
+| Guido Carosella
+|''Phoenix Resurrection'' #2 (2018)
+|
+|-
+| [[Chamber (comics)|Chamber]]
+| Jonothon Evan "Jono" Starsmore
+| rowspan="2" | ''New Mutants'', vol. 4 #1 (2019)<ref name="New Mutants">{{cite web|url=https://www.marvel.com/comics/series/27557/new_mutants_2019_-_2020 |title=New Mutants (2019 - 2020) |access-date=October 19, 2020}}</ref>
+|
+|-
+| colspan="2" | [[List_of_Marvel_Comics_characters:_M#Mondo|Mondo]]
+|
+|-
+| Escapade
+| Shela Sexton
+| ''New Mutants'', vol. 4 #31 (2022)<ref name="Marvel's Voices: Pride' Breakout Hero Escapade Continues Her Adventures in 'New Mutants' #31">{{cite web|url=https://www.marvel.com/articles/comics/marvel-voices-pride-escapade-new-mutants-31-story-arc |title=New Mutants #31 |access-date=July 21, 2022}}</ref>
+|
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ New Mutants Squad (New X-Men)
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:20%;"| Joined in
+! style="width:20%;"| Notes
+|-
+| [[Danielle Moonstar|Psyche / Mirage]]
+| Danielle Moonstar
+| rowspan="8" | ''New X-Men'' (Volume 2) #2
+| Team Advisor
+|-
+| [[Wind Dancer]]
+| Sofia Elizabeth Mantega
+| 
+|-
+| [[Wallflower (comics)|Wallflower]]
+| Laurie Collins
+|
+|-
+| [[Prodigy (David Alleyne)|Prodigy]]
+| David Alleyne
+|
+|-
+| [[Surge (Marvel Comics)|Surge]]
+| Noriko Ashida
+|
+|-
+| [[Elixir (comics)|Elixir]]
+| Josh Foley
+|
+|-
+| [[Wither (comics)|Wither]]
+| Kevin Ford
+|
+|-
+| [[List of Marvel Comics characters: I|Icarus]]
+| Joshua Guthrie
+|
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ Lost Club (Students of New Mutants on Krakoa)
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:20%;"| Joined in
+! style="width:20%;"| Notes
+|-
+| [[Anole (comics)|Anole]]
+| Victor Borkowski
+| rowspan="5" | ''New Mutants'', vol. 4 #14 (2020)
+| 
+|-
+| Scout
+| Gabrielle Kinney
+| Formerly known as ''Honey Badger''
+|-
+| Rain Boy
+| Carl Aalston
+| 
+|-
+| Cosmar
+| Natashia Repina
+| 
+|-
+| Cerebella
+| Martha Johansson
+|  Formerly known as ''No-Girl''
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ Notable Allies, Honorary, and Reserve
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:20%;"| Active in
+! style="width:20%;"| Notes
+|-
+| colspan="2" | Brightwind / Darkwind
+| ''New Mutants Special Edition'' #1 (1985)
+|
+|-
+| colspan="2" | [[Gosamyr]]
+| ''New Mutants'' #67 (1988)
+|
+|-
+| [[Artie Maddicks|Artie]]
+| Arthur Maddicks
+| rowspan="2" | ''New Mutants'' #77 (1989)
+|
+|-
+| colspan="2" | [[Leech (comics)|Leech]]
+| 
+|-
+| [[Copycat (Marvel Comics)|Copycat]]
+| Vanessa Carlysle
+| ''New Mutants'' #98 (1991)
+|
+|-
+| [[Nate Grey|X-Man]]
+| Nate Grey
+| ''New Mutants'', vol. 3 #27 (2011)
+|
+|-
+| [[List of Marvel Comics characters: G|Glob]]
+| Glob Herman
+| rowspan="3" | ''New Mutants'', vol.4 #3 (2020)
+|
+|-
+| colspan="2" | Maxime
+|
+|-
+| colspan="2" | Manon
+|
+|-
+| Galura
+| Gabrielle Diwa
+| ''New Mutants'', vol. 4 #21 (2021)
+|
+|-
+|}
+
+== Other versions ==
+=== ''Rahne of Terra'' ===
+The graphic novel ''Rahne of Terra,'' by [[Peter David]], is set in a [[heroic fantasy]] universe in which [[Wolfsbane (comics)|Wolfsbane]]'s counterpart is Princess Rain of Geshem. Other denizens of Terra include Rain's lady-in-waiting [[Tabitha Smith#Rahne of Terra|Tabby]] (Boom-Boom), the knights [[Rictor|Richard]] (Rictor),  [[Sunspot (comics)|Robert]] (Sunspot), and [[Cannonball (comics)|Samuel]] (Cannonball) and the peasant boy [[Cypher (comics)#Geshem|Douglas]] (Cypher). The Terrans all duplicate the powers of their counterparts in one way or another.<ref>''Wolverine: Rahne of Terra'' (Aug. 1991)</ref>
+
+=== ''New Mutants: Truth or Death'' ===
+In 1997, a three-issue reunion series written by [[Ben Raab]] and illustrated by [[Bernard Chang]], ''New Mutants: Truth or Death,'' featured the young New Mutants traveling forward in time to meet their older, jaded selves in [[X-Force]].
+
+===Worst X-Man Ever===
+Here the New Mutants consist of X-Ceptional, who can explode permanently, Riches, who turns whatever he touches to gold, Minerva, who can manipulate reality, and Riches' sister Rags. Riches kills Professor X and takes over the world. Rags begins a relationship with Gambit, and Minerva goes to pure idea. X-Ceptional grabs Riches and explodes, killing them both.<ref>X-Men: Worst X-Man Ever #1–5</ref>
+
+=== Ultimate Marvel ===
+In ''[[Ultimate X-Men]],'' the '''Academy of Tomorrow''' (previously called New Mutants) is founded by [[Emma Frost#Ultimate Marvel|Emma Frost]]. It is loosely linked to the X-Men via Emma Frost's professional relationship with her former lover and teacher [[Alternative versions of Professor X#Ultimate Charles Xavier|Charles Xavier]]. This Academy accepts any talented students, regardless of their genetic status. The team is headed by a non-telepathic and more pacifistic version of [[Emma Frost#Ultimate Marvel|Emma Frost]] and headed by field leader [[Havok (comics)#Ultimate Marvel|Havok]]. During ''[[Ultimatum (Ultimate Marvel)|Ultimatum]]'', the Academy of Tomorrow is destroyed in a terrorist attack by [[Jamie Madrox#Ultimate Marvel|Multiple Man]].<ref>''Ultimatum'' #3 (May 2009)</ref> Former members include [[Warren Worthington III#Ultimate Marvel|Angel]], Beast, [[Cannonball (comics)#Ultimate Marvel|Cannonball]], [[Dazzler (Marvel Comics)#Ultimate Marvel|Dazzler]], [[Karma (comics)#Ultimate Marvel|Karma]], [[Northstar (Marvel Comics)|Northstar]], [[Polaris (Marvel Comics)#Ultimate Marvel|Polaris]], [[Sunspot (comics)#Ultimate Marvel|Sunspot]] and non-mutant [[Cypher (comics)#Ultimate Marvel|Cypher]]. <ref> ''Ultimate X-Men'' #20 </ref>
+
+== Collected editions ==
+
+===Volume 1===
+''The New Mutants'' has been reprinted in several trade paperbacks, some containing specific story arcs (such as the "Demon Bear Saga" by [[Chris Claremont|Claremont]] and [[Bill Sienkiewicz|Sienkiewicz]]), and some collected as part of a larger crossover of the various X-titles. Only in 2006, however, did a chronological reprinting of the series begin, with the commencement of ''The New Mutants Classic'' series of trade paperbacks.
+
+{| class="wikitable"
+|+Omnibus collections of ''New Mutants'' (Volume 1)
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''New Mutants Omnibus, Volume 1''
+| ''The New Mutants'' #1–34, ''Annual'' #1; ''Marvel Graphic Novel'' #4; ''Marvel Team-Up Annual'' #6; ''Marvel Team-Up'' #100 (A story), #149; ''Uncanny X-Men'' #160, #167, #180, #189, #192; ''Magik'' #1-4
+| December 2020
+| {{ISBNT|978-1302926885}}
+|-
+| ''New Mutants Omnibus, Volume 2''
+| ''The New Mutants'' #35–54, ''Annual'' #2-3; ''New Mutants Special Edition'' #1; ''X-Men Annual'' #9-10; ''Power Pack'' #20, #33; ''Fallen Angels'' #1-8; ''Firestar'' #1-4; ''New Mutants: War Children'' #1; ''Material from Web of Spider Man Annual'' #2
+| November 2021
+| {{ISBNT|978-1302932343}}
+|-
+|X-Men: Fall of the Mutants Omnibus
+| ''New Mutants (1983)'' 55-61; ''Uncanny X-Men (1981)'' 220-227; ''X-Factor (1986)'' 18-26; ''Captain America (1968)'' 339; ''Daredevil (1964)'' 252; ''Fantastic Four (1961)'' 312; ''Incredible Hulk (1968)'' 336-337, 340; ''Power Pack (1984)'' 35
+| May 2022
+| {{ISBNT|978-1302934118}}
+|-
+|X-Men Inferno Prologue Omnibus
+| ''New Mutants (1983)'' 62-70, ''X-Factor (1986)'' 27-32, ''X-Factor Annual (1986)'' 3, ''Uncanny X-Men (1981)'' 228-238, ''New Mutants Annual (1984)'' 4, ''X-Men Annual (1970)'' 12; material from ''Marvel Age Annual (1985)'' 4, ''Marvel Fanfare (1982)'' 40
+| December 2021
+| {{ISBNT|978-1302931360}}
+|-
+| ''X-Men Inferno Omnibus''
+| ''New Mutants'' #71-73, ''X-Factor'' #33-40, ''X-Terminators'' #1-4, ''Uncanny X-Men'' #239-243, ''Power Pack'' #40, #42-44, ''Avengers'' #298-300, ''Fantastic Four'' #322-324, ''Amazing Spider-Man'' #311-313, ''Spectacular Spider-Man'' #146-148, ''Web Of Spider-Man'' #47-48, ''Daredevil'' #262-263, #265, ''Excalibur'' #6-7, ''Mutant Misadventures Of Cloak and Dagger'' #4, and material from ''X-Factor Annual'' #4.
+| May 2021
+| {{ISBNT|978-1302928544}}
+|-
+| ''Atlantis Attacks Omnibus''
+| ''New Mutants'' #76, Annual #5; ''Silver Surfer'' Annual #2; ''Iron Man'' Annual #10; ''Marvel Comics Presents'' #26; ''Uncanny X-Men'' Annual #13; ''Amazing Spider-Man'' Annual #23; ''Punisher'' Annual #2; ''Spectacular Spider-Man'' Annual #9; ''Daredevil'' Annual #4; ''Avengers'' Annual #18; ''X-Factor'' Annual #4; ''Web of Spider-Man'' Annual #5; ''Avengers West Coast'' #56, Annual #4; ''Thor'' Annual #14; ''Fantastic Four'' Annual #22
+| March 2011
+| {{ISBNT|978-0785144922}}
+|-
+| ''Acts of Vengeance Crossovers Omnibus''
+| ''New Mutants'' #84–86; ''Uncanny X-Men'' #256–258; ''Fantastic Four'' #334–336; ''Wolverine'' #19–20; ''Dr. Strange, Sorcerer Supreme'' #11–13; ''Incredible Hulk'' #363; ''Punisher'' #28–29; ''Punisher War Journal'' #12–13; ''Marc Spector: Moon Knight'' #8–10; ''Daredevil'' #275–276; ''Power Pack'' #53; ''Alpha Flight'' #79–80; ''X-Factor'' #49–50; ''Damage Control'' #1–4; and ''Web of Spider-Man'' #64–65
+| August 2011
+| {{ISBNT|978-0-7851-4488-5}}
+|-
+| ''X-Force Omnibus, volume 1''
+| ''New Mutants'' #98-100, ''Annual'' #7; ''X-Men Annual'' #15; ''X-Factor Annual'' #6; ''X-Force'' #1-15; ''Spider-Man'' #16; ''Cable: Blood & Metal'' #1-2; material from ''New Warriors Annual'' #1, ''X-Force Annual'' #1
+| February 2013
+| {{ISBNT|978-0785165958}}
+|-
+| ''Secret Wars II Omnibus''
+| ''New Mutants'' #30, #36–37; ''Secret Wars II'' #1–9; ''Uncanny X-Men'' #198, #202–203; ''Captain America'' #308; ''Iron Man'' #197; ''Fantastic Four'' #282, #285, #288, #316–319; ''Web of Spider-Man'' #6; ''Amazing Spider-Man'' #268, #273–274; ''Daredevil'' #223; ''Incredible Hulk'' #312; ''Avengers'' #260–261, #265–266; ''Dazzler'' #40; ''Alpha Flight'' #28; ''Thing'' #30; ''Doctor Strange'' #74; ''Cloak and Dagger'' #4; ''Power Pack'' #18; ''Thor'' #363; ''Power Man and Iron Fist'' #121; ''Peter Parker, the Spectacular Spider-Man'' #111; ''Defenders'' #152; ''Quasar'' #8
+| May 2009
+| {{ISBNT|978-0785131113}}
+|-
+| ''Mutant Massacre Omnibus''
+| ''Uncanny X-Men'' #210-219, ''Annual'' #11; ''X-Factor'' #9-17, ''Annual'' #2; ''New Mutants'' #46; ''Thor'' #373-374, #377-378; ''Power Pack'' #27; ''Daredevil'' #238; ''Fantastic Four VS. The X-Men'' #1-4; ''X-Men VS. The Avengers'' #1-4
+| May 2018
+| {{ISBNT|978-1302914240}}
+|}
+
+{| class="wikitable"
+|+Collected Epic Editions of ''New Mutants'' (Volume 1)
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''New Mutants Epic Collection, Vol. 1: Renewal''
+| ''Marvel Graphic Novel'' No. 4 - ''The New Mutants'', ''The New Mutants'' #1–12, ''Uncanny X-Men'' #167, ''Marvel Team-Up Annual'' #6, ''Magik'' #1–4 and material from ''Marvel Team-Up'' #100
+| March 2017
+| {{ISBNT|978-1302903657}}
+|-
+| ''New Mutants Epic Collection, Vol. 2: The Demon Bear Saga''
+| ''The New Mutants'' #13–31, ''Annual'' #1
+| July 2019
+| {{ISBNT|978-1302918422}}
+|-
+| ''New Mutants Epic Collection, Vol. 6: Curse of the Valkyries''
+| ''X-Terminators'' #1–4;''The New Mutants'' #71–85
+| February 2018
+| {{ISBNT|978-1302910174}}
+|-
+| ''New Mutants Epic Collection, Vol. 7: Cable''
+| ''The New Mutants'' #86-94,''The New Mutants Annual'' #5-6,''The New Mutants Summer Special'' #1 and material from ''X-Factor Annual'' #5 and ''X-Men Annual'' #14
+| October 2020
+| {{ISBNT|978-1302925239}}
+|}
+
+{| class="wikitable"
+|+Collected Editions of ''New Mutants'' (Volume 1)
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''New Mutants Classic, Volume 1''
+| ''The New Mutants'' #1–7; ''Marvel Graphic Novel'' #4; ''Uncanny X-Men'' #167
+| May 2006
+| {{ISBNT|0785121943}}
+|-
+| ''New Mutants Classic, Volume 2''
+| ''The New Mutants'' #8–17
+| January 2007
+| {{ISBNT|0785121951}}
+|-
+| ''New Mutants Classic, Volume 3''
+| ''The New Mutants'' #18–25, ''Annual'' #1
+| May 2008
+| {{ISBNT|0785131191}}
+|-
+| ''New Mutants: The Demon Bear Saga''
+| ''The New Mutants'' #18–21
+| December 1990
+| {{ISBNT|0871356732}}
+|-
+| ''New Mutants Classic, Volume 4''
+| ''The New Mutants'' #26–34
+| March 2009
+| {{ISBNT|0785137289}}
+|-
+| ''New Mutants Classic, Volume 5''
+| ''The New Mutants'' #35–40; ''New Mutants Special Edition''; ''Uncanny X-Men Annual'' #9
+| March 2010
+| {{ISBNT|0785144609}}
+|-
+| ''New Mutants Classic, Volume 6''
+| ''The New Mutants'' #41–47; ''Annual'' #2; ''Uncanny X-Men'' Annual #10
+| August 2011
+| {{ISBNT|0785155449}}
+|-
+| ''X-Men: Mutant Massacre''
+| ''The New Mutants'' #46; ''Uncanny X-Men'' #210–213; ''X-Factor'' #9–11; ''Thor'' #373–374; ''Power Pack'' #27
+| October 2001
+| {{ISBNT|0785102248}}
+|-
+| ''New Mutants Classic, Volume 7''
+| ''The New Mutants'' #48–54; ''Annual'' #3
+| May 2012
+| {{ISBNT|978-0785159711}}
+|-
+| ''New Mutants Forever''
+| ''The New Mutants'' #53–54; ''New Mutants Forever'' #1–5
+| February 2011
+| {{ISBNT|9780785147473}}
+|-
+| ''X-Men: Fall of the Mutants''  Vol. 1
+| ''The New Mutants'' #55–61; ''Uncanny X-Men'' #220–227; Incredible Hulk #340
+| February 2013
+| {{ISBNT|978-0785167440}}
+|-
+| ''X-Men: Fall of the Mutants''
+| ''The New Mutants'' #59–61; ''Uncanny X-Men'' #225–227; ''X-Factor'' #24–26
+| February 2002
+| {{ISBNT|0785108254}}
+|-
+| ''X-Men: Fall of the Mutants Omnibus''
+| ''New Mutants'' #55–61; ''Uncanny X-Men'' #220–227; ''X-Factor'' #19–26; ''Captain America'' #339; ''Daredevil'' #252; ''Fantastic Four'' #312; ''Incredible Hulk'' #340; ''Power Pack'' #35
+| May 2011
+| {{ISBNT|978-0-7851-5822-6}}
+|-
+| ''X-Men: Inferno Prologue''
+| ''The New Mutants'' #62–70, Annual #4; ''Uncanny X-Men'' #228–238, Annual #12; ''X-Factor'' #27–32, Annual #3; Material from Marvel Age Annual #4; Marvel Fanfare #40
+| December 2014
+| {{ISBNT|0785192735}}
+|-
+| ''X-Men: Inferno''
+| ''The New Mutants'' #71–73; ''Uncanny X-Men'' #239–243; ''X-Factor'' #36–39
+| December 1996
+| {{ISBNT|0785102221}}
+|-
+| ''X-Men: Inferno'' (Hardcover edition)
+| ''New Mutants'' #71–73; ''Uncanny X-Men'' #239–243; ''X-Factor'' #33–40; ''X-Terminators'' #1–4; ''X-Factor Annual'' #4
+| June 2009
+| {{ISBNT|978-0785137771}}
+|-
+| ''Cable and the New Mutants''
+| ''The New Mutants'' #86–94, ''New Mutants Annual #5''
+| January 2011
+| {{ISBNT|0785149708}}
+|-
+| ''Cable Classic, Volume 1''
+| ''The New Mutants'' #87; ''Cable: Blood and Metal'' #1–2; ''Cable'' #1–4
+| March 2008
+| {{ISBNT|078513123X}}
+|-
+| ''X-Men: X-Tinction Agenda''
+| ''The New Mutants'' #95–97; ''Uncanny X-Men'' #270–272; ''X-Factor'' #60–62
+| November 1991
+| {{ISBNT|0871359227}}
+|-
+| ''X-Men: X-Tinction Agenda'' (Hardcover edition)
+| ''New Mutants'' #95–97; ''Uncanny X-Men'' #235–238 & #270–272; ''X-Factor'' (1986) #60–62
+| August 2011
+| {{ISBNT|978-0785155317}}
+|-
+| ''Deadpool Classic, Volume 1''
+| ''The New Mutants'' #98; ''[[Deadpool]]'' ("The Circle Chase") #1–4; ''Deadpool'', vol. 2 ("Sins of the Past") #1–4; ''Deadpool'', vol. 3 #1
+| May 2008
+| {{ISBNT|0785131248}}
+|-
+| ''X-Force: Shatterstar''
+| ''The New Mutants'' #99–100; ''X-Force: Shatterstar'' #1–4
+| August 2005
+| {{ISBNT|0785116338}}
+|-
+| ''X-Force: A Force to be Reckoned With''
+| ''The New Mutants'' #98–100, ''X-Force'' #1–4, ''Spider-Man'' #16
+| January 2011
+| {{ISBNT|978-0785149842}}
+|}
+
+===Volume 2===
+{| class="wikitable"
+|+Collected editions of ''New Mutants'' (Volume 2)
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''New Mutants: Back to School''
+| ''New Mutants,'' vol. 2 #1–6
+| March 2005
+| {{ISBNT|0785112421}}
+|-
+| ''New Mutants: Back to School – Complete Collection''
+| ''New Mutants,'' vol. 2 #1–13; ''X-Men Unlimited'' #42–43
+| January 2018
+| {{ISBNT|978-1302910327}}
+|-
+|}
+{{Clear}}
+===Volume 3===
+{| class="wikitable"
+|+Collected editions of ''New Mutants'' (Volume 3)
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''New Mutants: Return of Legion''
+| ''New Mutants'', vol. 3 #1–5; ''Marvel Spotlight: New Mutants''
+| December 2009
+| {{ISBNT|0785139923}}
+|-
+| ''New Mutants: Necrosha''
+| ''New Mutants'', vol. 3 #6–11
+| May 2010
+| {{ISBNT|0785139931}}
+|-
+| ''X-Necrosha''
+| ''New X-Men'' #32; ''X-Force'' vol. 3 #11, #21–25; ''New Mutants'' vol. 3 #6–8; ''X-Men: Legacy'' #231–234; ''X-Force/New Mutants: Necrosha One-Shot''; ''X Necrosha: The Gathering''; material from ''X-Force vol. 3 Annual #1''
+| December 2010
+| {{ISBNT|078514675X}}
+|-
+| ''X-Men: Second Coming''
+| ''Second Coming: Prepare''; ''Second Coming'' #1–2; ''Uncanny X-Men'' #523–525; ''New Mutants'', vol. 3 #12–14; ''X-Men Legacy'' #235–237; ''X-Force'' vol. 3 #26–28
+| September 2010
+| {{ISBNT|0785146784}}
+|-
+| ''New Mutants: Fall of the New Mutants''
+| ''New Mutants'', vol. 3 #15–21
+| March 2011
+| {{ISBNT|0785145834}}
+|-
+| ''X-Men: Age of X''
+| ''Age of X: Alpha''; ''X-Men Legacy'' #245–247; ''New Mutants'', vol. 3 #22–24; ''Age of X: Universe'' #1–2
+| July 2011
+| {{ISBNT|078515289X}}
+|-
+| ''New Mutants: Unfinished Business''
+| ''New Mutants'', vol. 3 #25–28
+| October 2011
+| {{ISBNT|078515230X}}
+|-
+| ''Fear Itself: Wolverine/New Mutants''
+| ''Fear Itself: Wolverine'' #1–3; ''New Mutants'', vol. 3 #29–32
+| April 2012
+| {{ISBNT|0785158081}}
+|-
+| ''New Mutants: A Date with the Devil''
+| ''New Mutants'', vol. 3 #33–37
+| April 2012
+| {{ISBNT|0785152326}}
+|-
+| ''New Mutants: De-Animator''
+| ''New Mutants'', vol. 3 #38–41
+| November 2012
+| {{ISBNT|0785161600}}
+|-
+| ''Journey Into Mystery/New Mutants: Exiled''
+| ''New Mutants'', vol. 3 #42–43, ''Exiled'' #1, ''Journey Into Mystery'' #637–638
+| September 2012
+| {{ISBNT|0785165401}}
+|-
+| ''New Mutants: Fight the Future''
+| ''New Mutants'', vol. 3 #44–50
+| December 2012
+| {{ISBNT|0785161619}}
+|}
+===Volume 4===
+{| class="wikitable" style="text-align:center;"
+|+Collected editions of ''New Mutants'' (Volume 4)
+|-
+! scope="col" | Title
+! scope="col" | Material collected
+! scope="col" | Format
+! scope="col" | Publication date
+! scope="col" | ISBN
+|-
+| ''New Mutants by Jonathan Hickman – Volume 1''
+| ''New Mutants'' #1–2, 5, 7
+| rowspan="5" | Trade paperback
+| May 12, 2020<ref>{{cite book|title=New Mutants by Jonathan Hickman Vol. 1|id={{ASIN|130291992X|country=uk}}}}</ref>
+| {{ISBN|978-1302919924}}
+|-
+| ''New Mutants by Ed Brisson – Volume 1''
+| ''New Mutants'' #3–4, 6, 8–12
+| November 24, 2020<ref>{{cite book|title=New Mutants by Ed Brisson Vol. 1|id={{ASIN|1302919938|country=uk}}}}</ref>
+| {{ISBN|978-1302919931}}
+|-
+| ''New Mutants by Vita Ayala – Volume 1''
+| ''New Mutants'' #14–18
+| August 10, 2021<ref>{{cite book|title=New Mutants by Vita Ayala Vol. 1|id={{ASIN|1302927876|country=uk}}}}</ref>
+| {{ISBN|978-1302927875}}
+|-
+| ''New Mutants by Vita Ayala – Volume 2''
+| ''New Mutants'' #19–24
+| August 12, 2022<ref>{{cite book|title=New Mutants by Vita Ayala Vol. 2|id={{ASIN|1302931199|country=uk}}}}</ref>
+| {{ISBN|978-1302931193}}
+|-
+|''New Mutants by Vita Ayala – Volume 3''
+|''New Mutants'' #25–28
+|November 8, 2022
+|{{ISBN|978-1302931209}}
+|-
+|}
+
+== In other media ==
+=== Television ===
+* The animated TV series ''[[X-Men: Evolution]]'' (2000–2003) featured a group called the New Mutants who, like their [[comic book]] counterparts, were a junior team living at the [[X-Mansion|Xavier Institute]] concurrently with the [[X-Men]]. The team featured [[Tabitha Smith#X-Men: Evolution|Boom-Boom]], [[Cannonball (comics)|Cannonball]], [[Magma (comics)|Magma]], [[Sunspot (comics)#Television|Sunspot]] and [[Wolfsbane (comics)|Wolfsbane]]. Other members, such as [[Berzerker (comics)|Berzerker]], [[Iceman (comics)|Iceman]], [[Jubilee (comics)|Jubilee]], and [[Jamie Madrox|Multiple Man]] were not New Mutants in the comic book series, but were featured in other X-Men comics. [[Danielle Moonstar|Mirage]] also appeared in the show's penultimate episode where she joined the team in a dream she projected into [[Shadowcat]]'s head.
+* ''New Mutants'' is the name given to the "race" of Mutants on the television show ''[[Mutant X (TV series)|Mutant X]]'' (2001-2004).
+
+=== Film ===
+* The live-action film ''[[X-Men: Days of Future Past]]'' (2014) featured several of the New Mutants characters in supporting roles, namely [[Blink (comics)|Clarice Ferguson / Blink]], [[Warpath (comics)|James Proudstar / Warpath]], and [[Sunspot (comics)|Robert da Costa / Sunspot]] portrayed by [[Fan Bingbing]], [[Booboo Stewart]] and [[Adan Canto]], respectively.<ref>{{cite web|url=https://www.youtube.com/watch?v=sKAP6Uv_pBU  |archive-url=https://ghostarchive.org/varchive/youtube/20211212/sKAP6Uv_pBU| archive-date=2021-12-12 |url-status=live|title=X-Men: Days of Future Past Comic-Con 2013 – Full Panel|date=July 21, 2013|access-date=September 1, 2013}}{{cbignore}}</ref><ref>{{cite web|url=https://www.empireonline.com/xmen/blink.asp |title=Empire X-Men: Days Of Future Past Exclusive – Blink Cover|access-date=January 30, 2014}}</ref><ref>{{cite web|url=https://www.empireonline.com/xmen/warpath.asp |title=Empire X-Men: Days Of Future Past Exclusive – Warpath Cover|access-date=January 30, 2014}}</ref><ref>{{cite web|url=https://twitter.com/adancanto/status/349260053230002177 |title=Twitter / adancanto: "@ghosthunter: @X4X5Campaign I'm excited for @adancanto as Sunspot!!" Thanks! Next summer.|author=Canto, Adan|date=June 24, 2013|access-date=July 21, 2013}}</ref><ref>{{cite web|url=https://www.empireonline.com/xmen/sunspot.asp |title=Empire X-Men: Days Of Future Past Exclusive – Sunspot Cover|access-date=January 30, 2014}}</ref>
+* A [[The New Mutants (film)|film adaptation of the characters]] was released on August 28, 2020. The film was directed by [[Josh Boone (director)|Josh Boone]] with the script written by Boone and Knate Gwaltney and stars [[Maisie Williams]] as [[Wolfsbane (comics)|Wolfsbane]],<ref>{{cite web|url=https://www.instagram.com/p/BE9C09rk5O7/|title=Instagram photo by Josh Boone • May 3, 2016 at 5:40pm UTC|work=instagram.com}}</ref> [[Anya Taylor-Joy]] as [[Magik (Illyana Rasputin)|Magik]],<ref>{{cite web|url=https://www.instagram.com/p/BE4k6tuk5KJ/|title=Instagram photo by Josh Boone • May 2, 2016 at 12:01am UTC|work=instagram.com}}</ref> [[Charlie Heaton]] as [[Cannonball (comics)|Cannonball]],<ref>{{cite web|url=https://www.instagram.com/p/BE-BiDYE5I2/|title=Instagram photo by Josh Boone • May 4, 2016 at 2:48am UTC|work=instagram.com}}</ref> [[Blu Hunt]] as [[Danielle Moonstar|Mirage]]<ref>{{cite web|url=https://www.instagram.com/p/BE9NvJnk5Ld/|title=Instagram photo by Josh Boone • May 3, 2016 at 7:15pm UTC|work=instagram.com}}</ref> and [[Henry Zaga]] as [[Sunspot (comics)|Sunspot]],<ref>{{cite web|url=https://www.instagram.com/p/BE-Bw7zk5JO/|title=Instagram photo by Josh Boone • May 4, 2016 at 2:50am UTC|work=instagram.com}}</ref> as the members of the team.<ref>{{cite news|url=http://www.hitfix.com/motion-captured/exclusive-are-these-josh-boones-first-three-new-mutants|title=EXCLUSIVE: Are These Josh Boone's First Three 'New Mutants'?|work=HitFix|last=McWeeny|first=Drew|date=March 31, 2016}}</ref><ref>{{Cite news|url=http://www.superherohype.com/news/388435-new-mutants-movie-exclusive-anya-taylor-joy-says-james-mcavoy-will-star#/slide/1|title=New Mutants Movie Exclusive: Anya Taylor-Joy Says James McAvoy Will Star|publisher=Superhero Hype|last=Evry|first=Max|date=January 5, 2017}}</ref><ref>{{cite web | first=Adam | last=Chitwood | url=https://collider.com/new-mutants-movie-professor-x/ | title='New Mutants': Simon Kinberg Says Professor X Will Appear; Filming Could Begin Early 2017| website=[[Collider (website)|Collider]] | date=May 10, 2016 | access-date=10 May 2016}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=DRKEABr4DI8 |archive-url=https://ghostarchive.org/varchive/youtube/20211212/DRKEABr4DI8| archive-date=2021-12-12 |url-status=live|title=EXCLUSIVE: Simon Kinberg and Olivia Munn Talk X-Men, New Mutants, and Gambit – Saturn Awards 2016|last=That Hashtag Show|date=7 July 2016|via=YouTube}}{{cbignore}}</ref><ref>{{cite web|url=https://www.comingsoon.net/movies/trailers/788819-exclusive-an-animatic-from-the-new-mutants-movie-lands-online#/slide/1|title=EXCLUSIVE: An Animatic from the New Mutants Movie Lands Online!|publisher=ComingSoon.net|last=Perry|first=Spencer|date=November 23, 2016}}</ref><ref>{{cite web|url=http://creativescreenwriting.com/josh-boone/|title=From All We Had to X-Men: Josh Boone, a Busy Man|publisher=Creative Screenwriting|last=McKittrick|first=Christopher|date=December 15, 2016}}</ref><ref>{{cite web|url=https://collider.com/new-mutants-movie-cannonball-charlie-heaton/|title='New Mutants' Finds Its Cannonball with 'Stranger Things' Star Charlie Heaton|last=Goldberg|first=Matt|work=Collider|date=May 31, 2017|access-date=May 31, 2017}}</ref><ref>{{cite web|url=http://www.tracking-board.com/stranger-things-star-charlie-heaton-to-play-cannonball-in-new-mutants/|title="STRANGER THINGS" STAR CHARLIE HEATON TO PLAY CANNONBALL IN "NEW MUTANTS"|last=Sneider|first=Jeff|work=The Tracking Board|date=May 31, 2017|access-date=May 31, 2017}}</ref><ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/foxs-new-mutants-casts-newcomer-blu-hunt-danielle-moonstar-role-1009703|title=Fox's 'New Mutants' Casts Newcomer Blu Hunt in Danielle Moonstar Role (Exclusive)|last=Kit|first=Borys|work=The Hollywood Reporter|date=June 2, 2017|access-date=June 2, 2017}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [[MarvelDatabase:New Mutants|MDP: New Mutants]] at the Marvel Database Project
+* [http://toonopedia.com/newmutnt.htm New Mutants] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6gM8uzfEb?url=http://toonopedia.com/newmutnt.htm Archived] from the original on March 28, 2016.
+* [https://web.archive.org/web/20070601204529/http://xmendiaries.ibelgique.com/encyclopedie/dossiers/nm_h.htm X-Men Diaries article on the original Hellions and New Mutants]
+* [http://marvel.com/comics/X-Men X-Men comics] at Marvel.com
+* [http://comicsverse.com/episode-68-marvels-new-mutants/ Academic Podcast Analyzing New Mutants] at ComicsVerse.com
+
+{{New Mutants|state=expanded}}
+{{X-Men characters}}
+{{X-Comics}}
+{{Ultimate X-Men}}
+{{Dan Abnett and Andy Lanning}}
+{{Authority control}}
+
+[[Category:New Mutants| ]]
+[[Category:Comics by Chris Claremont]]
+[[Category:Comics by Louise Simonson]]
+[[Category:X-Men titles]]
+[[Category:1982 comics debuts]]
+[[Category:Comics characters introduced in 1982]]
+[[Category:X-Men supporting characters]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:Marvel Comics adapted into films]]

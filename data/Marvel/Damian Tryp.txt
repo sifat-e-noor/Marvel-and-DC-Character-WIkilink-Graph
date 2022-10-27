@@ -1,0 +1,227 @@
+{{short description|Fictional comic book agency}}
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+|image= X-FactorInvestigationsPresent.jpg
+|imagesize= <!-- default 250 -->
+|caption=The X-Factor team. Art by [[David Yardin]].
+|publisher=Marvel Comics
+|debut=''[[Madrox]]'' #5, (March 2005)
+|creators=[[Peter David]]<br>[[Pablo Raimondi]]
+|base=[[Detroit]], [[Michigan]], United States<br>[[District X]], [[New York City]]
+|members= Formerly [[Siryn|Banshee]]<br>[[Layla Miller|Butterfly]]<br>[[Darwin (comics)|Darwin]]<br>[[Havok (comics)|Havok]]<br>[[Longshot (Marvel Comics)|Longshot]]<br>[[M (Marvel Comics)|M]]<br>[[Jamie Madrox|Multiple Man]]<br>[[Pip the Troll]]<br>[[Polaris (Marvel Comics)|Polaris]]<br>[[Rictor]]<br>[[Shatterstar]]<br>[[Strong Guy]]<br>[[Wolfsbane (comics)|Wolfsbane]]
+|subcat=private investigators
+|hero=
+|villain=
+}}
+
+'''X-Factor Investigations''' is a fictional detective agency appearing in [[American comic book]]s published by [[Marvel Comics]]. The organization was created by writer [[Peter David]] for the [[comic book]] series ''[[X-Factor (comics)|X-Factor]]'' (vol. 3). The agency first appears under the name '''XXX Investigations''' in the first issue of the Marvel Comics limited series ''[[Madrox]]'' #1 (November 2004). In the final issue, ''Madrox'' #5 (March 2005), the name is changed to '''X-Factor Investigations''', and later abbreviated '''XF Investigations'''.
+
+==Publication history==
+Peter David introduced the agency in the limited series ''Madrox''.<ref name="Madrox">{{Cite comic | Writer = David, David | Artist =Ramondi, Pablo  | Story = Soul of a Gumshoe | Title = Madrox | Volume = 1 | Issue = 1 | Date = July 2006 | Publisher = Marvel Comics}}</ref> The ''Madrox'' series ended in March 2005, but with positive fan and retailer reaction to the book, Marvel relaunched the series under their oft-used title ''X-Factor'', David having considered ''Madrox'' an ''X-Factor'' book anyway.{{dead link|date=November 2013}}<ref name=davidint>[http://forum.newsarama.com/printthread.php?threadid=41312 "Interview with Peter David"]. [[Newsarama]].  {{webarchive |url=https://web.archive.org/web/20070929095904/http://forum.newsarama.com/printthread.php?threadid=41312 |date=September 29, 2007 }}</ref> At the 2005 [[Comic-Con International|San Diego Comic Con]] Peter David announced the agency would continue, following events in ''Madrox'' and ''[[House of M]]'' and intended the agency to be "dark and scruffy," inspired by the [[paranormal]] [[Fox Broadcasting Company|Fox]] TV series ''[[X-Files]]''.{{dead link|date=November 2013}}<ref name=SDCC>[http://classic.newsarama.com/SDCC05/Marvel/x-men/xmen_HoM.html "SDCC Day 2: Marvel’s The World Has Changed: House of M: X-Men Panel"]. Newsarama.{{dead link|date=November 2013}}</ref> At the 2009 Fan Expo Canada, it was announced that the current X-Factor series would be re-numbered to #200 in December 2009, to take up the numbering of the original series.<ref>Sunu, Steve (August 29, 2009). [http://www.comicbookresources.com/?page=article&id=22734 "Fan Expo: 'X-Factor' Turns 200"]. [[Comic Book Resources]].</ref> The series ended after issue #262, after 114 issues.
+
+==Fictional team history==
+'''X-Factor Investigations''' is a detective agency run by [[Jamie Madrox]], formerly known as the costumed superhero Multiple Man. The agency was originally named ''XXX Investigations'', but team members thought that it sounded too much like Madrox was investigating [[pornography]]. The new name is taken from the government-sponsored mutant supergroup that the three founders had previously served on.
+
+==="Madrox" and "Decimation"===
+The initial staff consisted of Madrox's best friend and special enforcer, Guido Carosella ([[Strong Guy]]) and former teammate Rahne Sinclair ([[Wolfsbane (comics)|Wolfsbane]]). Following the [[House of M]], Madrox's newfound wealth from winning a ''[[Who Wants to be a Millionaire]]''-style [[game show]] allowed him to recruit several of his former colleagues of the [[Paris]] branch of the now defunct [[X-Corporation]]. New members include [[Siryn]], a powerless [[Rictor]], [[M (Marvel Comics)|M]] and [[Layla Miller]], who has inserted herself into the group to keep them from discovering the truth behind the mutant Decimation, a catastrophic worldwide wiping out of mutant powers that took place during [[Decimation (comics)|a storyline of the same name]]. The agency subsequently conflict with rival agency Singularity Investigations, after they ordered Siryn beaten and left for dead.{{issue|date=November 2013}}
+
+In the aftermath of the "Decimation" storyline, Madrox, after meeting with Singularity CEO Damian Tryp, asks Siryn to find out more about the Decimation from the heroes who might have been involved. She learns from Spider-Man that the X-Men (who had denied any involvement), as well as [[Quicksilver (comics)|Quicksilver]] were, in fact, central to the ending of that event.{{issue|date=November 2013}}
+
+Little is known about Damian Tryp apart from that he runs Singularity Investigations, which is in direct competition with Jamie Madrox's X-Factor Investigations and his encounters with Madrox's team. He is also one of the few mutants that kept their superhuman powers after the [[Decimation (comics)|M-Day]] event, although it has been revealed that he might not be a mutant, but a genetic throwback to an earlier time,<ref name="xfactorv3-11">{{cite comic|writer = David, Peter|artist =[[Roy Allen Martinez|Martinez, Roy Allen]]|story = untitled |title = X-Factor|volume=volume 3|issue = 11|date = November 2006|publisher = Marvel Comics}}</ref> (a "changeling"), a predecessor to mutants who develop powers at birth. Tryp's mutation enables him to live for a very long time, as evidenced by him being alive in the 12th-century Wales.<ref name="xfactorv3-10">{{comic book reference | Writer =David, Peter|Artist =Martinez, Roy Allen |story = untitled | Title = X-Factor|volume= 3 | Issue = 10 | Date = October 2006 | Publisher = Marvel Comics}}</ref> He also is able to move through time in a similar fashion to Quicksilver, which enables him to bring together himself at three different times.
+
+Damian Tryp also seems to be involved in Jamie Madrox's past. When Jamie was born, the doctor's slap caused him to multiply into two identical babies, which was rather shocking to both his parents and the doctor. [[Professor X|Professor Charles Xavier]], a friend of the Madrox family, suggested that they move to Kansas to raise the boy in privacy with the possibility of the boy to be later taught at Professor X's school for the gifted youngsters. However, when Madrox was still young, Tryp also makes an own offer to look after Jamie, claiming that Jamie was also a "changeling" like him.<ref name="xfactorv3-11"/> Jamie's parents, however, refuse to give Jamie to Tryp, who proceeds to create a freak tornado that kills Jamie's parents.
+
+The all-out conflict between Tryp's Singularity Investigations and X-Factor Investigations began after the youngest version of Tryp badly beat Siryn (after shooting her in the neck with a dart that prevented her from using her powers) and left her for dead.<ref>{{Cite comic | Writer = David, Peter |Artist = [[Dennis Calero|Calero, Dennis]] | Story = Captive Audience | Title = X-Factor | Volume = 3 | Issue = 5 | Date = May 2006 | Publisher = Marvel Comics}}</ref> Siryn, as part of her duties for X-Factor Investigations, was investigating the murder of the woman who died in Jack Vaughn's penthouse under suspicious circumstances. Jack Vaughn (a movie star) claimed that the woman was killed by her sister, Gloria Santiago, who was upset about the relationship (claiming that Jack was "no good" for her sister), and that all he was trying to do was wrestle the gun away from her. The sister thus hired X-Factor Investigations to help her clear her name and bring Jack to justice. Singularity Investigations was representing Jack Vaughn with Tryp, Junior (in other words, the youngest version) as the defense counsel. Siryn and X-Factor Investigations managed to incriminate Vaughn and to thwart SI's assassination attempt on Rictor.<ref>{{Cite comic | Writer = David, Peter| Penciller = Sook, Ryan | Copencillers = Calero, Dennis | Inker = [[Wade Von Grawbadger|Von Grawbadger, Wade]] | Coinkers = Calero, Dennis |Story = Lines in the Sand | Title = X-Factor | Volume = 3 | Issue = 4 | Date = April 2006 | Publisher = Marvel Comics }}</ref> Tryp, Junior is so infuriated by this that he ambushes Siryn and beat her almost to death, leaving her to die in an alley.{{issue|date=November 2013}}
+
+Madrox and Strong Guy give Tryp a very public warning as Tryp is jogging in the park.<ref>{{Cite comic | Writer = David, Peter| Artist = Calero, Dennis | Story = The Butterfly Defect | Title = X-Factor | Volume = 3 | Issue = 6 | Date = June 2006 | Publisher = Marvel Comics }}</ref> They tell Tryp that they know that it was he who hurt Siryn, and while they will not hurt him in broad daylight, he should watch his back. Tryp, Junior and Tryp, Senior make Madrox an offer to join their firm, and Madrox laughs in response.<ref>{{Cite comic | Writer = David, Peter| Artist = [[Ariel Olivetti|Olivetti, Ariel]] | Story = Two Meetings, One in Person, One Not | Title = X-Factor | Volume = 3 | Issue = 7 | Date = July 2006 | Publisher = Marvel Comics }}</ref>
+
+==="Civil War"===
+During the "[[Civil War (comics)|Civil War]]" [[Quicksilver (comics)|Quicksilver]] has returned to Mutant Town following the events of [[Son of M]], having gained the ability to restore other mutants' powers from the [[Terrigen Mist]]s. X-Factor used this to confront the X-Men with their knowledge of the Decimation. As a result, X-Factor has taken a public stance in defiance of the [[Civil War (comics)|Superhuman Registration Act]]. However, [[Rictor (comics)|Rictor]] and [[M (Marvel Comics)|M]] were registered by a duplicate of Madrox who is an agent of S.H.I.E.L.D., and [[Madrox]], [[Strong Guy]], and [[Wolfsbane (comics)|Wolfsbane]] are already registered because of their membership in the previous, government-sponsored X-Factor. The X-Men have decided not to interfere with Quicksilver as long as he stays in Mutant Town.<ref>David, Peter (w). ''X-Factor''. #8-9. Marvel Comics.</ref>
+
+==="X'd Out"===
+When a former Singularity employee came to X-Factor Investigations and related that Tryp is attempting to recreate the [[Legacy Virus]], the plague that killed several mutants, including, briefly, Madrox himself,<ref name="xfactorv3-10"/> [[Strong Guy]] is sent to drive the man to safety. However, once they are alone, Strong Guy kills him and calls Tryp to report this. It is later revealed that Tryp has placed a hypnotic suggestion in Strong Guy's mind to turn him into a [[sleeper agent]]. According to the oldest version of Tryp (ancient), all of Singularity Investigations' efforts to create the Legacy Virus have been to prevent a possible future in which X-Factor manages to undo the Decimation, but as a result, humanity is wiped out by the re-powered mutants in a bloody conflict. As such, X-Factor Investigations' new goal is to undo the Decimation,<ref name="x-factorv3-12">{{Comic book reference | Writer = David, Peter| Artist = [[Arlem, Renato]]| story = untitled | Title = X-Factor|volume=3|issue = 12|date = December 2006|publisher =Marvel Comics}}</ref> but also to prevent the conflict Tryp predicted.{{issue|date=November 2013}}
+
+Due to one of Madrox's dupes blowing up the SI building, apparently killing Tryp, Junior and Tryp, Senior (i.e., the middle-aged version), only the ancient Tryp (the one who has been alive the longest and has seen the grim future) is still alive.<ref name="x-factorv3-12"/>
+
+After the destruction of Singularity Investigations, the present form of Damian Tryp (the elder/ancient) reveals to [[Layla Miller (comics)|Layla]] that her very existence had foiled his plans &mdash;  she is a force of chaos like he is.  Tryp also reveals that when he comes into conflict with Layla, terrible events occur as a result.  Following her encounter with Tryp, Layla appears genuinely shocked for the first time: the glass of milk she is pouring overflows, spilling onto the floor.
+
+After finding out about the foretold event, each member of the X-Factor Investigations attends a session with [[Doc Samson]].{{issue|date=November 2013}}
+
+==="World War Hulk"===
+During the "[[World War Hulk]]" storyline, X-Factor comes to the aid of [[Professor Xavier]] when the [[Hulk]] seeks retribution on him due to his role within the [[Illuminati (comics)|Illuminati]].{{issue|date=November 2013}}
+
+===Post-"Civil War"===
+After Madrox's experience with his S.H.I.E.L.D. dupe, a dupe he has forgotten about, Madrox went on a quest to gather his lost dupes and revealed an ability to absorb himself into dupes. This quest met an end when he found a dupe who had built his own family. Meanwhile, Siryn and Monet bonded in France and rescued a child from a riot. X-Factor was then attacked by the X-Cell and almost defeated. The X-Cell's members believed the government to be responsible for their lost powers. All but [[Marrow (comics)|Marrow]] and [[Callisto (comics)|Callisto]] were repowered by Quicksilver and Rictor—a process that resulted in the death of their [[Elijah Cross|leader]] and [[Abyss (comics)|Abyss]], [[Fatale (Marvel Comics)|Fatale]] and [[Reaper (Marvel Comics)|Reaper]] fleeing into the brimstone dimension to fate unknown. When Layla Miller revealed what truly happened to Callisto and Marrow, Rictor used his powers to expel the Terrigen crystals from Quicksilver's body (except for one, which Quicksilver kept) at the cost of his powers.<ref>David, Peter (w). ''X-Factor''. #14-24. Marvel Comics.</ref>
+
+==="Messiah Complex"===
+During the "[[X-Men: Messiah Complex|Messiah Complex]]" storyline, Madrox, Rictor, and an accompanying Layla Miller are alerted to the Xavier Mansion by Emma Frost during the mutant baby conflict.{{citation needed|date=November 2013}} Madrox and Layla are sent to Forge's headquarters to send two dupes into different alternate realities. Layla, however, goes with one of the dupes at the last minute, claiming she has a part to play in their mission. Unfortunately, Forge informs Madrox that there is no way to retrieve Layla and his dupes, who received instructions to kill themselves once they received the information they needed to get reabsorbed into Madrox Prime. Layla and the Madrox-dupe land in Bishop's future, and are captured and held in mutant internment camps. Rictor is instructed to go undercover as a Purifer by pretending to shoot Rahne as she attacked the group's members. He has since gained information on their artillery until his cover was blown by [[Anole (comics)|Anole]] and the other [[New X-Men (2004 series)|New X-Men]]. Rahne later joins the mutant group [[X-Force]] to hunt down Cable using their hyper-keen senses. Siryn was called by the mutant named Peepers asking to help him out. When Siryn arrived on the scene, Peepers was eaten to the bone by Predator-X who was already on his way looking for the next mutant to kill. Strong Guy, Siryn, and M joined forces with the X-Men against the various groups trying to take control of the mutant baby.<ref>David, Peter (w). ''X-Factor''. #25-27. Marvel Comics.</ref>
+
+==="Divided We Stand"===
+During the "[[X-Men: Divided We Stand|Divided We Stand]]" storyline, Rahne, after a confrontation with Jamie about her leaving, reveals that she has seen herself murder Jamie and Layla Madrox on their wedding night, and not wanting to kill Layla upon her return from the dystopian future, leaves the team and joins [[X-Force]].<ref name="XFactor28">{{Cite comic | Writer = David, Peter | Artist = Raimondi, Pablo| Story = Aftermath | Title = X-Factor | Volume = 3 | Issue = 28
+|Date = April 2006 | Publisher = Marvel Comics }}</ref><ref name="XForce1">{{Cite comic | Writer = Kyle, Craig|Cowriters = Yost, Chris|artist = Crain, Clayton 
+|Story = Angels and Demons | Title = X-Force | Volume = 3 | Issue = 1 | Date = April 2008 | Publisher = Marvel Comics}}</ref> Meanwhile, Rictor, spots a girl he thinks is Layla, but discovers she is a young [[prostitute]] who resembles Layla. After some aggressive words with the young woman's [[pimp]], he gets into a fight that leaves him wounded. After Guido joins in the fight, the men quickly disperse, and he escorts Rictor to a hospital. Elsewhere, Jamie is seen looking for a fight and finds himself at a [[Purifiers (Marvel Comics)|Purifier]] gathering. After shooting their leader with a tranquilizer, Jamie makes three copies of himself and readies for a fight. Siryn reveals to a reverend that she is pregnant with Jamie's child, and later at a bar, reveals to Monet that she intends to give birth to the child.<ref name="XFactor28"/>
+
+Meanwhile, Mutant Town is under the clutches of [[Silver Age of Comic Books|Silver Age]] [[X-Men]] villain [[Arcade (Marvel Comics)|Arcade]] with Rictor as his prisoner; Valerie Cooper returns as a supporting character and X-Factor relocates to [[Detroit]], [[Michigan]].{{issue|date=November 2013}}
+
+==="Secret Invasion"===
+To address the absence of Layla Miller and Rahne Sinclair, and to add new character dynamics to the team, writer Peter David added new cast members to the book, [[Longshot (Marvel Comics)|Longshot]] and [[Darwin (comics)|Darwin]]. David chose Longshot for the character's optimism and upbeat attitude, which David felt would be an appropriate replacement for Rahne and Layla respectively. He chose Darwin because the character was a relatively blank slate, that afforded David the freedom to write him however he wanted,<ref name="DAVIDXfactor">{{cite web |url=http://marvel.com/news/comicstories.2890.X-Factor_Week~colon~_Enter_Longshot_%26_Darwin  |title= X-Factor Week: Enter Longshot & Darwin|date= March 13, 2008|publisher= Marvel Comics}}</ref> as the character appeared only in the storylines "[[X-Men: Deadly Genesis|Deadly Genesis]]" and "Rise and Fall of the Shi'Ar Empire".<ref name="DEADLY">{{Comic book reference | Writer = [[Brubaker, Ed]] | Penciller = Hairsine, Trevor|Inker =  | Story = | Title = X-Men: Deadly Genesis | Issue = 1-6 | Date = January - July 2006 | Publisher = [[Marvel Comics]]}}</ref><ref name="Shi Ar">{{cite comic|writer = Brubaker, Ed|penciller = Tan, Billy|inker = Miki, Danny|story = Rise and Fall of the Shi'Ar Empire |title = Uncanny X-Men | Issue = 475-486 | Date = September 2006 - July 2007 | Publisher = Marvel Comics}}</ref>
+
+During the "[[Secret Invasion]]" storyline, Darwin goes in search of Professor Xavier because he wants to help him. He encounters [[Longshot (Marvel Comics)|Longshot]], who tries to lead him to the Professor by using his powers. Longshot, however is unsure if his powers have been working correctly and tests them out on a group of people which turn on Darwin and attack. After a brief fight, Darwin manages to get away and the crowd turn on Longshot. Darwin's father hires X-Factor to find his son, supposedly because he feels bad for walking out on him and his mother when he was younger. Madrox, Monet and Guido track down Darwin and Longshot but Longshot is attacked by [[Jazinda]] and [[She-Hulk]] who are trailing after him because he is really a [[Skrull]]. After a fight between the two groups, they both realize Longshot is a Skrull, capture and hand him over to Jazinda and She-Hulk and go their separate ways.<ref>David, Peter (w). ''X-Factor''. #33-34. Marvel Comics.</ref>
+
+===Post-"Secret Invasion"===
+After Darwin is reunited with his father, only to be betrayed and sold out to by operatives of an organization known as the Karma Project, who are experimenting on living human beings. Meanwhile, the real Longshot shows up and he and Darwin join X-Factor. Valerie Cooper takes an interest in Siryn's unborn child. During a confrontation when Siryn is leaving for the hospital because her water broke, Val is accidentally shot.<ref>David, Peter (w). ''X-Factor'' (vol 3) #38. Marvel Comics.</ref> While Val recovers, Siryn gives birth and finally acknowledges that her father is dead and is never coming back. She names her son Sean after her father, but when Madrox holds him, he absorbs Sean.<ref>David, Peter (w). ''X-Factor'' #39. Marvel Comics.</ref> Jamie Madrox leaves X-Factor Investigations in order to talk to his last remaining dupe, John Maddox. Explaining to John that dupes are unable to have babies, John reveals that he already knew this. However, Jamie threatens to kill himself, knocking out John. Before he pulls the trigger, an older Layla Miller returns to stop him.<ref>David, Peter (w). ''X-Factor'' #40. Marvel Comics.</ref>
+
+Jamie is transported to the future in the midst of the Summers Rebellion, where mutants rise up against Sentinel and human oppressors, which is led by Ruby Summers, the daughter of Cyclops and Emma Frost with her fathers' optic blasts and Emma's organic mineral body, Layla, and a cyborg Cyclops, whose predicament is Jamie's fault. After Jamie kisses Layla (now an adult) out of happiness at seeing her, Cyclops wants Jamie to find out why some mutants are winking out of existence. The group visit an aging, senile [[Doctor Doom]], who says Layla told him in the past that he'd have to instruct Jamie and her on something in the future, and it is now.{{issue|date=November 2013}}
+
+In the present, X-Factor and new members [[Longshot (Marvel Comics)|Longshot]] and [[Darwin (comics)|Darwin]] are battling Cortex, an agent of the Summers Rebellion era government. Cortex briefly controls [[Shatterstar]] and M, using them to respectively make assassination attempts on Reverend John Maddox and an X-Factor client. Cortex grabs Longshot, trying to also control him, and realizes he and Shatterstar are connected, and when Cortex loses control over Monet, she attacks him and his hood falls back revealing that he is the second Jamie Madrox duplicate from ''Messiah Complex''.<ref>David, Peter (w). ''X-Factor'' (vol. 3) #47 (August 2009) letters column. Marvel Comics.</ref>
+
+The Madrox dupe is teleported to the future once more, where his technological parts are taken over by an elderly Doom. There he engages in combat with the future X-Men. Although he manages to kill Fitzroy, Ruby begs Layla to bring him back revealing that Layla has the ability to resurrect the dead—however her powers restores them without a soul/conscience. The conflict reaches its peak when a massive Sentinel is about to destroy most of the mutants. Fitzroy absorbs Cortex's life energy and sends the massive sentinel in the past (where the sentinel crashes killing its constructors parents thus completing a chain of events that started all of this). Madrox is teleported back in the past to Detroit where he meets up with the rest of X-Factor.{{issue|date=November 2013}}
+
+Layla however, goes further back, where she meets up with her younger past self. After telling her all of this she downloads her knowledge into her past self's mind thus further completing the causality loop and granting her the knowledge she had to begin with.{{issue|date=November 2013}}
+
+==="The Invisible Woman Has Vanished!"===
+Following the events in ''X-Factor'' #50, Madrox decides to move X-Factor Investigations back to New York City, which he believes is where the team should really be. In their first mission, the team is approached by [[Valeria Richards|Valeria]] and [[Franklin Richards (Fantastic Four)|Franklin Richards]], who ask for X-Factor's help to locate their mother, The [[Invisible Woman]], who has mysteriously vanished. Upon going to the Baxter Building, X-Factor is stonewalled by Reed Richards, while Strong Guy and Shatterstar battle with [[Ben Grimm|Thing]], ending in Thing's defeat. Longshot identifies from clues left on the Fantasticar that Sue was kidnapped to Latveria and in a vision sees Layla Miller allied with Doctor Doom. After much debate, the team travel to Latveria to assault Castle Doom and steal back Invisible Woman, where Monet, Shatterstar, and Thing go head-to-head with Doom himself.{{issue|date=November 2013}}
+
+Elsewhere, Monet returns home only to discover Val Cooper with bad news, her father has been taken hostage by terrorists and will only return him in exchange for Monet herself. Following from the events of the Latveria battle, Monet and Strong Guy travel deep into the unknown jungles<ref>David, Peter (w). ''X-Factor'' #203. Marvel Comics.</ref> in the hope of freeing Monet's father. It is revealed that the man behind the kidnapping is none other than [[Baron Mordo]].{{issue|date=November 2013}}
+
+==="Second Coming: Revelations"===
+During the "[[Second Coming (comics)|Second Coming]]" storyline, [[Bolivar Trask]], after being given the mission to kill all members of the X-Factor team, assigns [[Absorbing Man]] and [[Bastion]] to the task. However, the team is weakened by the absence of Strong Guy, who is dealing with Baron Mordo and the kidnapped Monet.<ref>David, Peter (w). ''X-Factor''. #204-206. Marvel Comics.</ref>
+
+===Post-"Second Coming"===
+Layla and Rahne rejoin the team. While M was knocked out by Layla about her involvement with Doctor Doom in the disappearance of Sue Richards (a.k.a. The Invisible Woman), Rahne goes upstair and interrupts an intimate moment between Rictor and Shatterstar, as well as reveal her pregnancy. Rictor is shocked by Rahne's pregnancy because they slept together before she left to join X-Force, while Rahne is shocked that Rictor and Shatterstar are in a homosexual relationship. Because of her Catholic beliefs, she attacks Shatterstar in her wolf form and pushes him to the ground from the window for "turning" Rictor gay, but they are interrupted by Longshot. Rictor asks Rahne if he's the father of her baby, and she deceives him into thinking so by saying she wasn't with anyone else seven months ago. Madrox and Theresa have tracked down Pip the Troll and have taken from him an amulet that protected him from Hela's sight, leading to his capture by her. The team sets out to Las Vegas to rescue him by using Longshot's power to win at casino for four months to gain attention. They got attacked by Hela but were rescued by [[Thor (comics)|Thor]] and successfully rescues Pip with help from Darwin. However, a confrontation with Hrimhari—an [[Asgard (comics)|Asgardian]] wolf prince—reveals that he actually is the father of Rahne's baby. Pip joins the team out of gratitude that they saved him but it is implied that he has his own agenda. Rictor is upset with the news but forgives Rahne when he learns that she's just worried about his soul.<ref>David, Peter (w). ''X-Factor''. #208-213. Marvel Comics.</ref>
+
+While in the heat of a battle to rescue J. Jonah Jameson, Strong Guy was shot and killed, but Layla revived him at the cost of his soul. Her action changed the future that was uploaded to her brain by her older self.<ref>David, Peter (w). ''X-Factor''. #218. Marvel Comics.</ref>
+
+As the birth of Rahne's son is near, various forces of demons attack X-Factor headquarter. Rahne was forced to rely on her old pack to protect and gave birth to her son, Tier, through her mouth. He was left with Rahne's pack for his own survival.<ref>David, Peter (w). ''X-Factor''. #224. Marvel Comics.</ref>
+
+When the demon Bloodbath attacked X-Factor, Madrox was seemingly killed. However, he was revealed to be transported to an alternate reality by the corpses of Layla and himself on their wedding night, and confronted Vanora, whom Layla had paid to kill them. Jaime died and found himself in a reality in which humans were dominated by Deathlok. He died once more and found himself the apprentice of Doctor Strange, who had just died at the hands of Dormammu. The spirit of Doc Strange was able to send Jamie back to his reality, but complications drew Vanora, Deathlok and Dormammu with him. In his absence, Havok and Polaris joined and led the team, much to their dismay. Jamie came back from his body in the freezer and agreed to share the leadership with Havok.<ref>David, Peter (w). ''X-Factor''. #229-234. Marvel Comics.</ref>
+
+==="Breaking Point"===
+During the "Breaking Points" storyline,  the team fights three interdimensional monsters brought on Earth by Damian Tryp. As a now soulless [[Strong Guy]] endangers people while fighting these monsters, [[Monet (comics)|M]] lashes out at him. This behaviour and the fact that their relationship did not work leads him to leave the team. He is then intercepted by a threatening silhouette whom he joins. The remaining monster, Vanora, daughter of a parallel universe Rahne, escapes. After that, Darwin finally catches up with Rahne's son and tries to kill him, only to be stopped by [[Werewolf by Night]]. A fight ensues between Rahne, [[Shatterstar]], [[Rictor]], Darwin and Vanora. Shatterstar apparently kills Vanora, and Rahne leaves the team to take care of her son, Tier. Later that day, crows are seen pecking at Vanora, though she somehow revives. [[Polaris (Marvel Comics)|Polaris]] learns of her true origins (and the fact that she murdered her parents, whereas she always believed that [[Magneto (Marvel Comics)|Magneto]] did it) thanks to Monet and [[Longshot (Marvel Comics)|Longshot]]. The revelation leaves her in a catatonic state. It is also implied that [[Siryn|Banshee]] is having visions of her dead father. Siryn agrees to her destiny as the avatar of the ancient spirit of Morrigan - the Banshee and absorb it to save Polaris's sanity. She heals Lorna who was left in a catatonic state and leaves the team, confessing to Madrox that, in the end, she always loved him. Madrox confronts Havok on his leadership. Havok decides to leave the team to find his path whereas Lorna wants to stay. Madrox and Layla get married.<ref>David, Peter (w). ''X-Factor''. #241-245. Marvel Comics.</ref>
+
+==="Hell on Earth"===
+When trying to take a honeymoon vacation, Jamie and Layla were attack by a legion of zombie while the rest of the team are attacked by a mysterious force. It was later reviewed that they are the Hell Lords who is awaken by Guido's resurrection by Layla and the birth of Rahne's baby son, Tier. Pip was seemingly killed by the Hell Lords in an effort to protect the team, and later possess M's body in order to escape his death. However, it is implied that he quits the team out of safety or Jamie fired him out of anger for his involvement in the event.<ref>David, Peter (w). ''X-Factor''. #246-249. Marvel Comics.</ref>
+
+The X-Factor building is destroyed. Rahne, Tier rejoin the team in order to protect themselves and Darwin agrees to help and later rejoins the team Strong Guy killed Tier and became the King of Hell. Rictor and Shatterstar seemingly died.<ref>David, Peter (w). ''X-Factor''. #246-256. Marvel Comics.</ref>
+
+It was later reviewed that Rictor and Shatterstar got transferred to a past version of Mojoworld. Shatterstar's origin and relationship to Longshot and Dazzler is reviewed: He was Longshot's genetic source, as well as his son with Dazzler, created a [[paradox]] where as Shatterstar is both Longshot's "father" / clone AND his son with different DNA.<ref>David, Peter (w). ''X-Factor''. #259. Marvel Comics.</ref>
+
+==="The End of X-Factor"===
+After the events of "Hell on Earth", each team members found themselves got blasted into different places without their teammates. Longshot left the team as he felt he has nothing left after the death of Shatterstar. Rahne found herself in Vermont and left the team for the guilt of bringing the war and the death of her son. Polaris found herself in NY without any member of her team, got drunk and attempted a suicide-by-cop and got thrown in jail, where she made a deal with a mysterious figure (later revealed to be Harrison Snow). Monet and Darwin found themselves in Las Vegas and rejoined the Jean Grey mutant school. Layla and Jamie found themselves in Morocco. They encountered Siryn and she restored Jamie from his demon form. Upon returning to where the X-Factor building once stand,  Jamie, frustrated over the situation and concluded that the world is for "other people to save", sold the team to Harrison Snow - CEO and president of Serval Industry, and retired to his family farm with Layla - his pregnant wife. Snow renamed the team and began to recruit people into the "[[All-New X-Factor]]".<ref>David, Peter (w). ''X-Factor''. #257-262. Marvel Comics.</ref>
+
+==Team roster==
+{| class="wikitable"
+|-
+!Issues !! Years !! Roster
+|-
+|align=center|1 to 7
+|align=center|2006
+|align=left|[[Layla Miller|Butterfly]], [[Monet St. Croix|M]], [[Multiple Man|Madrox]], [[Rictor]], [[Siryn]], [[Strong Guy]], [[Wolfsbane (comics)|Wolfsbane]]
+|-
+|align=center|8 to 24
+|align=center|2006–2007
+|align=left|Butterfly, M, Madrox, Quicksilver,{{ref label|QS|A|}} Rictor, Siryn, Strong Guy, Wolfsbane
+|-
+|align=center|25 to 27
+|align=center|2008
+|align=left|[[Messiah Complex]] crossover {{ref label|TM|B|}}{{ref label|TM|C|}}
+|-
+|align=center|28 to 32
+|align=center|2008
+|align=left|M, Madrox, Rictor, Siryn, Strong Guy
+|-
+|align=center|33 to 39
+|align=center|2008–2009
+|align=left|[[Darwin (comics)|Darwin]],{{ref label|TM|D|}} [[Longshot (Marvel Comics)|Longshot]],{{ref label|TM|E|}} M, Madrox, Rictor, Siryn, Strong Guy
+|-
+|align=center|40 to 42
+|align=center|2009
+|align=left|Butterfly, Darwin, Longshot, M, Madrox, Rictor, [[Ruby Summers]], Siryn, Strong Guy
+|-
+|align=center|43 to 50
+|align=center|2009
+|align=left|Butterfly, Darwin, Longshot, M, Madrox, Rictor, Ruby Summers,{{ref label|TM|F|}} [[Shatterstar]], Siryn, Strong Guy
+|-
+|align=center|200 to 207
+|align=center|2009–2010
+|align=left|Butterfly,{{ref label|TM|G|}} Darwin, Longshot, M, Madrox, Rictor, Shatterstar, Siryn, Strong Guy
+|-
+|align=center|208 to 213
+|align=center|2010–2011
+|align=left|Butterfly, Darwin, Longshot, M, Madrox, Rictor, Shatterstar, Siryn, Strong Guy, Wolfsbane {{ref label|TM|B|}}
+|-
+|align=center|214
+|align=center|2011
+|align=left|Darwin
+|-
+|align=center|215 to 229
+|align=center|2011
+|align=left|Butterfly, Longshot, M, Madrox, Rictor, Shatterstar, Siryn, Strong Guy, Wolfsbane 
+|-
+|align=center|230 to 245
+|align=center|2012
+|align=left|[[Siryn|Banshee]], Butterfly, [[Havok (comics)|Havok]], Longshot, M, Madrox, Pip The Troll, [[Polaris (Marvel Comics)|Polaris]], Rictor, Shatterstar, Strong Guy, Wolfsbane
+|-
+|align=center|245 to 249
+|align=center|2013
+|align=left|Butterfly, Longshot, M, Madrox, Pip The Troll, Polaris, Rictor, Shatterstar
+|-
+|align=center|250
+|align=center|2013
+|align=left|Butterfly, Longshot, M, Madrox, Polaris, Rictor, Shatterstar, Tier Sinclair, Wolfsbane
+|-
+|align=center| 251
+|align=center|2013
+|align=left|Butterfly, Darwin, Longshot, M, Madrox, Polaris, Rictor, Shatterstar, Tier Sinclair, Wolfsbane
+|-
+|align=center| 252-255
+|align=center|2013
+|align=left|Butterfly, Darwin, Longshot, M, Polaris, Rictor, Shatterstar, Tier Sinclair, Wolfsbane
+|-
+|align=center| 256-257
+|align=center|2013
+|align=left|Butterfly, Darwin, M, Madrox, Polaris, Wolfsbane
+|-
+|align=center| 258
+|align=center|2013
+|align=left|Butterfly, Darwin, M, Madrox, Polaris
+|-
+|align=center| 260
+|align=center|2013
+|align=left|Butterfly, Darwin, M, Madrox
+|-
+|align=center| 261
+|align=center|2013
+|align=left|Butterfly, Madrox
+|-
+|align=center| 262
+|align=center|2013
+|align=left|N/A
+|}
+
+'''Notes''':
+* {{note label|QS|A|}} - The character acts as a recurring character only.
+* {{note label|TM|B|}} - Wolfsbane leaves the group to join [[X-Force]], but rejoins in #208.
+* {{note label|TM|C|}} - Layla Miller is left stranded in the future.
+* {{note label|TM|D|}} - The character joins following the revival during Messiah Complex.
+* {{note label|TM|E|}} - The character joins following the death of his [[Skrulls|Skrull]] impersonator during Secret Invasion.
+* {{note label|TM|F|}} - The character returns to her own time in #50.
+* {{note label|TM|G|}} - The character is not an actual member of the team, but holds alliance with [[Doctor Doom]] instead.
+
+==Awards==
+In 2010 and 2011, X-Factor nominated for a GLAAD Media Award for Outstanding Comic Book and eventually won in 2011.<ref>{{Cite web |title=21st Annual GLAAD Media Awards – English Language Nominees |publisher=[[Gay & Lesbian Alliance Against Defamation]] |year=2010 | url=http://www.glaad.org/mediaawards/21/nominees |access-date=February 21, 2010| archive-url= https://web.archive.org/web/20100130031953/http://www.glaad.org/mediaawards/21/nominees| archive-date= 30 January 2010 | url-status= live}}</ref><ref>[http://www.glaad.org/mediaawards/22/ny "2011 GLAAD Media Awards - New York "]. [[GLAAD]]. March 19, 2011</ref> Peter David said this in an interview later: "I’m appreciative of Marvel Comics allowing me so much latitude in X-Factor, particularly Joe Quesada's unequivocal public support when Rictor and Shatterstar first liplocked.  I note that the award only names me, and I think that’s shortsighted, because there’s been a host of artists and editors along the way who have done a terrific job to bring the stories to the public.  And ultimately I look forward to the day when this award is utterly unnecessary because the positive portrayal of LGBTs is simply so commonplace that it’s no longer newsworthy.  It’s just the normal state of things."<ref>[[Hauman, Glenn]] (March 21, 2011). [http://www.comicmix.com/news/2011/03/21/peter-david-wins-glaad-award-for-x-factor/ "Peter David Wins GLAAD Award for 'X-Factor'"]. [[ComicMix]].</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20050720022631/http://www.newsarama.com/SDCC05/Marvel/x-men/xmen_HoM.html Announcement of the new ''X-Factor'' series]
+*[http://www.newsarama.com/forums/printthread.php?threadid=41312 Peter David discussing the new ''X-Factor'' series]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{X-Comics}}
+
+[[Category:Comics characters introduced in 2005]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:X-Men]]
+[[Category:Characters created by Peter David]]
+[[Category:X-Factor (comics)]]

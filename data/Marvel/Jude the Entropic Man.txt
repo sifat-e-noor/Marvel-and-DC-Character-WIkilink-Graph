@@ -1,0 +1,289 @@
+{{short description|Fictional comic book villainous organization}}
+{{Multiple issues|
+{{primary sources|date=August 2018}}
+{{In-universe|subject = comics|category = comics|date = September 2009}}
+}}
+
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|name= A.I.M.
+|image=AIM by Kirby.jpg
+|imagesize=
+|caption=A.I.M. troopers from ''[[Tales of Suspense]]'' #94 by [[Jack Kirby]] and [[Joe Sinnott]].
+|publisher=[[Marvel Comics]]
+|debut= ''[[Strange Tales]]'' #146 (July 1966)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|type=[[Terrorism|Terrorist]]<br>[[Technology]]
+|business=
+|organization=y
+|base=
+|owners=[[Baron Strucker]]<br/>[[MODOK]]<br/>[[Scientist Supreme#Andrew Forson|Andrew Forson]]<br/>[[Monica Rappaccini]]<br/>[[Sunspot (comics)|Sunspot]]
+|employees=[[Doomsday Man]]<br/>Head Case<br/>Allesandro Brannex
+|fullroster=
+|subcat=Marvel Comics
+|sortkey=Avengers Idea Mechanics
+|}}
+'''A.I.M.''' ('''Advanced Idea Mechanics''') is a [[fiction]]al criminal organization appearing in [[American comic book]]s published by [[Marvel Comics]]. In most versions, it is depicted as a think tank of brilliant [[scientist]]s dedicated to overthrowing the world's governments through technological means. The organization started out as a branch of [[Hydra (comics)|HYDRA]], created by [[Baron Strucker]]. Its most notable creations include the [[Cosmic Cube]], [[Super-Adaptoid]], and [[MODOK]]; the latter has been depicted as a prominent member of A.I.M., and in some incarnations is the organization's leader.
+
+A.I.M. has been featured in several media adaptations, including television series and video games. The organization made its cinematic debut in the [[Marvel Cinematic Universe]] film ''[[Iron Man 3]]'' (2013), in this universe headed by [[Aldrich Killian]].
+
+==Publication history==
+{{Expand section|date=January 2009}}
+The organization known as A.I.M. first appeared in ''[[Strange Tales]]'' #146 (July 1966), and was revealed to be a branch of the organization known as THEM in ''Strange Tales'' #147 (Aug. 1966), a larger organization mentioned in ''Strange Tales'' #142 (March 1966), and depicted in ''[[Tales of Suspense]]'' #78 (June 1966) a few months earlier. It was later revealed that THEM was also a parent organization to the [[Secret Empire (organization)|Secret Empire]] and that it was, in fact, a new incarnation of the previously dissolved organization [[Hydra (comics)|HYDRA]] in ''Strange Tales'' #149 (October 1966).
+
+==Organization==
+A.I.M. is an organization of scientists and their hirelings dedicated to the acquisition of power and to overthrow all the world's governments through science and technology. Its leadership traditionally consisted of the seven-member [[Board of directors|Board of Directors]] (formerly known as the Imperial Council) with a rotating chairperson. Under the Directors are various division supervisors, and under them are the technicians and salesmen/dealers.
+
+The organization supplies arms and technology to various terrorist and subversive organizations both to foster a violent technological revolution in addition to profit. A.I.M. operatives are usually involved in research, development, manufacturing, and sales of high technology. Members of A.I.M. are required to at least have a master's degree, if not a PhD, in some area of science, mathematics, or business.
+
+A.I.M.'s reach is worldwide, including various front organizations such as Targo Corporation, International Data Integration and Control, Cadenza Industries, Koenig and Strey, Pacific Vista Laboratories, Allen's Department Store, and Omnitech. It also did have a number of bases of operations, including a nuclear submarine mobile in the [[Atlantic Ocean]]; bases in [[the Bronx, New York]]; Black Mesa, Colorado; [[West Caldwell, New Jersey]]; [[Asia]], [[Canada]], [[Europe]], [[Haiti]], [[India]], [[Sudan]] and Boca Caliente (also known as A.I.M. Island), an island republic in the [[Caribbean]].
+
+==Technology==
+A.I.M. has produced three major implements of deadly potential which stand far above the rest of their accomplishments. The greatest of these was the [[Cosmic Cube]], a device capable of altering reality.<ref name=Doucet>John P. Doucet, "Chapter One: On the Design of Mental Organisms", in: Marie Hendry and Jennifer Page, eds., ''Media, Technology and the Imagination'', Newcastle: Cambridge Scholars, 2013, {{ISBN|978-1-4438-4850-3}}, [https://books.google.com/books?id=ztMwBwAAQBAJ&pg=PA19#v=onepage&q&f=false pp.&nbsp;19–20].</ref> However, A.I.M. did not realize that the cube was merely a containment device, in which the real power was an entity accidentally drawn into this dimension. The Cosmic Cube eventually evolved into [[Kubik (comics)|Kubik]]. Their second achievement was the [[Super-Adaptoid]], an android capable of mimicking the appearance and superpowers of other beings, which was made possible by incorporating a sliver of the Cosmic Cube into its form. When Kubik repossessed the sliver after defeating the Adaptoid, the android was rendered inanimate. A.I.M.'s third and final major achievement was the creation of [[MODOK]] ('''M'''ental '''O'''rganism '''D'''esigned '''O'''nly for '''K'''illing), an artificially mutated human with an enormous head accompanied by a massive computational brain and psionic abilities.<ref>''Tales of Suspense'' #93–94</ref> MODOK was originally an A.I.M. scientist named George Tarleton, who was selected by A.I.M.'s leader at the time, the [[Scientist Supreme]], to be the subject of the bionic and genetic experiments that turned him into MODOK.<ref name=Doucet/><ref>origin revealed in ''Captain America'' #133</ref> After his transformation, MODOK killed the Scientist Supreme and took control of A.I.M., and later took advantage of the chaos in HYDRA's organization following HYDRA Island's destruction and the deaths of Baron Strucker and most of HYDRA's leading members to sever all of A.I.M.'s ties with HYDRA. A.I.M. has remained independent ever since.
+
+A.I.M.'s level of technology is as highly advanced as any on Earth. Its scientists have also built various cyborgs, robots, and androids; its agents utilize a variety of submarines, hovercraft, jets, etc. A.I.M. has also attempted to recreate versions of MODOK, including transforming [[Kate Waynesboro|Dr. Katherine Waynesboro]] into Ms. MODOK<ref>''The Incredible Hulk'' vol. 2 #190</ref> and creating SODAM<ref>''Solo Avengers'' #14–16</ref> (later revamped as MODAM).<ref name="Quasar #8">''Quasar'' #8</ref> Since A.I.M's redirection as an exotic arms dealer,<ref name="Quasar #8"/> members have access to whatever exotic weaponry available in its warehouses.
+
+A.I.M.'s leaders traditionally wear yellow three-piece business suits. Technical supervisors wear yellow jumpsuits, skull-caps, and goggles. However, the organization is renowned for the '[[beekeeper]]'-looking helmets and [[NBC suit]] uniform of its underlings since the first appearance.
+
+However, as a result of the [[Scorpion (Carmilla Black)|"Scorpion: Poison Tomorrow"]] arc of ''[[Amazing Fantasy]]'', A.I.M. has gained a new costume, which tends towards [[insectoid]] armor and large guns.
+
+The [[Livewires (comics)|Livewires]] member named Cornfed wears an A.I.M. uniform. He also wears a button referencing "The Real A.I.M".
+
+==Fictional organization history==
+A.I.M.'s origins began late in World War II with [[Baron Strucker|Baron Wolfgang von Strucker]]'s creation of his subversive organization [[Hydra (Marvel Comics)|HYDRA]]. Under the code name of THEM, he created two HYDRA branches called Advanced Idea Mechanics and the [[Secret Empire (organization)|Secret Empire]]. A.I.M.'s purpose was to develop advanced weaponry for HYDRA. They were close to developing and attaining nuclear weapons when HYDRA Island was invaded by American and Japanese troops. Although HYDRA suffered a major setback, it survived and grew in secret over the following decades.
+
+A.I.M. has had numerous encounters with various superheroes and supervillains, and is the subject of ongoing undercover investigations by [[S.H.I.E.L.D.]] It was responsible for reviving the [[Red Skull]] from [[suspended animation]].<ref>''Tales of Suspense'' #79. Marvel Comics.</ref> An A.I.M. android factory in a Florida swamp was once raided by S.H.I.E.L.D., which also involved Count Bornag Royale in a weapons deal negotiation with S.H.I.E.L.D.<ref name="ReferenceA">''Strange Tales'' #146. Marvel Comics.</ref> A.I.M. then raided S.H.I.E.L.D.'s New York City headquarters.<ref>''Strange Tales'' #147. Marvel Comics.</ref> As a result of these events, Royale was discredited, and A.I.M.'s headquarters was destroyed.<ref>''Strange Tales'' #149. Marvel Comics.</ref>
+
+A.I.M. employed [[Batroc the Leaper]] to recover an explosive compound called Inferno 42<ref>''Tales of Suspense'' #75–76. Marvel Comics.</ref> and dispatched a chemical android against [[Nick Fury]] and [[Captain America]].<ref>''Tales of Suspense'' #78</ref> A.I.M. also dispatched their special agent, the Cyborg, against Captain America.<ref name="Captain America #124">''Captain America'' #124. Marvel Comics.</ref> A.I.M. was involved in a skirmish with the [[Maggia (comics)#The Nefaria Family|Maggia]] and its "Big M".<ref>''Iron Man and Sub-Mariner'' #1. Marvel Comics.</ref> A.I.M. has also captured [[Iron Man]] in an attempt to analyze and replicate his [[Iron Man's armor|armor]].<ref name="Iron Man #1">''Iron Man'' #1. Marvel Comics.</ref> MODOK and A.I.M. were responsible for transforming [[Betty Ross]] briefly into the gamma-irradiated bird-woman called the Harpy.<ref>''The Incredible Hulk'' vol. 2 #167–168</ref> A.I.M. dispatched their special agent the [[Doomsday Man|Destructor]] to capture [[Carol Danvers|Ms. Marvel]].<ref name="Ms. Marvel #2">''Ms. Marvel'' #1-4. Marvel Comics.</ref>
+
+For a time, a schism developed within A.I.M., causing it to split into Blue and Yellow factions (the former loyal to MODOK, the latter independent from him). These factions battled each other,<ref>''Ms. Marvel'' #7. Marvel Comics.</ref> with MODOK and the Blue faction once employing [[Deathbird]] as an operative.<ref>''Ms. Marvel'' #9–10. Marvel Comics.</ref> A.I.M. captured the [[Thing (comics)|Thing]] and [[Namor]] to test Virus X on them.<ref>''Marvel Two-In-One'' #81–82. Marvel Comics.</ref> The Blue faction later made an attempt to recapture the [[Cosmic Cube]].<ref name="Captain America Annual #7">''Captain America'' Annual #7. Marvel Comics.</ref> A second battle occurred between the rival factions,<ref>''The Incredible Hulk'' vol. 2 #289. Marvel Comics.</ref> but factions no longer seem to be active within A.I.M. since then.
+
+A.I.M. eventually hired the [[Serpent Society]] to kill MODOK, which they did.<ref>''Captain America'' #313</ref> A.I.M. was responsible for a jet attack on the [[West Coast Avengers]] compound<ref name="Iron Man #201">''Iron Man'' #201. Marvel Comics.</ref> and then took over Boca Caliente<ref>''Iron Man'' #207–208</ref> and unleashed a microbe aboard the Stark space satellite.<ref>''Iron Man'' #215. Marvel Comics.</ref> A.I.M. also sent an agent to attempt to confiscate the quantum-bands given to [[Quasar (comics)|Quasar]].<ref>''Quasar'' #1. Marvel Comics.</ref>
+
+The organization was revealed to have become a 'techno-anarchist' group, with no connection to HYDRA, and even a hatred for fascism. With the introduction of the [[Death's Head#Death's Head 3.0|Death's Head 3.0]] character, a pacifist future version of the organization is promised, with a surprise character as leader.<ref>the [[Scorpion (Carmilla Black)|''Scorpion: Poison Tomorrow'']] arc of [[Amazing Fantasy]]</ref>
+
+It is later revealed that A.I.M. helped General [[Thunderbolt Ross]] and [[Doc Samson]] create the [[Red Hulk]].<ref>''The Incredible Hulk'' vol. 2 #600. Marvel Comics.</ref>
+
+A.I.M. was revealed to be behind the pocket dimension of Earth-13584 by using a sliver of time they obtained to alter certain events so they can obtain the technology and science from various individuals. They did this by exploiting the fluid nature of time brought on by the manipulations of Kang the Conqueror traveling back to alter the past. This lasted until the [[Dark Avengers]] ended up in this reality causing it to collapse. The Dark Avengers were able to get out before the pocket dimension collapsed.<ref>''Dark Avengers'' vol. 2 #190. Marvel Comics.</ref>
+
+After the [[Secret Avengers]] recruited [[Taskmaster (comics)|Taskmaster]] after freeing him from Bagalia, they send him to infiltrate the new High Council of A.I.M. which consists of Andrew Forson, [[Graviton (comics)|Graviton]], Jude the Entropic Man, [[Mentallo]], [[Superia]], and [[Black Widow (Yelena Belova)|Yelena Belova]].<ref name="Secret Avengers #2">''Secret Avengers'' vol. 2 #2. Marvel Comics.</ref> Andrew Forson then leads A.I.M. into attending a weapons expo which led to A.I.M. fighting against the Secret Avengers. During the battle, Andrew Forson takes the opportunity to steal the [[Iron Patriot]] armor.<ref>''Secret Avengers'' vol. 2 #3. Marvel Comics.</ref>
+
+Daisy Johnson launched an unsanctioned operation to send the Secret Avengers to A.I.M. Island to assassinate Forson, and they seemingly killed him. Johnson ended up suspended for breaking protocol and Maria Hill is put in charge of S.H.I.E.L.D. again. As Forson was revealed to be alive all along, the news of A.I.M. being a new permanent member of the Security Council is known.<ref>''Secret Avengers'' vol. 2 #5. Marvel Comics.</ref>
+
+Using an as-yet-unidentified device in the pages of ''[[Avengers World]]'', Andrew Forson and A.I.M. accelerate the flow of time within the limits of A.I.M. Island, creating in a matter of hours for the real world year of progress and transforming A.I.M. into a technologically advanced empire.<ref>''Avengers World'' #1. Marvel Comics.</ref>
+
+A.I.M. has a more violent offshoot, Advanced Ideas of Destruction (A.I.D.); the two competing organizations were major antagonists of [[Captain America]] in the mid-2000s.<ref name=Steinmetz>Christian Steinmetz,<!-- not [[Christian Steinmetz]], the basketballer --> "A Genealogy of Evil: Captain America vs. the Shadows of the National Imagined Community", in: Robert G. Weiner, ed., ''Captain America and the Struggle of the Superhero: Critical Essays'', Jefferson, North Carolina / London: McFarland, 2009, {{ISBN|978-0-7864-3703-0}}, [https://books.google.com/books?id=gQD0WX6czQAC&printsec=frontcover&dq=Captain+America+and+the+Struggle+of+the+Superhero&hl=en&sa=X&ved=0ahUKEwjh1Z_Q7ufcAhXJjFQKHQcECdQQ6AEIJzAA#v=onepage&q=two%20opposing%20groups%2C%20Advanced%20Idea%20Mechanics&f=false p.&nbsp;199].</ref>
+
+As part of the "[[All-New, All-Different Marvel]]", it was revealed that the A.I.M. members that fled when Sunspot bought out A.I.M. had been taken in by [[Maker (Reed Richards)|Maker]] where they work for his organization W.H.I.S.P.E.R. (short for World Headquarters for International Scientific Philosophical Experimentation and Research) as his personal tool to reshape the world.<ref>''Avengers'' vol. 6 #0. Marvel Comics.</ref>
+
+After Sunspot left the American Intelligence Mechanics, [[Toni Ho]] succeeded him and allowed the rogue A.I.M. cells to regain their acronym, as Toni had her organization rebranded as R.E.S.C.U.E.<ref>''Avengers'' #690. Marvel Comics.</ref>
+
+==Heroic offshoots==
+===Avengers Idea Mechanics===
+During the ''Time Runs Out'' storyline which takes place eight months in the future, [[Sunspot (comics)|Sunspot]] reveals that he bought A.I.M and used their resources to investigate the incursions. Heroes working as part of Avengers Idea Mechanics include [[Hawkeye (Clint Barton)|Hawkeye]], [[Squirrel Girl]], [[Songbird (comics)|Songbird]], [[Wiccan (comics)|Wiccan]], [[Hulkling]], [[White Tiger (Ava Ayala)|White Tiger]], [[Power Man (Victor Alvarez)|Power Man]] and [[Pod (comics)|Pod]]. Sunspot reveals the group was much easier to deal with after much of higher management had been fired. Many heroes working in the primary Avengers team such as [[Thor (Marvel Comics)|Thor]] and Hyperion, also find themselves working side by side with A.I.M.<ref>''Avengers'' vol. 5 #35. Marvel Comics.</ref> Once they managed to create a machine to propel individuals across the Multiverse some of the heroes who were helping A.I.M. offered themselves to participate in a one-way trip to find the origin of the Incursions threatening all reality.<ref>''Avengers'' vol. 5 #36. Marvel Comics.</ref>
+
+Following the fight against [[Maker (Reed Richards)|Maker]], Sunspot meets with the government and they make plans to merge Avengers Idea Mechanics into the U.S. government. At the same time, the Avengers Idea Mechanics defeats A.I.M's splinter groups.<ref>''New Avengers'' vol. 4 #18. Marvel Comics.</ref>
+
+===American Intelligence Mechanics===
+The merger between the U.S. government and the Avengers Idea Mechanics resulted in the formation of the American Intelligence Mechanics.<ref>''U.S.Avengers'' #1. Marvel Comics.</ref> Since Da Costa had turned the organization into weapon for good, rogue cells existed fighting for A.I.M.'s original goals on behalf of their former leaders, Andrew Forson and Monica Rappaccini. In order to tackle the nuisance by these cells, Da Costa's successor [[Toni Ho]] decided to let them reclaim the organization's acronym, while rebranding her own organization into a new one called '''R.E.S.C.U.E.''' <ref>''Avengers'' #690</ref>
+
+==Splinter groups==
+Over time, some AIM splinter cells have appeared:
+* '''Advanced Ideas in Destruction''' (AID)<ref>''Captain America'' vol. 5</ref>
+** '''Michael Friedman''' – <ref>''Captain America'' vol. 5 #13</ref>
+* '''Radically Advanced Ideas in Destruction'''' (RAID)<ref>''Captain America'' vol. 5 #17</ref> – AIM-like company, designed exoskeleton, forced to help Captain America track the Cosmic Cube
+* '''Advanced Genocide Mechanics''' (AGM) – Located in the Congo. Led by MODOG (Mental Organism Designed Only for Genocide).<ref>''Invincible Iron Man'' #1</ref>
+
+===Fronts===
+* '''Adarco Corporation''' (Advanced Robotic Company)<ref>''The Amazing Spider-Man'' Annual #27</ref> – A company that developed Annex and BREW technology.
+** '''Dr. Hillman Barto'''<ref>''The Amazing Spider-Man'' Annual #26</ref> – Ally of [[Annex (comics)|Annex]]. He is currently deceased<ref name="Annex #4">''Annex'' #4</ref>
+** '''Brace'''<ref name="Annex #1">''Annex'' #1</ref> – A cyborg. Destroyed by Annex<ref name="Annex #4"/>
+* '''Cadence Industries'''<ref>''Captain America'' #315</ref> – Entertainment Media company that collected the corpse of MODOK
+* '''IDIC''' (International Data Integration and Control) – <ref>''[[Master of Kung Fu (comics)|Master of Kung Fun]]'' #102</ref>
+** '''Diadem''' (Lucieane D'Hiven) – <ref>''Master of Kung Fu'' #102</ref>
+** '''Kenjiro Tanaka''' – <ref>''Quasar'' #5</ref> – A former [[S.H.I.E.L.D.]] agent who trained alongside [[Quasar (comics)|Wendell Vaughn]]. He infiltrated IDIC and stayed on as employee after the break-up of SHIELD. He later left to join Vaughn Securities, and was promoted to partner and eventual CEO due to Vaughan spending less time on Earth.
+* '''Koenig and Strey'''<ref>''Identity Disc'' #2</ref> – It is based in Manhattan. It was invaded by [[Bullseye (comics)|Bullseye]], [[Deadpool]], [[Juggernaut (comics)|Juggernaut]], [[Sabretooth (comics)|Sabretooth]], and [[Vulture (Marvel Comics)|The Vulture]] on behalf of Valeria Jessup.
+* '''Omnitech''' – <ref>''Iron Man'' vol. 3 #44</ref>
+* '''Targo Corporation''' – <ref>''Iron Man'' #207</ref>
+
+===Leaders===
+* '''[[Super-Adaptoid|Alessandro Brannex (Super-Adaptoid)]]'''<ref name="Quasar #9">''Quasar'' #9. Marvel Comics.</ref> – An android and chairman of the board.
+* '''[[Monica Rappaccini]]'''<ref name="Amazing Fantasy vol. 2 #7">''Amazing Fantasy'' vol. 2 #7. Marvel Comics.</ref> – Mother of [[Scorpion (Carmilla Black)|Carmilla Black]], Scientist Supreme, and an Italian national. She has a [[PhD]] in biochemistry from the [[University of Padua]]. She became a radical, and developed poisons for the Black Orchestra and A.I.M.. Monica has sought to reestablish contact with her daughter.
+* '''[[MODOK|George Tarleton a.k.a. MODOK (Mental Organism Designed Only for Killing)]]'''<ref>''Tales of Suspense'' #93</ref> – Former A.I.M. scientist and current leader of A.I.M. under the rank of Scientist Supreme. He was mutated by George Clinton and driven insane by energies present at the creation of Earth's first [[Cosmic Cube]]. Originally was supposed to be called '''MODOC''' ('''Mental Organism Designed Only for Computing'''). Father of Head Case (Sean Madigan)
+
+====High Council of A.I.M.====
+* '''Andrew Forson''' – The Supreme Leader of the High Council of A.I.M.<ref name="Secret Avengers #2"/><ref name="Fantastic Four #610">''Fantastic Four'' #610. Marvel Comics.</ref>
+* '''[[Graviton (comics)|Graviton]]''' – The Minister of Science.<ref name="Secret Avengers #2"/>
+* '''Jude the Entropic Man''' – The [[Health minister|Minister of Health]].<ref name="Secret Avengers #2"/>
+* '''[[Mentallo]]''' – The Minister of Public Affairs.<ref name="Secret Avengers #2"/>
+* '''[[Superia]]''' – The [[Education minister|Minister of Education]].<ref name="Secret Avengers #2"/>
+* '''[[Taskmaster (comics)|Taskmaster]]''' – The [[Defence minister|Minister of Defense]] (undercover for the Secret Avengers).<ref name="Secret Avengers #2"/>
+* '''[[Black Widow (Yelena Belova)|Yelena Belova]]''' – The [[Minister of State]].<ref name="Secret Avengers #2"/>
+
+====Former====
+* '''George Clinton'''<ref name="Captain America #133">''Captain America'' #133. Marvel Comics.</ref> – Former Scientist Supreme. He was involved in the creation of [[MODOK|MODOC/MODOK]] and the [[Cosmic Cube]]. His mind was eventually drained by the [[Red Skull]], [[Arnim Zola]], and the [[Hate-Monger]] (a clone of Adolf Hitler) in an attempt to recreate the Cosmic Cube.
+* '''Chet Madden'''<ref>''Captain America'' vol. 3 #35. Marvel Comics.</ref> – Former head of A.I.M. and former client of Connie Ferrari.
+* '''Dr. Lyle Getz'''<ref name="Captain America #133"/> – A former Scientist Supreme. He is currently deceased.
+* '''Head Case (Sean Madigan)'''<ref>''Ms. Marvel'' vol. 2 #13. Marvel Comics.</ref> – The long-lost son of MODOK.
+* '''Maxwell Mordius'''<ref name="Iron Man #1"/> – Currently deceased
+* '''Valdemar Tykkio'''<ref name="Iron Man #201"/> – Scientist Supreme. He instituted a takeover of Boca Caliente. He is the brother of Yorgon Tykkio.
+* '''[[Baron Strucker|Wolfgang von Strucker (Baron Strucker)]]'''<ref>''Sgt. Fury and his Howling Commandos'' #5. Marvel Comics.</ref> – A [[Nazism|Nazi]] and the founder of [[Hydra (Marvel Comics)|HYDRA]]
+
+====Members and agents====
+* '''AD-45 Riot-Bots'''<ref name="Captain America vol. 3 #13">''Captain America'' vol. 3 #13. Marvel Comics.</ref>
+* '''Abu-Jamal Rodriguez''' – <ref name="Amazing Fantasy vol. 2 #8">''Amazing Fantasy'' vol. 2 #8. Marvel Comics.</ref>
+* '''Alexandre Copernicus''' – <ref name="Uncanny X-Men #352">''The Uncanny X-Men'' #352. Marvel Comics.</ref>
+* '''Andrew Ritter''' – <ref name="Sabretooth & Mystique #1"/>
+* '''Arthur Shaman'''<ref name="Defenders #57">''The Defenders'' #57. Marvel Comics.</ref> – hypnotist, kidnapped Michael Barnett and attempted to force the Hulk to kill Ms. Marvel
+* '''B'Tumba'''<ref>''The Avengers'' #87. Marvel Comics.</ref> – A Wakandan who is the son of N'Baza, and an old friend of T'Challa. He allied with A.I.M. to sell [[vibranium]]. B'Tumba eventually sacrificed his life to save T'Challa from A.I.M.
+* '''Baron Rolando Samedi'''<ref>''Strange Tales'' #171. Marvel Comics.</ref> – An A.I.M. agent who created pseudo-zuvembies and fought Brother Voodoo. He is not to be confused with the [[Baron Samedi (comics)|deity of the same name]].
+* '''Bernard Worrell''' – <ref name="Captain America Annual #7"/> – Member of A.I.M.'s Blue Faction; former apprentice of George Clinton; led the capture of the Cosmic Cube/Kubik, but was unable to control it once it began its metamorphosis into Kubik
+* '''Betty Sumitro'''<ref name="Amazing Fantasy vol. 2 #8"/>
+* '''Betty Swanson'''{{issue|date=January 2015}}
+* '''Brace''' – <ref>''Annex'' #1. Marvel Comics.</ref>
+* '''Brendon Newton''' – <ref name="Uncanny X-Men #352"/>
+* '''Cache'''<ref>''Captain America'' vol. 3 #33. Marvel Comics.</ref> – artificial intelligence.
+* '''Carl Alexis Lombardi'''<ref name="Captain Universe/Hulk #1"/> – A.I.M. agent, sought Uni-Power, slew David Garrett when he had outlived his usefulness, confessed after being captured by Daredevil
+* '''Clete Billups'''<ref>''Captain America'' vol. 3 #25. Marvel Comics.</ref> – Infiltrated [[S.H.I.E.L.D.]]; revealed himself and killed his "partners" in order to steal the body of [[Protocide]], he was duped by [[Captain America]] and [[Sharon Carter]] into leading them to A.I.M.'s headquarters.
+* '''Clytemnestra Erwin'''<ref>''Iron Man'' #171. Marvel Comics.</ref> – infiltrated [[Stark Industries|Stark Enterprises]] to gain revenge on [[Iron Man|Tony Stark]] for causing the death of her brother Morley. Killed by an out-of-control A.I.M. missile.<ref>''Iron Man'' #200–216. Marvel Comics.</ref>
+* '''Commander Robert Cypher'''<ref name="Sabretooth & Mystique #1">''Sabretooth & Mystique'' #1. Marvel Comics.</ref> – Sought technology to take control of nuclear missiles
+* '''Count Bornag Royale''' – <ref name="ReferenceA"/>
+* '''Cyborg'''<ref name="Captain America #124"/> – hired assassin
+* '''David Garrett'''<ref name="Captain Universe/Hulk #1">''Captain Universe/Hulk'' #1. Marvel Comics.</ref> – ally of A.I.M., funded Gilbert Wiles to monitoring his tracking of the Uni-Power, slain by Lombardi after outliving his usefulness<ref name="Captain Universe/Hulk #1"/>
+* '''Destructor''' (Kerwin Korman)<ref name="Ms. Marvel #2"/> – former premier weapons-maker, stumbled on and unleashed the power core of Kree Psyche-Magnitron, later built into the Doomsday Man by A.I.M. technicians and used as its power source, discovered and freed by Avengers, required continued connection to the remnants of the Doomsday Man for life support.
+* '''[[Doctor Nemesis|Doctor Nemesis (Michael Craig Stockton)]]'''<ref>''Marvel Feature'' #9</ref> –
+* '''[[Doomsday Man]]'''<ref>''Ms Marvel'' #3. Marvel Comics.</ref> – virtually indestructible robot created by Dr. Kronton in order to steal cobalt bomb and blackmail the U.S., initially defeated by Silver Surfer, later revived by Kree Psyche-Magnitron, battled and destroyed by Ms. Marvel, rebuilt by A.I.M. and merged with Kerwin Korman, whom it used as a power source, battled Avengers, sought Warbird as replacement when Kerwin began to weaken, destroyed by Justice, remnants used as life support for Korman.
+* '''Dr. Cristiano Ryder'''<ref>''Captain America'' #127. Marvel Comics.</ref> – posed as a S.H.I.E.L.D. agent to regain control of Android X-4.
+* '''Dr. Ralph Rider''' – <ref name="Nova #12">''Nova'' #12. Marvel Comics.</ref> – brother of Charles Rider, uncle of [[Nova (Richard Rider)|Richard]] and Robert Rider, leading research scientist until killed by Photon (Jason Dean)<ref name="Nova #12"/>
+* '''Evelyn Necker'''<ref>''Death's Head II'' #1. Marvel Comics.</ref> – Earth-8410 liaison
+* '''[[Fixer (comics)|Fixer (Paul Norbert Ebersol)]]''' – <ref name="Strange Tales #141">''Strange Tales'' #141. Marvel Comics.</ref>
+* '''[[Grizzly (comics)|Grizzly]]'''<ref>''Captain America'' #120</ref> – A.I.M. agent R-1, used by MODOK in a plot to capture atomic scientist Paul Fosgrave; not to be confused with the Spider-Man enemy or Cable's deceased teammate.
+* '''[[Harness (comics)|Harness (Erika Benson)]]'''<ref>''The New Mutants'' Annual #7. Marvel Comics.</ref> – mother of [[Piecemeal (Gilbert Benson)|Piecemeal]]; forced him to locate and absorb the energy of [[Proteus (Marvel Comics)|Proteus]]; wore an armored exo-skeleton.
+* '''Harold Bainbridge'''<ref>''Secret Avengers'' vol. 2 #8. Marvel Comics.</ref> - An A.I.M. Agent that [[Mockingbird (Marvel Comics)|Mockingbird]] impersonated during the Secret Avengers' raid on A.I.M. Island.
+* '''Highwayman'''<ref>''Marvel Comics Presents'' #137. Marvel Comics.</ref> – English criminal, agent of A.I.M., attempted to steal the Cognium Steel from Oracle INC., but was defeated by Iron Fist.
+* '''Hyun Rahman''' – <ref name="Amazing Fantasy vol. 2 #11">''Amazing Fantasy'' vol. 2 #11. Marvel Comics.</ref>
+* '''Ian Fitzpatrick''' (Mr. Jinx)<ref name="ClanDestine #9">''ClanDestine'' #9. Marvel Comics.</ref>
+* '''James Hendrickson'''<ref name="Sabretooth & Mystique #1"/>
+* '''Jason Rilker''' – <ref name="Captain America vol. 3 #13"/>
+* '''Jethro Prufrock'''<ref name="Punisher Annual #3"/> – father of George and Martha Prufock, was a perennial right-wing Libertarian candidate for president and a staunch advocate of arms-stockpiling; he was slain by a mutated George<ref name="Punisher Annual #3"/>
+* '''Julia Black'''<ref name="Amazing Fantasy vol. 2 #7"/> – adoptive mother of Carmilla Black, former ties to Symbionese Liberation Army, currently deceased<ref name="Amazing Fantasy vol. 2 #7"/>
+* '''Lifeform (George Prufrock)'''<ref name="Punisher Annual #3">''The Punisher'' Annual #3. Marvel Comics.</ref> – was mutated into a progressively larger carnivorous creature by exposure to experimental virus developed by his father, Jethro Prufock, at A.I.M.
+* '''[[MODAM|MODAM (Olinka Barankova)]]'''<ref name="Quasar #9"/> – A creation of A.I.M. whose name is an acronym for '''M'''obile '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers, who also operated under the names '''"Maria Pym"''' and '''SODAM''' (an acronym for '''S'''pecialized '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). Killed by MODOK<ref>''Captain America'' vol. 3 #3. Marvel Comics.</ref>
+* '''Marc Planck''' – <ref name="Uncanny X-Men #352"/>
+* '''[[Mentallo|Mentallo (Marvin Flumm)]]'''<ref name="Strange Tales #141"/>
+* '''Njeri Damphousse'''<ref name="Amazing Fantasy vol. 2 #11"/> – currently still with A.I.M.
+* '''Paul Allen'''<ref>''Astonishing Tales'' #8. Marvel Comics.</ref> – He infiltrated [[S.H.I.E.L.D.]] His current whereabouts are unknown.
+* '''Peggy Park''' – <ref>''Marvel Holiday Special 2006''. Marvel Comics.</ref>
+* '''Professor Aaron Whyte''' – <ref name="ClanDestine #9"/>
+* '''Ramona Starr'''<ref>''Ka-Zar the Savage'' #18. Marvel Comics.</ref> – shot [[Ka-Zar (Kevin Plunder)|Ka-Zar]] in the head and then forced him to perform a mission for A.I.M.; also known as Ramona Courtland
+* '''[[Red Skull]]''' (Johann Schmidt) – <ref>''Captain America Comics'' #1. Marvel Comics.</ref>
+* '''Seekers''' –
+* '''Solemne Brannex'''<ref>''Marvel Comics Presents'' #174. Marvel Comics.</ref> – Possibly the sister of Allesandro Brannex, sought aid from [[S.H.I.E.L.D.]] when A.I.M. obtained a [[Shi'ar]] vessel
+* '''Stryke'''<ref>''Iron Man Annual'' #4. Marvel Comics.</ref>
+* '''[[Super-Adaptoid]]''' – A robot that can copy the appearance and superpowers of anyone.<ref>''Tales of Suspense'' #82. Marvel Comics.</ref>
+* '''Timekeeper'''<ref>''Marvel Graphic Novel #16: Aladdin Effect''. Marvel Comics.</ref> – scientist and leader of an A.I.M. outpost in Venture Ridge, [[Wyoming]]; he attempted to tap into the power of Holly-Ann Ember
+* '''Timothy Black'''<ref name="Amazing Fantasy vol. 2 #7"/> – adoptive father of Carmilla Black, former ties to Symbionese Liberation Army, currently deceased<ref name="Amazing Fantasy vol. 2 #7"/>
+* '''Ultra-Adaptoid''' – A stronger version of the Super-Adaptoid.<ref>''Super-Villain Team-Up: MODOK's 11'' #2. Marvel Comics.</ref>
+* '''[[Victorius (comics)|Victorius (Victor Conrad)]]'''<ref>''[[Astonishing Tales]] #18'' (June 1973). Marvel Comics.</ref>
+* '''Wakers'''<ref name="Amazing Fantasy vol. 2 #11"/> – A.I.M. deep penetration agents under the leadership of Scorpion (Carmilla Black) and four others, genetically engineered to resist all chemical, biological, and nuclear weapons
+** '''Lars Branco'''<ref>''Amazing Fantasy'' vol. 2 #10. Marvel Comics.</ref> – Waker agent; currently deceased
+* '''Warbot'''<ref name="Defenders #57"/> – A.I.M. weapon, used by Arthur Shaman to capture the Hulk to use against Ms. Marvel, destroyed by her
+* '''Yorgon Tykkio'''<ref name="Iron Man #201"/> – brother of Valdemar; became a cyborg and led a revolt against his brother's rule; controlled the body of MODOK and destroyed it after he was defeated in battle against Iron Man; allied with Clytemnestra Erwin against Tony Stark/Iron Man; was killed by Clytemnestra when she was attempting to flee from him<ref>''Iron Man'' #216. Marvel Comics.</ref>
+
+====Avengers/American Idea Mechanics members====
+* '''[[Sunspot (comics)|Roberto da Costa]]''' - The Supreme Leader following his acquisition and buying out of A.I.M.'s faculties. 
+* '''[[Toni Ho|Dr. Toni Ho]]''' - A scientist and engineer whose work emulates Stark's Iron Man designs. She became the second [[Rescue (comics)|Rescue]] and later the third [[Iron Patriot]].
+* '''[[Robert Maverick|Red Hulk (General Robert Maverick)]]''' - A general who uses a Hulk Plug-In to become his version of Red Hulk for an hour.
+
+==Other versions==
+A.I.M. has outposts active in several other universes in the [[Multiverse (Marvel Comics)|Marvel Multiverse]], including the universes for [[Ultimate Marvel]], [[Marvel 1602]], and [[Age of Apocalypse]].
+
+===Heroes Reborn===
+In the ''[[Heroes Reborn (1996 comics)|Heroes Reborn]]'' reality, A.I.M. is led by [[Baron Zemo]] and MODOK as they take on Captain America and the new [[Bucky (Marvel Comics)|Bucky]], [[Rikki Barnes|Rebecca Barnes]].<ref>''Captain America'' vol. 2 #6. Marvel Comics.</ref>
+
+===2020 Death's Head Future===
+A future (2020) version of A.I.M was featured heavily in the [[Marvel UK]] limited series ''[[Death's Head (Minion)|Death's Head II]]''. This future organisation created the cyborg Minion, which was later taken over by the personality of Death's Head. A.I.M's representative [[Evelyn Necker]] became a popular character in the ongoing series that followed.
+
+In ''Amazing Fantasy'' #16–20, set further in the same future, A.I.M is on the point of making peace with the UN, when a renegade A.I.M. scientist unleashes Death's Head 3.0 on the peace conference.
+
+===House of M===
+In the ''[[House of M]]'' reality, A.I.M. is re-imagined as a human [[resistance movement]] led by Monica Rappacini to oppose [[Exodus (comics)|Exodus]], ruler of [[Australia]] and his [[Brotherhood of Mutants|cohorts]].<ref>''The Incredible Hulk'' vol. 3 #83. Marvel Comics.</ref>
+
+===Marvel Adventures===
+In the ''[[Marvel Adventures]]'' version of Iron Man, A.I.M., through the use of dummy companies, acquired Stark International's hover platform and uni-beam technology in their invasion of Madripoor, a third world country. [[Gia-Bao Yinsen]] tried to tell the world about A.I.M.'s terrorist attacks on his country. However, his message is dismissed. During Tony Stark's test of his new solar-powered glider, A.I.M. causes Tony to crash on their artificial island. Tony's heart is damaged, and A.I.M. forces him to build an EMP weapon to allow A.I.M.'s forces to finish their conquest of Madripoor. In exchange, A.I.M. will repair his heart. Tony learns that Yinsen was also kidnapped, as A.I.M. wanted to prevent him from telling the world about their attacks on his country and to use his intellect to build technology for A.I.M.. Similar to Iron Man's main [[Marvel Universe]] origin, Yinsen and Tony both build armor to escape. However, Yinsen destroys the generator powering the island in order to save his homeland. The explosion kills Yinsen, but Tony Stark lives. Tony becomes Iron Man to prevent people like A.I.M. from committing evil against innocents. Here, the Supreme Scientist is a black-haired woman who is extremely brilliant. In addition, the uniforms that A.I.M. uses are basically NBC orange suits. However, the Supreme Scientist wears black clothing in a style similar to Darth Vader.
+
+===Ultimate Marvel===
+In the [[Ultimate Marvel]] reality, A.I.M. commissioned [[Rhona Burchill|Mad Thinker]] to steal [[Cerebro]] from the [[Ultimate X-Men|X-Men]] and frame the [[Ultimate Fantastic Four|Fantastic Four]], as seen in the ''[[Ultimate X4]]'' mini-series.<ref>''Ultimate X4''. Marvel Comics.</ref> Ultimate A.I.M.'s full purpose and function has yet to be revealed. The miniseries ''Ultimate [[Vision (Marvel Comics)|Vision]]'' introduces A.I.M. as composed of several directorates spread across the globe, with [[MODOK|George Tarleton]] as an A.I.M. leader on an orbital research facility. Tarleton and his team attempted to take control of a [[Galactus#Ultimate Marvel|Gah Lak Tus]] module that was left behind in orbit after the swarm was driven away. Being unable to do so on their own, they lured Vision to the station to help them by claiming they would use the knowledge to order the Gah Lak Tus swarm to self-destruct. Once the cyborg Tarleton had connected to the module using Vision, he had the module fire an energy beam at her. Tarleton then incorporated the Gah Lak Tus' circuitry into his own body, but it has seemingly taken him over, transforming him more into a machine, with a monstrous appearance. He has since taken over the entire station remotely and has set it to plummet out of orbit, along with the Gah Lak Tus module, which he says has "unfinished business on Earth."<ref>''Ultimate Vision'' #3. Marvel Comics.</ref> Ultimately, Tarleton was broken free of the module's control and helped the Vision and the [[Falcon (comics)|Falcon a.k.a. Dr. Samuel Wilson]] in destroying the module.<ref>''Ultimate Vision'' #5. Marvel Comics.</ref>
+
+In ''[[Ultimate Comics: Avengers]]'', a group of A.I.M. terrorists stole advanced technology (revealed to be blueprints for a [[Cosmic Cube]])<ref name="Ultimate Avengers #3">''Ultimate Avengers'' #3. Marvel Comics.</ref> from the [[Baxter Building]] and have some associations with the [[Ultimate Red Skull|Red Skull]].<ref name="Ultimate Avengers #3"/><ref>''Ultimate Avengers'' #5. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+* Though they go unnamed, a group of A.I.M. agents make a cameo in a flashback depicted in the ''[[Spider-Man and His Amazing Friends (1981 TV series)|Spider-Man and His Amazing Friends]]'' episode "The X-Men Adventure".{{citation needed|date=September 2017}} They attacked the lab where [[Firestar (Marvel Comics character)|Firestar]] and Nathan Price worked at before he became the villain Cyberiad.
+* A.I.M. appears in ''[[Iron Man (TV series)|Iron Man]]''.{{citation needed|date=September 2017}}
+* A.I.M. appears in ''[[Iron Man: Armored Adventures]]'',{{citation needed|date=September 2017}} with the [[Scientist Supreme]], the [[Controller (Marvel Comics)|Controller]] and [[MODOK|MODOC]] as prominent members. 
+* A.I.M. appears in ''[[The Avengers: Earth's Mightiest Heroes]]''.{{citation needed|date=September 2017}}
+* A.I.M. appears in ''[[Marvel Anime: Wolverine]]''.
+* A.I.M. appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]''.{{citation needed|date=September 2017}}
+* A.I.M. appears in ''[[Spider-Man (2017 TV series)|Spider-Man]]''.{{citation needed|date=September 2017}} In the episode "School of Hard Knocks", A.I.M. uses an elite boarding school called the Bilderberg Academy as a front for [[Monica Rappaccini]] to experiment on students and grant them the combined powers of the captured [[Captain America]], [[Carol Danvers|Captain Marvel]], and [[Hulk]]. Spider-Man and [[Kamala Khan|Ms. Marvel]] infiltrate Bilderberg Academy and undo Rappaccini's experiments while [[Iron Man]] and [[Black Widow (Natasha Romanova)|Black Widow]] capture the A.I.M. agents present. In the episode "A Troubled Mind", A.I.M. steals three mental projection devices and combine them with their robotics to create MODOK, only for both to be defeated by [[the Superior Spider-Man]], Iron Man, Black Widow, and Ms. Marvel. In the episode "Amazing Friends", A.I.M. collaborates with [[Baron Mordo]] to capture [[Groot]] and use him as a template for mystical wood golems, only to be stopped by Spider-Man, [[Miles Morales]], [[Ironheart (character)|Ironheart]], [[Doctor Strange]], and the [[Amadeus Cho|Totally Awesome Hulk]].
+* A.I.M. appears in ''[[M.O.D.O.K. (TV series)|M.O.D.O.K.]]''<ref name="MarvelNYCCPanel">{{Cite web |last=Paige |first=Rachael |date=October 9, 2020 |title=NYCC Metaverse: 'Marvel's M.O.D.O.K.' Reveals First Look |url=https://www.marvel.com/articles/tv-shows/nycc-metaverse-modok-first-look-panel |url-status=live |archive-url=https://web.archive.org/web/20201011002223/https://www.marvel.com/articles/tv-shows/nycc-metaverse-modok-first-look-panel |archive-date=October 11, 2020 |access-date=October 10, 2020 |website=[[Marvel Entertainment|Marvel.com]]}}</ref> This version is entirely founded and led by MODOK, although he eventually causes the organization to go bankrupt and allows the rival company GRUMBL to buy it out. Throughout the series, MODOK continually schemes to reclaim his position as A.I.M.'s leader and eliminate GRUMBL CEO Austin Van Der Sleet, although these attempts continually end in failure and lead to him being demoted and replaced by Monica Rappaccini as Scientist Supreme. Meanwhile, Van Der Sleet uses A.I.M.'s resources and technology to further the plans of his superior, Hexus, the Living Corporation. By the end of the first season, MODOK sells his A.I.M. shares to Iron Man, enabling him to buy out A.I.M. from GRUMBL, while MODOK, Rappaccini, and A.I.M. subordinate Gary go on to establish '''A-I-M-2''' independently.<ref>{{cite episode|title=What Menace Doth the Mailman Deliver!|series=M.O.D.O.K.|credits=Towner, Eric and Alex Kramer (director); Geoff Barbanell and Itai Grunfeld (writer)|network=Hulu|airdate=May 21, 2021|season=1|number=9}}</ref>
+
+===Film===
+* A.I.M. appears in the anime film ''[[Iron Man: Rise of Technovore]]''. They are hired by [[Ezekiel Stane]] and [[Sasha Hammer]] to develop a [[techno-organic virus]] called [[Technovore]].<ref>{{Cite web|url=https://www.newsarama.com/10284-marvel-and-sony-announce-new-iron-man-animated-feature.html|title=Marvel and Sony Announce New IRON MAN Animated Feature|website=Newsarama}}</ref>
+* A.I.M. appears in the live-action [[Marvel Cinematic Universe]] film ''[[Iron Man 3]]''. This version is a government-sanctioned, privately funded think-tank founded by [[Aldrich Killian]],<ref name=NY>"Chapter 5: 'Nothing's been the same since New York': Ideological Continuity and Change in ''Iron Man 3'' and ''Thor: The Dark World''", in: Terence McSweeney, ed., ''Avengers Assemble!: Critical Perspectives on the Marvel Cinematic Universe'', London/New York: Wallflower-Columbia University, 2017, {{ISBN|9780231186254}}, [https://books.google.com/books?id=56lfDwAAQBAJ&pg=PT248&dq=%22Advanced+Idea+Mechanics%22+Avengers+Marvel+films&hl=en&sa=X&ved=0ahUKEwiOvejxn97cAhXJxlQKHWilDRc4ChDoAQguMAE#v=onepage&q=%22Advanced%20Idea%20Mechanics%22%20Avengers%20Marvel%20films&f=false n.p.].</ref> which goes on to develop the [[Extremis]] virus and design the [[Iron Patriot]] armor.<ref>{{cite news |date=March 22, 2013 |title=Iron Man 3: Under the Armor with Guy Pearce |url=http://marvel.com/news/story/20330/iron_man_3_under_the_armor_with_guy_pearce |publisher=Marvel.com |access-date=March 23, 2013 |archive-url=https://web.archive.org/web/20130326152136/http://marvel.com/news/story/20330/iron_man_3_under_the_armor_with_guy_pearce |archive-date=2013-03-26 |url-status=dead }}</ref>
+
+===Video games===
+* A.I.M. troopers and attack bots appear in ''[[Marvel Ultimate Alliance]]'', with the former voiced by [[Steve Blum]].{{citation needed|date=August 2019}}
+* A.I.M. appears in the 2008 ''[[Iron Man (video game)|Iron Man]]'' film tie-in game. They work with [[Iron Monger|Obadiah Stane]] to develop an army of Iron Men based on Tony Stark's original prototype suit. Although their attempts to develop an effective power source fail, they are able to create [[Titanium Man]]. However, Iron Man defeats him before thwarting A.I.M.'s attempt to generate power using a solar collection sattelite grid.<ref>Martin Flanagan, Mike McKenny, and Andrew Livingstone, ''The Marvel Studios Phenomenon: Inside a Transmedia Universe'', New York: Bloomsbury Academic, 2017, {{ISBN|9781501338533}}, [https://books.google.com/books?id=of7XCwAAQBAJ&pg=PT186&dq=%22Advanced+Idea+Mechanics%22+Avengers+Marvel+films&hl=en&sa=X&ved=0ahUKEwiOvejxn97cAhXJxlQKHWilDRc4ChDoAQgmMAA#v=onepage&q=%22Advanced%20Idea%20Mechanics%22%20Avengers%20Marvel%20films&f=false n.p.].</ref>
+* A.I.M. appears in the [[PlayStation 2|PS2]] and [[PlayStation Portable|PSP]] versions of ''[[Spider-Man: Web of Shadows]]'', having aligned themselves with [[Spencer Smythe]].{{citation needed|date=August 2019}}
+* A.I.M. agents appear in ''[[Marvel Super Hero Squad (video game)|Marvel Super Hero Squad]]'', voiced by [[Travis Willingham]], [[Nolan North]], and [[Troy Baker]].{{citation needed|date=August 2019}}
+* A.I.M. appears in the ''[[Iron Man 2 (video game)|Iron Man 2]]'' film tie-in game, with its agents voiced by Catherine Campion, [[Andrew Chaikin]], [[Denny Delk]], Eric Goldberg, Adam Harrington, and [[Roger L. Jackson]].{{citation needed|date=August 2019}} They work with [[Kearson DeWitt]] in collaboration with [[Roxxon Energy Corporation|Roxxon]] to perfect the [[Ultimo (Marvel Comics)|Ultimo]] Program.
+* A.I.M. and their R.A.I.D. (Radically Advanced Ideas of Destruction) branch appear in ''[[Marvel Avengers Alliance]]''.{{citation needed|date=August 2019}}
+* A.I.M. appears in ''[[Iron Man 3: The Official Game]]''.{{citation needed|date=August 2019}}
+* A.I.M. appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.{{citation needed|date=August 2019}} Led by MODOK, they work in collaboration with the [[Wizard (Marvel Comics)|Wizard]] and [[Doctor Octopus]].
+* A.I.M. appears in ''[[Lego Marvel Super Heroes]]''.{{citation needed|date=August 2019}} Led by MODOK, they are among the supervillains that allied themselves with [[Doctor Doom]]. Iron Man, [[Thor (Marvel Comics)|Thor]], and [[Spider-Man]] track Doom aboard an A.I.M. submarine, where they defeat MODOK and his agents.
+* A.I.M., hybridized with ''[[Resident Evil]]''{{'}}s [[Umbrella Corporation]] to create "'''A.I.M.brella'''", appears as a stage in ''[[Marvel vs. Capcom Infinite]]''. Unlike other fused locations, which were created by [[Ultron]] [[Sigma (Mega Man X)|Sigma]] after they fused their respective universes together, A.I.M.brella was a proper company merger, as both A.I.M. and Umbrella are led by warped scientists who chose to pool their resources.<ref>{{Cite web|url=https://comicbook.com/gaming/2017/07/21/sdcc17-marvel-vs-capcom-infinite-live-blog/|title=SDCC17 Marvel Vs. Capcom: Infinite: Live Blog|website=WWG}}</ref>
+* A.I.M. agents appear in ''[[Lego Marvel Super Heroes 2]]''.{{citation needed|date=August 2019}}
+* A.I.M. is referenced in ''[[Spider-Man (2018 video game)|Spider-Man]]'', providing funding to Otto Octavius when the city rescinds his development grant.<ref>{{Cite web|url=https://www.gamespot.com/gallery/spider-man-ps4-the-11-most-fascinating-easter-eggs/2900-2245/|title = Spider-Man PS4: The 11 Most Fascinating Easter Eggs and Marvel References}}</ref>
+* A.I.M. appears in ''[[Marvel's Avengers (video game)|Marvel's Avengers]]''.<ref>{{cite tweet |user=PlayAvengers |number=1164117413266202624 |date=August 21, 2019 |title=In the five years since the events of A-Day, a new evil threat has emerged: Advanced Idea Mechanics (A.I.M.). They believe that science, not Super Heroes, will save the world. Reassemble Earth’s Mightiest Heroes to take on AIM in Marvel’s Avengers. #EmbraceYourPowers #Reassemble}}</ref> Founded by Dr. George Tarleton after the events of "A-Day", this version is a powerful multinational corporation made to protect the world through science as opposed to superheroes. They also develop robotic synthoids to perform public service duties (construction, security, etc.) and manage the growing population of [[Inhumans]]. Five years after A-Day, A.I.M. has established a virtual police state in the U.S. Additionally, a young Inhuman named [[Kamala Khan]] discovers that the company's leaders are experimenting on Inhumans rather than curing them, and also harvesting their powers to create an army of Adaptoids to replace the [[Avengers (comics)|Avengers]]. A warped Tarleton, now MODOK, intends to wipe out all Inhumans and superpowers on Earth, but he is defeated by Khan and the Avengers. After he is presumed dead, [[Monica Rappaccini]] assumes control of A.I.M. and its assets. Realizing that the company is still an active threat, the Avengers partner with [[S.H.I.E.L.D.]] to locate and take out A.I.M.'s remaining facilities around the world.<ref>{{cite web|title=MODOK confirmed as a major supervillain|url=https://www.ign.com/articles/marvels-avengers-modok-villain-confirmed-summer-of-gaming|website=IGN Articles|date=24 June 2020 |access-date=24 June 2020}}</ref>
+
+===Live performance===
+A.I.M. appears in the arena show ''[[Marvel Universe: LIVE!]]''.<ref>{{cite web|last=Wheatley|first=Chris|title=Marvel Universe LIVE! Reveals Villain Characters|date=19 November 2013 |url=http://uk.ign.com/articles/2013/11/19/marvel-universe-live-reveals-villain-characters|publisher=IGN}}</ref>
+
+===Miscellaneous===
+Members of A.I.M. appear in issue #5 of ''[[The Avengers: United They Stand]]'' comic book series.
+
+==Critical reception==
+Both A.I.M. and Hydra first appeared in the 1960s as analogues for the threat of Communism, but are also associated with Nazism and resemble organizations fought by [[Captain America]] in World War II; political science professor Matthew J. Costello<!-- not [[Matthew Costello]] the fiction writer --> has pointed out that this conflation of Communist and Nazi totalitarianism removes ambiguity from the threat and thus from America's moral superiority in the comics.<ref>Matthew J. Costello, ''Secret Identity Crisis: Comic Books and the Unmasking of Cold War America'', New York: Continuum, 2009, {{ISBN|9780826429971}}, [https://books.google.com/books?id=tsCoAwAAQBAJ&printsec=frontcover&dq=%22Advanced+Idea+Mechanics%22+Avengers+Marvel+films&hl=en&sa=X&ved=0ahUKEwiOvejxn97cAhXJxlQKHWilDRc4ChDoAQgzMAI#v=snippet&q=Advanced%20Idea%20Mechanics%20(AIM)&f=false pp.&nbsp;70–71].</ref> In contrast, in the post-[[September 11 attacks|9/11]] context of ''Iron Man 3'', [[Pepper Potts|Pepper]] says of Extremis' war profiteering, "That's exactly what [Stark Industries] used to do".<ref name=NY/> Whereas immediately after 9/11 Captain America was concerned with Islamic terrorism, by 2005–2007 he was primarily engaged with homegrown terrorists: A.I.M. and A.I.D.<ref name=Steinmetz/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/A.I.M. A.I.M] at Marvel.com
+* {{Marveldatabase}}
+
+{{Navboxes|title=A.I.M|list1=
+{{Avengers characters}}
+{{Henry Pym}}
+{{Black Widow}}
+{{Captain America}}
+{{Defenders}}
+{{Hulk}}
+{{Iron Man}}
+{{Ms. Marvel}}
+{{Nick Fury}}
+{{S.H.I.E.L.D.}}
+{{She-Hulk}}
+{{Spider-Man characters}}
+{{Wolverine}}
+{{X-Men characters}}
+{{Young Avengers}}
+{{Stan Lee}} 
+}}
+
+[[Category:Comic book terrorist organizations]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Fictional companies]]
+[[Category:Fictional intelligence agencies]]
+[[Category:Fictional organizations in Marvel Comics]]
+[[Category:Marvel Comics supervillain teams]]

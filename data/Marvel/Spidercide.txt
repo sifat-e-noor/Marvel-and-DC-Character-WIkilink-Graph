@@ -1,0 +1,1008 @@
+{{Short description|None}}
+<imagemap>
+File:Villainarena.jpg|Depiction of the many Spider-Man villains in a dream sequence of Spider-Man in ''[[The Sensational Spider-Man]]'' (vol. 2) #32. Art by [[Sean Chen (artist)|Sean Chen]].{{small| (''Click on a character's face to identify the character's name and to learn more about the character.'')}} |right|frame
+
+rect 3 99 33 165 [[Morbius, the Living Vampire|Morbius]]
+rect 0 55 43 98 [[Hydro-Man]]
+rect 34 99 43 128 [[Chameleon (comics)|Chameleon]]
+rect 55 50 70 75 [[Will o' the Wisp (comics)|Will o' the Wisp]]
+rect 63 90 96 180 [[Kingpin (character)|Kingpin]]
+rect 40 40 99 55 [[Carnage (character)|Carnage]]
+rect 83 70 108 93 [[Swarm (Marvel Comics)|Swarm]]
+rect 103 80 125 115 [[Lizard (comics)|Lizard]]
+rect 158 203 122 152 [[Vermin (comics)|Vermin]]
+rect 167 150 130 100 [[Sandman (Marvel Comics)|Sandman]]
+rect 147 95 130 73 [[Scarecrow (Marvel Comics)|Scarecrow]]
+rect 110 74 140 20 [[Mac Gargan|Scorpion]]
+rect 160 80 180 110 [[Tarantula (Marvel Comics)|Tarantula]]
+rect 227 40 160 0 [[Vulture (Marvel Comics)|Vulture]]
+rect 170 150 210 120 [[Kraven the Hunter]]
+rect 200 100 230 120 [[Hobgoblin (comics)|Hobgoblin]]
+rect 190 203 230 160 [[Green Goblin]]
+rect 230 150 250 120 [[Eddie Brock|Venom]]
+rect 255 100 270 120 [[Molten Man]]
+rect 255 200 280 135 [[Electro (Marvel Comics)|Electro]]
+rect 350 230 287 180 [[Hammerhead (comics)|Hammerhead]]
+rect 350 150 287 89 [[Rhino (comics)|Rhino]]
+rect 260 100 280 70 [[Mysterio]]
+rect 220 100 250 36 [[Doctor Octopus]]
+</imagemap>
+[[Spider-Man]] is a [[superhero]] created by [[Marvel Comics]] who debuted in the [[anthology]] comic book series issue ''[[Amazing Fantasy]]'' #15 (August [[1962 in comics|1962]]) during the [[Silver Age of Comics]]. After his debut, he got his own comic book entitled ''[[The Amazing Spider-Man]]''. This comic introduced many of what would become his major [[supervillain]] adversaries. Spider-Man then became popular enough for more Spider-Man comic spinoffs (''[[The Spectacular Spider-Man]]'', ''[[Marvel Team-Up]]'', ''[[Web of Spider-Man]]'', ''[[Peter Parker: Spider-Man]]'' etc.) which introduced more recurring enemies of the web-slinger, across [[List of incarnations of Spider-Man|their various incarnations]].
+
+As with Spider-Man, most of his villains' powers originate from scientific accidents or the misuse of scientific technology. They can be classified into multiple categories, such as animal-themed villains ([[Doctor Octopus]], [[Vulture (Marvel Comics)|Vulture]], [[Lizard (comics)|Lizard]], [[Rhino (character)|Rhino]], [[Mac Gargan|Scorpion]], [[Jackal (Marvel Comics character)|Jackal]], [[Beetle (comics)|Beetle]], [[Kangaroo (comics)|Kangaroo]], [[Tarantula (Marvel Comics)|Tarantula]], and [[Puma (comics)|Puma]]), those with powers over the elements ([[Sandman (Marvel Comics)|Sandman]], [[Electro (Marvel Comics)|Electro]], [[Molten Man]], and [[Hydro-Man]]), horror-themed villains (the [[Green Goblin]], the [[Hobgoblin (comics)|Hobgoblin]], [[Morbius, the Living Vampire|Morbius]], [[Morlun (comics)|Morlun]], and the [[symbiote (comics)|Symbiotes]]), crime lords (the [[Kingpin (character)|Kingpin]], [[Tombstone (comics)|Tombstone]], [[Hammerhead (comics)|Hammerhead]], [[Silvermane]], and [[Mister Negative]]),<ref name="Top25"/> inventors (the [[Shocker (comics)|Shocker]], the [[Tinkerer (Marvel Comics)|Tinkerer]], [[Spencer Smythe]], and [[Alistair Smythe]]), and masters of trickery and illusion (the [[Chameleon (Marvel Comics)|Chameleon]] and [[Mysterio]]).<ref name="Top25">{{cite web | url=http://www.ign.com/articles/2014/04/16/top-25-spider-man-villains| title=Top 25 Spider-Man Villains| publisher=IGN | date=16 April 2014 | access-date=18 June 2015}}</ref> There are, however, numerous villains that don't fit into any specific category, such as [[Kraven the Hunter]] and [[Mephisto (Marvel Comics)|Mephisto]], the latter of whom originated as a [[Silver Surfer]] villain. The villains oftentimes form teams such as the [[Sinister Six]] to oppose the web-slinger.
+
+Spider-Man is notable for having numerous villains that redeemed themselves and became [[antihero]]es, such as [[Black Cat (Marvel Comics)|Black Cat]], the [[Prowler (Marvel Comics)|Prowler]], [[Morbius, the Living Vampire|Morbius]], [[Kraven the Hunter|Kraven]], and [[Silver Sable]]. Also, unlike most superheroes, Spider-Man doesn't have one particular [[archenemy]], but rather three: the [[Norman Osborn]] version of the Green Goblin, [[Doctor Octopus]], and the [[Eddie Brock]] version of [[Venom (Marvel Comics character)|Venom]], the latter two of whom have been similarly redeemed and depicted as antiheroes.
+
+The rogues gallery of Spider-Man has garnered positive critical acclaim and has been considered one of the greatest rogues galleries of all time.
+
+==Debuting in Spider-Man titles==
+[[File:Stan Lee by Gage Skidmore 3.jpg|thumb|right|upright|Stan Lee is responsible with helping create the most villains for the web-slinger and helped pave the way for the fictional rogues gallery.]]
+The majority of supervillains depicted in Spider-Man comics first appeared in ''The Amazing Spider-Man'', while some first appeared in spinoff comics such as ''The Spectacular Spider-Man'' and ''Marvel Team-Up'' and other titles.
+
+===''The Amazing Spider-Man'' debuts===
+{{see also|List of The Amazing Spider-Man issues}}
+Most of the supervillains of Spider-Man would be introduced in ''[[The Amazing Spider-Man]]'' comic book starting with the Chameleon.<ref name="DeFalco87"/> The early villains would be introduced in the [[1960s in comics|1960s]] during the [[Silver Age of Comic Books]],<ref name="DeFalco87"/> and created by Stan Lee and Steve Ditko.<ref name="DeFalco87"/> John Romita Sr. replaced Ditko starting with the Rhino.<ref name="Kindersly 6"/> Gerry Conway later replaced Stan Lee and helped create new adversaries for the web-slinger and also helped pave the way for the [[Bronze Age of Comic Books]] with the death of Spider-Man's long time romantic interest, Gwen Stacy.<ref>Manning "1970s" in Gilbert (2012), p. 62: "[''The Amazing Spider-Man'' #111] marked the dawning of a new era: writer Gerry Conway came on board as Stan Lee's replacement. Alongside artist john Romita, Conway started his run by picking up where Lee left off."</ref><ref>Manning "1970s" in Gilbert (2012), p. 68: "This story by writer Gerry Conway and penciler Gil Kane would go down in history as one of the most memorable events of Spider-Man's life."</ref><ref>David and Greenberger p. 49: "The idea of beloved supporting characters meeting their deaths may be standard operating procedure now but in 1973 it was unprecedented...stan's death took villainy and victimhood to an entirely new level."</ref> Many collaborators would soon take over ''The Amazing Spider-Man'' title. One of the more popular examples included Todd McFarlane's Venom in the [[Modern Age of Comic Books]].<ref name="Venom2"/>
+
+'''Note:''' Alter ego characters who are the most high profile in the supervillain alias but have shared that alias with others are in bold. Alter egos listed having N/A use their real name as the supervillain name. All the villains are listed in the chronological order of their debut in comics. Characters of the central rogues gallery are in '''bold'''.
+
+===Central rogues gallery===
+{| class="wikitable sortable"
+!Name
+!Notable [[alter ego]] 
+![[First appearance]] issue #
+![[List of comics creators|Creator]]
+!class=unsortable|Descriptions
+|-
+|'''[[Chameleon (Marvel Comics)|Chameleon]]'''{{ref|1|1}}
+|'''Dmitri Anatoly Nikolayevich Smerdyakov'''
+| #1 (March [[1963 in comics|1963]])<ref name="DeFalco87">{{cite book|last1 = DeFalco|first1 = Tom|author-link = Tom DeFalco|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Marvel Chronicle A Year by Year History|publisher = [[Dorling Kindersley]]|year = 2008|page = 87|isbn =978-0756641238}}</ref><ref name="Newsarama 1">{{cite web | url=http://www.newsarama.com/15454-the-10-greatest-spider-man-villains-of-all-time.html | title=The 10 Greatest SPIDER-MAN Villains of ALL TIME! | publisher=[[Newsarama]] | access-date=2 January 2014 | author=Siegel, Lucas}}</ref>
+| rowspan="10" |[[Stan Lee]]<ref name="DeFalco87"/><ref name="Newsarama 1"/><br/>[[Steve Ditko]]<ref name="DeFalco87"/><ref name="Newsarama 1"/>
+|A master of disguise who can make himself look like anybody<ref name="DeFalco87"/><ref name="Newsarama 1"/>
+|-
+|'''[[Vulture (Marvel Comics)|Vulture]]'''
+|'''Adrian Toomes'''
+|#2 (May 1963)<ref name="Vulture 2">{{cite web | url=http://marvel.com/news/comics/2010/2/11/11279/archrivals_spider-man_vs_the_vulture | title=ARCHRIVALS: SPIDER-MAN VS THE VULTURE| publisher=[[Marvel Comics|Marvel.com]] | access-date=2 January 2014 | author=Beard, Jim}}</ref><ref name="What Culture 7">{{cite web | url=http://whatculture.com/film/10-spider-man-villains-and-combinations-deserving-of-the-big-screen.php/5 | title=10 Spider-Man Villains (And Combinations) Deserving Of The Big Screen (7. The Vulture) | publisher=What Culture! | access-date=2 January 2014 | author=Kyle, Scmidlin | date=13 June 2013 | quote="He's been one of Spider-Man's most frequent and iconic antagonists ever since his first appearance in issue 2 of The Amazing Spider-Man.}}</ref>
+|An inventor who created mechanical wings that allow him to fly and grant him [[superhuman strength]]<ref name="Vulture 3">{{cite web | url=http://www.superherohype.com/features/articles/172331-11-villains-who-could-be-in-the-amazing-spider-man-2?start=3 |title=Spidey Turns 50: 11 Villains Who Could Be in The Amazing Spider-Man 2 (Part 3) | access-date=2 January 2014 | author=Perry, Spencer|date=22 August 2012 }}</ref>
+|-
+|'''[[Doctor Octopus]]'''{{ref|Arch1|Arch1}}
+|'''Dr. Otto Gunther Octavius'''
+|#3 (July 1963)<ref name="Newsarama 1"/>
+|Originally a brilliant scientist, his greatest invention, a set of metallic limbs, became fused to his body by an accident which caused [[Mad genius|his insanity]]. He has [[Telepathy|telepathic control]] of these arms, which are strong enough to physically hurt Spider-Man.<ref name="IGN #28">{{cite web | url=http://www.ign.com/top/comic-book-villains/28.html | title=Doctor Octopus is number 28 on greatest comic book villain of all time |publisher=[[IGN]] |access-date=2 January 2014}}</ref> While Doctor Octopus is regarded as one of Spider-Man's [[Archenemy|archenemies]], he also been portrayed as an [[antihero]], and even starred in his own [[The Superior Spider-Man|comic book storyline]] that saw him becoming a superhero called the Superior Spider-Man after the original Spider-Man's [[Dying Wish|death]].
+|-
+|'''[[Sandman (Marvel Comics)|Sandman]]'''{{ref|2|2}}
+|'''William Baker / Flint Marko'''
+|#4 (September 1963)<ref name="Sandman">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 20|isbn = 978-0756692360|quote= In this installment, Stan Lee and Steve Ditko introduced Sandman - a super villain who could turn his entire body into sand with a single thought.}}</ref><ref name="Issue #4">{{cite comic| writer= Lee, Stan|penciller= Ditko, Steve|inker= Ditko, Steve|story= Nothing Can Stop...The Sandman!|title= The Amazing Spider-Man|issue= 4|date= September 1963}}</ref>
+|Once a small-time crook, he became a supervillain after his body merged with sand which he can manipulate in many ways, such as [[shapeshifting]], increasing his density and strength to lift up to 85 tons, and creating [[dust storm]]s from his body.<ref name="IGN #72">{{cite web | url=http://comics.ign.com/top-100-villains/72.html | archive-url=https://web.archive.org/web/20090509075934/http://comics.ign.com/top-100-villains/72.html | url-status=dead | archive-date=May 9, 2009 | title=Sandman is number 72 as greatest comic book villain of all time. | publisher=IGN | access-date=2 January 2014}}</ref>
+|-
+|'''[[Lizard (character)|Lizard]]'''
+|'''Dr. Curtis "Curt" Connors'''
+|#6 (November 1963)<ref name="Falco p. 95">DeFalco "1960s" in Gilbert (2008), p. 95</ref><ref name="issue #6">{{cite comic| writer= Lee, Stan|penciller= Ditko, Steve|inker= Ditko, Steve|story= Face-to-Face With...the Lizard!|title= The Amazing Spider-Man|issue= 6|date= November 1963}}</ref><ref name="Kindersly">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = Dorling Kindersley|year = 2012|page = 20|isbn = 978-0756692360|quote= ''The Amazing Spider-Man''{{'}}s sixth issue introduced the Lizard.}}</ref>
+|A scientist researching genetics, he injected himself with an experimental serum made from reptile [[DNA]] which transformed him into a [[humanoid]] [[lizard]]. As the Lizard, he has [[Regeneration (biology)|regeneration abilities]], along with [[superhuman]] strength, [[Speedster (fiction)|speed]], and agility. He has sometimes been shown as being able to telepathically command all reptiles within a one-mile radius.<ref name="IGN #62">{{cite web | url=http://comics.ign.com/top-100-villains/62.html | archive-url=https://web.archive.org/web/20090510083544/http://comics.ign.com/top-100-villains/62.html | url-status=dead | archive-date=May 10, 2009 | title=Lizard is number 62 on greatest comic book villain of all time | publisher=IGN | access-date=3 January 2014}}</ref>
+|-
+|'''[[Electro (Marvel Comics)|Electro]]'''{{ref|3|3}}
+|'''Maxwell Dillon'''
+|#9 (February [[1964 in comics|1964]])<ref>DeFalco "1960s" in Gilbert (2008), p. 98</ref><ref>{{cite comic| writer= Lee, Stan|penciller= Ditko, Steve|inker= Ditko, Steve|story= The Man Called Electro!|title= The Amazing Spider-Man|issue= 9|date= February 1964}}</ref>
+|Originally a lineman for an electric company, he turned to a life of crime after being struck by lightning while working on a power line and becoming a living [[Electric field|electric]] capacitor. His powers range from shooting electricity bolts to flight and superhuman strength and [[Speedster (fiction)|speed]], which makes him one of Spider-Man's most dangerous enemies.<ref name="IGN 87">{{cite web|url= https://www.ign.com/lists/top-100-comic-book-villains/87 |title=Electro is number 87 on greatest comic book villain of all time. |publisher=IGN |access-date=December 24, 2021 |archive-url=https://web.archive.org/web/20131103130825/http://comics.ign.com/top-100-villains/87.html |archive-date=3 November 2013 }}</ref>
+|-
+|'''[[Mysterio]]'''{{ref|4|4}}
+|'''Quentin Beck'''<br/>Daniel Berkhart<br/>Francis Klum
+|#13 (June 1964)<ref name="Issue #13">{{cite comic| writer= Lee, Stan|penciller= Ditko, Steve|inker= Ditko, Steve|story= The Menace of... Mysterio!|title= The Amazing Spider-Man|issue= 13|date= June 1964}}</ref><ref name="IGN #85">{{cite web|url= https://www.ign.com/lists/top-100-comic-book-villains/85 |title=Mysterio is number 85 on greatest comic book villain of all time. |publisher=IGN |access-date=December 24, 2021 |archive-url=https://web.archive.org/web/20131103130918/http://comics.ign.com/top-100-villains/85.html |archive-date=3 November 2013 }}</ref>
+| A master of [[Magic (illusion)|illusion]] who uses [[special effects]], [[hypnosis]], and an extensive knowledge of chemistry and robotics to trick his enemies<ref name="IGN #85"/>
+|-
+|'''[[Green Goblin]]'''<ref name="GG">{{cite web | url=http://comicbooks.about.com/od/spiderman/p/greengoblinbio.htm | title=Green Goblin Profile | publisher=About.com | access-date=3 January 2014 | author=Albert, Aaron | url-status=dead | archive-url=https://web.archive.org/web/20130929224524/http://comicbooks.about.com/od/spiderman/p/greengoblinbio.htm | archive-date=29 September 2013 }}</ref>{{ref|Arch2|Arch2}}
+|'''[[Norman Osborn]]''' (Green Goblin I){{ref|Arch2|Arch2}}<br/>[[Harry Osborn]] (Green Goblin II)<ref name="Harry">{{cite web | url=http://marvel.com/news/movies/2007/4/24/1007/spider-man_3_the_spider_the_goblin | title=SPIDER-MAN 3: THE SPIDER & THE GOBLIN | publisher=Marvel.com | access-date=3 January 2014 | author=Beard, Jim}}</ref><ref name="Top25"/>
+|#14 (July 1964)<ref name="GG"/>
+|The first Green Goblin, Norman Osborn, is the CEO of [[Oscorp]] and has [[Superpower (ability)|powers]] derived from a "Goblin formula" that increases agility, endurance, strength, and reflexes to superhuman levels. The formula has also advances the intelligence while causing insanity as a side effect. He uses an arsenal of weapons created by Oscorp, such as pumpkin bombs and a personal glider. The Norman version of the Green Goblin is usually regarded as Spider-Man's archenemy.<ref name="GG"/> The second Goblin, Harry Osborn, is Norman's son and Peter Parker's best friend. He has the same powers as his father.
+|-
+|'''[[Kraven the Hunter]]'''{{ref|5|5}}
+|'''Sergei Kravinoff'''<br/>[[Kraven the Hunter (Alyosha Kravinoff)|Alyosha Kravinoff]] (son)<br/>[[Kraven the Hunter (Ana Kravinoff)|Ana Kravinoff]] (daughter)
+|#15 (August 1964)<ref name="Kindersly4">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = Dorling Kindersley|year = 2012|page = 26|isbn = 978-0756692360|quote= [Stan] Lee and [Steve] Ditko's newest villain, Kraven the Hunter, debuted in this issue.}}</ref>
+|Depicted as the world's greatest [[Big-game hunting|big-game hunter]], Kraven is skilled in hand-to-hand combat, though he also uses a "magic jungle potion" to increase his speed, strength, and tracking skills. He aims to kill Spider-Man, whom he regards as his equal, to prove himself as the world's greatest hunter, and is also the half-brother of the Chameleon.<ref name="IGN #53">{{cite web|url= https://www.ign.com/lists/top-100-comic-book-villains/87 |title=Top 100 Comic Book Villains. #53 Kraven the Hunter |publisher=IGN |access-date=December 24, 2021 |archive-url=https://web.archive.org/web/20131008200756/http://comics.ign.com/top-100-villains/53.html |archive-date=8 October 2013 }}</ref>
+|-
+|'''[[Scorpion (Mac Gargan)|Scorpion]]'''{{ref|6|6}}
+|'''[[Mac Gargan]]'''{{ref|6|6}}
+|#20 (January [[1965 in comics|1965]])
+|A former private investigator who underwent a test that made him more powerful than Spider-Man, at the cost of his sanity. He gained the superhuman strength of a [[scorpion]], and was provided with a scorpion-themed suit and weaponry (such as a tail which evolved from a simple club tail to a scythe-like spike capable of shooting lasers, acid among other projectiles). Gargan later became the third host of the [[Venom (Marvel Comics character)|Venom]] [[Symbiote (comics)|symbiote]].<ref name="adversaries 1">{{cite web | url=http://www.411mania.com/movies/columns/155782 |title=Alternate Takes 10.02.10 - Greatest Spider-Man Adversaries, Part 1 |publisher=411.Mania.com | date=9 October 2010 |access-date=4 January 2014 |author=Lealos, Shawn S.}}</ref><ref>{{cite comic| writer= Lee, Stan|penciller= Ditko, Steve|inker= Ditko, Steve|story= The Coming of the Scorpion!|title= The Amazing Spider-Man|issue= 20|date= January 1965}}</ref>
+|-
+|'''[[Rhino (character)|Rhino]]'''{{ref|7|7}}
+|'''Aleksei Mikhailovich Sytsevich''' 
+| #41 (October [[1966 in comics|1966]])<ref>{{cite comic| writer= Lee, Stan|penciller= Romita, Sr., John|inker= Esposito, Mike|story= The Horns of the Rhino!|title= The Amazing Spider-Man|issue= 41|date= October 1966}}</ref>
+| rowspan="3" |Stan Lee<ref name="Kindersly 6">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = Dorling Kindersley|year = 2012|page = 36|isbn = 978-0756692360|quote= Now it was time for [John Romita, Sr.] to introduce a new Spidey villain with the help of [Stan] Lee. Out of their pooled creative energies was born the Rhino, a monstrous behemoth trapped in a durable rhinoceros suit.}}</ref><br/>[[John Romita Sr.]]<ref name="Kindersly 6"/>
+|A Russian thug who was given a [[rhinoceros]] modeled armor, which give him superhuman strength and resistance, after undergoing a chemical and radiation treatment. After escaping from his handlers, he used his newfound to become a supervillain.<ref name="adversaries 2">{{cite web | url=http://www.411mania.com/movies/columns/156787 |title=Alternate Takes 10.02.10 - Greatest Spider-Man Adversaries, Part 1 | publisher=411mania.com | author=Lealos, Shawn |access-date=4 January 2014}}</ref> He became best known for being dimwitted.<ref>{{cite book|last=Conroy|first=Mike.|title=''500 Comicbook Villains''|publisher=[[Anova Books|Collins & Brown]]|year=2004|isbn=0764129082|author-link=Mike Conroy (writer)}}.</ref> 
+|-
+|'''[[Shocker (character)|Shocker]]'''
+|'''Herman Schultz'''
+|#46 (March [[1967 in comics|1967]])<ref name="adversaries 1"/><ref>{{cite comic |writer=Lee, Stan |penciller=Romita, Sr., John|inker= Romita, Sr., John|story= The Sinister Shocker!|title= The Amazing Spider-Man|issue= 46|date= March 1967}}</ref>
+|A former small-time criminal who built himself a battle suit that contains [[Vibration|vibro-shock]] [[Gauntlet (glove)|gauntlets]].<ref name="adversaries 1" /><ref name="Kindersly7">{{cite book|last1=Manning|first1=Matthew K.|title=Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|last2=Gilbert|first2=Laura, ed.|publisher=[[Dorling Kindersley]]|year=2012|isbn=978-0756692360|page=38|chapter=1960s|quote=[Stan] Lee and [John] Romita's second major Spidey villain appeared in the form of the Shocker, a criminal equipped with vibration-projecting gauntlets.}}</ref>
+|-
+|'''[[Kingpin (character)|Kingpin]]'''{{ref|8|8}}
+|'''Wilson Grant Fisk'''
+| #50 (July 1967) ("Spider-Man No More!")<ref>DeFalco "1960s" in Gilbert (2008), p. 122: "Stan Lee wanted to create a new kind of crime boss. Someone who treated crime as if it were a business...He pitched this idea to artist John Romita and it was Wilson Fisk who emerged in ''The Amazing Spider-Man'' #50."</ref><ref>{{cite comic| writer= Lee, Stan|penciller= [[John Romita, Sr.|Romita, Sr., John]]|inker= [[Mike Esposito (comics)|Esposito, Mike]]|story= Spider-Man No More!|title= The Amazing Spider-Man|issue= 50|date= July 1967}}</ref>
+|Depicted as [[Boss (crime)|crime lord]] of [[New York City]]. Manipulate henchman to do his bidding. His body consists of mostly muscle (despite looking like he is [[obesity|obese]]) that has much strength and agility. Enough to grapple and hammer Spider-Man.<ref name="IGN #10"/><ref name="Top25"/>
+|-
+|'''[[Morbius, the Living Vampire]]'''<ref name="Top25"/><ref name="CBR Villains #2"/>
+|'''Michael Morbius'''
+|#101 (October [[1971 in comics|1971]]){{ref|9|9}}<ref name="Morbius">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 59|isbn = 978-0756692360|quote= "In the first issue of ''The Amazing Spider-Man'' to be written by someone other than Stan Lee...Thomas also managed to introduce a major new player to Spidey's life - the scientifically created vampire known as Morbius."}}</ref>
+|[[Roy Thomas]]<ref name="Morbius"/><br/>[[Gil Kane]]<ref name="confidential"/>
+|A formerly renowned biochemist who was mutated into a [[Vampire (Marvel Comics)|vampire]]. He has all the powers and weaknesses of a vampire. Later comic book storylines depict him as a tragic antihero.<ref name="Top25"/>
+|-
+|'''[[Hammerhead (comics)|Hammerhead]]'''<ref name="Top25"/><ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 63|isbn = 978-0756692360|quote= Writer Gerry Conway made his first major contribution to the Spider-Man saga...a new mobster was on the rise in New York's underworld - Hammerhead.}}</ref><ref name=TR2>{{cite web|last1=Boland|first1=Robbie|title=10 Spectacularly Third-Rate Spider-Man Villains (Part one)|date=11 April 2011 |url=http://www.toplessrobot.com/2011/04/10_spectacularly_third-rate_spider-man_villains.php|publisher=Topless Robot}}</ref>
+|'''Joseph (Full Name Unrevealed)'''<ref>{{Cite comic|writer = Dan Slott|penciller = Marcos Martin|inker = Marcos Martin|story = Mysterioso, Part 1: Un-Murder Incorporated|title = The Amazing Spider-Man|volume = 1|issue = #618|date = March 2010|publisher = Marvel Comics|location = United States}}</ref>
+|#113 (October [[1972 in comics|1972]])<ref>{{cite web | url=http://marvel.com/comics/issue/6498/amazing_spider-man_1963_113 | title=AMAZING SPIDER-MAN (1963) #113 | publisher=Marvel |access-date=27 April 2015}}</ref>
+|Gerry Conway<br/>John Romita Sr.<ref name="Conway">{{cite journal|last= Williams|first= Scott E.|date= October 2010|title= Gerry Conway: Everything but the Gwen Stacy Sink|journal= [[Back Issue!]]|issue= 44| page= 7|publisher= [[TwoMorrows Publishing]]}}</ref>
+|A mobster who had most of his skull replaced with an unbendable steel alloy
+|-
+|'''[[Jackal (Marvel Comics character)|Jackal]]'''<ref name="Jackal 1">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 72|isbn = 978-0756692360|quote= Writer Gerry Conway and artist Ross Andru introduced two major new characters to Spider-Man's world and the Marvel Universe in this self-contained issue. Not only would the vigilante known as the Punisher go on to be one of the most important and iconic Marvel creations of the 1970s, but his instigator, the Jackal, would become the next big threat in Spider-Man's life.}}</ref> 
+|'''Miles Warren'''
+|#129 (February [[1974 in comics|1974]]){{ref|10|10}}<ref name="Jackal 1"/>
+|Gerry Conway<ref name="Jackal 1"/>{{ref|10|10}}<br/>[[Ross Andru]]<ref name="Jackal 1"/>{{ref|10|10}}
+|A brilliant professor with the knowledge of [[Human cloning|cloning]], which he uses to torment Spider-Man emotionally. As the Jackal, he possesses superhuman strength, speed, and agility.<ref name="Top25"/> 
+|-
+|'''[[Black Cat (Marvel Comics)|Black Cat]]'''{{ref|11|11}}
+|'''Felicia Hardy'''
+| #194 (July [[1979 in comics|1979]])<ref name="Black Cat">Manning "1970s" in Gilbert (2012), p. 107: "Spider-Man wasn't exactly sure what to think about his luck when he met a beautiful new thief on the prowl named the Black Cat, courtesy of a story by writer Marv Wolfman and artist Keith Pollard."</ref>
+|Marv Wolfman<br/>[[Keith Pollard]]<ref name="Black Cat"/>
+|A master cat burglar, who inherited her name and skills from [[Walter Hardy|her father]]. She often carries a [[grappling hook]] for swinging on rooftops,<ref name="Top25"/> and sometimes has bad luck powers.<ref name="Black Cat 2">{{cite web | url=http://www.newsarama.com/3153-back-in-black-cat-joe-kelly-on-her-amazing-return.html | title=Back in Black ... Cat? Joe Kelly on Her 'Amazing' Return | publisher=Newsarama | access-date=1 November 2014}}</ref> She has often been depicted as both a love interest and ally of Spider-Man.
+|-
+|'''[[Hydro-Man]]'''<ref name="Top25"/>
+|'''Morris Bench'''
+|#212 (January 10, [[1981 in comics|1981]])<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1980s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 118|isbn = 978-0756692360|quote= In this issue, award-winning writer Denny O'Neil, with collaborator John Romita, Jr., introduced Hydro-Man.}}</ref><ref>{{cite web | url=http://marvel.com/comics/issue/6608/amazing_spider-man_1963_212 | title=AMAZING SPIDER-MAN (1963) #212 | publisher=Marvel | access-date=27 April 2015}}</ref>
+|[[Denny O'Neil]]<br/>[[John Romita Jr.]]
+|A former [[crewman]] who gained aquakinetic abilities following an accident during Spider-Man's fight with Namor.
+|-
+|'''[[Hobgoblin (comics)|Hobgoblin]]'''
+|'''[[Roderick Kingsley]]'''<br/>[[Jason Macendale]]<br/>[[Phil Urich]]<ref name="CBR Villains #2"/><ref>{{Cite comic|writer = [[Terry Kavanagh]]|penciller = [[Steven Butler]]|inker = Randy Emerlin|story = Lives Unlived|title = [[Web of Spider-Man]]|volume = 1|issue = #125 |date = June 1995 |publisher = Marvel Comics|location = United States}}</ref>
+|#238 (March [[1983 in comics|1983]])
+|[[Roger Stern]]<ref name="Vault68">David and Greenberger, pp. 68–69: "Writer Roger Stern is primarily remembered for two major contributions to the world of Peter Parker. One was a short piece entitled 'The Kid Who Collects Spider-Man'...[his] other major contribution was the introduction of the Hobgoblin."</ref><ref name="Hobgoblin 1">Manning "1980s" in Gilbert (2012), p. 133: "Writer Roger Stern and artists John Romita, Jr. and John Romita, Sr. introduced a new - and frighteningly sane - version of the [Green Goblin] concept with the debut of the Hobgoblin."</ref><br/>John Romita Sr.<ref name="Hobgoblin 1"/><ref name="Back35a">{{cite news | last = Greenberg | first= Glenn | author-link = Glenn Greenberg | date = August 2009 | title = When Hobby Met Spidey | work = [[Back Issue!]]| issue = 35 | pages = 10–23 | publisher = [[TwoMorrows Publishing]]}}</ref>
+|Roderick Kingsley discovered one of Norman Osborn's lairs and perfected the Green Goblin formula, which granted him superhuman strength and intelligence without Osborn's insanity. Using a vast arsenal of weapons similar to the Green Goblin's, including a goblin glider, pumpkin bombs and razor-sharp bats, Kingsley became the criminal mastermind known as the Hobgoblin.<ref name="Hobgoblin 1"/><ref>{{cite web | url=http://www.ign.com/top/comic-book-villains/57.html | title=Hobgoblin is number 57 as greatest comic book villain. | publisher=IGN | access-date=1 November 2014}}</ref><ref name="Top25"/>
+|-
+|'''[[Tombstone (comics)|Tombstone]]'''
+|'''Alonzo "Lonnie" Thompson Lincoln'''
+|''[[Web of Spider-Man]]'' #36 (March [[1988 in comics|1988]])<ref name="Supervillains">{{cite book | title=The Supervillain Book: The Evil Side of Comics and Hollywood | publisher=Visible Ink Press | author1=Gina Renée, Misiroglu | author2=Eury, Michael | isbn=0780809777| year=2006 }}</ref>
+|[[Gerry Conway]]<br/>[[Alex Saviuk]]
+|An albino mob enforcer
+|-
+|'''[[Venom (character)|Venom]]'''{{ref|Arch3|Arch3}}
+|'''[[Eddie Brock]]''' (Venom I){{ref|Arch3|Arch3}}<br/>[[Mac Gargan]] (Venom II)
+|#300 (May [[1988 in comics|1988]]){{ref|12|12}}<ref name="Venom2">{{cite web | url=https://www.empireonline.com/movies/features/50greatestcomiccharacters/ | title=Top 50 Greatest Comic Book Characters: 33. VENOM (Spider-Man) | publisher=[[Empire (film magazine)|Empire.com]] | access-date=25 April 2015}}</ref><ref name=":0">Manning "1980s" in Gilbert (2012), p. 169: "In this landmark installment [issue #298], one of the most popular characters in the wall-crawler's history would begin to step into the spotlight courtesy of one of the most popular artists to ever draw the web-slinger."</ref>
+|[[Todd McFarlane]]<ref name="Venom">{{cite web | url=http://www.ign.com/top/comic-book-villains/22.html | title=Venom is number 22 on greatest comic book villain of all time | publisher=IGN | access-date=25 April 2015}}</ref>
+|Eddie Brock is a former reporter who blamed Spider-Man for ruining this career and his life. He became Venom after binding with the [[symbiote (comics)|symbiote]] that once merged with Spider-Man. As Venom, he has the same powers as Spider-Man, and aims to ruin his life in any way he can.<ref name="Venom"/> He is also undetectable to Spider-Man's spider sense.<ref>{{Cite comic|writer=[[David Michelinie]]|inker=[[Kyle Baker]]|story=The Longest Road|title=Web of Spider-Man|volume=1|issue=18|date=September 1986|publisher=Marvel Comics|page=|panel=}}</ref> While Venom grew to be regarded as one of Spider-Man's archenemies, later comic book storylines depict him as an antihero, and he even reluctantly teamed up with Spider-Man when the lives of innocent people were at risk. Other character have also been the host of the Venom symbiote, including Mac Gargan, who became the second Venom.
+|-
+|'''[[Carnage (character)|Carnage]]'''
+|'''[[Cletus Kasady]]'''
+|#361 (April [[1992 in comics|1992]]){{ref|13|13}}<ref name="Carnage">{{cite web | url=http://www.ign.com/top/comic-book-villains/90.html | title=Carnage is number 90 on greatest comic book villain of all time | publisher=IGN | access-date=25 April 2015}}</ref>
+|[[David Michelinie]]<ref name="Bagley"/><ref>{{cite comic| writer= Michelinie, David|penciller= Bagley, Mark |inker=[[Randy Emberlin|Emberlin, Randy]] |story= Carnage: Part One |title= The Amazing Spider-Man|issue= 361|date= April 1992}}</ref><br/>[[Erik Larsen]]<ref>{{cite web | url=http://moviepilot.com/posts/2014/08/30/10-facts-about-batman-spider-man-iron-man-you-didn-t-know-2227067 | title=10 facts about Batman, Spider-Man, Iron Man you didn't know. | publisher=[[Moviepilot]] | author=Papageorgiou, Solon | access-date=25 April 2015 | archive-url=https://archive.today/20150425233347/http://moviepilot.com/posts/2014/08/30/10-facts-about-batman-spider-man-iron-man-you-didn-t-know-2227067?lt_source=external,manual,manual | archive-date=25 April 2015 | url-status=dead }}</ref><br/>[[Mark Bagley]]<ref name="Bagley">{{cite book|last1 = Cowsill|first1 = Alan|last2= Gilbert|first2= Laura, ed.|chapter= 1990s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 197|isbn = 978-0756692360|quote= Artist Mark Bagley's era of ''The Amazing Spider-Man'' hit its stride as Carnage revealed the true face of his evil. Carnage was a symbiotic offspring produced when Venom bonded to psychopath Cletus Kasady."}}</ref>
+|An offspring of the Venom symbiote merged with a [[serial killer]]. Carnage possess powers such as [[shapeshift]]ing and creating weapons from his body. He can also plant ideas in people's heads.<ref name="Carnage"/>
+|-
+|'''[[Mister Negative]]'''<ref name="CBR Villains #2"/>
+|'''Martin Li'''
+| #546 (January [[2008 in comics|2008]]) (full appearance)<ref name="Mr. Negative">{{cite news | url= https://www.cbr.com/forget-it-spidey-its-chinatown-van-lente-on-mister-negative/ | title=Forget it, Spidey! It's Chinatown: Van Lente On Mister Negative | newspaper=CBR | date=7 May 2009 | publisher=Comic Book Resources | access-date=December 24, 2021}}</ref>
+|[[Dan Slott]]<br/>[[Phil Jimenez]]
+|A crime boss and leader of the Inner Demons gang, who can swap his between his normal appearance and his alter ego. His powers include a healing touch, mind control, and the ability to charge regular weapons with his energy.
+|-
+|}
+
+===Foes of lesser renown that originated in ''The Amazing Spider-Man''===
+
+{| class="wikitable sortable"
+!Name
+!Notable [[alter ego]] 
+![[First appearance]] issue #
+![[List of comics creators|Creator]]
+!class=unsortable|Descriptions
+|-
+|[[Tinkerer (Marvel Comics)|Tinkerer]]
+|Phineas T. Mason
+|#2 (May [[1963 in comics|1963]])<ref name="Villains">{{cite book | title=HCA Heritage Comics Auction Catalog | publisher=Heritage Capital Corporation |author1=Dowell, Gary |author2=Holman, Greg |author3=Halperin, James L. | url=https://books.google.com/books?id=OCd_8lwvycYC&pg=PA44| isbn=9781599670935 | date=October 2006 }}</ref>
+|Stan Lee<br/><ref name="Tinkerer">{{Cite comic
+ | Writer = [[Stan Lee]]
+ | Penciller = [[Steve Ditko]]
+ | Inker = Steve Ditko
+ | Title = The Uncanny Threat of the Terrible Tinkerer!
+ | Story = 
+ | Volume = 1
+ | Issue =5
+ | Date = September [[1997 in comics|1997]]
+ | Publisher = Marvel Comics
+ }}</ref> Steve Ditko<ref name="Tinkerer"/>
+|A gifted engineer who specializes in creating gadgets from just about anything<ref name="Tinkerer"/>
+|-
+|[[Living Brain]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 24|isbn = 978-0756692360|quote= The Brain is an early Mobile Computer prototype built by I.C.M. in Midtown High School, where Peter Parker attended, it was deemed obsolete after Spidey's first encounter with it but it came back again.}}</ref>
+|N/A
+|#8 (January [[1964 in comics|1964]])<ref name="Living Brain">{{Cite comic
+ | Writer = Stan Lee
+ | Penciller = Steve Ditko
+ | Inker = Steve Ditko
+ | Story = The Terrible Threat Of The Living Brain!
+ | Title = The Amazing Spider-Man
+ | Volume = 1
+ | Issue = 8
+ | date = January 1964
+ | Publisher = Marvel Comics
+ }}</ref>
+|Stan Lee<ref name="Living Brain"/><br/>Steve Ditko<ref name="Living Brain"/>
+|A living robot that is designed to solve any problem<ref name="Living Brain"/>
+|-
+|[[Big Man (comics)|Big Man]]
+|[[Frederick Foswell]]
+|#10 (March [[1964 in comics|1964]])<ref name="confidential"/>
+|Stan Lee<ref name="confidential"/><br/>Steve Ditko<ref name="confidential"/>
+|A notorious crime lord in New York City<ref name="confidential"/>
+|-
+|[[Spencer Smythe]] / [[Spider-Slayer]]s
+|
+*N/A (Spencer Smythe)
+*Spider-Slayers: [[List of Spider-Slayers|Multiple names]]
+|#25 (June 1965)<ref name="confidential"/>
+|Stan Lee<br/>Steve Ditko
+|A robotic expert who created the Spider-Slayers to hunt down Spider-Man
+|-
+|[[Crime Master]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 29|isbn = 978-0756692360|quote= While he wouldn't have the same staying power as many other Stan Lee/Steve Ditko creations, the Crime Master gave villainy a good shot in this first half of a two-part Spider-Man adventure.}}</ref>
+|Various
+|#26 (July [[1965 in comics|1965]])<ref name="confidential"/>
+|Stan Lee<br/>Steve Ditko
+|A professional criminal who was the alias of different people
+|-
+|[[Molten Man]]<ref name="Molten Man">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 30|isbn = 978-0756692360|quote= Mark Raxton was a corrupt partner of [Spencer] Smythe's who worked with him on a liquid metal alloy project.}}</ref>
+|Mark Raxton<ref name="Molten Man"/>
+|#28 (September [[1965 in comics|1965]])<ref name="Heritage">{{cite book | title=HCA Heritage Comics Auction Catalog |publisher=Heritage Capital Corporation |author1=Dowell, Gary |author2=Holman, Greg |author3=Halperin, James L. }}</ref>
+|Stan Lee<br/>Steve Ditko
+|A scientist who was covered in a liquid metallic alloy that not only gives him super-strength, but also enabled him to generate heat and radiation.
+|-
+|[[Looter (comics)|Looter]]<ref name=worst/><ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 34|isbn = 978-0756692360|quote= Spider-Man was introduced to a new character in the form of the super villain called the Looter. The product of another [Stan] Lee and [Steve] Ditko collaboration, the Looter was born when hiker Norton G. Fester discovered and experimented on a mysterious meteor.}}</ref>
+| Norton G. Fester
+| #36 (May [[1966 in comics|1966]])<ref name="Heritage"/>
+|Stan Lee<br/>Steve Ditko
+|A poor scientist who gains superpowers from meteor gas
+|-
+|[[Mendel Stromm|Robot Master / Gaunt]]
+|Mendel Stromm
+| #37 (June [[1966 in comics|1966]])<ref name="confidential"/><ref name="Supervillains"/>
+|Stan Lee<br/>Steve Ditko
+|A former college teacher and partner of Norman Osborn that became a cyborg after being betrayed by Osborn
+|-
+|Finisher
+|Karl Fiers
+| data-sort-value="#51"|Annual #5 (November 1968)<ref name="Annual #5"/>
+|Stan Lee<ref name="Annual #5"/><br/>[[Larry Lieber]]<ref name="Annual #5">{{Cite comic
+| Writer = [[Stan Lee]]
+| Penciller = [[Larry Lieber]]
+| Inker = [[Mike Esposito (comics)|Mickey Esposito]]
+| Title = The Amazing Spider-Man Annual
+| Story = 
+| Volume = 1
+| Issue =5
+| Date = September [[1997 in comics|1997]]
+| Publisher = Marvel Comics
+ }}</ref>
+|
+|-
+|[[Man Mountain Marko]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 48|isbn = 978-0756692360|quote= Spider-Man called the Shocker's ex-girlfriend only to find her home under siege by a large thug named Man Mountain Marko.}}</ref>
+|Michael Marko
+|#73 (June [[1969 in comics|1969]])<ref name="confidential"/>
+|Stan Lee<br/>John Romita Sr.
+|A Maggia lieutenant to Silvermane with super-strength
+|-
+|[[Silvermane]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 48|isbn = 978-0756692360|quote= [Man Mountain Marko] wasn't the biggest threat the web-slinger would face in this issue. That honor went to Silvermane, an elderly crime boss intent on regaining his youth.}}</ref>
+|Silvio Manfredi
+| #73 (June [[1969 in comics|1969]])<ref name="encyclopedia"/>
+|Stan Lee<br/>[[John Buscema]]<ref name="confidential"/>
+|An aging crime boss
+|-
+|[[Prowler (Marvel Comics)|Prowler]]
+|Hobie Brown
+|#78 (November [[1969 in comics|1969]])<ref>{{cite comic |writer=Lee, Stan |penciller=Buscema, John|inker= Mooney, Jim|story= The Night of The Prowler!|title= The Amazing Spider-Man|issue= 78|date= November 1969}}</ref>
+|Stan Lee<br/>[[John Buscema]]<ref name="confidential"/>
+|
+|-
+|[[Kangaroo (comics)|Kangaroo]]<ref name=worst/><ref name="Kangaroo">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 52|isbn = 978-0756692360|quote= A new villain jumped into Spider-Man's life when the Kangaroo debuted, thanks to writer Stan Lee and artists [[John Buscema]], [[Jim Mooney]], and John Romita.}}</ref>
+|Frank Oliver<ref name="topless robot"/><br/>Brian Hibbs
+| #81 (February [[1970 in comics|1970]])<ref name="confidential"/>
+|Stan Lee<br/>John Buscema<br/>[[Jim Mooney]]<br/>John Romita, Sr.<ref name="Kangaroo"/>
+|A name given to two kangaroo-themed villains
+|-
+|[[Richard Fisk|Schemer]]<ref name="confidential"/>
+|Richard Fisk
+| #83 (April [[1970 in comics|1970]])
+|Stan Lee<br/>John Romita Sr.
+|The son of the Kingpin
+|-
+|[[Gog (Marvel Comics)|Gog]]
+|N/A
+|#103 (December [[1971 in comics|1971]])<ref name="confidential"/>
+|Roy Thomas<br/>Gil Kane
+|An alien was found by Kraven the Hunter and adopted as a pet. He quickly grew gigantic in size, and possesses superhuman strength and bracelets that allow interdimensional teleportation.
+|-
+|[[Gibbon (comics)|Gibbon]]<ref name="Gibbon">{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 61|isbn = 978-0756692360|quote= Stan [Lee] couldn't leave [the series] without gifting the readers one last new villain. With John Romita fulfilling the art chores, he crafted the Gibbon, an orphan named Martin Blank who was cursed from birth with a primitive, ape-like appearance.}}</ref> 
+|Martin Blank
+| #110 (July [[1972 in comics|1972]])<ref name="confidential"/>
+|Stan Lee<br/>John Romita Sr.<ref name="Gibbon"/>
+|A lesser criminal with gibbon-like abilities
+|-
+|[[John Jameson (comics)|Man-Wolf]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 73|isbn = 978-0756692360|quote= The Man-Wolf, a major new threat to Spider-Man and his supporting cast, was introduced in a two-part tale that saw the werewolf terrorize J. Jonah Jameson.}}</ref>
+|John Jameson
+| #124 (September [[1973 in comics|1973]]).<ref name="confidential"/>
+|[[Gerry Conway]]<ref name="Conway"/>
+|When exposed to the Godstone, John Jameson transforms into the werewolf-like creature Man-Wolf.
+|-
+|[[Tarantula (Marvel Comics)|Tarantula]]
+|Various
+|#134 (July [[1974 in comics|1974]])<ref name="confidential"/><ref name="encyclopedia"/>
+|Gerry Conway<br/>Ross Andru
+|A name given to different tarantula-themed villains
+|-
+|[[Mindworm]]<ref name="encyclopedia 2"/>
+|William Turner
+|#138 (November 1974)
+|Gerry Conway<ref name="confidential"/><br/>Ross Andru<ref name="confidential"/>
+|A superhuman with telepathic powers
+|-
+|[[Grizzly (comics)|Grizzly]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 77|isbn = 978-0756692360|quote= With every bit of order in Spider-Man's life came a fair amount of disorder, and in this [Gerry] Conway/[Ross] Andru issue, that chaos came in the form of another new Spider-Man villain, the Grizzly.}}</ref>
+|Maxwell Markham
+|#139 (December 1974)<ref name="Heritage Dallas">{{cite book | title=HCA Comics and Comic Art Auction Catalog #7021, Dallas, TX| publisher=Heritage Capital Corporation | date=April 2010 | isbn=978-1599674582}}</ref>
+|Gerry Conway<br/>Ross Andru
+|An ex-professional wrestler that wears a grizzly bear-themed outfit
+|-
+|[[Human Fly (comics)|Human Fly]]<ref name="topless robot"/>
+|Richard Deacon
+|data-sort-value="#140"|Annual #10<ref>{{cite web | url=http://www.comicbookresources.com/prev_img.php?disp=legacy_img&image=previews/marvelcomics/punisher/villains/PunisherVillains-7.jpg | title=Human Fly | publisher=Comic Book Resources | access-date=5 June 2015}}</ref> ([[1976 in comics|1976]])
+|[[Len Wein]]<br/>[[Bill Mantlo]]<br/>Gil Kane
+|A criminal that was imprinted with the genetic code of a housefly
+|-
+|[[Will o' the Wisp (comics)|Will o' the Wisp]]<ref name="confidential"/>
+|Jackson Arvad
+|#167 (April [[1977 in comics|1977]])
+|Len Wein<br/>Ross Andru
+|A former Roxxon employee who can manipulate his molecules
+|-
+|[[Big Wheel (comics)|Big Wheel]]<ref name=worst/>
+|Jackson Wheele<ref name="topless robot"/>
+|#182 (July [[1978 in comics|1978]])<ref name="confidential"/>
+|[[Marv Wolfman]]<br/>[[Ross Andru]]<br/>[[Mike Esposito (comics)|Mike Esposito]]
+|A criminal that rides the Big Wheel vehicle
+|-
+|[[Calypso (comics)|Calypso]]
+|Calypso Ezili
+|#209 (October [[1980 in comics|1980]])<ref name=HCC>{{cite book | title=813 Heritage Comic Auctions, Comic and Comic Art Auction Catalog| publisher=Heritage Capital Corporation | date=September 2004 | isbn=193289926X}}</ref>
+|[[Dennis O'Neil]]<br/>[[Alan Weiss (comics)|Alan Weiss]]
+|An accomplice of Kraven the Hunter who uses [[Haitian Vodou|voodoo]] potions and magic
+
+|-
+|[[Rose (Marvel Comics)|Rose]]<ref name="Back35b">{{cite journal|last= Greenberg|first= Glenn|author-link= Glenn Greenberg|date= August 2009|title= When Hobby Met Spidey|journal= [[Back Issue!]]|issue= 35|page= 15|publisher= [[TwoMorrows Publishing]]}}</ref><ref>DeFalco "1980s" in Gilbert (2008), p. 218: "Created by writer Tom DeFalco and artist Rick Leonardi, the villain tended his rose garden as he casually ran his various criminal enterprises."</ref>
+|[[Richard Fisk]]
+|#253 (June [[1984 in comics|1984]])<ref name=HCC/>
+|[[Tom DeFalco]]
+|The alias of a gentleman-like crime lord with the alias used by different people most notably Kingpin's son Richard Fisk
+|-
+|[[Alistair Smythe]]<ref name="Top25"/>
+|N/A
+|data-sort-value="#254"|Annual #19 (November [[1985 in comics|1985]])<ref name="Smythe">{{cite web | url=http://marvel.com/comics/issue/16893/amazing_spider-man_annual_1964_19 | title=AMAZING SPIDER-MAN ANNUAL (1964) #19 | publisher=Marvel | access-date=26 April 2015}}</ref><ref>{{cite web | url= https://www.cbr.com/marc-webb-reveals-b-j-novaks-amazing-spider-man-2-role/ | title=Marc Webb reveals B.J. Novak's ''Amazing Spider-Man 2'' role | date=4 February 2014 | publisher=Comic Book Resources | access-date=December 24, 2021}}</ref>
+|[[Louise Simonson]]<br/>Mary Wilshire<ref name="Supervillains"/>
+|The son of Spencer Smythe, who is also a robotic expert
+|-
+|[[Slyde]]<ref name="topless robot"/>
+|Jalome Beacher
+|#272 (January [[1986 in comics|1986]])<ref name=CB>{{cite book|last1=Ryall|first1=Chris|last2=Tipton|first2=Scott|title=Comic books 101 the history, methods and madness|date=2009|publisher=IMPACT|location=Cincinnati, Ohio|isbn=9781440307904|quote=I think Slyde's first appearance (''The Amazing Spider-Man'' #272, January 1986) is pretty goofy (non-stick coating on a super-villain suit? Sure!)}}</ref>
+|Tom DeFalco<br/>[[Sal Buscema]]
+|A chemist whose suit allow him to move at nearly {{convert|30|mph}}. He is almost impossible to grasp and he is incredibly maneuverable
+|-
+|{{anchor|Styx and Stone}}Styx and Stone<ref name=worst/>
+|Jacob Eishorn and Gerald Stone
+|#309 (November 1988)<ref>{{cite book|last1 = Claremont|first1 = Chris |last2= David |first2=Peter |title = Wolverine Epic Collection: Madripoor Nights| year = 2014 |isbn = 978-0785189039 |quote=Issue #309 will culimate the [[Mary Jane Watson|Mary Jane]] storyline. I am introducing a new duo of bad guys called Styx and Stones. Styx is a mastermind who loves death, adores death, and he's got these plans to bring death in all of its wonderful forms. Stones is his partner who actually carries out these things.}}</ref>
+|[[David Michelinie]]<br/>Todd McFarlane
+|A mad scientist and homeless man duo who fought Spider-Man as well as The Hulk, Venom and [[Cardiac (comics)|Cardiac]]. Styx has a disintegrating touch. Stone had two-large weapons on his shoulders and was later mutated into a golem-like creature.
+|-
+|[[Black Tarantula]]
+|Carlos LaMuerto
+|#419 (January 1997)<ref name="Supervillains"/>
+|Tom DeFalco<br/>[[Steve Skroce]]
+|A tarantula-themed martial artist
+|-
+|[[Morlun]]<ref name="Top25"/><ref name="CBR Villains #2"/>
+|N/A
+|data-sort-value="#420"|vol. 2 #30 (June [[2001 in comics|2001]])<ref name="encyclopedia 2">{{cite book |last = Couper-Smartt |first = Jonathan |title = Marvel encyclopedia: Spider-Man |publisher = Marvel Publishing Inc. |year = 2006 |isbn = 9780785124283 |url-access = registration |url = https://archive.org/details/marvelencycloped00jona }}</ref>
+|[[J. Michael Straczynski]]<br/>John Romita Jr.
+|A member of the Inheritors who can drain the life force out of totems
+|-
+|Shathra
+|N/A
+|data-sort-value="#421"|vol. 2 #46 (December [[2006 in comics|2006]])
+|J. Michael Straczynski<br/>John Romita Jr.<br/>Scott Hanna
+|An insectoid creature from the Astral Plane
+|-
+|{{anchor|Grey Goblin}}Grey Goblin
+|[[Gabriel Stacy]]<br/>[[Menace (Marvel Comics)|Lily Hollister (Menace)]]<ref name=TR2/>
+|#509 (August 2004)<br/>#550 (April 2008) (Menace)<ref>{{cite web | url=http://www.ign.com/articles/2008/02/14/amazing-spider-man-550-review | title=Amazing Spider-Man #550 Review | publisher=IGN | date=13 February 2008 | access-date=16 June 2015 | last=Fuller |first= Kevin}}</ref>
+|[[J. Michael Straczynski]]<br/>[[Mike Deodato]]
+|A gray-resembling Green Goblin whose alias was used by different people
+|-
+|[[Overdrive (character)|Overdrive]]<ref name=TR2/>
+|James Beverley
+|data-sort-value="#547"|''Swing Shift'' (May [[2007 in comics|2007]])<ref>{{cite web | url=http://www.newsarama.com/19087-all-new-marvel-now-teasers-day-6-hunted.html | title=All-New Marvel NOW! Teaser Trifecta: 'OVERDRIVE, 'WRATH','HUNTED' | publisher=Newsarama | date=2 October 2013 | access-date=16 June 2015|first=Lucas|last=Seigel}}</ref>
+|Dan Slott<br/>Phil Jimenez
+|A supervillain who can convert any vehicle into a high-powered one
+|-
+|Screwball
+|Unknown
+|#559 (May [[2008 in comics|2008]])
+|Dan Slott<br/>[[Marcos Martín (cartoonist)|Marcos Martín]]
+|The world's first "live-streaming super-villain"
+|-
+|[[Massacre (Marvel Comics)|Massacre]]<ref>{{cite web|url=https://www.cbr.com/amazing-spider-man-656-2/|title=Preview: Amazing Spider-Man #656|work=Comic Book Resources|date=2011-03-10}}</ref><ref>{{cite web|url=http://www.craveonline.com/comics/reviews/205515-superior-spider-man-4-massacres-back|title=Superior Spider-Man #4: Massacre's Back|work=Crave Online}}</ref>
+|Marcus Lyman
+|#655 (April 2011)<ref>{{cite web|url=http://marvel.com/comics/issue/35517/amazing_spider-man_1999_655|title=Amazing Spider-Man (1999) #655|work=Marvel.com}}</ref><ref>{{cite web|url=http://www.ign.com/articles/2011/02/23/the-amazing-spider-man-655-review|title=The Amazing Spider-Man #655 Review |work=ign.com|date=23 February 2011 }}</ref><ref>{{cite web|url=https://www.cbr.com/amazing-spider-man-655/|title=Amazing Spider-Man #655|work=Comic Book Resources|date=2011-02-23}}</ref>
+|Dan Slott<br/>Marcos Martín
+|A brain-damaged criminal who lacks emotions
+|-
+|Panda-Mania
+|Unknown
+|Vol. 3 #1
+|Dan Slott<br/>Humberto Ramos
+|A giant panda-themed supervillain
+|-
+|Regent
+|Augustus Roman
+|Vol. 4 #1
+|Dan Slott<br/>Christos Gage<br/>Paco Diaz
+|The CEO of Empire Unlimited whose suit enables him to copy the powers of anyone imprisoned in his stasis tubes. A version of the character from Earth-18119 first appeared in ''[[Amazing Spider-Man: Renew Your Vows]]'' as part of the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline.
+|-
+|[[List of Marvel Comics characters: K#Kindred|Kindred]]
+|Harry Osborn
+|data-sort-value="#656"|Vol. 5 #5
+|[[Nick Spencer]]<br/>[[Ryan Ottley]]
+|A human-turned-demon who has been revealed as Harry Osborn.
+|-
+|}
+
+===''The Spectacular Spider-Man'' debuts===
+'''Note:''' In chronological order
+{|class=wikitable
+!Name
+!Alter ego
+!First appearance
+!Description
+|-
+|[[Carrion (comics)|Carrion]]
+|Various
+|''[[The Spectacular Spider-Man]]'' #25 (December [[1978 in comics|1978]])<ref name="confidential"/><ref name="encyclopedia 2"/>
+|The first Carrion is a clone of Jackal
+|-
+|{{anchor|Iguana}}Iguana
+|N/A
+|#32 (July [[1979 in comics|1979]])
+|An accident occurs while Dr. Connors experiments on an ordinary iguana, endowing the iguana with part of Connors' lifeforce and memories, as well as the personality and powers of Connors' alter ego, the Lizard. The Iguana becomes a human-sized semi-humanoid reptile with superhuman strength, hypnotic powers, and the ability to mentally control other reptiles.<ref name="Peter Parker, The Spectacular Spider-Man #33">''Peter Parker, The Spectacular Spider-Man'' #33. Marvel Comics.</ref><ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=108}}</ref> The Iguana encounters and battles Spider-Man, and is turned back into a normal iguana.<ref>''Peter Parker, The Spectacular Spider-Man'' #34. Marvel Comics.</ref>
+|-
+|[[Answer (comics)|Answer]]<ref name="encyclopedia 2"/>
+|Aaron Nicholson
+|#91(June [[1984 in comics|1984]])<ref>{{Cite comic
+ | Writer = [[Al Milgrom]]
+ | Penciller = Al Milgrom
+ | Inker = [[Jim Mooney]]
+ | Story = If It Wasn't For Bad Luck...
+ | Title = Peter Parker, The Spectacular Spider-Man
+ | Volume = 1
+ | Issue = 91
+ | date = June 1984
+ | Publisher = Marvel Comics
+ }}</ref>
+|
+|-
+|[[Spot (comics)|Spot]]<ref name=worst>{{cite web|title=The 10 WORST Spider-Man Villains of All Time!|url=http://www.newsarama.com/15578-not-ock-the-10-least-superior-spider-man-villains.html|publisher=Newsarama|access-date=5 June 2015}}</ref><ref name="Sinister Six">{{cite magazine|last1=Franich|first1=Darren|title='Amazing Spider-Man': Our villain wish list for the Sinister Six|url=http://www.ew.com/article/2014/03/28/amazing-spider-man-sinister-six-villains|magazine=[[Entertainment Weekly]]|access-date=5 June 2015}}</ref>
+|Jonathan Ohnn
+| #98 (January [[1985 in comics|1985]])<ref>{{Cite comic|writer =[[Al Milgrom|Milgron, Al]] |penciller = [[Herb Trimpe|Trimpe, Herb]]|inker = |story = True Confessions |title = The Spectacular Spider-Man|volume = 1|issue = #98|date = January 1985|publisher = Marvel Comics|location = United States}}</ref>
+|A scientist with the ability to create portals that lead to an alternate dimension and instantly cross short distances
+|-
+|[[Foreigner (comics)|Foreigner]]<ref name="encyclopedia 2"/>
+|Kris Keating
+|#115 (June [[1986 in comics|1986]])<ref>{{Cite comic
+ | Writer = [[Peter David]]
+ | Penciller = Steve Ditko
+ | Inker = [[Mark Beachum]]
+ | Story = Things Fall Apart
+ | Title = Peter Parker, The Spectacular Spider-Man
+ | Volume = 1
+ | Issue = 15
+ | date = June 1986
+ | Publisher = Marvel Comics
+ }}</ref>
+|A master mercenary and assassin.
+|-
+|[[Sin-Eater (comics)|Sin-Eater]]<ref name="encyclopedia 2"/>
+|Stanley Carter
+|#107 (October 1986)<ref>{{Cite comic
+ | Writer = [[Peter David]]
+ | Penciller = [[Rich Buckler]]
+ | Inker = [[Brett Breeding]]
+ | Story = Original Sin
+ | Title = Peter Parker, The Spectacular Spider-Man
+ | Volume = 1
+ | Issue = 107
+ | date = October 1985
+ | Publisher = Marvel Comics
+ }}</ref>
+|Multiple abilities ranging from artificially heightened physicality, to supernatural energy manipulation and self-healing. Was instrumental in the creation of [[Eddie Brock|Venom]], and is also a reoccurring villain of [[Ghost Rider]].
+|-
+|Lobo Brothers
+|Carlos and Eduardo Lobo
+|#149 (October [[1988 in comics|1988]])
+|Two brothers who become werewolves and [[Drug cartel]] members who expanded into Texas. 
+|-
+|[[Demogoblin]]
+|N/A
+|#147 (February [[1989 in comics|1989]]) (as Hobgoblin)<ref name="confidential"/><br/>''[[Web of Spider-Man]]'' #86 (March [[1992 in comics|1992]])<ref name="Supervillains"/>
+|A demon from Limbo
+|}
+
+===''Marvel Team-Up'' debuts===
+'''Note:''' In chronological order
+{| class=wikitable
+!Name
+!Alter ego
+!First appearance
+!Creator
+!Description
+|-
+|[[Stegron]]<ref name=worst/>
+|Vincent Stegron
+|''[[Marvel Team-Up]]'' (1st series) #19 (March [[1974 in comics|1974]])<ref name="encyclopedia">{{cite book|last = Rovin|first = Jeff|title = [[The Encyclopedia of Super-Villains]]|year = 1987 |isbn = 081601356X}}</ref>
+|[[Len Wein]]<br/>[[Gil Kane]]
+|A scientist who became a humanoid [[Stegosaurus]] using the same method that turned Curt Connors into Lizard
+|-
+|[[White Rabbit (comics)|White Rabbit]]<ref name="confidential"/>
+|Dr. Lorina Dodson
+|''Marvel Team-Up'' #131 (July [[1983 in comics|1983]])<ref name="MTU131">{{Cite comic
+ | Writer = J.M. DeMatteis
+ | Penciller = [[Kerry Gammill]]
+ | Inker = Mike Esposito
+ | Story = The Best Things In Life Are Free...But Everything Else Costs Money!
+ | Title = [[Marvel Team-Up]]
+ | Volume = 1
+ | Issue = 131
+ | date = July 1983
+ | Publisher = Marvel Comics
+ }}</ref>
+|[[J. M. DeMatteis]]<ref name="MTU131"/><br/>[[Kerry Gammill]]<ref name="MTU131"/><br/>[[Mike Esposito (comics)|Mike Esposito]]<ref name="MTU131"/>
+|A [[rabbit]]-themed supervillain, who pilots a giant rabbit [[Mecha|mech]] and has a large arsenal of weapons at her disposal
+|-
+|Black Abbot
+|(unknown)
+|''Marvel Team-Up'' #147 (November 1984)
+|[[Cary Burkett]]<br/>[[Greg LaRocque]]
+|A former monk of Dakoth-Kuru, a sect that had managed to use their teachings to unlock the full potential of their minds, giving them incredible mental powers. The Black Abbot had more powers, including the ability to control the twelve others and took control of the entire brotherhood.
+|-
+|Incandescent Man
+|(unknown)
+|''Marvel Team-Up'' #149 (January 1985)
+|Louise Simonson<br/>Bret Blevins
+|Following an experiment bt [[Features of the Marvel Universe#Project Pegasus|Project Pegasus]], he gained the ability to draw electrical energy into one's body.
+|}
+
+===Debuting in other Spider-Man titles===
+'''Note:''' In chronological order
+{| class=wikitable
+!Name
+!Alter ego
+!First appearance
+!Creator
+!Description
+|-
+|[[Shriek (character)|Shriek]]
+|Frances Louise Barrison
+|''[[Spider-Man Unlimited (comics)|Spider-Man Unlimited]]'' #1 (May [[1993 in comics|1993]])<ref name="encyclopedia 2"/>
+| [[Ron Lim]]<br/>[[Mark Bagley]]<br/>[[Mike W. Barr]]<br/>Tom DeFalco<br/>[[Jerry Bingham]]<br/>[[Terry Kavanagh]]
+|A sound-manipulating supervillain
+|-
+|}
+
+=== Debuting outside Spider-Man titles ===
+{| class=wikitable
+!Name
+!Alter ego
+!First appearance
+!Description
+|-
+|[[Beetle (comics)|Beetle]]
+|[[Abner Jenkins]]
+|''[[Strange Tales]]'' #123 (August 10, [[1964 in comics|1964]])<ref name="Supervillains"/>
+|A master mechanic who wears a beetle-themed armor
+|-
+|[[Boomerang (comics)|Boomerang]]<ref name="topless robot">{{cite web|last1=Boland|first1=Robbie|title=10 Spectacularly Third-Rate Spider-Man Villains (Part two)|url=http://www.toplessrobot.com/2011/04/10_spectacularly_third-rate_spider-man_villains.php?page=2|publisher=Topless Robot|access-date=5 June 2015|date=2011-04-11}}</ref>
+|Fred Myers
+|''[[Tales to Astonish]]'' #81 (July 10, [[1966 in comics|1966]])<ref name="Supervillains"/>
+|A former baseball player who uses boomerangs as weapons
+|-
+|[[Mephisto (Marvel Comics)|Mephisto]]
+|[[Stan Lee]]<ref name="Back21">{{cite journal|last= Cordier|first= Philippe|date= April 2007|title= Seeing Red: Dissecting Daredevil's Defining Years|journal= [[Back Issue!]]|issue= #21|pages= 33–60 |publisher= [[TwoMorrows Publishing]]}}</ref><br/>[[John Buscema]]<ref name="Conroy">[[Mike Conroy (writer)|Conroy, Mike.]] ''500 Comicbook Villains'', Collins & Brown, 2004. "Mephisto is the [[tempter]] who could offer the endlessly soul-tormented Silver Surfer the world, even dangling the Surfer's off-limits long-distance lover in front of him. As always the case with Lee's heroes, the Surfer's goodness and nobility won out, but Mephisto was only stymied, not defeated, and the pattern was set."</ref>
+|''[[Silver Surfer (comic book)|The Silver Surfer]]'' #3 (December [[1968 in comics|1968]]; originally)<ref>{{cite web|url= http://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters/page/0/1|title= Marvel's 31 Best Monsters|first= Marc|last= Buxton|date= October 30, 2015|publisher= [[Dennis Publishing|Den of Geek]]|archive-url= https://web.archive.org/web/20170312224818/http://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters/page/0/1|archive-date= March 12, 2017|url-status= dead|df= mdy-all|quote= Not really the Biblical devil, Mephisto is a netherworldly tempter, a soul broker, and a liar who pretty much serves the same exact purpose as the Devil but he won’t get Marvel in trouble with Christian conservatives.|access-date= September 30, 2018}}</ref>
+|A demon who manipulates Spider-Man and other superheroes into making deals with him. He is [[Sinister War|responsible]] for Norman Osborn's and his son [[Harry Osborn|Harry]]'s initial transformations into the Green Goblin, and manipulating Norman into trading away Harry's soul and facilitating the latter's torment and transformation into the demonic [[Kindred (Marvel Comics)|Kindred]].<ref name="Kindred">{{cite web|url=https://screenrant.com/spiderman-green-goblin-origin-kindred-harry-mephisto|title=Marvel Reveals The True Origin Of Spider-Man's Greatest Foe|publisher=[[Screen Rant]]|date=28 August 2021|last=Erdmann|first=Kevin|access-date=28 August 2021}}</ref> Mephisto is also responsible for [[Spider-Man: One More Day|manipulating Spider-Man into erasing his marriage]] to [[Mary Jane Watson]] from the timeline in exchange for resurrecting [[Aunt May|May Parker]], and erasing [[Spider-Girl (Mayday Parker)|his future daughter]] and adversary from existence.<ref name="cbr interview 1">{{cite web |author=Weiland, Jonah |date=2007-12-28 |url= https://www.cbr.com/the-one-more-day-interviews-with-joe-quesada-pt-1-of-5/ |title=The "One More Day" Interviews with Joe Quesada, Pt. 1 of 5 |publisher=Comic Book Resources|access-date=2008-05-01}}</ref><ref name="Mephisto">{{cite web|url=https://screenrant.com/spider-man-greatest-villain-mephisto-sinister-way|title=Marvel Confirms Mephisto Was Spider-Man's Greatest Enemy All Along|publisher=[[Screen Rant]]|date=5 September 2021|last=Erdmann|first=Kevin|access-date=5 September 2021}}</ref>
+|-
+|[[Ringer (comics)|Ringer]]<ref name="Back35c">{{cite journal |last=Kraft |first=David |author-link=Keith Giffen |date=August 2009 |title=When Hobby Met Spidey |journal=[[Back Issue!]] |issue=51 |page=1 |publisher=[[TwoMorrows Publishing]]}}</ref><ref>DeFalco "1980s" in Gilbert (2008), p. 218: "Created by writer David Kraft and artist Keith Giffen."</ref>
+|Anthony Davis
+|''[[Defenders (comics)|Defenders]]'' #51 (June [[1977 in comics|1977]])<ref name="HCC"/>
+|A supervillain who wields ring-based weapons
+|-
+|[[Swarm (comics)|Swarm]]<ref name="worst"/>
+|Fritz von Meyer
+|''[[Champions (1975 team)|Champions]]'' #14 (July [[1977 in comics|1977]])<ref name="confidential">{{cite book|last = Gross|first = Edward |title = Spider-Man Confidential: From Comic Icon to Hollywood Hero|year = 2002 |isbn = 0786887222}}</ref>
+|A former Nazi and beekeeper whose skeleton is surrounded by a swarm of bees
+|-
+|[[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]]<ref name="CBR Villains #2"/>
+|[[Jason Macendale]]
+|''[[Machine Man]]'' #19 (February [[1981 in comics|1981]])<ref name="Supervillains"/>
+|A jack-o'-lantern-themed villain whose alias was used by different people.
+|-
+|[[Speed Demon (comics)|Speed Demon]]
+|James Sanders
+|''[[Avengers (comics)|Avengers]]'' #70 (November [[1960 in comics|1969]]) (as the Whizzer)<br/>''The Amazing Spider-Man'' #222 (November [[1981 in comics|1981]])<ref name="Supervillains"/>
+|A chemist with super-speed and former member of the [[Squadron Sinister]]
+|-
+|[[Vermin (comics)|Vermin]]
+|Edward Whelan
+|''[[Captain America (comic book)|Captain America]]'' #272 (August [[1982 in comics|1982]])<ref name="confidential"/>
+|A geneticist who was turned into a humanoid rat by [[Arnim Zola]]
+|-
+|[[Doppelganger (comics)|Doppelganger]]
+|Spider-Doppelganger
+|''[[The Infinity War]]'' #1 (July [[1992 in comics|1992]])<ref name="confidential"/>
+|A nearly-mindless duplicate of Spider-Man
+|-
+|Supercharger
+|Ronald Hiliard
+|''[[Amazing Fantasy]]'' #17 (January 1996)
+|A supervillain who is able to absorb and store electricity
+|-
+|{{anchor|Proto-Goblin}}Proto-Goblin
+|Nels van Adder
+|''Spider-Man'' #-1 (July 1997)
+|In a [[Retroactive continuity|retcon]], Norman Osborn tests the incomplete version of the formula on Oscorp employee '''Nels van Adder''', driving van Adder insane and causing him to transform into a red, demon-like being known as the "'''Proto-Goblin'''". Killing several people and blaming Norman for his condition, van Adder harasses and later attempts to kill him before being knocked out an Oscorp window by Chief of Security Arthur Stacy and his brother Detective [[George Stacy]]. In order to escape conviction for what he had done to van Adder, Norman convinces the police that van Adder had been experimenting on himself and that he had been trying to help him. Van Adder was last seen fleeing into the wilderness and his current fate is unknown.
+
+As well as endowing van Adder with super strength and agility, the prototypical Goblin Formula gave him claws, talons, fangs, glowing green eyes, and near-impenetrable red skin that is capable of withstanding several close range bullet shots.
+|-
+|[[Hippo (comics)|Hippo]]
+|Mrs. Fluffy Lumpkins
+|''[[Dark Reign (comics)|Dark Reign]]'': ''The Sinister Spider-Man'' #1 (August 2009)
+|An uplifted hippopotamus that was uplifted by the [[High Evolutionary]]. The hippopotamus had been named "Mrs. Fluffy Lumpkins" before being experimented upon, despite the fact that it was a male hippo.
+|}
+
+==Other villains==
+===Coldheart===
+'''Coldheart''' debuted in ''Spider-Man'' #49. Not much is known about the history of Kateri Deseronto. She is an expert martial artist and swordsman who wields Cryonic Swords that can freeze anyone in their place.<ref>{{Cite comic
+ | Writer = [[Howard Mackie]]
+ | Penciller = [[Tom Lyle]]
+ | Inker =
+ | Title = Spider-Man
+ | Story = Cold Hearts
+ | Volume = 1
+ | Issue = 49
+ | Date = August [[1994 in comics|1994]]
+ | Publisher = Marvel Comics
+ }}</ref>
+
+===Delilah===
+{{Comics character list header
+|debut = ''[[The Amazing Spider-Man]]'' #414
+|debutmo = August
+|debutyr = 1996
+|creators = [[Tom DeFalco]] and [[Mark Bagley]]
+|species = Human
+|teams =
+|abilities = Skilled at being an assassin
+|alias = 
+|name = Delilah
+|CBDBid = 15470
+|GCDid = Delilah
+}}
+'''Delilah''' first appeared in ''[[The Amazing Spider-Man]]'' #414 by [[Tom DeFalco]] and [[Mark Bagley]].<ref name="confidential"/> A highly skilled and ruthless assassin who came under the employ of the Rose during one of the many crime-boss gang wars and became his confidante as well as his chief enforcer. She is first shown wiping out an entire room of mobsters so the Rose could maintain control of part of the New York Organize Crime. Delilah came into conflict with Spider-Man for the first time when she attempted to assassinate the ex-husband of one of Rose's employers. When the [[Black Tarantula]] first involved himself in the gang war, Delilah attempted to kill his super-strong henchman El Uno but she was overwhelmed by his power. The rematch, though, was a firm win for Delilah, with El Uno's head being mailed back to the Black Tarantula.<ref>{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Mark Bagley]]
+ | Inker = [[Larry Mahlstedt]]
+ | Title = The Amazing Spider-Man
+ | Story = Deadly is Delilah
+ | Volume = 1
+ | Issue = 414
+ | Date = August [[1996 in comics|1996]]
+ | Publisher = Marvel Comics
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Steve Skroce]]
+ | Inker = Bud LaRosa
+ | Title = The Amazing Spider-Man
+ | Story = Twas The Night Before Christmas...
+ | Volume = 1
+ | Issue = 420
+ | Date = February [[1997 in comics|1997]]
+ | Publisher = Marvel Comics
+ }}</ref>
+
+She also had a role during the Rose's efforts to gain extra muscle and to remove Spider-Man from interfering in their operations, in the rebirth of two of Spider-Man's old foes. She was the one who threw the switch of the [[electric chair]] which gave [[Electro (Marvel Comics)|Electro]] his powers back, hoping he would eliminate Spider-Man. Electro failed, and so they devised a new plan. This time, they stole the corpse of [[Doctor Octopus]] so [[The Hand (comics)|the Hand]] could succeed in restoring him to life. Delilah later found herself ambushed by the Black Tarantula himself, who easily subdued her and broke her neck, inflicting fatal injuries, but before she could die, however, the Black Tarantula instantly healed her with a message of warning for the Rose.
+
+Attempting to find help to bring down the Black Tarantula, Delilah enlisted the aid of the new costumed adventurer Ricochet (actually Spider-Man in disguise). Together they tackled two of the Black Tarantula's operatives, Roughhouse and Bloodscream. Bloodscream grabbed hold of Delilah and caused her to bleed until she passed out. She was taken by the authorities to the hospital.
+
+Years later she appears in [[Loners (comics)|Loners]] as an assassin smuggling MGH. When Johnny Gallo (the second Ricochet) broke into a laboratory, she thought he was the one she had teamed up with, and attacked him. Despite her skills, Johnny managed to knock her out with a cunningly thrown disc.<ref>Loners #5 Comic – September 12, 2007</ref><ref>{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Joe Bennett (artist)|Joe Bennett]]
+ | Inker = [[Bud LaRosa]]
+ | Title = The Amazing Spider-Man
+ | Story = Exposed Wiring
+ | Volume = 1
+ | Issue = 422
+ | Date = April [[1997 in comics|1997]]
+ | Publisher = Marvel Comics
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Joe Bennett (artist)|Joe Bennett]]
+ | Inker = Bud LaRosa
+ | Title = The Amazing Spider-Man
+ | Story = Exposed Wiring
+ | Volume = 1
+ | Issue = 422
+ | Date = April [[1997 in comics|1997]]
+ | Publisher = Marvel Comics
+ }}</ref><ref>{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Steve Skroce]]
+ | Inker = Bud LaRosa
+ | Title = The Amazing Spider-Man
+ | Story = Sacrifice Play!
+ | Volume = 1
+ | Issue = 427
+ | Date = September [[1997 in comics|1997]]
+ | Publisher = Marvel Comics
+ }}</ref>
+
+===Spidercide===
+{{Comics character list header
+|debut = ''[[The Spectacular Spider-Man]]'' #22
+|debutmo = March
+|debutyr = 1995
+|creators = [[Tom DeFalco]] and [[Sal Buscema]]
+|species = [[Cloning|Clone]]
+|teams =
+|abilities = [[shapeshifting]], molecular manipulation, same abilities of [[Spider-Man]]
+|alias = Peter Parker<br/>Spider-Man<br/>Freakface
+|name = Spidercide
+|CBDBid = 18893
+|GCDid = Spidercide
+}}
+'''Spidercide''' was a major antagonist in the "Maximum Clonage" [[story arc]]. He first appeared in ''The Spectacular Spider-Man'' #222 by [[Tom DeFalco]] and [[Sal Buscema]].<ref name="encyclopedia 2"/> He is depicted as an evil [[Foil (fiction)|foil]] of Spider-Man, [[Ben Reilly]], and [[Kaine Parker|Kaine]]. Introduced as a [[red herring]] to suggest the possibility of a third individual that was the original Peter Parker, he is [[Clone Saga|one of the Spider-Man clones]] created by [[Jackal (Marvel Comics character)|Jackal]], to be Jackal's enforcer and protector. However, Spidercide is actually a clone to Ben Reilly, who is a direct genetic duplicate of Spider-Man.<ref name=worst/>
+ 
+The Jackal later modified Spidercide's powers, granting him the unique ability to control his physical make-up on a molecular level; he can alter his mass, density, shape and state at will similar to the [[symbiote (comics)|symbiotes]]. Despite was create to escort and protect the Jackal, Spidercide betrays him and aligned with the Scrier. He was believed to have died after being thrown off the roof of the ''[[Daily Bugle]]''.<ref name=worst/><ref>{{Cite comic | Writer = [[Tom Lyle]] | Penciller =| Inker =| Title = Spider-Man: Maximum Clonage: Omega| Story = Maximum Clonage - (Conclusion!) The End of the Beginning!|Volume = 1|Issue = | Date = August, [[1995 in comics|1995]]| Publisher = Marvel Comics }}</ref> only to survive and return to menace Reilly shortly afterwards <ref>Ben Reilly: Spider-Man#3M</ref>
+
+==Antiheroes and reformed, semi-reformed, or occasionally reformed supervillains==
+The following is a list of Spider-Man adversaries who, at one point or another, have been reformed or semi-reformed, either temporarily or currently, or who are no longer primarily antagonists of Spider-Man. Many of these characters are now anti-heroes and have often acted as allies of the web-slinger, while others occasionally return to villain status depending on the story arc. 
+{| class=wikitable
+!Name
+!Alter ego
+!First appearance
+|-
+|[[Doctor Octopus]]
+|Dr. Otto Gunther Octavius
+|''The Amazing Spider-Man'' #3 (July [[1963 in comics|1963]])
+|-
+|[[Sandman (Marvel Comics)|Sandman]]
+|Flint Marko
+|''The Amazing Spider-Man'' #4 (September [[1963 in comics|1963]])
+|-
+|[[Lizard (character)|Lizard]]
+|Dr. Curtis "Curt" Connors
+|''The Amazing Spider-Man'' #6 (November [[1963 in comics|1963]])
+|-
+|[[Kraven the Hunter]]
+|Sergei Kravinoff I
+|''The Amazing Spider-Man'' #15 (August [[1964 in comics|1964]])
+|-
+|[[Boomerang (comics)|Boomerang]]
+|Frederick "Fred" Myers
+|''Tales to Astonish'' #81 (July [[1966 in comics|1964]])
+|-
+|[[Beetle (comics)|Beetle]]
+|[[Abner Jenkins]]
+|''Strange Tales'' #123 (August [[1964 in comics|1964]])
+|-
+|[[Molten Man]]
+|Mark Raxton
+|''The Amazing Spider-Man'' #28 (September [[1965 in comics|1965]])
+|-
+|[[Prowler (Marvel Comics)|Prowler]]
+|Hobart "Hobie" Brown
+|''The Amazing Spider-Man'' #78 (November [[1969 in comics|1969]])
+|-
+|[[Gibbon (comics)|Gibbon]]
+|Martin Blank
+|''The Amazing Spider-Man'' #110 (July [[1972 in comics|1972]])
+|-
+|[[Punisher]]
+|Frank Castle
+|''The Amazing Spider-Man'' #129 (February [[1974 in comics|1974]])
+|-
+|[[Rocket Racer]]
+|Robert Farrell
+|''The Amazing Spider-Man'' #172 (September [[1977 in comics|1977]])
+|-
+|[[Black Cat (Marvel Comics)|Black Cat]]
+|Felicia Hardy
+|''The Amazing Spider-Man'' #194 (July [[1979 in comics|1979]])
+|-
+|[[Puma (comics)|Puma]]
+|Thomas Fireheart
+|''The Amazing Spider-Man'' #256 (September [[1984 in comics|1984]])
+|-
+|[[Silver Sable]]
+|Silver Sablinova
+|''The Amazing Spider-Man'' #265 (June [[1985 in comics|1985]])
+|-
+|[[Venom (Marvel Comics character)|Venom]]
+|[[Eddie Brock]]
+|''[[Web of Spider-Man]]'' #18 (September [[1986 in comics|1986]])
+|-
+|[[Solo (Marvel Comics)|Solo]]
+|James Bourne
+|''Web of Spider-Man'' #19 (October [[1986 in comics|1986]])
+|-
+|[[Cardiac (comics)|Cardiac]]
+|Elias Wirtham
+|''The Amazing Spider-Man'' #344 (December [[1990 in comics|1990]])
+|-
+|[[Kaine Parker|Kaine]]
+|Kaine Parker
+|''Web of Spider-Man'' #119 (December [[1994 in comics|1994]])
+|}
+
+==Non-supervillain enemies==
+{{See also|List of Spider-Man supporting characters}}
+{| class=wikitable
+!Name
+!First appearance
+!Description
+|-
+|[[Burglar (comics)|Burglar]]
+|''[[Amazing Fantasy]]'' #15 (August [[1962 in comics|1962]])
+|The man who killed [[Uncle Ben|Peter's uncle]], which would inspire him to use his powers responsibly and become Spider-Man.<ref name="Debut">{{Cite comic | writer=[[Stan Lee|Lee, Stan]] | artist=[[Steve Ditko|Ditko, Steve]] | story= | title=[[Amazing Fantasy]] | issue=15 |date = Aug 1962| publisher=[[Marvel Comics]] | location=[[New York City]], [[New York (state)|New York]]}}</ref>
+|-
+|-
+|[[Flash Thompson]]<ref name="Debut"/>
+|''Amazing Fantasy'' #15 (August 1962)
+|Early on, Flash Thompson was usually depicted as an enemy of Peter Parker and an ardent admirer of Spider-Man. He is Peter's classmate who enjoys bullying him, while ironically being one of Spider-Man's biggest fans. Later on, Flash would become good friends with Peter. In ''The Amazing Spider-Man'' #654, Flash came into contact with the Venom symbiote and became the superhero Agent Venom.<ref>{{cite web| last=Orange| first=Alan| url= http://www.movieweb.com/news/NElDTbvMSFdmpn|title=Chris Zylka Is Eugene Flash Thompson in Spider-Man| publisher= [[MovieWeb]]| date=November 17, 2015|access-date=November 27, 2010}}</ref>
+|-
+|[[J. Jonah Jameson]]
+|''The Amazing Spider-Man'' #1 (March 1963)
+|The editor in chief of the ''[[Daily Bugle]]'' and Peter Parker's boss. He has a strong hatred of Spider-Man and tries his best to turn the city against him by publishing fake news about him, or changing them to make it look like Spider-Man is in cahoots with the villains he is fighting. He was also responsible for the funding of the creation of Scorpion, the Spider-Slayers,<ref name="Top25"/> and the Human Fly.
+|}
+
+==Group villains==
+[[File:The Legion of Losers.jpg|thumb|Cover of ''[[The Spectacular Spider-Man]]'' #246 (May 1997) depicting Spider-Man's weaker foes ([[Spot (comics)|Spot]], [[Gibbon (comics)|Gibbon]], the second [[Kangaroo (comics)|Kangaroo]] and the third [[Grizzly (comics)|Grizzly]]) teaming up to try to defeat Spider-Man. Art by [[Luke Ross]]]]
+{| class=wikitable
+!Group name
+!Original members
+!First Appearance
+!Description
+|-
+| [[Enforcers (comics)|Enforcers]]<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 24|isbn = 978-0756692360|quote= While never reaching the popularity of previous [Stan] Lee and [Steve] Ditko collaborations, the Enforcers managed to give the wall-crawler a run for his money in their first appearance.}}</ref>
+| [[Montana (comics)|Montana]]<br/>[[Ox (comics)|Ox]]<br/>[[Fancy Dan]]
+|''The Amazing Spider-Man'' #10 (March [[1964 in comics|1964]])
+|A team of mercenaries usually in the employment of crime bosses. They are generally depicted as having no super powers, but are highly skilled assassins.
+|-
+| [[Sinister Six]]<ref name=collider>{{cite web|last1=Valentine|first1=Eve|title=Who Are the Sinister Six? – An Introduction to Spider-Man's Supervillain Group|url=http://collider.com/sinister-six-movie-preview/|website=Collider|access-date=14 June 2015|date=2013-12-21}}</ref> 
+ |[[Doctor Octopus]]<br/>[[Vulture (Marvel Comics)|Vulture]]<br/>[[Electro (Marvel Comics)|Electro]]<br/>[[Sandman (Marvel Comics)|Sandman]]<br/>[[Mysterio]]<br/>[[Kraven the Hunter]]
+|''The Amazing Spider-Man Annual'' #1 (January 1964)
+|Brought together by Doctor Octopus, they consist of some of Spider-Man's worst enemies, who joined forces in an attempt to eliminate the web-slinger once and for all. The team had different members in its various iterations over the years, but Doctor Octopus generally remained their leader across all versions.
+|-
+|[[Sinister Syndicate]]<ref name="sinister sydicate">{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Ron Frenz]]<br/>[[Brett Breeding]]
+ | Inker = [[Brett Breeding]]
+ | Story = The Sinister Syndicate!
+ | Title = [[The Amazing Spider-Man]]
+ | Volume = 1
+ | Issue = 280
+ | Date = September, [[1986 in comics|1986]]
+ | Publisher = Marvel Comics
+ }}</ref>
+|[[Beetle (comics)|Beetle]]<br/>[[Hydro-Man]]<br/>[[Rhino (character)|Rhino]]<br/>[[Boomerang (comics)|Boomerang]]<br/>[[Speed Demon (comics)|Speed Demon]]
+|''The Amazing Spider-Man'' #280 (September [[1986 in comics|1986]])
+|A team of Spider-Man villains who were inspired by the Sinister Six to band together. Unlike them, however, they are not interested in killing Spider-Man, and work for the highest bidder.
+|-
+| Spider-Man Revenge Squad<ref>{{Cite comic
+ | Writer = [[Glenn Greenberg]]
+ | Penciller = [[Luke Ross]]
+ | Inker = [[Al Milgrom]]
+ | Story = The Legion of Losers!
+ | Title = [[The Spectacular Spider-Man]]
+ | Volume = 1
+ | Issue = 246
+ | Date = May, [[1997 in comics|1997]]
+ | Publisher = Marvel Comics
+ }}</ref>
+|[[Spot (comics)|Spot]]<br/>[[Grizzly (comics)|Grizzly]]<br/>[[Kangaroo (comics)|Kangaroo]] II<br/>[[Gibbon (comics)|Gibbon]]
+|''The Spectacular Spider-Man'' #246 (May [[1997 in comics|1997]])
+|A team of lesser-known and weaker Spider-Man villains who decided to join forces to stand a better chance against the web-slinger.
+|-
+|[[Inheritors (comics)|Inheritors]]<ref>{{Cite web | url=http://insidepulse.com/2015/02/23/the-entire-spider-verse-review-spoilers-from-marvel-comics-amazing-spider-man-to-scarlet-spiders-to-spider-woman-to-2099-all-of-it-a-tidy-epilogue |title = The (Entire) Spider-Verse Review & Spoilers: Marvel Comics' ASM to Scarlet Spiders to Spider-Woman & All of It! Plus Amazing Spider-Man #15 Epilogue Preview! &#124; Inside Pulse}}</ref>
+ |Solus<br/>Unnamed Matriarch<br/>Daemos<br/>Verna<br/>[[Karn (comics)|Karn]]<br/>[[Morlun]]<br/>Brix<br/>Bora
+|''[[The Superior Spider-Man]]'' #33 (November [[2014 in comics|2014]])
+|A clan of totem hunters from Earth-001 who feed from animal, human and deity totems. Their main goal is to hunt down the various versions of Spider-Man across the [[Multiverse (Marvel Comics)|Marvel Multiverse]] and feed on their life energy.
+|}
+
+===Kravinoff family===
+{{chart top|  Kravinoff family}}
+{{Tree chart/start|style=font: 100% sans-serif;|align=center}}
+{{tree chart | |SS|~|y|~|~|NK|~|~|~|y|~|~|AK| |AN|y|MN|SS=Sonya Smerdyakova|NK=Nikolai Kravinov|AK=Anna Makarova Kravinova|AN=Aleksandra Nikolaevna|MN=Mikhail Aleksei Nikolaevich}}
+{{tree chart | | | | | |!| | | | | | | | |!| | | | | | | |,|-|^|-|.| |}}
+{{tree chart | | | | |DS| |CE|~|~|KH|~|~|~|y|~|AK| |US|DS=[[Chameleon (Marvel Comics)|Dmitri Anatoly Nikolayevich Smerdyakov<br/>{{small|The Chameleon}}]]|CE=[[Calypso (comics)|Calypso Ezili<br/>{{small|The Witch of Kraven}}]]|KH=[[Kraven the Hunter|'''Sergei Nikolaevich Kravinoff (né Kravinov)<br/>{{small|Kraven the Hunter <br/>The Unhuntable Sergei}}''']]|AK=Aleksandra "Sasha" Kravinova (née Nikolaevna)|US=Unnamed Sisters}}
+{{tree chart | | |,|-|-|-|v|-|-|-|v|-|-|-|+|-|.| | |)|-|-|-|-|.}}
+{{tree chart | |XR| |AT| |MB| |ZB|!| |SP| | |VK|XR=Xraven<br/>{{small|The Hunter X{{refn|group=n|[[Human cloning|Clone]] of Kraven created by [[Mister Sinister|Mr. Sinister]], featuring the [[DNA]] of the [[X-Men]] [[Cyclops (Marvel Comics)|Cyclops]], [[Jean Grey|Marvel Girl]], the [[Iceman (Marvel Comics)|Iceman]], the [[Warren Worthington III|Angel]], and the [[Beast (comics)|Beast]], as well as a sample of the [[Carnage (character)|Carnage]] [[Symbiote (comics)|symbiote]].}}}}|AT=[[Kraven the Hunter (Alyosha Kravinoff)|Alexei Sergeevich "Alyosha" Kravinoff<br/>{{small|Kraven the Hunter}}]]|MB=Nedrocci "Ned" Tannengarden|ZB=[[Hunted (comics)#Prelude|The Sons of Kraven]]{{refn|group=n|name=Hunted}}|SP=[[Kraven the Hunter (Ana Kravinoff)|Anastasia "Ana" Tatiana Kravinova<br/>{{small|Kraven the Hunter}}]]|VK=[[Grim Hunter|Vladimir "Vlad" Kravinoff<br/>{{small|The Grim Hunter<br/>Son of the Hunter}}]]}}
+{{tree chart | | | | | | | | | | | | | | |)|-|'}}
+{{tree chart | | | | | | | | | | | | | |SK|SK=[[Hunted (comics)#Aftermath|Sergei Kravinoff II<br/>{{small|The Last Son of Kraven}}]]{{small|{{refn|group=n|name=Hunted}}}}}}
+{{tree chart/end}}
+|-
+|style="text-align: left;"|'''Notes:'''
+{{reflist|group=n|refs=
+{{refn|group=n|name=Hunted|"[[Hunted (comics)|Hunted]]" established 87 such [[Human cloning|clones]] of Kraven the Hunter to exist, until all are killed by one of their number, dubbed "The Last Son of Kraven" and [[Inheritance#Terminology|heir]] to his father's identity.}}
+}}
+{{Chart bottom}}
+
+==Archenemies==
+Unlike most superheroes, who have a particular villain or villainous group among their adversaries with whom they have come into conflict the most (e.g., the [[Joker (character)|Joker]] to [[Batman]], and [[Lex Luthor]] to [[Superman]] in [[DC Comics]], or the [[Red Skull]] to [[Captain America]], [[Doctor Doom]] to the [[Fantastic Four]], and the [[Brotherhood of Mutants]] to the [[X-Men]] in [[Marvel Comics]] etc.), Spider-Man is often regarded as having three archenemies, and it can be debated as to which one is the worst:<ref name="archenemy">{{cite web | url=http://comicbooks.about.com/od/characters/tp/archenemies.htm | title=Top ten comic book archenemies | publisher=About.com | access-date=3 January 2014 | author=Albert, Aaron}}</ref>
+#{{note|Arch1}}[[Doctor Octopus]] has been described as Spider-Man's greatest enemy, and the man Peter Parker might have become if he hadn't been raised with a sense of responsibility.<ref name="DeFalco">DeFalco "1960s" in Gilbert (2008), p. 93: "Dr. Octopus shared many traits with Peter Parker. They were both shy, both interested in science, and both had trouble relating to women...Otto Octavius even looked like a grown up Peter Parker. Lee and Ditko intended Otto to be the man Peter might have become if he hadn't been raised with a sense of responsibility.</ref><ref name="IGN #28"/><ref name="CNN">{{cite web | url=http://www.cnn.com/2012/12/26/showbiz/celebrity-news-gossip/spidey-700-controversy | title=Events in landmark 'Spider-Man' issue have fans in a frenzy | publisher=[[CNN]] | access-date=2 January 2014 | author=Hanks, Henry| date=26 December 2012 }}</ref> He is infamous for defeating him the first time in battle and for almost marrying Peter's [[Aunt May]]. He is also the core leader of the [[Sinister Six]], and at one point adopted the "Master Planner" alias. ("[[If This Be My Destiny...!]]")<ref name="IGN #28"/><ref name="CBR #5">{{cite web | url=https://www.cbr.com/50-greatest-friends-and-foes-of-spider-man-villains-1-3/ | title=50 Greatest Friends and Foes of Spider-Man: Villains #1-3 | publisher=Comic Book Resources | access-date=2 January 2014 | author=Cronin, Brian| date=May 2012 }}</ref> Later depictions revealed him in Peter Parker's body where [[The Superior Spider-Man|he was the titular character for a while]], ultimately becoming an antihero; on several occasions, he and Spider-Man have even put their differences aside to become allies.<ref name="CNN"/>
+#{{note|Arch2}}The [[Norman Osborn]] version of the [[Green Goblin]] is most commonly regarded as Spider-Man's archenemy.<ref name="archenemy"/><ref>{{cite web|url=http://marvel.com/news/comicstories.2233.tuesday_q&a~colon~_brian_michael_bendis |title=The ULTIMATE SPIDER-MAN writer talks about Spidey's new Amazing Friends and lays the Osborns to rest once and for all |publisher=Marvel.com |access-date=2010-04-27}}</ref><ref>{{cite web|url=http://marvel.com/news/comicstories.2581.take_10~colon~_marvel~apos~s_finest_couples |title=Love is in the air as Marvel.com's Secret Cabal picks the greatest Marvel romances of all in time for Valentine's Day |publisher=Marvel.com |access-date=2010-04-27}}</ref> Unlike Doctor Octopus, who only aims to kill Spider-Man, the Goblin also targeted his loved ones and showed no remorse in killing them as long as it caused pain to Spider-Man, therefore making him not only Spider-Man's worst enemy, but also Peter Parker's. His most infamous feat is killing [[Gwen Stacy|Spider-Man's girlfriend]] in what became [[The Night Gwen Stacy Died|one of the most famous Spider-Man stories]] of all time and helped end the [[Silver Age of Comic Books]] and begin the [[Bronze Age of Comic Books]].<ref name="archenemy"/> While the Goblin was killed in the same story, he returned in the [[1990s in comics|1990s]] to plague Spider-Man once again, committing more heinous acts (such as being involved of the murder of Aunt May). He also came into conflict with [[Dark Reign (comics)|other heroes]], such as the [[Avengers (comics)|Avengers]].<ref name="Top25"/> Norman is sometimes depicted as an enemy of Spider-Man even when not being the Green Goblin.<ref name="IGN #13">{{cite web|url= https://www.ign.com/lists/top-100-comic-book-villains/13 |title=Top 100 Comic Book Villains: 13. Norman Osborn |publisher=IGN |access-date=3 January 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131021220521/http://comics.ign.com/top-100-villains/13.html |archive-date=21 October 2013 }}</ref>
+#{{note|Arch3}}The [[Eddie Brock]] incarnation of [[Venom (character)|Venom]] is often regarded as Spider-Man's deadliest foe, and has been described as an evil mirror version of Spider-Man in many ways.<ref name="Venom2"/><ref name="Newsarama 1"/><ref name="archenemy"/> He is also among Spider-Man's most popular villains.<ref>{{cite web|title=Spider-Man villains tournament: Championship| date=February 2006 |url=http://www.ign.com/articles/2006/02/01/spider-man-villains-tournament?page=5|access-date=25 April 2015|publisher=IGN}}</ref> Venom's main goal is usually to ruin Peter Parker's life and mess with his head in any way he can.<ref name="Venom"/> Despite this, Venom is not a traditional criminal, as he is only interested in hurting Spider-Man and does not engage in criminal acts, lacking the typical supervillain desires for wealth and power. The character also has a sense of honor and justice, and later starred in his own [[Venom (comic book)|comic book stories]], where he is depicted as an [[antihero]] and has a desire to protect innocent people from harm. On several occasions, he and Spider-Man have even put their differences aside to become allies.<ref name="Venom2"/><ref>{{cite news|last=Shutt|first=Craig|date=August 1997|title=Villain Turned Hero: Venom|work=[[Wizard (magazine)|Wizard]]|issue=72|page=37}}</ref>
+
+==In other media==
+{{Main|List of Spider-Man enemies in other media}}
+
+==Reception==
+Reaction to Spider-Man's rogues gallery has been overwhelmingly positive with many journalists citing it as one of the greatest comic book rogues galleries of all time,<ref>{{cite web|last1=McMillan|first1=Graeme|title='Spider-Man': 10 Recommendations for a Successful Reboot|url=http://www.hollywoodreporter.com/heat-vision/spider-man-10-recommendations-a-773102|website=[[The Hollywood Reporter]] |access-date=18 June 2015|date=15 February 2015 |archive-url=https://web.archive.org/web/20150504112601/http://www.hollywoodreporter.com/heat-vision/spider-man-10-recommendations-a-773102 |archive-date=4 May 2015}}</ref><ref name="Flash">{{cite web | url=http://screenrant.com/amazing-spider-man-sinister-six-movie-comic-con-2013 | title=Comic-Con 2013: 'Amazing Spider-Man' Sinister Six Hints Revealed [Updated] | publisher=[[Screen Rant]] | date=7 July 2013 | access-date=18 June 2015 | last1=Moore |first1=Ben}}</ref><ref>{{cite web|last1=Mendelson|first1=Scott|title='Spider-Man' Gives Marvel What It Needs Most: Villains|url=https://www.forbes.com/sites/scottmendelson/2015/03/03/spider-man-can-offer-what-marvel-is-lacking/|work=[[Forbes]]|access-date=18 June 2015|date=3 March 2015}}</ref> with [[Batman]]'s [[List of Batman family enemies|rogues gallery]] being its most rivaled contender.<ref>{{cite web | url=http://www.cinemablend.com/new/5-Huge-Questions-Wake-Marvel-Spider-Man-Reveal-69700-p4.html | title=5 Huge Questions In The Wake Of Marvel's Spider-Man Reveal: 2. Who Will Be The Main Villain? | publisher=Cinema Blend | access-date=18 June 2015}}</ref><ref name="rogues gallery"/> However, editors such as ''[[The Hollywood Reporter]]''{{'}}s Graeme McMillan felt that only [[Flash (comics)|Flash]]'s [[List of Flash enemies|rogues gallery]] can compete with Spider-Man's rogues.<ref name="Flash"/> Kyle Schmidlin of ''What Culture!'' described the superhero's rogues gallery as "one of the most colorful in comics" explaining that Batman could only be debated as having a great number of enemies as good as Spider-Man.<ref name="What Culture">{{cite web | url=http://whatculture.com/film/10-spider-man-villains-and-combinations-deserving-of-the-big-screen.php | title=10 Spider-Man Villains (And Combinations) Deserving Of The Big Screen | publisher=What Culture! | access-date=June 8, 2015 | author=Kyle, Scmidlin | date=13 June 2013 | quote=Spider-Man's rogues gallery is one of the most colorful in comics. Only Batman could boast a greater number of well-established crooks and costumed ne'er-do-wells, and even that's debatable.}}</ref> [[IGN]] staff editors, Joshua Yehl and Jesse Schedeen, described the Spider-Man villains as "one of the most iconic and well-balanced in comics". They opined that the scope of their schemes, how cool their powers are, and how dramatically they have affected Spider-Man's life is what makes the Spider-Man villains so great.<ref name="Top25"/> ''[[Newsarama]]'' ranked Spider-Man's rogues gallery as number one out of ten as the greatest rogues gallery of all time.<ref name="rogues gallery">{{cite web|last1=George|first1=Marston|title=The 10 Greatest ROGUES GALLERIES of ALL TIME!|url=http://www.newsarama.com/15497-the-10-greatest-rogues-galleries-of-all-time.html|website=Newsarama|access-date=18 June 2015|date=7 August 2013}}</ref>
+
+===Themes===
+George Marston of ''[[Newsarama]]'' said that the reason he felt that Spider-Man's rogues gallery was the best was the thematic elements that the villains manifested.<ref name="rogues gallery"/> He explained that just like the superhero they have the same concept of science gone wrong. They are "like him, great men with great minds, great power, and great determination." But instead they fail to use their powers responsibly, symbolizing the thin line between being a hero and being a villain.<ref name="rogues gallery"/> Alex Wyse of ''[[Comic Book Resources]]'' felt that a good villain is supposed to challenge the ideals of the hero. For Spider-Man that idea was the famous quote "[[With great power comes great responsibility]]", where the superhero is pitted against an antithesis of the hero's motto like the concept of using [[Superpower (ability)|superpower]]s for their personal gain.<ref name="CBR slayer">{{cite web |title=Spider-Slayers: The 25 Deadliest Spider-Man Villains, Officially Ranked |url=https://www.cbr.com/spider-man-villains-ranked |website=CBR |access-date=15 August 2019 |date=16 January 2019}}</ref>
+
+==Me and the Boys==
+A viral [[internet meme]] called "Me and the Boys", centering on images of Spider-Man foes from the 1960s ''[[Spider-Man (1967 TV series)|Spider-Man]]'' animated series that showcases the four supervillains – the [[Green Goblin]], [[Electro (Marvel Comics)|Electro]], [[Vulture (Marvel Comics)|Vulture]] and a photoshopped addition of [[Rhino (character)|Rhino]] – along with other Spider-Man foes in some variations, emerged in 2019. The meme image parodied and represented a group of friends bonding, hanging out, or engaging in various shenanigans.<ref>{{cite web |title=Memes For July 2019 |url=https://stayhipp.com/internet/memes/memes-for-july-2019 |website=StayHipp |access-date=18 August 2019 |date=1 July 2019}}</ref> It originated from [[Reddit]] and, later, [[Twitter]]. It was placed as the 35th-best meme of 2019 by [[Thrillist]].<ref>{{cite web |title=The 50 Best Memes of 2019 (So Far) |url=https://www.thrillist.com/entertainment/nation/best-memes-2019 |website=Thrillist |access-date=18 August 2019 |date=16 August 2019}}</ref><ref>{{cite web |title=Me and the Boys Memes |url=https://stayhipp.com/internet/memes/me-and-the-boys-memes |website=StayHipp |access-date=18 August 2019 |date=5 June 2019}}</ref><ref>{{cite web |title=Spider-Man: Me and the Boys Meme Comes to Life in Anime Expo Cosplay |url=https://www.cbr.com/spider-man-me-boys-meme-cosplay |website=CBR |access-date=18 August 2019 |date=14 July 2019}}</ref>
+
+==See also==
+*[[Savage Six]]: Antagonists of [[Spider-Girl (Mayday Parker)|Spider-Girl]] and [[Flash Thompson|Agent Venom]], similar to the Sinister Six.<ref>{{Cite comic
+ | Writer = [[Tom DeFalco]]
+ | Penciller = [[Pat Olliffe]]
+ | Inker = [[Al Williamson]]
+ | Story = The Sinister Syndicate!
+ | Title = [[Spider-Girl (Mayday Parker)|Spider-Girl]]
+ | Volume = 1
+ | Issue = 25
+ | Date = October, [[2000 in comics|2000]]
+ | Publisher = Marvel Comics
+ }}</ref><ref>{{cite web|url=http://www.newsarama.com/9614-bunn-takes-over-venom-kills-marvel-universe-with-deadpool.html|title=Bunn Takes Over VENOM, Kills Marvel Universe with DEADPOOL |publisher=Newsarama |date=June 5, 2012 |access-date=June 16, 2015}}</ref>
+*''[[The Superior Foes of Spider-Man]]'': A comic book series starring Spider-Man villains.<ref name="Beetle 3">{{citation |title=Recruiting 6 Spider-Man Villains for Sony's "Sinister Six" |publisher=Comic Book Resources|url=https://www.cbr.com/recruiting-6-spider-man-villains-for-sonys-sinister-six/|date=20 December 2013|access-date=December 24, 2021 | last1=White | first1=Brett}}.</ref>
+
+==Notes==
+#{{note|1}}The Chameleon is the first member of [[Spider-Man]]'s [[rogues gallery]] in publication date. (Excluding the Burglar.)<ref name="Newsarama 1"/> He is also well known to be related to Kraven the Hunter and Kraven to him. That revealed relationship helped evolve him as a major villain compared to his original depiction of being just a solo villain in the original issue of ''The Amazing Spider-Man''.<ref>{{cite web | url=http://www.superherohype.com/features/articles/172331-11-villains-who-could-be-in-the-amazing-spider-man-2 | title=Spidey Turns 50: 11 Villains Who Could Be in The Amazing Spider-Man 2 | publisher=Superherohype.com ([[CraveOnline]]) | access-date=2 January 2014 | author=Perry, Spencer| date=22 August 2012 }}</ref><ref name="CBR Villains #2">{{cite web | url= https://www.cbr.com/50-greatest-friends-and-foes-of-spider-man-villains-25-16/ | title=50 Greatest Friends and Foes of Spider-Man: Villains #6-4 | publisher=[[Comic Book Resources]] | access-date=December 24, 2021 | author=Cronin, Brian| date=24 April 2012 }}</ref><ref name="What Culture #3">{{cite web | url=http://whatculture.com/film/10-spider-man-villains-and-combinations-deserving-of-the-big-screen.php/9 | title=10 Spider-Man Villains (And Combinations) Deserving Of The Big Screen (3. Chameleon and the Kraven the Hunter) | publisher=What Culture! | access-date=2 January 2014 | author=Schmidlin, Kyle| date=13 June 2013 }}</ref>
+#{{note|2}}Besides being most notable as a Spider-Man supervillain, he has also been depicted as a [[Fantastic Four]] [[List of Fantastic Four enemies|antagonist]] in Stan Lee and [[Jack Kirby]] comics books (mostly due to being introduced as the original [[Frightful Four]]<ref>{{cite comic| writer= Lee, Stan|penciller= Kirby, Jack|inker=[[Chic Stone|Stone, Chic]]|story= The Attack of the evil Frightful Four|title= [[Fantastic Four]]|issue=#36 |date= March [[1965 in comics|1965]]}}</ref>). He was also a heroic figure (as an [[Avengers (comics)|Avengers]] [[List of Avengers members|member]]<ref name="casebook99">{{Cite comic | writer = Marc Steven Sumerak | penciller = Eric Eng Wong | inker = John G. Roshell | story = An A-Z Compedium of Earth's Mighiest Heroes | title = Avengers Casebook 1999 | volume = 1 | issue = 1 | date = February 2000 | publisher = [[Marvel Comics]] | location = | page = | panel = | id =}}</ref>) until being introduced as a tragic supervillain in the Spider-Man comics once again.<ref name="CBR #3">{{cite web | url=https://www.cbr.com/50-greatest-friends-and-foes-of-spider-man-villains-10-7/ | title=50 Greatest Friends and Foes of Spider-Man: Villains #10-7 | publisher=Comic Book Resources| access-date=December 24, 2021 | author=Cronin, Brian| date=28 April 2012 }}</ref>
+#{{Note|3}}The character is also known as the member of the Frightful Four battling the Fantastic Four.<ref name="IGN 87"/> He is also the [[List of Daredevil enemies|first major Marvel villain]] to be written in publication history as battling [[Daredevil (Marvel Comics character)|Daredevil]].<ref>{{cite comic| writer= Lee, Stan|penciller= [[Joe Orlando|Orlando, Joe]]|inker=[[Vince Colletta|Coletta, Vince]]|story= The Evil Menace of Electro|title=Daredevil |issue= #2|date= September [[1964 in comics|1964]]}}</ref><ref name="Daredevil">{{cite encyclopedia | title=Daredevil |encyclopedia=Encyclopedia of Comic Books and Graphic Novels: Two Volumes <!--|access-date=3 January 2014--> | editor=Booke, M. Keith | pages=134}}</ref> Even being the founder and leader of the supervillain team that oppose him, the [[Emissaries of Evil]].<ref name="EOE">{{cite comic| writer= Lee, Stan|penciller= [[Gene Colan|Colan, Gene]]|inker=[[John Tartaglione|Tartaglione, John]]|story= Electro and his Emissaries of Evil|title=Daredevil Annual |issue= #1|date= September [[1967 in comics|1967]]}}</ref>
+#{{Note|4}}Just like Electro, he has also been a major villain of Daredevil. In the storyline "[[Guardian Devil]]" he crossed into Daredevil's territory almost pushing Daredevil to the edge (just like he if often trying to do with Spider-Man) when Mysterio believes Spider-Man is a clone at one point.<ref name="IGN #85"/>
+#{{Note|5}}While a recurring villain to Spider-Man since his introduction, Kraven the Hunter did not stand out as a memorable supervillain until the critically acclaimed storyline, "[[Kraven's Last Hunt]]".<ref name="Newsarama 1"/><ref name="IGN #53"/><ref name="What Culture #3"/><ref name="MTV 1">{{cite web | url=http://geek-news.mtv.com/2012/08/06/the-10-greatest-spider-man-villains-ever | title=The 10 greatest Spider-Man villains ever. | publisher=MTV |author=Zalben, Alex |access-date=4 January 2014}}</ref>
+#{{Note|6}}Not counting any other character in the [[Earth-616|mainstream]] [[Marvel Universe]] with [[Scorpion (Marvel Comics)|that name]]. Only [[Alternative versions of Spider-Man|outside of the mainstream Spider-Man comics]] or [[Spider-Man in other media|in other media]] is there other Spider-Man villains (that isn't named Mac Gargan) that are antagonists of Spider-Man.<ref>{{cite comic| writer= [[Brian Michael Bendis|Bendis, Brian Michael]]|penciller= [[Mark Bagley|Bagley, Mark]] |colorist= [[Richard Isanove|Isanove, Ricard]] |letterer=[[Cory Petit|Petit, Cory]]|story= |title=[[Ultimate Spider-Man ]]|issue=#97|date=September [[2006 in comics|2006]]}}</ref><ref>{{cite comic| writer= Reed, Brian|penciller= Craig, Wesley |inker= Craig, Wesley |colorist= Fairbairn, Nathan |letterer=Petit, Cory|story= |title= Timestorm 2009–2099 |issue=#1 |date=August [[2009 in comics|2009]]}}</ref><ref>{{cite episode|title=Journey of the Iron Fist|series=[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]|network=[[Disney XD]]|season=2|number=39|airdate=June 16, 2013}}</ref> Gargan is the third character to assume the Scorpion alias in comics, but he became the most notable one, and is only one to be a recurring adversary of Spider-Man.<ref name="Top25"/>
+#{{Note|7}}While initially written to be a recurring villain of Spider-Man,<ref name="adversaries 2"/> Rhino has also come into conflict with other superheroes (especially [[Hulk]]<ref name="Top25"/>). He is a major character in the storyline titled "[[Flowers for Rhino]]" (''[[Spider-Man's Tangled Web]]''), whose name is an homage to ''[[Flowers for Algernon]]''.<ref name="Flowers for Rhino">{{cite web | url=https://www.complex.com/pop-culture/2011/08/the-top-25-spider-man-stories-of-all-time/flowers-for-the-rhino | title=The top 25 Spider-Man Stories Of All Time: 16. Flowers For the Rhino |publisher=[[Complex (magazine)|Complex.com]] | access-date=4 January 2014 | author=Serafino, Jason}}</ref>
+#{{Note|8}}Despite first appearing in Spider-Man comic books, the Kingpin is more notable of being Daredevil's [[archenemy]]. Despite this he is a major antagonist of both superheroes in the Marvel comic books just as recurringly.<ref name="Newsarama 1"/><ref name="IGN #10">{{cite web | url=http://www.ign.com/top/comic-book-villains/10.html | title=Kingpin is number 10 on greatest comic book villain of all time | publisher=IGN | access-date=19 April 2014}}</ref> He also is a major recurring villain in the rest of the Marvel Universe crossing over as major antagonists to superheroes/[[antihero]]es (such as the [[Punisher]]) in certain comic books of the many based universes of Marvel ([[PunisherMAX]], etc.)<ref>{{cite web|url=http://comicsalliance.com/punisher-max-12-preview-jason-aaron |title=Frank Castle Goes To Jail in 'Punisher Max' #12 [Exclusive Preview] |publisher=[[ComicsAlliance]] |access-date=19 April 2014 |last=Sims |first=Chris |url-status=dead |archive-url=https://web.archive.org/web/20140420084641/http://comicsalliance.com/punisher-max-12-preview-jason-aaron |archive-date=20 April 2014 }}</ref>
+#{{Note|9}}Morbius debuted in the storyline "[[The Six Arms Saga]]".<ref name="Morbius"/>
+#{{note|10}}Miles Warren's first appearance was in ''The Amazing Spider-Man'' #31 (December 1965), but he didn't become the Jackal until much later.<ref>Manning "1960s" in Gilbert (2012), p. 31: "This monumental issue saw the first appearances of Peter's upcoming love interest Gwen Stacy, prospective best friend, Harry Osborn, and even the future super villain known as the Jackal."</ref>
+#{{note|11}}Although she is listed as a supervillain, the Black Cat is more often portrayed as an antiheroine and the major [[femme fatale]] [[romantic interest]] for Spider-Man. She is struggling to decide between good and bad, and the only thing preventing her from becoming a villain is her complicated relationship with Spider-Man. Nonetheless. she has been a staple [[List of Spider-Man supporting characters|supporting Spider-Man character]] during her debut.<ref name="Top25"/>
+#{{Note|12}}''The Amazing Spider-Man'' #299 is the first appearance of Eddie Brock as Venom. The alien costume debuted from ''The Amazing Spider-Man'' #252 and the symbiote bonded to Spider-Man in ''[[Secret Wars]]'' #8.<ref name="Venom2"/> Venom's creators are determined by pre-alien costume by not counting the creators/designers of the alien costume, [[David Michelinie]] or [[Mike Zeck]], or the Marvel Comics fan who originally thought of the concept for the creators.<ref name="Venom2"/><ref>{{Cite web|author=Cronin, Brian|url=https://www.cbr.com/comic-book-urban-legends-revealed-extra-randy-schuellers-brush-with-comic-history/ |title=Comic Book Urban Legends Revealed Extra: Randy Schueller's Brush With Comic History|publisher=[[Comic Book Resources]]|date=May 16, 2007|access-date=December 24, 2021}}</ref><ref>{{cite comic|story=Invasion!|title=[[Marvel Super Heroes Secret Wars]]|issue=1|writer=[[Shooter, Jim]]|penciller=[[Zeck, Mike]]|inker=[[Beatty, John]]; [[Abel, Jack]]; [[Esposito, Mike]]|publisher=Marvel Comics|date=December 1984}}</ref>
+#{{Note|13}}Cletus Kasady first appeared in ''The Amazing Spider-Man'' 344.<ref name="Bagley"/> Carnage is a major character in the popular storyline "[[Maximum Carnage]]".<ref>{{cite web | url= https://www.cbr.com/50-greatest-spider-man-stories-25-21/ | title=50 Greatest Spider-Man Stories: #25-21 | date=27 June 2012 | publisher=Comic Book Resources | access-date=December 24, 2021}}</ref>
+#{{Note|14}}Despite becoming an antihero with his own comic book storylines, the Punisher was first introduced as an adversary of Spider-Man.<ref name="Jackal 1"/>
+#{{note|15}}Harry didn't become the Green Goblin until ''The Amazing Spider-Man'' #136 (September 1974).
+
+==References==
+{{CC-notice|bysa3|url=https://marvel.fandom.com/wiki/Delilah_%28Earth-616%29}}
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Category:Spider-Man_Villains Category: Spider-Man Villains] at [[Marvel.com]]
+*https://monarch69.in/spiderman [http://marvel.wikia.com/Spider-Man_Villains Spider-Man Villains] at Marvel Database
+*[https://www.gamesradar.com/best-spider-man-villains/ Best Spider-Man Villains] by [[GamesRadar]]. December 16, 2021. Retrieved December 24, 2021
+
+{{Spider-Man characters}}
+{{Spider-Man}}
+{{Sinister Six}}
+
+[[Category:Lists of Spider-Man characters|Enemies, List of Spider-Man]]
+[[Category:Lists of Marvel Comics supervillains|Spider-Man enemies]]
+[[Category:Spider-Man characters|*]]

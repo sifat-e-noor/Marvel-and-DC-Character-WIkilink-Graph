@@ -1,0 +1,191 @@
+{{Short description|Comic book series}}
+{{other uses of|NYX}}
+{{Infobox comic book title
+<!--Wikipedia:WikiProject Comics-->
+| title               = NYX
+| image               = Marvel NYX 6.jpg <!-- FAIR USE of Marvel_NYX_6.jpg: see image description page at http://en.wikipedia.org/wiki/Image:Marvel_NYX_6.jpg for rationale -->
+| imagesize           = <!-- default 250 -->
+| caption             = The cast of ''NYX'' (clockwise from top left): X-23, Tatiana and Kiden. Cover to ''NYX'' #7 by Josh Middleton
+| alt                 = 
+| schedule            = 
+| format              = [[Limited series (comics)|Limited series]]
+| limited             = Yes
+| ongoing             = No
+| 1shot               = 
+| genre               = '''''see below'''''
+| publisher           = [[Marvel Comics]]
+| date                = 
+| startmo             = 
+| startyr             = 2003
+| endmo               = 
+| endyr               = 2005
+| issues              = 7 (6 for NYX: No Way Home)
+| main_char_team      = 
+| writers             = [[Joe Quesada]]
+| artists             = [[Joshua Middleton]] (#1&ndash;4) <br />Rob Teranishi (#5&ndash;7)
+| pencillers          = 
+| inkers              = 
+| letterers           = 
+| colorists           = 
+| editors             = 
+| creative_team_month = 
+| creative_team_year  = 
+| creators            = 
+| TPB                 = 
+| ISBN                = 
+| subcat              = 
+| altcat              = 
+| sort                = NYX (comics)
+| nonUS               = 
+}}
+
+'''''NYX''''' is a [[Limited series (comics)|limited series]] of [[American comic book|comic books]] by [[Marvel Comics]], consisting of seven issues, published between [[2003 in comics|2003]] and [[2005 in comics|2005]].<ref name="comicbookdb" />
+It is written by [[Joe Quesada]] with art by [[Joshua Middleton]] (issues #1&ndash;4) and Rob Teranishi (issues #5-7).<ref name="#5xaxis">[http://www.thexaxis.com/nyx/nyx5.htm NYX 5 on THE X-AXIS] {{Webarchive|url=https://web.archive.org/web/20081120184940/http://www.thexaxis.com/nyx/nyx5.htm |date=2008-11-20 }} The X-Axis. Retrieved October 13, 2008.</ref><ref name="#7xaxis">[http://www.thexaxis.com/nyx/nyx7.htm NYX 7 on THE X-AXIS] {{Webarchive|url=https://web.archive.org/web/20080919090312/http://www.thexaxis.com/nyx/nyx7.htm |date=2008-09-19 }} The X-Axis. Retrieved October 13, 2008.</ref> 
+''NYX'' stands for [[District X]], [[New York City]].<ref name="nyx07">{{Comic book reference | Writer = [[Joe Quesada]] | Penciller =  [[Joshua Middleton]], Rob Teranishi | Inker = Nelson DeCastro and Chris Sotomayor | Story = Wannabe | Title = NYX | Volume =  | Issue = #7 | Date = Sept. 2005| Publisher = [[Marvel Comics]] }}</ref>
+
+The series features homeless teenage [[Mutant (Marvel Comics)|mutants]] in [[New York City]]: time-freezing Kiden, shape-shifting Tatiana, body-shifting Bobby, his mysterious brother Lil Bro, the female clone of Wolverine (X-23), and Cameron, a woman with no powers.<ref name="ign-nycc08" />
+The series featured the [[first appearance|first comic book appearance]] of [[X-23]], a character originally created on the ''[[X-Men: Evolution]]'' cartoon.<ref name="x-23">[http://www.marvel.com/universe/X-23 X-23 on MARVEL UNIVERSE] October 13, 2008.</ref> Although the series was cancelled in [[2005 in comics|2005]], [[2009 in comics|2009]] saw the 6-issue miniseries, ''NYX: No Way Home''.<ref name="mondo" />
+
+==Publication history==
+In [[2001 in comics|2001]] writer [[Brian Wood (illustrator)|Brian Wood]] developed a concept of the series for Marvel with artist [[David Choe]] that was to launch Marvel's [[MAX (comics)|MAX imprint]]. The ongoing series, focusing on the characters and how their powers affect their lives, friends and family, was to star [[Gambit (Marvel Comics)|Gambit]], [[Rogue (comics)|Rogue]], and [[Jubilee (comics)|Jubilee]], as well as Angie and Purge, two new characters Wood had created for the series. After Marvel aborted the project, deeming it not suitable for their audience, Wood used parts of this concept for his series ''[[Demo (comics)|Demo]]''.{{Citation needed|date=September 2009}}
+
+NYX was planned as an ongoing series, but later was shortened to a miniseries.<ref name="#7xaxis" /> Throughout the entire publication, there were often long delays between issues because Quesada had always been late with scripts.<ref name="quesadadelays">[http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=36;t=002812;p=1 JOE QUESADA TALKIN' MARVEL Young Guns, NYX, DD: Father, & More] {{Webarchive|url=https://web.archive.org/web/20090304154843/http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=36;t=002812;p=1 |date=2009-03-04 }} Retrieved October 13, 2008.</ref> 
+The first five issues of the series were reprinted in two ''Marvel Must Haves'' issues in the summer of 2005, before the sixth issue was released in July. The seventh and last issue was released in September 2005.<ref name="comicbookdb">{{cite web
+| url = http://comicbookdb.com/title.php?ID=114
+| title = NYX
+| work = Comic Book DB
+| access-date = October 13, 2008
+| archive-date = March 3, 2009
+| archive-url = https://web.archive.org/web/20090303064828/http://comicbookdb.com/title.php?ID=114
+| url-status = dead
+}}</ref>
+
+===Failed spin-off===
+A second series of NYX was planned for release in [[2007 in comics|2007]], but never materialized.<ref>{{cite web|title=Marvel WWLA X-men Panel|url=http://www.marvel.com/news/comicstories.347|access-date= |url-status=dead |archive-url=https://web.archive.org/web/20090302232959/http://www.marvel.com/news/comicstories.347 |archive-date=2009-03-02}}</ref>
+
+===No Way Home===
+At the [[2008 in comics|2008]] [[New York Comic Con]], a new NYX series was officially announced to launch in August 2008.<ref name="ign-nycc08">{{cite web 
+| author = Richard George 
+| author2 = Jesse Schedeen 
+| date = October 13, 2008 
+| title = NYCC 08: NYX Returns to Marvel 
+| url = http://comics.ign.com/articles/867/867654p1.html 
+| pages = 2 
+| work = [[IGN]] 
+| access-date = October 14, 2008 
+| archive-date = October 12, 2008 
+| archive-url = https://web.archive.org/web/20081012051339/http://comics.ign.com/articles/867/867654p1.html 
+| url-status = dead 
+}}</ref><ref name="mondo">{{cite web 
+| date = April 18, 2008 
+| url = http://classic.newsarama.com/nycomiccon2008/Marvel/mondo.html 
+| title = NYCC '08 - Mondo Marvel Panel 
+| work = [[Newsarama]] 
+| access-date = October 4, 2008 
+| archive-date = December 5, 2008 
+| archive-url = https://web.archive.org/web/20081205051949/http://classic.newsarama.com/nycomiccon2008/Marvel/mondo.html 
+| url-status = dead 
+}}</ref>
+
+''NYX: No Way Home'' is written by [[Marjorie M. Liu]],<ref>[http://www.comicbookresources.com/?page=article&id=17625 No Way Home: Liu talks "NYX"], [[Comic Book Resources]], August 6, 2008</ref><ref>[http://www.comicbookresources.com/?page=article&id=17687 X-POSITION: NYX's Marjorie Liu], [[Comic Book Resources]], August 12, 2008</ref> with art by Kalman Andrasofszky.<ref>[http://www.comicbookresources.com/?page=article&id=18320 Andrasofszky talks “NYX" Artwork], [[Comic Book Resources]], October 3, 2008</ref>
+
+[[Cecilia Reyes]] makes an appearance in ''NYX: No Way Home'' #4.<ref>[http://www.marvel.com/news/comicstories.5199.MyCup_o%7Eapos%7E_Joe_Week_25 MyCup o' Joe Week 25] Retrieved October 14, 2008.</ref>
+
+==Synopsis==
+===Wannabe===
+
+The series starts with a flashback during which Kiden's father is killed during a [[drive-by]] shooting while he and Kiden are getting ice cream. Switching to the present, we see Kiden as an emotionally disturbed teenager who gets into an altercation with another student who is a Latin King gangbanger. She manifests her mutant power during a fight and unintentionally breaks the student's arm.<ref>''NYX'' #1</ref> He returns with a gun and she freezes time again before the bullet hits her, but it hits her teacher, Mrs. Cameron, instead. Several months later Mrs. Cameron, whose life has fallen apart as a result of the incident, attempts to commit suicide. Kiden shows up and rescues her after receiving a warning from the ghost of her father.<ref>''NYX'' #2</ref> A second vision tells them to visit the Hotel Brasil, where they find [[X-23]], who is working as a prostitute, in a compromising position: standing over her john whose suicide she has just witnessed. The three escape together, but X-23's pimp is upset<ref>''NYX'' #3</ref> and sends a hit squad to Mrs. Cameron's apartment. Again, the ghost of Kiden's father warns them, just in time, to leave.<ref>''NYX'' #4</ref> Later they bump into Tatiana, who has turned into a dog-beast after touching a puppy that was hit by a car. Tatiana is able to scare away a mob after killing a cat and turning into a [[werecat]]. The runaways form a crew and live on the streets, begging for money and dumpsterdiving for food.<ref name="NYX Issue # 6">''NYX'' #6</ref> Eventually they decide to return to Mrs. Cameron's apartment to find money and leave town. X-23's pimp, Zebra Daddy, tracks them down with the help of a banger named Felon, but again Kiden's father appears and warns them.<ref name="NYX Issue # 6"/> During the confrontation at Mrs. Cameron's apartment, X-23 kills most of the pimp's gang before getting gunned down by Zebra Daddy. Mrs. Cameron falls out her apartment window, and Kiden then must decide whether to kill Zebra Daddy (who it turns out was her father's shooter) or save Mrs. Cameron. Remembering how Mrs. Cameron had taken a bullet for her, she opts to save her. Zebra Daddy is about to kill them but X-23 heals from her wounds and executes him. The team leaves together. In the denouement, it turns out Felon's little brother is also a mutant, and it was he who created the apparitions of Kiden's father. Kiden sends a letter to her mother, but the postman just misses her as she is moving out of NYC.<ref>''NYX'' #7</ref>
+
+===No Way Home===
+
+This series starts with Kiden, Tatiana, Bobby, and Lil' Bro living with Mrs. Cameron. Kiden is still looking for her parents. They come home one day to find Mrs. Cameron's apartment empty, ransacked, and covered in blood.<ref>''NYX: No Way Home'' #1</ref> They escape before the police arrive, but Kiden returns and finds clues to local gang banger D'Sean. While investigating his apartment, a scuffle breaks out. Tatiana bites D'Sean and shapeshifts into his likeness, then gets shot by D'Sean.<ref>''NYX: No Way Home'' #2</ref> Bobby knocks him out, but his gang comes in and starts a shoot-out. Kiden freezes time while holding Bobby, Lil' Bro, and Tatiana, who are able, then, to join her in the time-freeze. They take Tatiana to a hospital. The doctors realize she is a mutant when a blood transfusion makes her change shape into the donor, then call S.H.I.E.L.D. Kiden and Bobby find the gang leader. Bobby is forced to use his power to subdue him, but then loses most of his memories.<ref>''NYX: No Way Home'' #3</ref> Kiden, Bobby, and Lil' Bro then return to the hospital to rescue Tatiana. She hasn't fully recovered from her injuries, so they turn to [[List of Marvel Comics characters: R#Cecilia Reyes|Doc Reyes]] for help, but run away after they grow suspicious of her. Kiden then decides to track down Mrs. Palmer on her own after confronting a mysterious lady who is immune to Kiden's time-freezing powers. It turns out that Mrs. Palmer was used as bait to trap the team and exploit their mutant powers, assisted by the ghost of Kiden's dead father.<ref>''NYX: No Way Home'' #5</ref> As her father died, he saw into the future and realized that there is only one possible future in which Kiden survives, so he comes back to Earth as a ghost. He makes a deal with a mysterious organization to ensure her survival, but their plan is that only Kiden will survive. Tatiana is able to sneak out by drinking the blood of a mysterious "Sniper Chick" and posing as her. Lil' Bro kills her using one of his apparitions. It turns out the mysterious woman is also the daughter of the leader of the secret facility. Mr. Nixon's ghost apologizes for Kiden killing his daughter, and the man seems indifferent to his own daughter's death since he was able to see Lil' Bro's apparitions cause physical harm. He promises not to hurt Kiden, but will continue to monitor the team. The team escapes the facility and drops Mrs. Palmer at a hospital. They then vow to stay together and to "keep surviving".<ref>''NYX: No Way Home'' #6</ref>
+
+==Main characters==
+* '''Kiden Nixon''' - Mutant with the ability to slow down time and/or speed up her personal time line. Also sometimes thought to have precognitive abilities because Felon's "lil bro" used his abilities of projection to manipulate her during the story.
+* '''Tatiana Caban''' - Mutant with the ability to shapeshift into any animal or human whose blood she touches.
+* '''Cameron Palmer''' - Kiden Nixon's former teacher. She is a human. When she attempted suicide, Kiden saved her and roped her into the [[X-23]] situation.
+* '''Bobby Soul''' - Mutant with the ability to project his consciousness into other individuals and take control of their bodies. A side effect is that he suffers from varying degrees of amnesia after returning to his own body. He is also known as Felon.
+* '''Lil' Bro''' - Bobby Soul's mute, autistic little brother. He is shown to have unknown psionic abilities that are somehow connected to Kiden's visions of the ghost of her dead father. It is insinuated that he became non-responsive after having been sexually abused by one of his mother's boyfriends.
+* '''[[X-23]]''' - Mutant with adamantium claws and regenerative healing factor. She works as a prostitute who specializes in cutting masochistic patrons. She rarely speaks and is known to engage in self-abuse (specifically, cutting).
+* '''Zebra Daddy''' - [[X-23]]'s pimp. He claims to love her more than any of his other 'merchandise', but he doesn't even know her name and ultimately views her as disposable property.
+* '''Hector Morales''' - Kiden's school enemy, who repeatedly attacks her, though always failing to make an impact, and even tries (and fails) to kill her. He winds up in prison.
+* '''Sniper Chick''' - A new character introduced in the second volume. Not much is known about her except that she is immune to Kiden's time-freezing powers and is the daughter of the head of the organization that attempts to kidnap the team.
+* '''Nick Nixon''' - Kiden's police officer father, killed during a drive-by. He returns from the dead and initiates the events that bring the teens together; some of the visions of him are as a ghost, as explained in volume 2, and some are Lil' Bro's psychic projections (in volume 1).
+
+== Reception ==
+{{Anchor|Critics|Critical response}}
+
+The series portrayal of [[Laura Kinney]] as an underage prostitute was poorly received by fans and the characters creator [[Craig Kyle]] also criticized the creative decision.<ref>{{Cite web|url=https://sciencefiction.com/2017/03/10/x-23s-creator-weighs-in-on-logan-her-potential-future-and-his-one-regret-on-her-creation/|title = X-23's Creator Weighs in on 'Logan', Her Potential Future, and His One Regret on Her Creation|date = 10 March 2017}}</ref>
+
+Critics from IGN reviewed the series '''NYX: No Way Home'''.
+Daniel Crown gave issue #1 a score of 6.3 out of 10.<ref name="ign-nyx-1">{{cite web 
+| date = August 6, 2008
+| first = Daniel 
+| last = Crown 
+| title = NYX: No Way Home #1 Review. The streets are rough, even for a mutant.
+| url = http://comics.ign.com/articles/897/897107p1.html
+| work = [[IGN]] 
+| publisher = [[News Corporation (1980–2013)|News Corporation]] 
+}}
+</ref>
+Jesse Schedeen gave issue #2 a score of 7.8 out of 10.<ref name="ign-nyx-2">{{cite web 
+| title = NYX: No Way Home #2 Review. Another fine addition to Marvel's collection of teen titles.
+| date = September 10, 2008 
+| author = Jesse Schedeen 
+| url = http://comics.ign.com/articles/909/909082p1.html
+| work = [[IGN]] 
+| publisher = [[News Corporation (1980–2013)|News Corporation]] 
+}}
+</ref>
+Jesse Schedeen also reviewed issue 3 giving it a score of 8.5 out of 10.<ref name="ign-nyx-3">{{cite web 
+| title = NYX: No Way Home #3 Review. Things go from bad to worse for the mutant outcasts.
+| date = October 15, 2008 
+| author = Jesse Schedeen 
+| url = http://comics.ign.com/articles/920/920137p1.html
+| work = [[IGN]] 
+| publisher = [[News Corporation (1980–2013)|News Corporation]] 
+}}
+</ref>
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title 
+! Material collected 
+! Softcover ISBN 
+! Hardcover ISBN
+|-
+|''NYX: Wannabe''
+|''NYX'': vol. 1 #1-7
+|{{ISBN|0-7851-1243-X}}
+|{{ISBN|0-7851-1825-X}}
+|-
+|-
+|''NYX: No Way Home''
+|''NYX: No Way Home'': vol. 1 #1-6
+|{{ISBN|978-0-7851-2832-8}}
+|{{ISBN|978-0-7851-3995-9}}
+|-
+|-
+|''NYX: The Complete Collection''
+|''NYX'': vol. 1 #1-7, ''NYX: No Way Home'': vol. 1 #1-6
+|{{ISBN|978-0-7851-9598-6}}
+|
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.marvel.com/universe/NYX NYX] at Marvel.com
+* {{gcdb series|id=14063|title=NYX}}
+* {{comicbookdb|type=title|id=114|title=NYX}}
+* {{comicbookdb|type=title|id=19754|title=NYX: No Way Home}}
+
+{{Laura Kinney}}
+
+{{DEFAULTSORT:Nyx}}
+[[Category:2003 comics debuts]]
+[[Category:Marvel Comics limited series]]
+[[Category:Comics set in New York City]]
+[[Category:X-23 titles]]

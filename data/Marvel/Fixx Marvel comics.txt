@@ -1,0 +1,1178 @@
+{{Short description|none}}
+{{More citations needed|date=October 2020}}
+{{Use mdy dates|date=October 2020}}
+[[File:X-MenMembers MarkoDjurdjevic.jpg|right|Members of the various X-Men teams|450px|thumb]]
+The [[X-Men]] are a team of [[Mutant (Marvel Comics)|mutant]] [[superhero]]es, published in [[American comic book]]s by [[Marvel Comics]]. Over the decades, the X-Men have featured a rotating line up composed of many characters.
+
+Notation:
+* Characters in '''bold''' are members of the team as of the present time.
+* A slash (/) between names indicates codenames of one character in chronological order.
+* Characters listed are set in the [[Earth-616]] continuity except when noted.
+ 
+== X-Men ==
+=== Original members===
+{| class="wikitable" style="width:70%;"
+|+ Original members
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Professor X]]
+| Charles Francis Xavier
+| ''The X-Men'' #1<ref name="Ign">{{cite web|url=https://www.ign.com/articles/2015/01/16/every-x-man-ever |title=Every X-Man Ever |author=Collura, Scott |date=January 16, 2015 |access-date=October 18, 2020}}</ref>
+|-
+| [[Cyclops (Marvel Comics)|'''Cyclops / Captain Krakoa''']]
+| Scott Summers
+| ''The X-Men'' #43 (1968, flashback story)<ref>{{cite web|url=https://screenrant.com/xmen-cyclops-eye-powers-superman/ |title=X-Men's Cyclops Got His Powers Like Superman (But Weirder) |author=Erdmann, Kevin |date=April 23, 2020 |access-date=October 18, 2020}}</ref>
+|-
+| [[Iceman (Marvel Comics)|'''Iceman''']]
+| Robert Louis Drake
+| ''The X-Men'' #46 (1968, flashback story)<ref name="Ign"/>
+|-
+| [[Beast (Marvel Comics)|Beast]]
+| Henry Philip McCoy
+| ''The X-Men'' #53 (1969, flashback story)<ref name="Ign"/>
+|-
+| [[Warren Worthington III|Angel / Archangel]]
+| Warren Kenneth Worthington III
+| ''The X-Men'' #56 (1969, flashback story)<ref name="Ign"/>
+|-
+| [[Jean Grey|'''Marvel Girl / Phoenix''']]
+| Jean Elaine Grey
+| ''The X-Men'' #1 (1963)<ref name="Ign"/>
+|}
+
+=== 20th century recruits ===
+{| class="wikitable" style="width:70%;"
+|+ 1960s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Mimic (comics)|Mimic]]
+| Calvin Montgomery Rankin
+| ''The X-Men'' #27 (1966)<ref name="Ign"/>
+|-
+| [[Kevin Sydney|Changeling]]
+| Kevin Sydney
+| ''The X-Men'' #40 (1968, as Professor X)<ref name="Ign"/>
+|-
+| [[Polaris (Marvel Comics)|Polaris]]
+| Lorna Sally Dane
+| ''The X-Men'' #60 (1969)<ref name="Ign"/>
+|-
+| [[Havok (comics)|'''Havok''']]
+| Alexander Summers
+| ''The X-Men'' #65 (1970)<ref name="Ign"/>
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ 1970s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| colspan="2" | [[Petra (comics)|Petra]]
+| rowspan="4" | ''X-Men: Deadly Genesis'' #4 (2006, [[Retroactive continuity|retcon]])<ref name="Ign"/>
+|-
+| [[Sway (comics)|Sway]]
+| Suzanne Chan
+|-
+| [[Darwin (character)|Darwin]]
+| Armando Muñoz
+|-
+| [[Vulcan (Marvel Comics)|Vulcan]]
+| Gabriel Summers
+|-
+| [[Nightcrawler (character)|Nightcrawler]]
+| Kurt Wagner
+| ''Giant-Size X-Men'' #1 (1975)<ref name="Ign"/>
+|-
+| rowspan="2" | [[Wolverine (character)|Wolverine]]
+| rowspan="2" | James "Logan" Howlett
+| ''Giant-Size X-Men'' #1 (1975)
+|-
+| Old Man Logan: ''Extraordinary X-Men'' #1 (2015)<ref>{{cite web|url=https://www.cbr.com/extraordinary-x-men-1-3/ |title=Extraordinary X-Men #1|date=September 15, 2015 |access-date=October 19, 2020}}</ref>
+|-
+| [[Banshee (character)|Banshee]]
+| Sean Cassidy
+| rowspan="5" | ''Giant-Size X-Men'' #1 (1975)<ref name="Ign"/>
+|-
+| [[Storm (Marvel Comics)|Storm]]
+| Ororo Munroe
+|-
+| [[Sunfire (comics)|Sunfire]]
+| Shiro Yoshida
+|-
+| [[Colossus (character)|Colossus]]
+| Piotr Nikolaievitch Rasputin
+|-
+| [[Thunderbird (John Proudstar)|Thunderbird]]
+| John Proudstar
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ 1980s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Kitty Pryde|Sprite / Ariel / Shadowcat]]
+| Katherine Anne “Kitty” Pryde
+| ''X-Men'' #138 (1980)<ref name="Ign"/>
+|-
+| colspan="2" | [[Lockheed (character)|Lockheed]]
+| ''Uncanny X-Men'' #168 (1983)<ref name="Ign"/>
+|-
+| [[Rogue (Marvel Comics)|Rogue]]
+| Anna Marie LeBeau
+| ''Uncanny X-Men'' #171 (1983)<ref name="Ign"/>
+|-
+| [[Rachel Summers|Phoenix / Marvel Girl / Prestige]]
+| Rachel Anne Grey-Summers
+| ''Uncanny X-Men'' #193 (1985)<ref name="Ign"/>
+|-
+| [[Magneto (Marvel Comics)|Magneto]]
+| Max "Erik Magnus" Eisenhardt
+| ''Uncanny X-Men'' #200 (1985)<ref name="Ign"/>
+|-
+| colspan="2" | [[Longshot (Marvel Comics)|Longshot]]
+| ''Uncanny X-Men Annual'' #10 (1987)<ref name="Ign"/>
+|-
+| [[Betsy Braddock|Psylocke]]
+| Elizabeth Braddock
+| ''Uncanny X-Men'' #213 (1987)<ref name="Ign"/>
+|-
+| [[Dazzler (Marvel Comics)|Dazzler]]
+| Alison Blaire
+| ''Uncanny X-Men'' #214 (1987)<ref name="Ign"/>
+|-
+| colspan="2" | [[Forge (character)|'''Forge / Maker''']]
+| ''Uncanny X-Men'' #255 (1989)
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ 1990s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Gambit (Marvel Comics)|Gambit]]
+| Remy Etienne LeBeau
+| ''Uncanny X-Men Annual'' #14 (1990)<ref name="Ign"/>
+|-
+| [[Jubilee (Marvel Comics)|Jubilee]]
+| Jubilation Lee
+| ''Uncanny X-Men'' #258 (1990)<ref name="Ign"/>
+|-
+| [[Bishop (Marvel Comics)|Bishop]]
+| Lucas Bishop
+| ''Uncanny X-Men'' #287 (1992)<ref name="Ign"/>
+|-
+| [[Kwannon (character)|Revanche]]
+| Kwannon
+| ''X-Men'', vol. 2 #21 (1993)<ref name="Ign"/>
+|-
+| [[Cannonball (Marvel Comics)|Cannonball]]
+| Samuel Zachary Guthrie
+| ''X-Force'' #44 (1995)<ref name="Ign"/>
+|-
+| colspan="2" | [[Joseph (comics)|Joseph]]
+| ''Uncanny X-Men'' #338 (1996)<ref name="Ign"/>
+|-
+| colspan="2" | [[Cecilia Reyes]]
+| rowspan="3" | ''X-Men'', vol. 2 #70 (1997)<ref name="Ign"/>
+|-
+| [[Marrow (character)|Marrow]]
+| Sarah "Rushman"
+|-
+| [[Maggott]]
+| Japheth
+|}
+
+=== 21st century recruits ===
+{| class="wikitable" style="width:70%;"
+|+ 2000s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Thunderbird (Neal Shaara)|Thunderbird]]
+| Neal Shaara
+| ''X-Men Unlimited'' #27 (2000)<ref name="Ign"/>
+|-
+| [[Cable (character)|Cable]]
+| Nathan Christopher Charles Summers 
+| ''Uncanny X-Men'' #381 (2000)
+|-
+| [[Danielle Moonstar|Mirage / Moonstar]]
+| Danielle Moonstar
+| ''X-Men'', vol. 2 #102 (2000)<ref name="Ign"/>
+|-
+| [[Sage (Marvel Comics)|Sage]]
+| Tessa
+| ''X-Men'', vol. 2 #109 (2000)<ref name="Ign"/>
+|-
+| [[Emma Frost|White Queen]]
+| Emma Grace Frost
+| ''New X-Men'' #116 (2001)<ref name="Ign"/>
+|-
+| [[Xorn]]
+| Kuan-Yin Xorn
+| ''New X-Men Annual'' (2001)<ref name="Ign"/>
+|-
+| [[Chamber (character)|Chamber]]
+| Jonothon Evan Starsmore
+| ''Uncanny X-Men'' #398 (2001)<ref name="Ign"/>
+|-
+| [[Stacy X]]
+| Miranda Leevald
+| ''Uncanny X-Men'' #400 (2001)<ref name="Ign"/>
+|-
+| [[Lifeguard (comics)|Lifeguard]]
+| Heather Cameron
+| rowspan="2" | ''X-Treme X-Men'' #10 (2002)<ref name="Ign"/>
+|-
+| [[Slipstream (comics)|Slipstream]]
+| Davis Cameron
+|-
+| [[Northstar (character)|Northstar]]
+| Jean-Paul Beaubier
+| ''Uncanny X-Men'' #414 (2002)
+|-
+| [[Husk (comics)|Husk]]
+| Paige Elizabeth Guthrie
+| ''Uncanny X-Men'' #423 (2003)<ref name="Ign"/>
+|-
+| [[Juggernaut (character)|Juggernaut]]
+| Cain Marko
+| ''Uncanny X-Men'' #425 (2003)<ref name="Ign"/>
+|-
+| [[Xorn|Xorn / Zorn]]
+| Shen Xorn
+| ''X-Men'', vol. 2 #162 (2004)<ref name="Ign"/>
+|-
+| [[Mystique (character)|Mystique]]
+| Raven Darkhölme
+| ''X-Men'', vol. 2 #181 (2006)
+|-
+| [[Warpath (comics)|Warpath]]
+| James Jonathan Proudstar
+| ''Uncanny X-Men'' #475 (2006)<ref name="Ign"/>
+|-
+| [[Lady Mastermind]]
+| Regan Wyngarde
+| rowspan="3" |''X-Men'', vol. 2 #192 (2006)<ref name="Ign"/>
+|-
+| [[Sabretooth (character)|Sabretooth]]
+| Victor Creed
+|-
+| [[Karima Shapandar|Omega Sentinel]]
+| Karima Shapandar
+|-
+| [[Armor (Marvel Comics character)|Armor]]
+| Hisako Ichiki
+| ''Astonishing X-Men'', vol. 3 #20 (2007)<ref name="Ign"/>
+|-
+| colspan="2" | [[Hepzibah (comics)|Hepzibah]]
+| ''Uncanny X-Men'' #487 (2007)<ref name="Ign"/>
+|-
+| [[Pixie (X-Men)|Pixie]]
+| Megan Gwynn
+| ''X-Men Free Comic Book Day'' (2008)<ref name="Ign"/>
+|-
+| [[Karma (character)|Karma]]
+| Xi'an Coy Manh
+| ''Uncanny X-Men'' #501 (2008)<ref name="Ign"/>
+|-
+| [[Sunspot (Marvel Comics)|Sunspot]]
+| Roberto Da Costa
+| ''Secret Invasion: X-Men'' #1 (2008)<ref name="Ign"/>
+|-
+| [[Aurora (comics)|Aurora]]
+| Jeanne-Marie Beaubier
+| ''Secret Invasion: X-Men'' #2 (2008)<ref name="Ign"/>
+|-
+| [[Magma (comics)|Magma]]
+| Amara Juliana Olivians Aquilla
+| ''Secret Invasion: X-Men'' #4 (2009)<ref name="Ign"/>
+|-
+| [[Doctor Nemesis#James Bradley|Doctor Nemesis]]
+| James Nicola Bradley
+| ''Uncanny X-Men'' #504 (2009)<ref name="Ign"/>
+|-
+| [[Madison Jeffries|Box]]
+| Madison Jeffries
+| ''Uncanny X-Men'' #505 (2009)<ref name="Ign"/>
+|-
+| [[Magik (Illyana Rasputina)|'''Magik''']]
+| Illyana Nikolievna Rasputina
+| ''New Mutants'', vol. 3 #1 (2009)<ref name="Ign"/>
+|-
+| [[Namor|Sub-Mariner]]
+| Namor McKenzie
+| ''Uncanny X-Men'' #513 (2009)<ref name="Ign"/>
+|-
+| [[Domino (character)|Domino]]
+| Neena Thurman
+| ''Uncanny X-Men'' #514 (2009)<ref name="Ign"/>
+|-
+| [[Cloak and Dagger (characters)|Cloak]]
+| Tyrone Johnson
+| rowspan="3" | ''Dark Avengers'' #8 (2009)<ref name="Ign"/>
+|-
+| [[Cloak and Dagger (characters)|Dagger]]
+| Tandy Bowen
+|-
+| [[Tabitha Smith|Boom-Boom]]
+| Tabitha Smith
+|-
+| colspan="2" | [[Ariel (comics)|Ariel]]
+| ''X-Men: Legacy'' #226 (2009)<ref name="Ign"/>
+|-
+| colspan="2" | [[Danger Room#Sentience|Danger]]
+| ''Uncanny X-Men'' #515 (2009)
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ 2010s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Cypher (Marvel Comics)|Cypher]]
+| Douglas Aaron Ramsey
+| rowspan="2" | ''New Mutants'', vol. 3 #9 (2010)
+|-
+| colspan="2" | [[Warlock (New Mutants)|Warlock]]
+|-
+| [[X-23|X-23 / Wolverine]]
+| Laura Kinney
+| ''[[X-Men: Second Coming]]'' #1 (2010)<ref name="Ign"/>
+|-
+| [[Hope Summers (character)|Hope]]
+| Hope Summers (birth surname Spalding)
+| ''X-Men: Legacy'' #237 (2010)<ref name="Ign"/>
+|-
+| [[Joanna Cargill|Frenzy]]
+| Joanna Cargill
+| rowspan="2" | ''X-Men: Legacy'' #250 (2011)<ref name="Ign"/>
+|-
+| [[Legion (Marvel Comics)|Legion]]
+| David Charles Haller
+|-
+| [[Nate Grey|X-Man]]
+| Nate Grey
+| ''New Mutants'', vol. 3 #33 (2011)
+|-
+| Warbird
+| Ava'Dara Naganandini
+| ''Astonishing X-Men'', vol. 3 #48 (2012)<ref name="Ign"/>
+|-
+| [[Blink (character)|Blink]]
+| Clarice Ferguson
+| ''New Mutants'', vol. 3 #45 (2012)
+|-
+| [[Firestar (Marvel Comics character)|'''Firestar''']]
+| Angelica Jones
+| ''Amazing X-Men'', vol. 2 #1 (2013)<ref name="Ign"/>
+|-
+| [[M (Marvel Comics)|M / Penance]]
+| Monet Yvette Clarisse Maria Therese St. Croix
+| ''X-Men'', vol. 4 #7 (2013)<ref name="Ign"/>
+|-
+| colspan="2" | Cerebra
+| ''Extraordinary X-Men'' #1 (2015)<ref>{{cite web|url=https://comicvine.gamespot.com/extraordinary-x-men-1/4000-504937/ |title=Extraordinary X-Men #1 (Issue) |access-date=October 19, 2020}}</ref>
+|-
+| [[Ink (comics)|Ink]]
+| Eric Gitter
+| ''X-Men Gold'' #17 (2017)
+|-
+| Honey Badger / Scout
+| Gabrielle Kinney
+| ''X-Men Red'' #1 (2018)<ref>{{cite web|url=https://www.ign.com/articles/2018/02/07/x-men-red-1-review |title=X-Men Red #1 Review |author=Schedeen, Jesse |date=February 7, 2020 |access-date=October 17, 2020}}</ref>
+|-
+| Trinary
+| Shilpa Khatri 
+| ''X-Men Red'' #2 (2018)<ref>{{cite web|url=https://bleedingcool.com/comics/x-men-red-2-review/ |title=.X-Men Red #2 Review: Holding on to Hope as the Quality Remains High |date=March 8, 2018 |author=Davison, Joshua |access-date=October 19, 2020}}</ref>
+|-
+| [[Pyro (Marvel Comics)#Simon Lasker|Pyro]]
+| Simon Lasker
+| ''X-Men Gold'' #23 (2018)<ref>{{cite web|url=https://comic-watch.com/comic-book-reviews/xmengold23 |title=REVIEW: X-Men Gold #23 (Gold Is the New Orange Is the New Black) |author=Batley, Steve |access-date=October 19, 2020}}</ref>
+|-
+| [[Gentle (character)|Gentle]]
+| Nezhno Abidemi
+| ''X-Men Red'' #4 (2018)<ref>{{cite web|url=https://www.marvel.com/comics/issue/67589/x-men_red_2018_4 |title=X-Men: Red (2018) #4 |access-date=June 6, 2020}}</ref>
+|-
+| [[Wolfsbane (character)|Wolfsbane]]
+| Rahne Sinclair
+| rowspan="2" | ''Uncanny X-Men'', vol. 5 #13 (2019)<ref>{{cite web|url=https://www.ign.com/articles/2018/12/18/cyclops-and-wolverine-assemble-new-x-men-team-to-eliminate-prolific-x-villains |title=Cyclops and Wolverine Assemble New X-Men Team to Eliminate Prolific X-Villains |access-date=June 6, 2020}}</ref>
+|-
+| [[Jamie Madrox|Multiple Man]]
+| James Arthur Madrox
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ 2020s recruits
+! style="width:20%;" | Character
+! style="width:20%;" | Real name
+! style="width:30%;" | Joined in
+|-
+| [[Synch (comics)|'''Synch''']]
+| Everett Thomas
+| ''X-Men'', vol. 5 #21 (2021)<ref>{{cite web|author=Michel, Katie |date=June 12, 2021 |title=Marvel Officially Reveals New X-Men Team in Epic Fashion |url=https://screenrant.com/new-x-men-team-reveal-hellfire-gala-art/ |url-status=live |access-date=July 4, 2021 |website=Screen Rant}}</ref>
+|}
+
+=== Other status ===
+{| class="wikitable" style="width:100%;"
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:30%;"| Joined in
+! style="width:30%;"| Notes
+|-
+| colspan="2" | [[Phoenix Force (comics)|Phoenix Force]]
+| ''X-Men'' #101 (1976)<ref name="Ign"/>
+| A cosmic entity who impersonated [[Jean Grey]].
+|-
+| [[Dark Beast]]
+| Henry Philip McCoy
+| ''X-Men Unlimited'' #10 (1996)
+| Infiltrated the X-Men, replacing Beast of Earth 616.
+|-
+| colspan="2" | Unidentified skrull
+| ''Uncanny X-Men'' #370 (1999)
+| Infiltrator as Wolverine.
+|-
+| colspan="2" | ForgetMeNot
+| Sometime prior to ''X-Men: Legacy'' #300 (2014)<ref>{{cite web|url=https://www.ign.com/articles/2014/03/13/x-men-legacy-300-review |title=X-Men Legacy #300 Review |date=March 13, 2014 |access-date=June 16, 2020}}</ref>
+| Forgotten by the X-Men due to his powers.
+|-
+| Lucid
+| Maya Jackson
+| ''Extraordinary X-Men'' #17 (2017)<ref>{{cite web|url=https://www.cbr.com/extraordinary-x-men-17/ |title=Extraordinary X-Men #17 |date=December 23, 2016 |access-date=October 19, 2020}}</ref>
+| Honorary member.
+|}
+
+== Substitute teams ==
+=== New Mutants graduate X-Men ===
+In 1986, the [[New Mutants]] briefly graduated to become the X-Men in ''[[Uncanny X-Men]] Annual'' #10.<ref>{{cite web|url=https://www.marvel.com/teams-and-groups/new-mutants |title=New Mutants |access-date=October 19, 2020}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Cannonball (Marvel Comics)|Cannonball]]
+| Samuel Guthrie
+|-
+| [[Danielle Moonstar|Mirage]]
+| Danielle Moonstar
+|-
+| [[Karma (comics)|Karma]]
+| Xi'an Coy Manh
+|-
+| [[Magma (comics)|Magma]]
+| Amara Aquilla
+|-
+| [[Sunspot (comics)|Sunspot]]
+| Roberto Da Costa
+|-
+| [[Magik (Illyana Rasputina)|Magik]]
+| Illyana Rasputin
+|-
+| [[Cypher (Marvel Comics)|Cypher]]
+| Douglas Ramsey
+|-
+| colspan="2" | [[Warlock (New Mutants)|Warlock]]
+|-
+| [[Wolfsbane (comics)|Wolfsbane]]
+| Rahne Sinclair
+|}
+
+=== Muir Island X-Men ===
+In 1989, in the wake of the X-Men's "death" during "[[The Fall of the Mutants]]", Banshee assembled a team of X-Men on [[Muir Island]] in ''Uncanny X-Men'' #254 to #255.<ref name="Ign"/>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Banshee (comics)|Banshee]]
+| Sean Cassidy
+|-
+| colspan="2" | [[Forge (comics)|Forge]]
+|-
+| colspan="2" | [[Moira MacTaggert]]
+|-
+| [[Polaris (Marvel Comics)|Polaris]]
+| Lorna Dane
+|-
+| [[Amanda Sefton]]
+| Jimaine Szardos
+|-
+| [[Sunder (comics)|Sunder]]
+| Mark Hallett
+|-
+| [[Legion (Marvel Comics)|Legion]]
+| David Haller
+|-
+| colspan="2" | [[Sharon Friedlander]]
+|-
+| [[Tom Corsi]]
+| Thomas Corsi
+|-
+| colspan="2" | [[Alysande Stuart]]
+|-
+| [[Jamie Madrox|Multiple Man]]
+| Jamie Madrox
+|-
+| [[Siryn]]
+| Theresa Rourke Cassidy
+|}
+
+=== Phalanx invasion X-Men ===
+In 1994, to oppose the threat of the techno-organic alien [[Phalanx (comics)|Phalanx]], a team of X-Men was quickly banded together in ''Uncanny X-Men'' #316.
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Banshee (comics)|Banshee]]
+| Sean Cassidy
+|-
+| [[Jubilee (Marvel Comics)|Jubilee]]
+| Jubilation Lee
+|-
+| [[Sabretooth (comics)|Sabretooth]]
+| Victor Creed
+|-
+| [[Emma Frost|White Queen]]
+| Emma Frost
+|}
+
+=== Mannite rescue X-Men ===
+In 1999, after Professor X disbanded the X-Men in an attempt to expose a [[Skrull]] impostor in their ranks, Cyclops and Jean Grey formed a team to help the Mannites in ''[[Astonishing X-Men]]'', vol. 2 #1.
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Cyclops (Marvel Comics)|Cyclops]]
+| Scott Summers
+|-
+| [[Jean Grey|Phoenix]]
+| Jean Grey-Summers
+|-
+| [[Warren Worthington III|Archangel]]
+| Warren K. Worthington III
+|-
+| [[Cable (character)|Cable]]
+| Nathan Christopher Summers
+|-
+| [[Nate Grey|X-Man]]
+| Nate Grey
+|-
+| colspan="2" | Unidentified Skrull
+|}
+
+=== Genoshan assault X-Men ===
+In 2001, Jean Grey recruited a team in ''[[Uncanny X-Men]]'' #392 in order to rescue [[Professor X]] from [[Magneto (Marvel Comics)|Magneto]].<ref name="Ign"/>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Jean Grey|Phoenix]]
+| Jean Grey-Summers
+|-
+| [[Dazzler (Marvel Comics)|Dazzler]]
+| Alison Blaire
+|-
+| [[Northstar (Marvel Comics)|Northstar]]
+| Jean-Paul Beaubier
+|-
+| Omertà
+| Paul Provenzano
+|-
+| [[Wraith (Hector Rendoza)|Wraith]]
+| Hector Rendoza
+|-
+| [[Sunpyre]]
+| Leyu Yoshida
+|-
+| [[Joanna Cargill|Frenzy]]
+| Joanna Cargill
+|}
+
+=== Street team X-Men ===
+In 2004, a team was formed by Cyclops in the wake of [[Xorn]]'s rampage through Manhattan, New York in ''[[New X-Men (2001 series)|New X-Men]]'' #149 and #150.<ref name="Ign"/> 
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Cyclops (Marvel Comics)|Cyclops]]
+| Scott Summers
+|-
+| [[Fantomex]]
+| Charlie-Cluster 7
+|-
+| colspan="2" | [[Fantomex#Powers and abilities|E.V.A.]]
+|-
+| [[Barnell Bohusk|Beak]]
+| Barnell Bohusk
+|-
+| [[Dust (comics)|Dust]]
+| Sooraya Qadir
+|-
+| rowspan="3" | [[Stepford Cuckoos]]
+| Celeste Cuckoo
+|-
+| Mindee Cuckoo
+|-
+| Phoebe Cuckoo
+|-
+| Longneck
+| William Hanover
+|-
+| [[Forearm (comics)|Forearm]]
+| Marcus Tucker
+|-
+| Choir
+| Irina Clayton
+|}
+
+=== X-Men in training ===
+Mutants to be trained as a junior team of X-Men.
+
+{| class="wikitable" style="width:70%;"
+|+ Trainees
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:30%;"| Joined in
+|-
+| [[Dust (comics)|Dust]]
+| Sooraya Qadir
+| rowspan="7" | ''New X-Men'', vol. 2 #23 (2006)
+|-
+| [[Elixir (comics)|Elixir]]
+| Joshua Foley
+|-
+| [[Hellion (Marvel Comics)|Hellion]]
+| Julian Keller
+|-
+| [[Mercury (Marvel Comics)|Mercury]]
+| Cessily Kincaid
+|-
+| [[Rockslide (comics)|Rockslide]]
+| Santo Vaccarro
+|-
+| [[Surge (Marvel Comics)|Surge]]
+| Noriko Ashida
+|-
+| [[X-23]]
+| Laura Kinney
+|-
+| [[Anole (comics)|Anole]]
+| Victor Borkowski
+| rowspan="2" | ''New X-Men'', vol. 2 #37 (2007)
+|-
+| [[Pixie (X-Men)|Pixie]]
+| Megan Gywnn
+|-
+| [[Gentle (character)|Gentle]]
+| Nezhno Abidemi
+| rowspan="2" | ''New X-Men'' vol. 2 (2007)
+|-
+| [[Prodigy (David Alleyne)|Prodigy]]
+| David Alleyne
+|-
+| [[Blindfold (comics)|Blindfold]]
+| Ruth Aldine
+| rowspan="3" | ''Young X-Men'' #1 (2008)
+|-
+| [[Wolf Cub (comics)|Wolf Cub]]
+| Nicholas Gleason
+|-
+| [[Ink (comics)|Ink]]
+| Eric Gitter
+|-
+| [[Graymalkin]]
+| Jonas Graymalkin
+| ''Young X-Men'' #5 (2008)
+|-
+| [[Cipher (comics)|Cipher]]
+| Alisa Tager
+| ''Young X-Men'' #8 (2008)
+|-
+| [[Trance (comics)|Trance]]
+| Hope Abbott
+| ''X-Men: Legacy'' #227 (2009)
+|-
+| [[Indra (comics)|Indra]]
+| Paras Gavaskar
+| rowspan="2" |''X-Men: Legacy'' #231 (2009)
+|-
+| [[Loa (comics)|Loa]]
+| Alani Ryan
+|-
+| [[Bling!]]
+| Roxanne Washington
+! rowspan="6" |
+|-
+| [[Onyxx]]
+| Sydney Green
+|-
+| [[Match (Marvel Comics)|Match]]
+| Ben Hammil
+|-
+| rowspan="3" | [[Stepford Cuckoos]]
+| Celeste Cuckoo
+|-
+| Phoebe Cuckoo
+|-
+| Mindi Cuckoo
+|-
+| colspan="2" | [[Hope Summers (comics)|Hope Summers]]
+| rowspan="2" | ''Uncanny X-Men'' #526 (2010)
+|-
+| Transonic
+| Laurie Tromette
+|-
+| [[Velocidad (comics)|Velocidad]]
+| Gabriel Cuohuelo
+| ''Uncanny X-Men'' #527 (2010)
+|-
+| [[Oya (comics)|Oya]]
+| Idie Okonkwo
+| ''Uncanny X-Men'' #528 (2010)
+|-
+| [[Primal (comics)|Primal]]
+| Teon Macik
+| ''Uncanny X-Men'' #529 (2010)
+|-
+| [[Zero (Marvel Comics)|Zero]]
+| Kenji Uedo
+| ''Generation Hope'' #4 (2011)
+|-
+| [[Martha Johansson|No-Girl]]
+| Martha Johansson
+| ''Generation Hope'' #13 (2011)
+|-
+| colspan="2" | [[Sebastian Shaw (comics)|Sebastian Shaw]]
+| ''Generation Hope'' #15 (2012)
+|-
+| Glob Herman
+| Robert Herman
+| ''Extraordinary X-Men'' #3 (2016)
+|}
+
+=== X-Force ===
+In 2008, the X-Men's strike team was formed by Cyclops in ''Uncanny X-Men'' #493, with Wolverine serving as the field leader. The team took on missions which required responses too violent or controversial for the X-Men to deal with directly. When Cyclops disbanded the team, Wolverine assembled a new team.
+
+{| class="wikitable" style="width:40%;"
+|+ Original members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Cyclops (Marvel Comics)|Cyclops]]
+| Scott Summers
+|-
+| [[Wolverine (character)|Wolverine]]
+| James "Logan" Howlett
+|-
+| colspan="2" | [[Caliban (Marvel Comics)|Caliban]]
+|-
+| colspan="2" | [[Hepzibah (comics)|Hepzibah]]
+|-
+| [[Warpath (comics)|Warpath]]
+| James Proudstar
+|-
+| [[Wolfsbane (comics)|Wolfsbane]]
+| Rahne Sinclair
+|-
+| [[X-23]]
+| Laura Kinney
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ Recruits
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:30%;"| Active in
+|-
+| [[Warren Worthington III|Archangel]]
+| Warren Kenneth Worthington III
+| ''X-Force'', vol. 3 #2 (2008)
+|-
+| [[Elixir (comics)|Elixir]]
+| Joshua Foley
+| ''X-Force'', vol. 3 #4 (2008)
+|-
+| [[Domino (comics)|Domino]]
+| Neena Thurman
+| ''X-Force'', vol. 3 #8 (2008)
+|-
+| [[Vanisher]]
+| Telford Porter
+| ''X-Force'', vol. 3 #9 (2008)
+|-
+| [[Cable (character)|Cable]]
+| Nathan Christopher Charles Summers
+| rowspan="2" | ''X-Force'', vol. 3 #27 (2010)
+|-
+| [[Cypher (comics)|Cypher]]
+| Douglas Aaron Ramsey
+|-
+| [[Betsy Braddock|Psylocke]]
+| Elizabeth "Betsy" Braddock
+| rowspan="4" | ''X-Men: Second Coming'' #2 (2010)
+|-
+| [[Fantomex]]
+| Charlie-Cluster 7 (Jean-Phillipe Charles)
+|-
+| colspan="2" | [[Fantomex#Powers and abilities|E.V.A.]]
+|-
+| [[Deadpool]]
+| Wade Wilson
+|-
+| colspan="2" | [[Deathlok]] Prime
+| ''Uncanny X-Force'' #7 (2011)
+|-
+| Nightcrawler
+| Kurt Darkholme (Age of Apocalypse)
+| ''Uncanny X-Force'' #19 (2012)
+|-
+| [[Storm (Marvel Comics)|Storm]]
+| Ororo Monroe
+| ''Uncanny X-Force'', vol. 2 #1 (2013)<ref>{{cite web|url=https://www.ign.com/articles/2013/01/23/uncanny-x-force-1-review-2 |title=Uncanny X-Force #1 Review |author=Schedeen, Jesse |date=January 24, 2013 |access-date=October 19, 2020}}</ref>
+|-
+| [[Puck (Marvel Comics)|Puck]]
+| Eugene Milton Judd
+| rowspan="3" | ''Uncanny X-Force'', vol. 2 #13 (2013)
+|-
+| [[Bishop (comics)|Bishop]]
+| Lucas Bishop
+|-
+| [[Spiral (character)|Spiral]]
+| Rita Wayword
+|}
+
+=== X-Club ===
+In 2009, Beast gathered a team in ''Uncanny X-Men'' #504 to attempt to deal with the mutant birth crisis, and reverse the effects of [[Decimation (comics)|M-Day]]. The team lasted until 2012.
+
+{| class="wikitable" style="width:40%;"
+|+ Original members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Beast (comics)|Beast]]
+| Henry McCoy
+|-
+| [[Warren Worthington III|Angel]]
+| Warren Worthington III
+|-
+| [[Doctor Nemesis]]
+| James Bradley
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ Recruits
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:30%;"| Joined in
+|-
+| [[Madison Jeffries|Box]]
+| Madison Jeffries
+| ''Uncanny X-Men'' #505 (2009)
+|-
+| colspan="2" | Yuriko Takiguchi
+| ''Uncanny X-Men'' #507 (2009)
+|-
+| colspan="2" | [[Kavita Rao]]
+| ''Uncanny X-Men'' #508 (2009)
+|-
+| [[Betsy Braddock|Psylocke]]
+| Elizabeth "Betsy" Braddock
+| ''Uncanny X-Men'' #512 (2009)
+|-
+| colspan="2" | [[Danger Room|Danger]]
+| ''Uncanny X-Men'', vol. 2 #1 (2011)
+|}
+
+===Time-displaced X-Men===
+Headlined ''[[All-New X-Men]]'' from 2012 to 2017 and ''[[X-Men Blue]]'' from 2017 to 2018.<ref name="Ign"/><ref>{{cite web|url=https://sea.ign.com/marvel-comics-1/114441/review/x-men-blue-1-review |title=X-Men Blue #1 Review |author=Schedeen, Jesse |date=April 12, 2017 |access-date=October 19, 2020}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Original members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Cyclops (Marvel Comics)|Cyclops]]
+| Scott Summers
+|-
+| [[Iceman (Marvel Comics)|Iceman]]
+| Robert Louis "Bobby" Drake
+|-
+| [[Beast (comics)|Beast]]
+| Henry Philip "Hank" McCoy
+|-
+| [[Jean Grey|Marvel Girl / Phoenix]]
+| Jean Grey
+|-
+| [[Warren Worthington III|Angel / Archangel]]
+| Warren Kenneth Worthington III
+|}
+
+{| class="wikitable" style="width:70%;"
+|+ Recruits
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+! style="width:30%;"| Joined in
+|-
+| [[Kitty Pryde|Shadowcat]]
+| Kitty Pryde
+| ''X-Men: [[Battle of the Atom]]'' #2 (2013)
+|-
+| [[X-23|X-23 / Wolverine]]
+| Laura Kinney
+| ''All-New X-Men'' #20 (2013)<ref>{{cite web|url=https://www.cbr.com/x-23-x-plained-from-logans-clone-to-the-all-new-wolverine/ |title=X-23 X-Plained: From Logan's Clone To The All-New Wolverine |author=White, Brett |date=November 6, 2016 |access-date=October 19, 2020}}</ref>
+|-
+| [[Oya (comics)|Oya]]
+| Idie Okonkwo
+| rowspan="3" | ''All-New X-Men'' vol. 2 #1 (2016)<ref>{{cite web|url=https://www.cbr.com/x-position-hopeless-talks-pickles-and-predicaments-in-all-new-x-men/ |title=X-POSITION: Hopeless Talks Pickles and Predicaments in "All-New X-Men" |author=White, Brett |date=October 20, 2015 |access-date=October 19, 2020}}</ref>
+|-
+| [[Apocalypse (comics)#Evan Sabahnur|Genesis]]
+| Evan Sabahnur
+|-
+| colspan="2" | Pickles
+|-
+| [[Magneto (Marvel Comics)|Magneto]]
+| Max "Erik Magnus" Eisenhardt
+| ''X-Men Blue'' #1 (2017)<ref>{{cite web|url=https://bleedingcool.com/comics/least-theres-no-thinly-veiled-hate-speech-one-x-men-blue1-review/ |title=At Least There's No Thinly Veiled Hate Speech in This One: X-Men Blue#1 Review |date=April 16, 2017 |author=Glass, Joe |access-date=October 19, 2020}}</ref>
+|-
+| [[Jimmy Hudson|Poison]]
+| James Hudson, Jr.
+| ''X-Men Blue'' #6 (2017)<ref>{{cite web|url=https://bleedingcool.com/comics/x-men-blue-6-review-jean-wolverine/ |title=X-Men Blue #6 Review: Always The Jean-Wolverine-Cyclops Love Triangle |date=July 2, 2017 |author=Davison, Joshua |access-date=October 19, 2020}}</ref>
+|-
+| [[Bloodstorm (Ororo Munroe)|Bloodstorm]]
+| Ororo Munroe
+| ''X-Men Blue'' #12 (2017)<ref>{{cite web|url=https://bleedingcool.com/comics/722677/ |title='X-Men: Blue' #12 Review: Goblin Queen's Gambit |date=October 1, 2017 |author=Davison, Joshua |access-date=October 19, 2020}}</ref>
+|-
+| [[Polaris (Marvel Comics)|Polaris]]
+| Lorna Dane
+| rowspan="4" | ''X-Men Blue'' #25 (2018)<ref>{{cite web|url=https://www.cbr.com/x-men-blue-25-new-team-marvel-comics/ |title=Marvel's X-Men Blue Promises a New Team Lineup |author=Melrose, Kevin |date=January 23, 2018 |access-date=October 19, 2020}}</ref>
+|-
+| [[Xorn]]
+| Shen Xorn
+|-
+| [[Daken]]
+| Akihiro
+|-
+| colspan="2" | Gazing Nightshade
+|}
+
+=== London X-Men ===
+In 2017, a team was formed to help Charles Xavier against the [[Shadow King]] in ''Astonishing X-Men'', vol. 4.<ref>{{cite web|url=https://www.cbr.com/astonishing-x-men-1/ |title=Astonishing X-Men #1 |date=July 14, 2017 |access-date=October 19, 2020}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Professor X|X]]
+| Charles Xavier
+|-
+| [[Warren Worthington III|Archangel]]
+| Warren K. Worthington III
+|-
+| [[Betsy Braddock|Psylocke]]
+| Elizabeth Braddock
+|-
+| [[Bishop (Marvel Comics)|Bishop]]
+| Lucas Bishop 
+|-
+| [[Old Man Logan]]
+| James Howlett
+|-
+| [[Fantomex]]
+| Charlie-Cluster 7
+|-
+| [[Rogue (Marvel Comics)|Rogue]]
+| Anna Marie
+|-
+| [[Gambit (Marvel Comics)|Gambit]]
+| Remy Lebeau
+|-
+| [[Mystique (character)|Mystique]]
+| Raven Darkhölme
+|}
+
+=== Secret X-Men ===
+A team formed in ''Secret X-Men'' #1 (2022), tasked with saving the daughter of Charles Xavier and Lilandra.<ref>{{cite web|url=https://www.cbr.com/marvel-secret-x-men-one-shot/ |title=Secret X-Men #1 |date=February 9, 2022 |access-date=November 24, 2021}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Sunspot (Marvel Comics)|Sunspot]]
+| Roberto da Costa
+|-
+| [[Cannonball (Marvel Comics)|Cannonball]]
+| Samuel Zachary Guthrie
+|-
+| colspan="2" | [[Forge (character)|Forge]]
+|-
+| [[Banshee (character)|Banshee]]
+| Sean Cassidy
+|-
+| [[Strong Guy]]
+| Guido Carosella
+|-
+| [[Tabitha Smith|Boom-Boom]]
+| Tabitha Smith
+|-
+| [[Armor (Marvel Comics character)|Armor]]
+| Hisako Ichiki
+|-
+| [[Marrow (character)|Marrow]]
+| Sarah "Rushman"
+|-
+| [[Tempo (comics)|Tempo]]
+| Heather Tucker
+|}
+
+== Unofficial ==
+The teams who have used the name of the X-Men without the permission of the official X-Men. They were either opposed to the X-Men altogether, or used the name to promote themselves to the public.
+
+===Cerebro's X-Men===
+{{main|Cerebro's X-Men}} 
+Nanotechnology imposter team formed in 1998 by a sentient [[Cerebro]] posing as [[Professor X]].<ref>{{cite web|url=https://www.cbr.com/x-men-cerebro-powerful-mutant-team/ |title=X-Men: Cerebro Once Recruited One of the Most Powerful Mutant Teams Ever |author=Medlin, D.R. |date=Oct 30, 2020 |access-date=November 24, 2021}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| colspan="2" | [[Cerebro]]
+|-
+| The Grey King
+| Addison Falk
+|-
+| colspan="2" | Mercury
+|-
+| Rapture
+| Sister Joy
+|-
+| Landslide
+| Lee Broder
+|-
+| Xaos
+| Daniel Dash
+|-
+| Crux
+| Cristal Lemieux
+|}
+
+===Great Lakes X-Men===
+In 2005, served a [[cease and desist]] for his team's use of the [[Avengers (comics)|Avengers]] name, Mr. Immortal reorganized the [[Great Lakes Avengers]] into a team of unofficial X-Men in ''G.L.A.'' #4. They have since changed their name to first Great Lakes Champions and then Great Lakes Initiative.<ref>{{cite web|url=https://screenrant.com/marvel-most-powerful-team-great-lakes-avengers/ |title=Marvel’s Most Powerful Superhero Team is Secretly [SPOILER] |author=Jung, Michael |date=December 30, 2019 |access-date=October 19, 2020}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Mr. Immortal]]
+| Craig Hollis
+|-
+| [[Flatman (character)|Flatman]]
+| Val Ventura
+|-
+| [[Doorman (comics)|Doorman]]
+| DeMarr Davis
+|-
+| [[Big Bertha (comics)|Big Bertha]]
+| Ashley Crawford
+|-
+| [[Squirrel Girl]]
+| Doreen Green
+|-
+| [[Squirrel Girl#Tippy-Toe|Tippy-Toe]]
+| Tippy-Toe
+|}
+
+===Norman Osborn's X-Men===
+{{main|Dark X-Men}}
+In 2009, a team of X-Men assembled by [[Norman Osborn]] during the "Utopia" storyline as part of the overarching "[[Dark Reign (comics)|Dark Reign]]" event.<ref>{{cite web|url=https://www.cbr.com/dark-xmen-ranked/ |title=All Of The Dark X-Men, Ranked |author=Murray, Kirsten |date=May 8, 2019 |access-date=October 19, 2020}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Mystique (character)|Mystique]]
+| Unrevealed (alias: Raven Darkhölme)
+|-
+| [[Emma Frost|Black Queen]]
+| Emma Frost
+|-
+| [[Namor|Sub-Mariner]]
+| Namor McKenzie
+|-
+| [[Daken|Wolverine]]
+| Daken Akihiro
+|-
+| [[Mimic (comics)|Mimic]]
+| Calvin Montgomery Rankin
+|-
+| [[Michael Pointer (character)|Omega]]
+| Michael Pointer
+|-
+| [[Cloak and Dagger (characters)|Cloak]]
+| Tyrone Johnson
+|-
+| [[Cloak and Dagger (characters)|Dagger]]
+| Tandy Bowen
+|-
+| [[Dark Beast]] (Earth-295)
+| Henry Philip McCoy
+|}
+
+===X-Men Green===
+A rogue team formed in 2021 to combat environmental destruction.<ref>{{cite web|url=https://www.cbr.com/xmen-green-team-nature-girl-curse/ |title=Marvel Introduced a Deadly New X-Men Team - and It's Surprisingly Brutal |author=Kopp, Drew |date=Oct 18, 2021 |access-date=November 24, 2021}}</ref>
+
+{| class="wikitable" style="width:40%;"
+|+ Members
+! style="width:20%;"| Character
+! style="width:20%;"| Real name
+|-
+| [[Cypher (Marvel Comics)|Cypher]]
+| Douglas Aaron Ramsey
+|-
+| Nature Girl
+| Lin Li
+|-
+| colspan="2" | Curse
+|-
+| [[Sauron (comics)| Sauron]]
+| Dr. Karl Lykos
+|}
+
+== See also ==
+* [[List of Xavier Institute students and staff]]
+* [[List of X-Men enemies]]
+
+== References ==
+{{reflist}}
+
+{{X-Men}}
+
+[[Category:Lists of Marvel Comics characters|X-Men members, List of]]
+[[Category:Lists of Marvel Comics characters by organization|X-Men]]
+[[Category:Lists of X-Men characters| ]]
+[[Category:Marvel Comics mutants|*]]

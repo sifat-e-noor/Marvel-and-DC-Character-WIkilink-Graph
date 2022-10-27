@@ -1,0 +1,71 @@
+{{upe|date=November 2019}}
+{{Infobox drug
+| type              = mab
+| image             = 
+| alt               = 
+| mab_type          = <!-- mab, Fab, F(ab')2, Fab', scFv, di-scFv, 3funct, clFab, BiTE -->
+| source            = <!-- a, e, i, o, u, xi/a, zu/a, xizu/a, axo, ... -->
+| target            = <!-- antigen, not the code number of the monoclonal antibody! -->
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_US      = <!-- A/B/C/D/X -->
+| pregnancy_category=  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_AU_comment =
+| legal_BR =  <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F-->
+| legal_BR_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_NZ = <!--Class A, B, C -->
+| legal_status      = Investigational
+| routes_of_administration = 
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       =
+| onset             = 
+| elimination_half-life = 
+| duration_of_action=
+| excretion         =
+<!-- Identifiers -->
+| CAS_number        = 1638332-55-4
+| ATC_prefix        = <!-- 'none' when not assigned -->
+| ATC_suffix        = 
+| PubChem           = 
+| DrugBank          = 
+| UNII              = Y8127R3VCH
+| KEGG              = D11343
+| synonyms          = GSK3196165; MOR103
+}}
+
+'''Otilimab''' (development codes '''MOR103''' and '''GSK3196165''') is a fully human [[antibody]] which has been developed by the [[biotechnology]] company [[MorphoSys]].<ref>{{Cite news|url=https://www.morphosys.com/pipeline/proprietary-product-portfolio/mor103|title=Official web page of MOR103/GSK3196165 on the MorphoSys website|date=2014-10-27|work=MorphoSys AG|access-date=2018-06-23}}</ref> It can also be referred to as HuCAL antibody, HuCAL standing for Human Combinatorial Antibody Library and being a technology used to generate monoclonal antibodies. Otilimab is directed against the [[Granulocyte-macrophage colony-stimulating factor|granulocyte-macrophage colony stimulating factor]] (GM-CSF), a monomeric glycoprotein functioning as a cytokine promoting both proliferation and activation of [[macrophage]]s and [[neutrophil]]s.
+
+== Mode of action ==
+[[File:Antibody.svg|thumb|right|Schematic diagram of an antibody and antigens. In the given case, otilimab is the antibody and binds monospecifically to GM-CSF (corresponding to the fitting yellow bit on this image).]]
+Otilimab, as its [[monoclonal antibody]], specifically binds to GM-CSF which is consequently neutralised and incapable of binding its targeted inflammatory cells as it should in order to allow their proliferation and activation. There is no following induction of [[inflammation]] (through cytokines e.g. TNF-α, IL-1, IL-6), [[chemotaxis]] (via chemokines e.g. IL-8), tissue degradation (caused by e.g. [[Matrix metalloproteinase|MMPs]], [[Hydrogen peroxide|H<sub>2</sub>O<sub>2</sub>]]) or [[T cell|T]] and [[B cell]] response (following up-regulated [[MHC class II|MHC II]] level).
+
+== Medical uses ==
+Beyond its role in natural immune pathways, GM-CSF has been shown to be involved in [[autoimmune disease]]s such as [[multiple sclerosis]] (MS) and [[rheumatoid arthritis]] (RA) in which cases GM-CSF levels are elevated and mediate an increased production of pro-inflammatory elements ([[cytokine]]s, [[chemokine]]s, [[protease]]s). The factor is also known to be involved in [[osteoarthritis]] of the hand. Research has thus been working on it as a molecular target for the treatment of such disorders, notably through [[immunotherapy]] such as [[monoclonal antibody therapy]] which is known to be efficient against autoimmune diseases.
+
+=== Rheumatoid arthritis ===
+There already exist treatments of rheumatoid arthritis through monoclonal antibodies (i.e. [[infliximab]], [[Adalimumab|adalimumab]]). These drugs are not targeting GM-CSF but TNF-α which is another cytokine involved in the disease. However, the major involvement of [[Tumor necrosis factor alpha|TNF-α]] in immunity makes its suppression delicate: it diminishes the immune defenses of treated patients against potential new infections and may allow the reactivation of latent ones such as [[hepatitis B]] and [[tuberculosis]]. The number of reported cases of severe side effects, including fatal ones, has led the [[Food and Drug Administration|FDA]] to instruct tight monitoring of patients before and during a treatment by TNF-inhibiting drugs. Nevertheless, another way to circumvent such outcomes may be to target an alternate cytokine.
+
+=== Multiple sclerosis ===
+In multiple sclerosis (MS), GM-CSF is produced by [[T helper cell]]s ([[Th1 cell|Th1]] and [[T helper 17 cell|Th17]]). It is able to cross the [[Blood–brain barrier|blood-brain barrier]] (BBB) and bind to CD52 on macrophages surface. Along with other pro-inflammatory events, this will participate in the [[central nervous system]] (CNS) inflammation process typically occurring in MS.
+
+There are numerous existing monoclonal antibodies used in the treatment of multiple sclerosis: [[natalizumab]] (targets α4-integrin), [[daclizumab]] and [[alemtuzumab]] (both binding to CD25, the α-subunit of IL-2 receptor on the surface of mature lymphocytes), [[ocrelizumab]] (against CD20 marker on B-cells).<ref>{{cite journal | vauthors = Knier B, Hemmer B, Korn T | title = Novel monoclonal antibodies for therapy of multiple sclerosis | journal = Expert Opinion on Biological Therapy | volume = 14 | issue = 4 | pages = 503–13 | date = April 2014 | pmid = 24579720 | doi = 10.1517/14712598.2014.887676 | s2cid = 19160653 }}</ref> However, the frequent adverse effects notified, including secondary autoimmune phenomena,<ref>{{cite journal | vauthors = Costelloe L, Jones J, Coles A | title = Secondary autoimmune diseases following alemtuzumab therapy for multiple sclerosis | journal = Expert Review of Neurotherapeutics | volume = 12 | issue = 3 | pages = 335–41 | date = March 2012 | pmid = 22364332 | doi = 10.1586/ern.12.5 | s2cid = 34738692 }}</ref> suggest that the uncovering of a new molecular target for monoclonal antibody therapy would be welcomed in the research for an improved treatment against MS.
+
+Otilimab is currently undergoing [[clinical trial]]s to determine whether it could be used as treatment and has so far shown to be generally well tolerated by both [[Relapsing remitting multiple sclerosis|relapsing-remitting multiple sclerosis]] (RRMS) and [[Relapsing remitting multiple sclerosis|secondary progressive multiple sclerosis]] (SPMS) patients. Indeed, most TEAEs (treatment-emergent adverse events) which were observed were mild to moderate. There isn't evidence of [[Immunogenicity|immunogenecity]] either: no anti-otilimab antibodies were detected in patients following treatment. These results provide Class I evidence in regards to acceptable [[Drug tolerance|tolerance]] in MS patients and reveal that otilimab remains a fitted candidate for the treatment of multiple sclerosis<ref>{{cite journal | vauthors = Constantinescu CS, Asher A, Fryze W, Kozubski W, Wagner F, Aram J, Tanasescu R, Korolkiewicz RP, Dirnberger-Hertweck M, Steidl S, Libretto SE, Sprenger T, Radue EW | display-authors = 6 | title = Randomized phase 1b trial of MOR103, a human antibody to GM-CSF, in multiple sclerosis | journal = Neurology | volume = 2 | issue = 4 | pages = e117 | date = August 2015 | pmid = 26185773 | pmc = 4442097 | doi = 10.1212/NXI.0000000000000117 }}</ref>
+
+== References ==
+<references />
+
+[[Category:Monoclonal antibodies]]
+[[Category:Arthritis]]

@@ -1,0 +1,90 @@
+{{refimprove|date=June 2008}}
+{{Infobox comic book title
+<!--Wikipedia:WikiProject Comics--> 
+|title=Nth Man: The Ultimate Ninja
+|image=Nth man.jpg
+|caption=''Nth Man: The Ultimate Ninja'' #1 (August 1989).  © [[Marvel Comics]]. Pencils by [[Ron Wagner]], inks by [[Bob McLeod (comics)|Bob McLeod]].
+|schedule=Monthly
+|format=[[Ongoing series]]
+|publisher=[[Marvel Comics]]
+|date=August [[1989 in comics|1989]] - September [[1990 in comics|1990]]
+|issues=16
+|main_char_team=John Doe<br>Alfie O'Meagan
+|writers=[[Larry Hama]]
+|artists=
+|pencillers=[[Ron Wagner]] (all issues except #8)<br>[[Dale Keown]] (issue #8)
+|inkers=Fred Fredericks
+|letterers=Janice Chiang
+|colorists=Mark Chiarello<br>Bob Sharen
+|editors=
+|creative_team_month=
+|creative_team_year=
+|creators=
+|TPB=
+|ISBN=
+|TPB1=
+|ISBN1=
+|TPB2=
+|ISBN2=
+|TPB8=
+|ISBN8=
+|TPB9=
+|ISBN9=
+|nonUS=
+}}
+
+'''''Nth Man: The Ultimate Ninja''''' is a [[comic book]] about an American [[ninja]] set in an unspecified near future where [[World War III]] has started. It was written by [[Larry Hama]] between [[1989 in comics|1989]] and [[1990 in comics|1990]], based largely on his success writing the ''[[G.I. Joe: A Real American Hero (Marvel Comics)|G.I. Joe: A Real American Hero]]'' comic, which he wrote concurrently with The Nth Man (and also features a modern ninja as one of the main characters). Nth Man and Alfie O'Meagan first appeared in ''[[Marvel Comics Presents]]'' #25 (August 1989). The series was meant to last for 24 issues, but was cancelled after 16.<ref>{{Cite web|url=http://www.kylerobinsoncustoms.com/toysoup/viewtopic.php?f=13&t=674|title = Kyle Rovinson Customs – business, B2B}}</ref> In spite of this, Hama was able to resolve the storyline early. [[Ron Wagner]], who penciled the series for its entire run, attributes its commercial failure to its being set in a standalone universe instead of the popular [[Marvel Universe]], as well as the absence of costumed characters.<ref>{{cite news | last = Meth | first= Clifford | date = June 1993 | title = Going for the Throat | work = [[Wizard (magazine)|Wizard]] | issue = 22 | pages = 90–93}}</ref>
+
+==Plot==
+The series starts [[in medias res]], with American soldiers parachuting into war-torn Moscow, in an attempt to rescue the Nth Man. Using TV news commentary as a plot [[exposition (narrative)|exposition]] device, it is revealed that the war was caused by Alfie O'Meagan, using his psychic abilities to neutralize all nuclear weapons on the planet, upsetting the balance of power.
+
+During the course of the story, we learn that Alfie has grown up in an orphanage alongside John Doe (the "Nth Man" of the title). Doe was adopted by an elderly Japanese man, who worked for the [[Central Intelligence Agency|CIA's]] "[[Covert operation|Black Ops]]" division. Doe was raised as a [[ninja]], taught to kill without regret. While in the orphanage, O'Meagan had visions of [[Parallel universe (fiction)|possible futures]] (the "could-be's"), and over time his powers grew, so that he was able to control matter and produce other effects that were against the physical laws of the universe.
+
+The storyline is complex, following numerous characters through war zones, plague-ridden post-Apocalyptic landscapes, inside a video game, alien worlds, and various points in time and space. Alfie gains vast power, while losing his sanity. When the Soviet Union launches [[Biological warfare|biological weapons]], Alfie's attempt to turn them harmless backfires.
+
+Using a [[narrative jump]] of one year (which was forced upon writer Larry Hama in order to wrap up the story, due to the cancellation of the series), we see that the biological weapons were turned into a mutagenic virus, and millions are transformed into psychotic, cannibalistic "moots". The conclusion of the story makes use of a [[paradox]], and Doe and O'Meagan are shown to be responsible for their own origins.
+
+==Relationships to other Marvel Comics==
+The series is not set within the [[Earth-616|primary setting]] of the [[Marvel Universe]] and the characters of those series are treated as fictional comic book characters. O'Meagan draws upon those comics as inspiration transforming his size and appearance to resemble that of [[Galactus]], and that of a female character to resemble the [[Silver Surfer]].
+
+==Alfie O'Meagan==
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Alfie O'Meagan
+| publisher = [[Marvel Comics]]
+| debut = ''Marvel Comics Presents'' #25 (August 1989)
+| creators = [[Larry Hama]]
+| alter_ego = 
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Psychokinesis, telepathy, unspecified psychic ability to warp reality
+}}
+The name "Alfie O'Meagan" can be recognized as a pun on [[Alpha and Omega (disambiguation)|Alpha and Omega]].  The first and last letters of the Greek alphabet were used in the [[Book of Revelation]] to describe the Judeo-Christian God as the beginning and the end.  That and the secular English idiom's use of the phrase to denote "the beginning and end" provide a clue to the time-twisting resolution to the Nth Man saga.
+
+===Fictional character biography===
+Alfie O'Meagan (his adopted name) is first portrayed a child, with various [[psychic]] abilities including [[clairvoyance]] and [[precognition]]. He calls his visions the "could-be's" and can somehow allow others to see them as well, especially his only childhood friend John Doe. As Alfie grows older, his powers vastly increase, giving him abilities such as [[mind control]], [[teleportation]], and [[telekinesis]] which can re-arrange molecules on a massive scale.
+
+Alfie is troubled by [[nightmare]]s as a child, and his strange behavior and the odd events which occur around him cause him to be victimized by both orphanage [[Bully|bullies]], and the drunk and abusive man who runs the orphanage. While comic books serve as a means of escape, eventually he realizes that his powers can be used for [[revenge]] against his tormentors.{{Issue|date=April 2010}}
+
+Alfie eventually uses his psychic powers to stop all the world's nuclear weapons from working.  This has the unexpected side-effect of triggering a conventional war between the USSR and the USA, which ultimately becomes World War III.{{Issue|date=April 2010}}
+
+===Other appearances===
+The [[Excalibur (comics)|Excalibur]] team of superheroes ran into Alfie O'Meagan in his [[parallel universe (fiction)|alternate reality]] in ''Excalibur'' (vol. 1) #27. Here Alfie had assumed a form and giant stature similar to that of [[Galactus]], except for the helmet which he only wore on one occasion. After a fight in which [[Rachel Summers]] ferociously unleashed the full power of the [[Phoenix Force (comics)|Phoenix Force]] on Alfie in his Galactus form and brought him to his knees, the team was sent back to their native reality, [[Earth-616]], when [[Nightcrawler (comics)|Nightcrawler]] pushed "Cancel" on the remote control of Alfie's television, which nullified everything that had occurred.
+
+== References ==
+{{reflist}}
+
+{{Marvel Multiverse}}
+
+[[Category:1989 comics debuts]]
+[[Category:Fictional ninja]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics titles]]
+[[Category:Ninja fiction]]
+[[Category:Comics characters introduced in 1989]]
+[[Category:Characters created by Larry Hama]]

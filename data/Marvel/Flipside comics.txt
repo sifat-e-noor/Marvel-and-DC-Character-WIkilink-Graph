@@ -1,0 +1,436 @@
+{{Short description|Marvel Comics imprint}}
+{{Refimprove|date=May 2014}}
+{{Infobox comics meta series <!--Wikipedia:WikiProject Comics--> 
+|character           = 
+|theme               = 
+|character_name      =  <!-- If "character" is set -->
+|image               = Marvel 2099.jpg
+|caption             = Variant cover art to ''Spider-Man 2099'' vol. 3 #4 (December 2015). Art by [[Pasqual Ferry]] 
+|alt                 =
+<!-- If "character" is set -->
+|debut               = 
+|debutmo             = 
+|debutyr             = 
+|alter_ego           = 
+|full_name           = 
+|species             = <!-- optional -->
+|homeworld           = <!-- optional -->
+|alliances           = <!-- optional -->
+|partners            = <!-- optional -->
+|aliases             = <!-- optional -->
+|powers              =
+|schedule            = Varied
+|format              = Varied
+|titles              = 
+|notable=y
+|lang                = en
+|genre               = 
+|Superhero  = y
+|Adaptation          = 
+|Adapt_link          = 
+|publisher           = 
+|date                = 
+|startmo             = <!-- optional in lieu of date-->
+|startyr             = 1992
+|endmo               = <!-- optional in lieu of date-->
+|endyr               = 1999
+|issues              = 
+|main_char_team      = 
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators            = 
+|nonUS               = 
+|reprint             = 
+|relang              = 
+|relang#             = 
+|TPB                 = 
+|ISBN                = 
+|TPB#                = 
+|ISBN#               = 
+|subcat              = 
+|altcat              = 
+|alttop              = 
+|sort                = Marvel 2099
+|charsort            = <!-- If "character" is set -->
+|addpubcat#          = 
+}}
+'''Marvel 2099''' is a [[Marvel Comics]] imprint, started in 1992, that was [[Multiverse (Marvel Comics)|originally one possible future]] of the [[Marvel Universe]], but later revealed in a climax of ''Superior Spider-Man Goblin Nation arc'' and ''Amazing Spider-Man'' Vol. 3 #14 to be the Earth of the prime Marvel continuity in the distant future. It was originally announced by [[Stan Lee]] in his "[[Bullpen Bulletins|Stan's Soapbox]]" column as a single series entitled ''The Marvel World of Tomorrow'', which was being developed by Lee and [[John Byrne (comics)|John Byrne]]. This later changed to a [[line (comics)|line]] of books under the banner ''Marvel 2093'' (the date being one hundred years from the year in which the titles launched) before finally being published as ''Marvel 2099''.
+
+Three of the initial four titles launched—''[[Doom 2099]]'', ''[[Punisher 2099]]'', and ''[[Spider-Man 2099]]''—starred futuristic takes on pre-existing characters. The fourth, ''[[Ravage 2099]]'', featured an all-new superhero, scripted for several months by [[Stan Lee]]. The 2099 [[line (comics)|line]] soon expanded to include ''2099 Unlimited'', ''[[Fantastic Four 2099]]'', ''[[Ghost Rider 2099]]'', ''[[Hulk 2099]]'', ''[[X-Men 2099]]'', and ''[[X-Nation 2099]]''. While it has been confirmed to be a possible future version of [[Earth-616]], the mainstream Marvel Universe, the 2099 universe has been officially designated as '''Earth-928''' and alternatively dubbed as '''Earth-616 circa 2099'''.
+
+{{TOC limit|3}}
+
+==Publication history==
+The initial universe began with ''[[Spider-Man 2099]]'', ''[[Ravage 2099]]'', ''[[Doom 2099]]'', and ''[[Punisher 2099]]'' being launched in subsequent months. [[Peter David]] wrote ''Spider-Man'' for the bulk of the series, and it was consistently the most popular series.{{Citation needed|date=January 2011}} It satirized corporations, with Spider-Man constantly clashing with Alchemax, which employed him in his secret identity. Stan Lee wrote the first eight issues of ''Ravage'' as an extremely political story about corruption, corporate pollution, and the environment. After Lee left, he was replaced by a series of writers . In 1993, ''[[Wizard (magazine)|Wizard]]'' reported that the 2099 line had "gone over fairly well with the fans".<ref>{{cite news | date = June 1993 | title = Wizard Market Watch | work = [[Wizard (magazine)|Wizard]] | issue = 22 | pages = 134–5}}</ref>
+
+===Growth and decline===
+Fans requested further titles, and Marvel provided ''[[X-Men 2099]]''. They also introduced a [[Hulk 2099]] in the series ''2099 Unlimited'', which featured occasional Spider-Man 2099 stories, as well as early work by [[Warren Ellis]]. The comics had a strong degree of interconnectivity that was similar to comics published by Marvel in the 1960s due to the imprint's editor Joey Cavalieri. The only cross-title crossover within the 2099 universe, ''The Fall of the Hammer'', detailed a plot by the corporations to technologically recreate the Norse pantheon, along with a new [[Thor (Marvel Comics)#2099|Thor]], to distract attention from the anti-corporate superheroes.
+
+The 2099 series expanded to include ''[[Ghost Rider 2099]]'', about a hero whose consciousness had been downloaded into a robotic body. Hulk 2099 was also given a brief chance at his own series. As sales began to flag on all titles besides ''Spider-Man'' and ''X-Men'', Marvel commissioned ideas from various writers, including a proposal by [[Grant Morrison]] and [[Mark Millar]], before accepting Warren Ellis's idea that Doom 2099, revealed to be, in fact, Victor Von Doom, would take over the United States.{{Citation needed|date=October 2011}} Each title had the modifier "A.D." ("After Doom") added on the logo to reflect the change. The new storyline allowed Marvel to cancel several low-selling titles (''Hulk'', ''Ravage'',  and ''The Punisher'').{{Citation needed|date=October 2011}} The in-universe reason for the heroes' deaths was President Rogers (an impostor [[Captain America]] who was instated after Doom was violently ousted from office) ordered the execution of the super heroes, including Punisher, Hulk and a handful of low-tier heroes who had appeared in ''2099 Unlimited''.<ref>''2099 Apocalypse''. Marvel Comics.</ref>
+
+In 1996, when Marvel, during a cost-cutting exercise, fired Cavalieri, many of the 2099 creators (including Peter David and Warren Ellis) quit the line in protest. With the line floundering, two additional titles were launched: ''[[X-Nation 2099]]'', a spin-off of ''X-Men 2099'', and ''[[Fantastic Four 2099]]'', which featured characters who were apparently the present day [[Fantastic Four]] accidentally sent into the future.{{Citation needed|date=October 2011}}
+
+Around this time, ''Doom 2099'' became the only 2099 comic to crossover with a present-day Marvel comic when he traveled back to 1996 and met [[Daredevil (Marvel Comics character)|Daredevil]], the Fantastic Four, and [[Namor]] in a story partially told in ''Fantastic Four'' #413. Spider-Man 2099 met the original [[Spider-Man]] in a special one-shot issue, making them the only characters to meet their counterparts.
+
+===End of the imprint===
+{{update|Timestorm and the second Spider-Man title|date=October 2014}}
+After sales slumped, the 2099 titles were canceled and replaced by ''[[2099: World of Tomorrow]]'', a single title featuring the surviving characters from all the titles. The series lasted only eight issues before being canceled.{{Citation needed|date=October 2011}}
+
+The 2099 line was concluded with a [[One-shot (comics)|one-shot]], ''2099: Manifest Destiny'' (March 1998), in which Captain America was found in suspended animation and, with Miguel O'Hara, assembled various 2099 heroes into a new team of [[Avengers (comics)|Avengers]]. The story summarized the years from 2099 to 3099, with humanity transforming the corporate world of 2099 into a utopia and then expanding into space.
+
+===Subsequent appearances===
+The 2099 world has been seen occasionally since, most notably in Peter David's "Future Tense" storyline in ''[[Genis-Vell|Captain Marvel]]'', which revisited both [[Spider-Man 2099]] and the alternate future of the [[Alternative versions of the Hulk#Maestro|Maestro]] that David created in ''[[Maestro (comics)|The Incredible Hulk: Future Imperfect]]'', explaining a plot point which had been left dangling since David had abruptly left ''Spider-Man 2099''.
+
+In 2004, writer [[Robert Kirkman]] wrote a series of one-shot comics for the fifth anniversary of the [[Marvel Knights]] imprint, under the heading ''[[Marvel Knights#Marvel Knights 2099|Marvel Knights 2099]]''. The future portrayed in this series is unconnected to the original 2099 Universe, which included a different Punisher 2099.
+
+In 2005, the ''[[Official Handbook of the Marvel Universe]]'' one-shot, involving alternate universes, designated the Earth of 2099 as Earth-928, with ''[[Marvel Knights#Marvel Knights 2099|Marvel Knights 2099]]'' designated as Earth-2992. A cover of a second printing from the Spider-Man storyline "[[Spider-Man: The Other|The Other: Evolve or Die]]" features Miguel O'Hara / Spider-Man 2099.
+
+In 2006, the [[Exiles (Marvel Comics)|Exiles]] visited the Marvel Universe 2099 in ''Exiles'' #75-76 as part of the "World Tour" arc. This future had split apart from the mainstream 2099 fairly early, as Doom 2099 had not yet met Spider-Man 2099. Spider-Man 2099 joined the Exiles and left with them.
+
+In 2009 Marvel published miniseries "Timestorm," crossing the current Marvel Universe with yet another alternate version of 2099.  The Spider-Man 2099 of this reality is a teenager.
+
+In 2013, Spider-Man 2099 became trapped in the mainstream Marvel Universe in ''[[The Superior Spider-Man]]''. In 2014 he would star in an ongoing series and become involved in the "[[Spider-Verse]]" storyline, along with numerous other alternate reality Spider-Men. Notably the Spider-Men 2099s of the "Exiles" and "Timestorm" series are killed during this event. At the end of this storyline, the 2099 timeline has been altered.
+
+The 2099 universe is involved in the 2015 storyline "[[Secret Wars (2015 comic book)|Secret Wars]]".
+
+In 2016, an issue of ''[[Deadpool]]'' debuted the 2099 version of Deadpool.<ref>Gerding, Stephen (October 20, 2015). [http://www.comicbookresources.com/article/vader-down-concludes-deadpool-2099-debuts-more-marvel-january-highlights "'Vader Down' Concludes, Deadpool 2099 Debuts & More Marvel January Highlights"]. [[CBR.com]].</ref>
+
+In 2019,  in ''Amazing Spider-Man'' #25, [[Dr. Connors]] is giving a lecture on the negligence of the world and environment due to focus on the countless occurrences of superhero activity will end up negatively impacting the future, to the point of catastrophe. Meanwhile, set to his lecture, strange weather phenomenon is occurring above a burning oil rig. A rift opens in the sky and a figure falls out of it, landing on the dock of the rig. The workers un-bury the figure, revealing an unconscious Spider-Man 2099. There was later a series of one-shots to celebrate the 25th anniversary of Marvel 2099. It incorporated the ongoing storyline from ''Amazing Spider-Man'' that not only reintroduced [[Spider-Man 2099]], [[Fantastic Four 2099]], [[Doom 2099]], [[Punisher 2099]], and [[Venom 2099]] in individual one-shot issues, but also introduced '''Conan 2099'''. <ref>{{Cite web|url=https://www.marvel.com/articles/comics/the-future-is-now-see-the-2099-variants-coming-to-marvel-comics-this-november|title = The Future is Now: See the 2099 Variants Coming to Marvel Comics This November}}</ref>
+
+==Setting==
+The world of 2099 is a [[cyberpunk]] [[dystopia]] (similar to the world of ''[[Blade Runner]]''). [[North America]] is a [[megacorporation|corporate police state]] ruled by a few huge megacorporations, most notably [[Alchemax]], which owns the private police force the Public Eye (which primarily punishes criminals' bank accounts). There were, prior to the launch of the comics, no active superheroes in this world, and the previous heroes are mythologized through religion, as with the Church of Thor. The present-day Marvel continuity is referred to as an "Age of Heroes" that abruptly ended in a catastrophe a century before that also set back society (this catastrophe was averted in the present when Miguel O'Hara- [[Spider-Man 2099]]- temporarily swapped places with his past self shortly before the cataclysm, turning Miguel's world into an alternate future of the Marvel Universe rather than ''the'' future).
+
+===Card system===
+In the 2099 Universe, the monetary currency system uses implants commonly known as cards, which are credit ID implants. There are aluminum cards, gold cards, and platinum cards. Another type of card are black cards, which give the owner unlimited funds and law immunity.<!-- There is also a status known as ''"decred,"'' which denies access to many public places, such as hospitals, hypermarkets, and shopping malls.-->
+
+==Characters==
+
+===Heroes===
+
+====Protagonists====
+* [[Doom 2099|Doom]] (Victor Von Doom)
+* [[Ghost Rider 2099|Ghost Rider]] (Kenshiro Cochrane)
+* [[Hulk 2099|Hulk]] (John Eisenhart)
+* [[Punisher 2099|Punisher]] (Jake Gallows)
+* [[Ravage 2099|Ravage]] (Paul-Phillip Ravage)
+* [[Spider-Man 2099|Spider-Man]] (Miguel O'Hara)
+
+====X-Men 2099====
+* [[Bloodhawk]] (Lemuel Krugg)
+* [[Cerebra]] (Shakti Haddad)
+* Junkpile
+* [[Krystalin]] (Krystalin Porter Ogada)
+* [[La Lunatica]]
+* [[Meanstreak (comics)|Meanstreak]] (Henri Huang)
+* [[Metalhead (comics)|Metalhead]] (Eddie Van Beethoven-Osako)
+* [[Serpentina (comics)|Serpentina]] (Kimberly Potters)
+* [[Skullfire]] (Timothy Sean Michael Fitzgerald)
+* [[Xi'an (comics)|Xi'an Chi Xan]]
+
+====X-Nation 2099====
+* [[Cerebra]] (Shakti Haddad)
+* Clarion (Hayes Isaacs)
+* [[December (comics)|December]] (December Frost)
+* Metalsmith
+* Nostromo
+* [[Twilight (Marvel Comics)|Twilight]]
+* [[Uproar (comics)|Uproar]]
+* [[Willow (comics)|Willow]]
+* [[Wulff (comics)|Wulff]]
+
+====Fantastic Four 2099====
+* [[Human Torch]] (double of Johnny Storm)
+* [[Invisible Woman]] (double of Sue Storm)
+* [[Mister Fantastic]] (double of Reed Richards)
+* [[Thing (comics)|Thing]] (double of Ben Grimm)
+
+====Other heroes====
+{{div col|colwidth=40em}}
+* Matt Axel (the Punisher's armorer)
+* Barrio Man
+* [[Captain America]] (imposter posing as Steve Rogers)<ref>Kaminski, Len (w), [[Wood, Ashley]] (p), Daly, Jim (i). "Chthonic Park", "Hell on Earth", ''[[Ghost Rider 2099]]'' #18-19 (October–November 1995). Marvel Comics.</ref>
+* Daredevil 2099
+* Dr. Apollo (Dr. Nikolai Apolonio)
+* Freakshow (Mama Hurricane, Breakdown, Rosa, Metalhead, Psyclone, Contagion, Tantrum, and Dominic)
+* Galahad, human connected to robot
+* The Ghostworks
+* Goldheart
+* Lachryma 2099
+* The Lawless (Xi'an Chi Xan, Victor Ten Eagles, Junkpile, Broken Haiku, Mongrel, Auntie Maim, and the Reverend)
+* Metalscream 2099
+* [[Moon Knight#2099|Moon Knight 2099]]
+* [[Justice (New Universe)#Marvel 2099|Net Prophet]] (John Roger Tensen, also known as [[Justice (New Universe)|Justice]])
+* S.H.I.E.L.D. 2099
+* Steel Rain
+* [[Alternative versions of Thor (Marvel Comics)#2099|Thor 2099]] (Reverend Cecil McAdams)
+* Vendetta
+* Hazzard 2099
+* Duke Stratosphere
+* Captain America 2099 (Roberta Mendez, debuts in ''Secret Wars 2099'' and appears in ''Spider-Man 2099'' volume 3)
+* Black Widow 2099
+* Hawkeye 2099
+* Iron Man 2099
+* Deadpool 2099
+*Iron Fist 2099
+{{Div col end}}
+
+===Villains===
+{{div col|colwidth=40em}}
+* Adonai (leader of LA "locusts")
+* False Aesir ([[Thor (Marvel Comics)#2099|Thor]]/Cecil McAdams, [[Hela (comics)#2099|Hela]]/Tiana, [[Loki (Marvel Comics)#Marvel 2099|Loki]]/Jordan Boone, [[Balder (comics)|Balder]], [[Heimdall (comics)|Heimdall]])
+* Anti-Hulk
+* The Architect (Ryu Kobolt)
+* Avatarr (CEO of Alchemax; secretly an alien)
+* [[Brimstone Love]] and the [[Theatre of Pain (comics)|Theatre of Pain]]
+* Captain America (an impostor posing as Steve Rogers)
+* Coda
+* Dethstryk and the Mutroids of Hellrock
+* Discord
+* [[Doctor Octopus|Doctor Octopus 2099]]
+* Draco
+* [[Electro (Marvel Comics)|Electro 2099]]
+* [[Exodus (comics)#2099|Exodus]]
+* [[Fearmaster]] (Darryl King)
+* [[Fever (comics)|Fever]]
+* [[Flipside (comics)|Flipside]]
+* [[Alternative versions of the Green Goblin#2099|Goblin]]
+* Glitterspike
+* Gearbox
+* The Golden One
+* [[Halloween Jack (comics)|Halloween Jack]] (Jordan Boone, also known as Loki; later traveled to the present in ''[[X-Force]]'' #92)
+* Heartbreaker
+* Anderthorp Henton (Director-General of ECO)
+* Hotwire (Dean Gallows, son of Jake Gallows)
+* [[Jigsaw 2099|Multi-Fractor/Jigsaw]]
+* Dyson Kellerman (CEO of Transverse City Security)
+* L-Cypher
+* The Norns of the Theatre of Pain (Felicity, Bliss, Euphoria)
+* Public Enemy (Saber Hagen)
+* The Rat Pack (the Dealer, the Suicide Master, Mister Entertainment)
+* [[Sandman (Marvel comics)|Sandwoman]]
+* The Shadow Dancer
+* [[Specialist (comics)|The Specialist]]
+* [[Tyler Stone (comics)|Tyler Stone]] (dictator of Latveria in 2099 and former employee of Alchemax )
+* The Synge Family (Noah, Lytton, and Desdemona)
+* [[Technarchy]]/[[Phalanx (comics)|Phalanx]]
+* [[Rick Jones (comics)#2099|Thanatos]] (Aaron Delgado possessed by an alternate-reality version of [[Rick Jones (comics)|Rick Jones]])
+* Tiger Wylde
+* Vengeance 2099
+* [[Venom 2099|Venom]] (Kron Stone)
+* Venture (Queeg)
+* [[Vulture (Marvel Comics)|Vulture 2099]]
+* Master Zhao and the Chosen (One-Eyed Jack, Psycho-K, Frostbite, Wingspan, and Monster)
+{{Div col end}}
+
+===Mega-corporations===
+* [[Alchemax]] (CEO Avatarr; VP Tyler Stone) and its subsidiaries
+** ECO Corp. (CEO Ravage; Director-General Anderthorp Henton)
+** Public Eye (Director Fearmaster)
+** R&D Department (Director Tyler Stone; employees include Miguel O'Hara, Jordan Boone, and Aaron Delgado)
+* Cyber-Nostra (controlled by [[Fearmaster]])
+* D/MONIX (Data Manipulation and Organization Networks) (CEO Dyson Kellerman; employees include Harrison Cochrane [Ghost Rider's father])
+* Greater Nevada Syndicate (controlled by the Synge Family)
+* Green Globe PLC (founded by the Ravage family)
+* Ninja-Nostra
+* Stark-Fujikawa (formerly [[Stark Industries|Stark Enterprises]]) (CEO Hikaru-sama)
+* Synthia (CEO Darrius Rush; employees include Mannix Dunn, Dana D'Angelo [Spider-Man's fiancée], Alain Gris [Group Manager for Sky Plantations])
+
+===Marvel Knights 2099 heroes===
+{{Main|Marvel Knights#Marvel Knights 2099|l1=Marvel Knights 2099}}
+* [[Black Panther (comics)#Marvel Knights 2099|Black Panther]] (K'Shamba)
+* Daredevil (Samuel Fisk)
+* [[Inhumans#Inhumans 2099|The Inhumans]]
+* [[Mutant 2099]] (Chad Channing)
+* Punisher (Cassondra Castle)
+
+==2099 series and one-shots==
+{| class="wikitable sortable"
+! scope="col" | Title 
+! scope="col" | Issues 
+! scope="col" | Date
+|-
+| ''2099 A.D.'' 
+| 1 
+| May 1995
+|-
+| ''2099 A.D. Apocalypse'' 
+| 1 
+| December 1995
+|-
+| ''2099 A.D. Genesis'' 
+| 1 
+| January 1996
+|-
+| ''2099 Alpha'' 
+| 1 
+| January 2020
+|-
+| ''2099 Limited'' (Ashcan) 
+| 1 
+| 1993
+|-
+| ''2099 Manifest Destiny'' 
+| 1 
+| March 1998
+|-
+| ''2099 Omega'' 
+| 1 
+| February 2020
+|-
+| ''2099 Sketchbook'' 
+| 1 
+| September 1993
+|-
+| ''2099 Unlimited'' 
+| 10 
+| July 1993 – October 1995
+|-
+| ''2099 World of Doom Special'' 
+| 1 
+| May 1995
+|-
+| ''2099 World of Tomorrow'' 
+| 8 
+| September 1996 – April 1997
+|-
+| ''Conan 2099'' 
+| 1 
+| January 2020
+|-
+| ''Doom 2099'' 
+| 44 
+| January 1993 – August 1996
+|-
+| ''Doom 2099'' Volume 2
+| 1 
+| February 2020
+|-
+| ''Fantastic Four 2099'' 
+| 8 
+| January – August 1996
+|-
+| ''Fantastic Four 2099'' Volume 2
+| 1 
+| January 2020
+|-
+| ''Ghost Rider 2099'' 
+| 25 
+| May 1994 – May 1996
+|-
+| ''Ghost Rider 2099'' Volume 2
+| 1 
+| February 2020
+|-
+| ''Hulk 2099'' 
+| 10 
+| December 1994 – September 1995
+|-
+| ''Punisher 2099'' 
+| 34 
+| February 1993 – November 1995
+|-
+| ''Punisher 2099'' Volume 2
+| 1 
+| January 2020
+|-
+| ''Ravage 2099'' 
+| 33 
+| December 1992 – August 1995
+|-
+| ''Secret Wars 2099''
+| 5
+| May 2015 - September 2015
+|-
+| ''Spider-Man 2099'' 
+| 46 
+| November 1992 – August 1996
+|-
+| ''Spider-Man 2099'' Volume 2 
+| 12 
+| July 2014 – June 2015
+|-
+| ''Spider-Man 2099'' Volume 3 
+| 25 
+| October 2015 – July 2017
+|-
+| ''Spider-Man 2099'' Volume 4
+| 1 
+| February 2020
+|-
+| ''Spider-Man 2099 Annual'' 
+| 1 
+| 1994
+|-
+| ''Spider-Man 2099 Meets Spider-Man'' 
+| 1 
+| November 1995
+|-
+| ''Spider-Man 2099 Special'' 
+| 1 
+| November 1995
+|-
+| ''Venom 2099'' 
+| 1 
+| February 2020
+|-
+| ''X-Men 2099'' 
+| 35 
+| October 1993 – August 1996
+|-
+| ''X-Men 2099 Special'' 
+| 1 
+| October 1995
+|-
+| ''X-Men 2099: Oasis'' 
+| 1 
+| August 1996
+|-
+| ''X-Nation 2099'' 
+| 6 
+| March – August 1996
+|}
+
+==In other media==
+===Television===
+* In the ''[[Iron Man: Armored Adventures]]'' episode "Iron Man 2099", Andros Stark, Tony Stark's grandson from the year 2099, travels back in time to kill Tony before he creates an AI named Vortex that would go on to destroy most of humanity. After Tony escapes, Andros is forced to ally himself with [[Justin Hammer]], who is known as a hero in 2099, while Hammer manipulates him into attacking the [[S.H.I.E.L.D.]] Helicarrier to preserve his successful future. Andros fights Iron Man, [[Hawkeye (Clint Barton)|Hawkeye]], and S.H.I.E.L.D. until he kills Tony, though not without being infected by a virus Tony created to shut down his advanced armor. Realizing that this virus would evolve into Vortex and that he was the one who doomed the world, Andros uses his suit's leftover power to go back in time and stop himself from killing Tony, successfully changing the future at the cost of his existence.
+* In the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "The Spider-Verse: Part 1", the Marvel 2099 universe appears as the first of six parallel universes that Spider-Man ends up in while pursuing the Green Goblin. This version of 2099 has an incarnation of [[J. Jonah Jameson]], who rants about Spider-Man 2099. While hunting down the Green Goblin, Spider-Man encounters Spider-Man 2099, who is considering giving up his superhero career as his enemies always come back. After a brief brawl, the two are attacked by the Green Goblin, who gets Spider-Man 2099's DNA, attempts to demolish a nearby tower, and flees to another parallel universe. The two Spider-Men manage to keep the tower from falling using their combined webbing skills, and Spider-Man 2099 is convinced by his predecessor to not give up and continue on. After saying goodbye to his 2099 counterpart, Spider-Man follows Green Goblin.
+* In the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "The House of Zemo", [[Helmut Zemo]] uses time-traveling technology previously owned by [[Kang the Conqueror]] to bring his father, [[Heinrich Zemo]], to the present. However, upon deciding that his son was a disappointment, the latter uses the same portal to summon a cyborg Zemo from the year 2099 and have it attack the Avengers, but disappears after he is sent back to his own time.
+
+===Film===
+* In the post-credit scene of ''[[Spider-Man: Into the Spider-Verse]]'', Miguel O'Hara / Spider-Man 2099 makes a brief appearance in his futuristic universe, voiced by [[Oscar Isaac]].<ref>{{cite web|url=https://www.inverse.com/article/51297-spider-man-into-the-spider-verse-post-credits-oscar-isaac-cast|title='Spider-Man: Into the Spider-Verse' Post-Credits Has an Oscar Isaac Cameo|last=Kleinman|first=Jake|website=[[Inverse (website)|Inverse]]|date=November 28, 2018|access-date=November 30, 2018|archive-url=https://web.archive.org/web/20181129223019/https://www.inverse.com/article/51297-spider-man-into-the-spider-verse-post-credits-oscar-isaac-cast|archive-date=November 29, 2018}}</ref>
+
+===Video games===
+* A planned video game for the [[PlayStation (console)|Sony PlayStation]], titled ''[[Marvel 2099: One Nation Under Doom]]'', was heavily promoted. Although developed to a point of playability, the title was never commercially released.
+* Spider-Man 2099 appears as an unlockable costume in the 2000 ''[[Spider-Man (2000 video game)|Spider-Man]]'' video game, ''[[Spider-Man 2: Enter Electro]]'', the Wii edition of ''[[Spider-Man: Web of Shadows]]'', ''[[The Amazing Spider-Man (2012 video game)|The Amazing Spider-Man]]'' movie tie-in game, ''[[The Amazing Spider-Man 2 (2014 video game)|The Amazing Spider-Man 2]]'' movie tie-in game, and the 2018 ''[[Spider-Man (2018 video game)|Spider-Man]]'' video game.
+* Ghost Rider 2099 appears as an unlockable costume in the ''[[Ghost Rider (video game)|Ghost Rider]]'' movie tie-in game and a downloadable costume in ''[[Ultimate Marvel vs. Capcom 3]]''.
+* The Marvel 2099 reality appears in ''[[Spider-Man: Shattered Dimensions]]'' as one of four realities affected by the shattering of an ancient artifact, the Tablet of Order and Chaos. Madame Webb contacts the Spider-Men of the four realities to re-assemble the tablet or else all four worlds will be destroyed. Spider-Man 2099 appears with free-falling sections and an Accelerated Vision ability that makes everything seem slower. In the game, he goes up against an insane [[Hobgoblin (comics)|Hobgoblin]], [[Scorpion 2099|the ''Timestorm 2009–2099'' version of Scorpion]], and a female [[Doctor Octopus]]. The [[Nintendo DS]] version also features a 2099 version of [[Silvermane]]. The player can also unlock three alternate costumes for Spider-Man 2099: [[Flipside (comics)|Flipside]], the Spider-Armor, and Iron Spider.
+* The Marvel 2099 reality appears in ''[[Spider-Man: Edge of Time]]''. In the game, Alchemax scientist Walker Sloan goes back in time to start the company in the 1970s, allowing them rule Nueva York. Spider-Man 2099 becomes aware of this after being trapped within Sloan's time portal. After contacting his predecessor, the two Spider-Men join forces to correct the timeline. During the game, they encounter a 2099 version of [[Black Cat (Marvel Comics)|Black Cat]] and learn the Alchemax CEO is an insane future version of Peter Parker who manipulated Sloan into creating the time portal in an attempt to control its quantum power and change history. The Nintendo DS version features 2099 versions of [[Arcade (Marvel Comics)|Arcade]], [[Big Wheel (comics)|Big Wheel]], and a female [[Overdrive (comics)|Overdrive]].
+* The Human Torch 2099 from the "Timestorm 2009-2099" storyline and Hulk 2099 appear as costumes in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.
+* Spider-Man, Goblin, Venom, Flipside, and other characters from 2099 appear as playable characters and bosses in the mobile title ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]'', with Nueva York appearing as a stage in a special event.
+* 2099's Spider-Man, Captain America, Black Widow, and Iron-Man appear as playable characters in the mobile title ''[[Marvel Future Fight]]''.
+* Spider-Man 2099 and Punisher 2099 appear as playable characters in the mobile title ''[[Marvel Contest of Champions]]''. These versions come from a 2099 ruled by [[Hydra (comics)|HYDRA]]. A 2099 version of original character Guillotine also appears; this iteration being a robot duplicate of the original built by a time-hopping [[Mephisto (comics)|Mephisto]].
+* 2099's Spider-Man, Captain America, and Ghost Rider appear in the mobile title ''[[Marvel Avengers Academy]]''.
+* Nueva York and the Marvel 2099 universe appears in ''[[Lego Marvel Super Heroes 2]]'', with the former being used by [[Kang the Conqueror]] to form Chronopolis. 2099's Spider-Man, Captain America, Hulk, Goblin, Electro, and Venom appear as playable characters.
+
+==See also==
+* [[Timestorm 2009–2099]]
+* [[Multiverse (Marvel Comics)|Marvel Comics multiverse]]
+
+==References==
+{{Reflist}}
+
+{{Marvel Multiverse}}
+{{Marvel Comics}}
+
+[[Category:Marvel 2099| ]]
+[[Category:Dystopian comics]]
+[[Category:Cyberpunk comics]]
+[[Category:Marvel Comics dimensions]]
+[[Category:Marvel Comics imprints]]

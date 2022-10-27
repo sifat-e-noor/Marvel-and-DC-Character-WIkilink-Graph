@@ -1,0 +1,962 @@
+{{Short description|none}}
+{{More citations needed|date=June 2020}}
+This is a '''list of black superheroes''' that lists [[Character (arts)|character]]s found in [[comic book]]s and other media. The characters are [[superhero]]es depicted as [[black people]].
+
+==Comic books==
+
+===[[Adeolah]]===
+{{HerolistStart}}
+{{Herolist|name=Kam |alter=|teams=Grand Nubians|first=|date=|writer=|artist=}}
+{{Herolist|name=Shu |alter=|teams=Grand Nubians|first=|date=|writer=|artist=}}
+{{Herolist|name=Hapi |alter=|teams=Grand Nubians|first=|date=|writer=|artist=}}
+{{Herolist|name=Aton |alter=|teams=Grand Nubians|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Continuity Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Cyclone |alter=|teams=the Hybrids|first=|date=|writer=|artist=}}
+{{Herolist|name=Knighthawk |alter=Scott Pike|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Daathrekh Publishing]]===
+{{HerolistStart}}
+{{Herolist|name=[[NETERS]] |alter=|teams=Ma'atan Code; Team Heru; Retu-Guardsmen|first=[[Daathrekh.com]]|date=December-98|writer=Edward Uzzle|}}
+{{HerolistEnd}}
+
+===[[Demond Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Demond |alter=Carl Sims|teams=|first=Demond Comics|date=|writer=Antonio Hutton|artist=}}
+{{HerolistEnd}}
+
+===[[Dark Horse Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Counterstrike|alter=|teams=|first=''[[Comics' Greatest World]]''|date=|writer=|artist=}}
+{{Herolist|name=Plexus {{ref label|Plexus|A|none}}|alter=|teams=|first=''Nexus: Executioner's Song #3''|date=|writer=|artist=}}
+{{Herolist|name=Wolf Ferrell|alter=|teams=Wolf Gang|first=''Comics Greatest World''|date=|writer=|artist=}}
+{{Herolist|name=Sistah Spooky|alter=Theresa|teams=Superhomeys|first=''[[Empowered (comic)|Empowered]]''|year=2007|writer=[[Adam Warren (comics)|Adam Warren]]|artist=Adam Warren}}
+{{HerolistEnd}}
+
+===[[DC Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[Amanda Waller]]|alter=Amanda Blake Waller|teams=[[Suicide Squad]], [[Checkmate (comics)|Checkmate]]|first=''DC Comics Legends'' #2|year=1986|date=|writer=[[Len Wein]]|artist=[[John Byrne (comics)|John Byrne]] |ref=<ref>{{cite web|url=https://www.marveldccinezone.co.in/|archive-url=https://web.archive.org/web/20190509062303/https://www.marveldccinezone.co.in/|url-status=dead|archive-date=May 9, 2019|title=Marvel-DC Cine Zone {{!}} Marvel Universe & DC Universe }}</ref>}}
+{{Herolist|name=[[Amazing-Man (DC Comics)#Will Everett|Amazing-Man I]]|alter=Will Everett|teams=[[All-Star Squadron]]|first=''All-Star Squadron'' #23|year=1983|date=|writer=[[Roy Thomas]]|artist=[[Jerry Ordway]]|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=54|title=Amazing Man|publisher=The Museum of Black Superheroes|access-date=2009-01-07|url-status=usurped|archive-url=https://web.archive.org/web/20061004195457/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=54|archive-date=2006-10-04}}</ref>}}
+{{Herolist|name=[[Amazing-Man (DC Comics)#Will Everett III|Amazing-Man II]]|alter=Will Everett III|teams=[[Justice League of America]], [[Extreme Justice]], [[Justice League Europe]]|first=''Justice League of America'' (vol. 2) #86|year=1994|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Amazing-Man (DC Comics)#Markus Clay|Amazing-Man III]]|alter=Markus Clay|teams=[[Justice Society of America]]|first=|date=|year=2007|writer=|artist=}}
+{{Herolist|name=[[Amazing-Man (DC Comics)#The New 52|Amazing-Man IV]]|alter=Rocker Bonn|teams=[[Checkmate (comics)|Checkmate]]|first=''[[OMAC (comics)|OMAC]]'' (vol. 3) #2|date=|year=2011|writer=[[Dan DiDio]]|artist=[[Keith Giffen]]}}
+{{Herolist|name=Amber {{ref label|Amber|A1|none}}|alter=|teams=Searcher's Inc.|first=''[[Just Imagine...]] Batman''|date=September|year=2001|writer=[[Stan Lee]]|artist=}}
+{{Herolist|name=[[Aqualad (Jackson Hyde)|Aqualad II]] |alter=Jackson Hyde/Kaldur'ahm|teams=[[Teen Titans]], [[Young Justice (TV series)|Young Justice]]|first=''[[Brightest Day]]'' #9|date= September|year=2010|writer=[[Greg Weisman]], Brandon Vietti, [[Geoff Johns]]|artist=Phil Bourassa, [[Ivan Reis]]}}
+{{Herolist|name=Atom, The|alter=|teams=Justice Alliance of America|first=''Legends of the DC Universe: Crisis on Infinite Earths'' #1|date=February|year=1999|writer=[[Marv Wolfman]]|artist=|ref=}}
+{{Herolist|name=August Durant|alter=|teams=[[Secret Six (comics)|Secret Six]]|first=''Secret Six'' #113|date=April|year=1968|writer=[[E. Nelson Bridwell]]|artist=Frank Springer|ref=<ref name="John Wells">{{cite web|url=http://www.fanzing.com/mag/fanzing32/feature1.shtml|title=The Racial Justice Experience Diversity In The DC Universe: 1961-1979|publisher=John Wells|access-date=2011-07-17}}</ref>}}
+{{Herolist|name=Batman|alter=Wayne Williams|teams=|first=''Just Imagine's Stan Lee's Batman''|year=2001|date=|writer=[[Stan Lee]]|artist=[[Joe Kubert]]|ref=}}
+{{Herolist|name=[[Batwing (DC Comics)|Batwing]]|alter=David Zavimbe|teams=[[Batman Inc.]], [[Justice League International]]|first=''[[Batman Inc.]]'' #5|year=2011|date=|writer=[[Grant Morrison]]|artist=[[Chris Burnham]]|ref=<ref name="Batwing">{{cite web
+ |url=http://www.comicsalliance.com/2011/05/12/batwing-batman-of-africa-exclusive 
+ |title=Introducing Batwing, The New Batman Based in Africa [Exclusive]
+ |archive-url=https://web.archive.org/web/20110912120450/http://www.comicsalliance.com/2011/05/12/batwing-batman-of-africa-exclusive/ 
+ |archive-date=2011-09-12 
+}}</ref>}}
+{{Herolist|name=[[Batwing (DC Comics)|Batwing]] II|alter=Luke Fox|teams=[[Batman Inc.]],|first=''[[Batwing (DC Comics)|Batwing]]'' #20|year=2013|date=|writer=[[Grant Morrison]]|artist=[[Chris Burnham]]|ref=<ref name="Batwing" />}}
+{{Herolist|name=[[Betty Clawman]]|alter=|teams=[[New Guardians]]|first=''Millennium (comics)|Millennium'' #2|year=1988|date=January|writer=[[Steve Englehart]]|artist=[[Joe Staton]]}}
+{{Herolist|name=Big Thunder |alter=|teams=|first=''[[Bulleteer]]'' miniseries|date=|writer=|artist=}}
+{{Herolist|name=Black Eagle|alter=Lt. Cassius Bannister |teams=|first=''All-Out War'' #1 |date=1979|writer=|artist=|ref=<ref>Debuted in ''All-Out War'' #1 (September 1979), appeared in the entire six issue run</ref>}}
+{{Herolist|name=[[Black Lightning]]|alter=Jefferson Pierce|teams=[[Justice League]], [[Outsiders (comics)|Outsiders]]|first=''Black Lightning'' #1|year=1977|date=|writer=[[Tony Isabella]]|artist=[[Trevor Von Eeden]]|ref=}}
+{{Herolist|name=[[Black Racer (DC Comics)|Black Racer]]|alter=Sgt. Willie Walker|teams=[[New Gods]]|first=''New Gods'' #3|year=1971|date=|writer=[[Jack Kirby]]|artist=[[Jack Kirby]]|ref=}}
+{{Herolist|name=Black Spider, The|alter=Eric Needham|teams=|first=''Detective Comics'' #463|year=1976|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Black Vulcan]]|alter=|teams=[[Super Friends]]|first=''The All-New Super Friends Hour''|year=1977|date=September|writer=[[Hanna-Barbera]]|artist=[[Alex Toth]]|ref=}}
+{{Herolist|name=Blackwing|alter=Charlie Bullock |teams=|first=''Wonder Woman'' #297|date=1982|writer=[[Paul Levitz]], Joey Cavalieri|artist=[[Joe Staton]]|ref=<ref>{{cite web|url=http://www.comicvine.com/blackwing-earth-2/29-45564/|title=Blackwing Earth 2|publisher=Comicvine.com|access-date=2009-03-19}}</ref><ref>{{cite web|url=http://www.fanzing.com/mag/fanzing32/feature2.shtml|title=The Racial Justice Experience: Diversity in the DC Universe: 1979-Today|first=John|last=Wells|access-date=2009-03-19}}</ref>}}
+{{Herolist|name=Blindside|alter=Tyson Gilford|teams=|first=''[[Relative Heroes]]''|year=|date=|writer=[[Devin Grayson]]|artist=Yvel Guichet, Mark Propst, Aaron Sowd|ref=}}
+{{Herolist|name=Blob|alter=|teams=|first=''Speed Demon'' #1|year=1996|date=|writer=|artist=|ref=}}
+{{Herolist|name=Bloodsport|alter=Robert DuBois|teams=|first=''Superman'' (vol. 2) #4|year=1987|date=|writer=[[John Byrne (comics)|John Byrne]]|artist=[[John Byrne (comics)|John Byrne]]|ref=}}
+{{Herolist|name=[[Bloodwynd]]|alter=|teams=JLA|first=''Justice League of America'' (vol. 2) #61|year=1992|date=|writer=[[Dan Jurgens]]|artist=[[Dan Jurgens]]|ref=}}
+{{Herolist|name=[[Bronze Tiger]]|alter=Ben Turner|teams=Suicide Squad|first=''Richard Dragon, Kung Fu Fighter'' #1 |year=1975|date=April|writer=[[Denny O'Neil]]|artist=Jim Berry|ref=}}
+{{Herolist|name=[[Bumblebee (DC Comics)|Bumblebee]]|alter=Karen Beecher-Duncan|teams=Doom Patrol/Teen Titans/Titans West|first=''[[Teen Titans]]'' #48|year=1977|date=June|writer=[[Bob Rozakis]]|artist=[[José Delbo]]|ref=}}
+{{Herolist|name=[[Cal Durham]]{{ref label|Cal|A|none}}|alter=|teams=|first=|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=Captain Marvel|alter=|teams=|first=''Elseworld's Finest''|year=1998|date=|writer=|artist=|ref=<ref>{{cite web|url=https://hdmovieshome.com/movies/watch-captain-marvel-movie-online-for-free/|archive-url=https://web.archive.org/web/20190302024454/https://hdmovieshome.com/movies/watch-captain-marvel-movie-online-for-free/|url-status=dead|archive-date=March 2, 2019|title=Captain Marvel (Else Worlds)|publisher=The Museum of Black Superheroes|access-date=2009-01-22}}</ref>}}
+{{Herolist|name=Carla White|alter=|teams=[[Darkstars]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Cascade |alter=Rhiah Douglas|teams=[[Sovereign Seven]]|first=''Sovereign Seven'' #1|year=1995|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Catspaw (comics)|Catspaw]]|alter=April Dumaka|teams=[[Legion of Super-Heroes]]|first=''Legion of Super-Heroes (vol. 4) #33|year=1992|date=September|writer=|artist=}}
+{{Herolist|name=Centaur{{ref label|Centaur|E|none}}|alter=Eran Shadowstorm|teams=|first=''[[Warlord (DC Comics)|Warlord]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Chunk (comics)|Chunk]]{{ref label|Chuck|B|none}}|alter=Chester P. Runk|teams=|first=''The Flash'' (vol. 2) #9|year=|date=|writer=[[Mike Baron]]|artist=[[Jackson Guice]]|ref=}}
+{{Herolist|name=[[Coldcast]]|alter=Nathan Jones|teams=[[Justice League Elite]] |first=Action Comics #775|date=2001|writer=|artist=}}
+{{Herolist|name=The Commander|alter=|teams=[[New Gods]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Computo (Danielle Foccart)|Computo II]]|alter=Danielle Foccart|teams=[[Legion of Super-Heroes]]|first=Legion of Super-Heroes (vol. 2) Annual #1|date=1982|writer=[[Paul Levitz]]|artist=[[Keith Giffen]]}}
+{{Herolist|name=Conjura{{ref label|Conjura|C|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Crispus Allen]]|alter=|teams=|first=Detective Comics #742|year=2000|date=March|writer=[[Greg Rucka]]|artist=[[Shawn Martinbrough]]}}
+{{Herolist|name=[[Crimson Avenger#Current Crimson Avenger|Crimson Avenger III]]|alter=Jill Carlyle |teams=|first=''STARS AND S.T.R.I.P.E.'' #9|year=2000|date=|writer=[[Geoff Johns]]|artist=[[Scott Kolins]]|ref=}}
+{{Herolist|name=[[Crimson Avenger (Lee Travis)|Crimson Avenger (Earth 2)]]|alter=Lee Travis|teams=|first=''Earth 2'' #5|date=|year=2012|writer=[[James Robinson (comics)|James Robinson]]|artist=[[Nicola Scott]]}}
+{{Herolist|name=Crystallex{{ref label|Crystallex|D|none}}|alter=Raphael Harris|teams=|first=''[[Teen Titans|New Teen Titans]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Cyborg (comics)|Cyborg]]|alter=Victor Stone|teams=[[Teen Titans]], [[Justice League]]|first=''DC Comics Presents'' #26|date=|year=1980|writer=[[Marv Wolfman]]|artist=[[George Pérez]]|ref=}}
+{{Herolist|name=Dale Gunn|alter=|teams=|first=''[[Justice League]] Detroit''|date=|year=|writer=|artist=|ref=}}
+{{Herolist|name=Darla Dudley|alter=[[Captain Marvel (DC Comics)|Shazam]]|teams=[[Marvel Family|Shazam Family]]|first=''[[Flashpoint (comics)|Flashpoint]]'' #1|date=May|year=2011|writer=[[Geoff Johns]]|artist=[[Andy Kubert]]|ref=<ref>{{cite web|url=https://www.polygon.com/2019/4/8/18295827/shazam-family-captain-marvel-dc-comics|title=How did Shazam become the 'family' superhero?|publisher=Polygon|access-date=2020-02-14|date=2019-04-09}}</ref>}}
+{{Herolist|name=Data|alter=Freddie Martin|teams=|first=''[[Thriller (DC Comics)|Thriller]]''|date=|year=1983|writer=|artist=|ref=}}
+{{Herolist|name=Dawn|alter=Rachel Niamo|teams=|first=''[[Batwing (DC Comics)|Batwing]]'' #13|year=2012|date=|writer=[[Judd Winick]]|artist=[[Marcus To]]}}
+{{Herolist|name=Dawnfire|alter=|teams=The Kingdom|first=''[[Batwing (DC Comics)|Batwing]]'' #4|year=2011|date=|writer=[[Judd Winick]]|artist=[[ChrisCross]]}}
+{{Herolist|name=[[Doctor Mid-Nite#Beth Chapel|Doctor Mid-Nite]]|alter=Dr. Beth Chapel|teams=Infinity Inc.|first=''Infinity Inc.'' #19|date=October|year=1985|writer=[[Roy Thomas]]|artist=[[Todd McFarlane]]|ref=}}
+{{Herolist|name=[[Doctor Mist]]|alter=Nommo|teams=[[Global Guardians]], [[Justice League Dark]]|first=''Super Friends'' #12|year=1978|date=June|writer=[[E. Nelson Bridwell]]|artist=[[Ramona Fradon]]|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=73|title=Nommo|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20060720135659/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=73|archive-date=2006-07-20}}</ref>}}
+{{Herolist|name=Earth Strike|alter=Dede Yeboah|teams=The Kingdom|first=''[[Batwing (DC Comics)|Batwing]]'' #1|date=September|year=2011|writer=[[Judd Winick]]|artist=[[Ben Oliver]]}}
+{{Herolist|name=[[Empress (comics)|Empress]]|alter=Anita Fite|teams=[[Young Justice]]|first=''Young Justice'' #16|year=2000|date=January|writer=[[Peter David]]|artist=[[Todd Nauck]]|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=456|title=Empress|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20061004201248/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=456|archive-date=2006-10-04}}</ref>}}
+{{Herolist|name=FerAlyse / ZuLuLu{{ref label|FerAlyse|F|none}}|alter=Jackee Jones|teams=|first=''[[Netherworld (DC Comics)|Netherworld]]''|date=|writer=|artist=}}
+{{Herolist|name=4D |alter=Captain Lea Corben|teams=[[International Ultramarine Corps|Ultramarine Corps]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Firestorm (comics)|Firestorm]]|alter=[[Firestorm (comics)|Jason Rusch]]|teams=[[Justice League]]|first=''Firestorm'' (vol. 3) #1|year=2004|date=July|writer=[[Dan Jolley]]|artist=[[ChrisCross]]|ref=}}
+{{Herolist|name=Flex & Thermal|alter=|teams=[[Suicide Squad]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Flipper-Dipper|alter=|teams=[[The Newsboy Legion]]|first=''Superman's Pal Jimmy Olsen'' #133 |date=October|year=1970|writer=[[Jack Kirby]]|artist=[[Jack Kirby]]}}
+{{Herolist|name=[[Freedom Beast]]|alter=Dominic Mndawe|teams=Global Guardians|first=''Animal Man'' #13|year=1989|date=July|writer=[[Grant Morrison]]|artist=|ref=<ref>{{cite web|url=https://sites.google.com/site/unlimitedfreeunblockedgames/happy-wheels-hacked-unblocked |title=happy wheels hacked unblocked |publisher=The Museum of Black Superheroes |access-date=2009-01-22 }}</ref>}}
+{{Herolist|name=Freight Train|alter= |teams=[[Outsiders (comics)|Outsiders]]|first=''Outsiders'' (vol. 4) #30|year=2010|date=July 2010|writer=[[Dan DiDio]]|artist=[[Philip Tan]]|ref=<ref>{{cite web|url=https://sites.google.com/site/unlimitedfreeunblockedgames/happy-wheels-demo|title=happy wheels demo|publisher=ComicVine|access-date=2010-12-25}}</ref>}}
+{{Herolist|name=Gary Washington|alter=|teams=[[Checkmate (comics)|Checkmate]] operative|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Gear (comics)|Gear]]|alter=I.Z.O.R.|teams=[[Legion of Super-Heroes]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Ghost Lion|alter=|teams=Hypotheticals|first=''[[Justice League#JLA: Classified|JLA Classified]]'' #16|date=|writer=|artist=}}
+{{Herolist|name=Glenn Gammeron{{ref label|Glenn|G|none}}
+|alter=|teams=|first=''[[Justice League Task Force (comics)|Justice League Task Force]]'' #28|date=|writer=|artist=}}
+{{Herolist|name=Gravedigger|alter=Captain Ulysses Hazard|teams=[[Easy Company (comics)|Easy Company]]|first=''[[Men of War (comics)|Men of War]]'' #1|date=August|year=1977|writer=[[David Michelinie]]|artist=Ed Davis|ref=<ref>{{cite web|url=https://sites.google.com/site/unlimitedfreeunblockedgames/happy-wheels-unblocked|title=happy wheels unblocked <!-- Bot generated title -->}}</ref><ref>[http://www.thrillingdetective.com/eyes/nate_hollis.html Nate Hollis<!-- Bot generated title -->]</ref> }}
+{{Herolist|name=[[Gravedigger (comics)#Tyson Sykes|Gravedigger II]]|alter=Tyson Sykes|teams=|first=''[[Checkmate (comics)|Checkmate]]'' (vol. 2) #14|date=April|year=1989|writer=[[Paul Kupperberg]]|artist=Tod Smith|ref=}}
+{{Herolist|name=[[Green Arrow (Connor Hawke)|Green Arrow]]|alter=Connor Hawke|teams=[[Justice League]]|first=''Green Arrow'' (vol. 2) #0 (1994)|date=October|year=1994|writer=[[Kelley Puckett]]|artist=[[Jim Aparo]]}}
+{{Herolist|name=[[John Stewart (character)|Green Lantern]]|alter=John Stewart|teams=[[Green Lantern Corps]], [[Justice League]] , Darkstars|first=''Green Lantern'' #87|date=December|year=1971|writer=[[Denny O'Neil]]|artist=[[Neal Adams]]|ref=<ref>{{cite web|url=https://sites.google.com/site/unlimitedfreeunblockedgames/plazma-burst-1-hacked|title=plazma-burst-1-hacked|publisher=The Museum of Black Superheroes|access-date=2009-01-21|url-status=usurped|archive-url=https://web.archive.org/web/20061004201034/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=71|archive-date=2006-10-04}}</ref>}}
+{{Herolist|name=Grover Baines|alter=|teams=|first=''Blackhawk'' (vol. 3) #2|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=Gus Gray{{ref label|GusGray|H|none}}|alter=Cpl. Augustus Gray|teams=|first=''[[The Haunted Tank|Haunted Tank]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Hawkgirl]]|alter=Kendra Munoz-Saunders|teams=Wonders of the World (Justice Society of Earth-2)<ref>Earth-2 #4</ref>|first=''Earth-2'' #4|date=September|year= 2012|writer=[[James Robinson (comics)|James Robinson]], [[Tom Taylor (writer)|Tom Taylor]]|artist=Eduardo Pansica}}
+{{Herolist|name=[[Hawkgirl]]|alter=Kendra Saunders (Rebirth reboot)|teams=the Immortals, Blackhawks|first=''Dark Nights: Metal'' #1|date=August|year=2012|writer=[[Scott Snyder]]|artist=[[Greg Capullo]]}}
+{{Herolist|name=Healer Randolph{{ref label|Healer|I|none}}|alter=|teams=Tomahawk's Rangers|first=''[[Tomahawk (comics)|Son of Tomahawk]]'' #128|date=|writer=|artist= |ref=}}
+{{Herolist|name=[[Hero Cruz]]|alter=|teams=Superboy and the Ravers/Titans L.A.|first=''Superboy and the Ravers'' #1|year=1996|date=September 1996|writer=[[Karl Kesel]]|artist=[[Steve Mattsson]]|ref=}}
+{{Herolist|name=Houngan|alter=Jean-Louis|teams=|first=''The New Teen Titans'' #14|year=1981|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Impala (DC Comics)|Impala]]|alter=M'Balaze|teams=[[Global Guardians]]|first=''Super Friends'' #7 |year=1977| date=October|writer=[[E. Nelson Bridwell]]|artist=Ramona Fradon}}
+{{Herolist|name=[[Invisible Kid (Jacques Foccart)|Invisible Kid II]]|alter=Jacques Foccart|teams=[[Legion of Super-Heroes]]|first=''Legion of Super-Heroes Annual'' (vol. 2) #1|year=1982|writer=[[Paul Levitz]]|artist=[[Keith Giffen]]}}
+{{Herolist|name=Iron|alter=|teams=Metal Men|first=''Showcase'' #37|year=1962|date=|writer=|artist=|ref=}}
+{{Herolist|name=Jackie Johnson|alter=|teams=[[Easy Company (comics)|Easy Company]]|first=''[[Our Army at War]]'' #113|date=December|year=1961|writer=[[Bob Kanigher]]|artist=[[Joe Kubert]]|ref=<ref name="John Wells"/>}}
+{{Herolist|name=[[Jakeem Thunder]]|alter=Jakeem Johnny Williams|teams=JSA|first=''The Flash'' (vol. 2) #134|year=1998|date=|writer=[[Grant Morrison]], [[Mark Millar]]|artist=Paul Ryan|ref=}}
+{{Herolist|name=[[Jet (DC Comics)|Jet]]|alter=Celia Windward|teams=[[New Guardians]], [[Global Guardian]]|first=''Millenium'' #8|year=1988|date=January|writer=[[Steve Engelhart]]|artist=[[Joe Staton]]|ref=}}
+{{Herolist|name=Jim Corrigan{{ref label|Corrigan|K|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Jody{{ref label|Jody|L|none}}|alter=|teams=|first=''[[Tomahawk (comics)|Tomahawk]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Josiah Power]]|alter=|teams=The Power Company|first=''JLA'' #61|year=2002|date=February|writer=[[Kurt Busiek]]|artist=[[Tom Grummett]]|ref=}}
+{{Herolist|name=[[Isaiah Crockett (comics)|Joto/Hot Spot]]|alter=Isaiah Crockett|teams=Teen Titans|first=''Teen Titans'' (vol. 2) #1 |year=1996|date=October|writer=[[Dan Jurgens]]|artist=[[Dan Jurgens]]|ref=}}
+{{Herolist|name=[[Impala (DC Comics)#Kid Impala|Kid Impala]]|alter=|teams=[[International Ultramarine Corps|Ultramarine Corps]]|first=|year=|date=|writer=|artist=}}
+{{Herolist|name=Juice|alter=|teams=[[Ultimen]]|first=|date=|writer=|artists=}}
+{{Herolist|name=[[Kid Quantum]]|alter=James Cullen|teams=[[Legion of Super-Heroes]]|first=''Legionnaires'' #62|year=1998|date=September|writer=[[Tom Bierbaum]], [[Mary Bierbaum]]|artist=David A. Williams|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=82|title=Kid Quantum|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20060721040853/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=82|archive-date=2006-07-21}}</ref>}}
+{{Herolist|name=[[Kid Quantum]] II|alter=Jazmin Cullen|teams=[[Legion of Super-Heroes]]|first=|date=|writer=[[Tom Peyer]], Tom McCraw|artist=Lee Moder}}
+{{Herolist|name=King Peacock|alter=|teams=Top Ten|first=''Top Ten'' #1|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Lady Liberty (comics)|Lady Liberty III]]|alter=|teams=|first=''Battle for Blüdhaven''|date=|writer=|artist=}}
+{{Herolist|name=[[Lightning (DC Comics)|Lightning]]|alter=Jennifer Pierce|teams=[[Justice Society of America]]|first=''Kingdom Come'' #1|year=1996|date=|writer=[[Mark Waid]]|artist=[[Alex Ross]]}}
+{{Herolist|name=[[Machiste]]{{ref label|Machiste|M|none}}|alter=|teams=|first=''Warlord'' #2|year=1976|date=March|writer=[[Mike Grell]]|artist=Mike Grell}}
+{{Herolist|name=[[Manhattan Guardian]]|alter=Jake Jordan|teams=[[Seven Soldiers|Seven Soldiers of Victory]]|first=''The Manhattan Guardian'' #1|year=2005|date=May|writer=[[Grant Morrison]]|artist=[[Cameron Stewart]]}}
+{{Herolist|name=[[Maximum (comics)|Maximum]]|alter=Maxwell Williams|teams=[[Supermen of America]]|first=''Supermen of America'' (vol. 2) #1|year=2000|date=March|writer=[[Fabian Nicieza]]|artist=[[Doug Braithwaite]]}}
+{{Herolist|name=Mbulaze|alter=|teams=|first=''Super Friends'' #7|year=1977|date=|writer=|artist=|ref=}}
+{{Herolist|name=Micro-Maid|alter=|teams=Top Ten|first=''Top Ten'' #1|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=Microwavebelle |alter=|teams=[[Hero Hotline]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Mister Bones]]{{ref label|Bones|O|none}}|alter=|teams=Infinity Inc.|first=''Infinity, Inc.'' #16|year=1985|date=July|writer=[[Roy Thomas]], [[Dann Thomas]]|artist=[[Todd McFarlane]]}}
+{{Herolist|name=[[Mister Miracle (Shilo Norman)|Mister Miracle III]]|alter=Shilo Norman|teams=[[Seven Soldiers|Seven Soldiers of Victory]], [[New Gods]]|first=''Mister Miracle'' #15|year=1973|date=August|writer=[[Jack Kirby]]|artist=Jack Kirby]]}}
+{{Herolist|name=[[Mister Terrific (Michael Holt)|Mister Terrific II]]|alter=Michael Holt|teams=JSA, The Terrifics, JLA, Checkmate|first=''The Spectre'' (vol. 3) #54|year=1997|date=June|writer=[[John Ostrander]]|artist=[[Tom Mandrake]]}}
+{{Herolist|name=Mohammed Ibn Bornu{{ref label|Bornu|P|none}}|alter=|teams=[[Cadre (comics)#Cadre of the Immortal|Cadre of the Immortal]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Molo{{ref label|Molo|Q|none}}|alter=Molo|teams=International [[Sea Devils (comics)|Sea Devil]]|first=''Sea Devils'' #23|date=May|year=1965|writer=[[Bob Haney]]|artist=Howard Purcell}}
+{{Herolist|name=Mongrel |alter=|teams=[[Bloodlines (comics)#Blood Pack|Blood Pack]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Muhammad X|alter=|teams=|first=''Superman'' (vol. 2) #179|year=2002|date=August|writer=[[Jeph Loeb]], [[Geoff Johns ]]|artist=[[Ariel Olivetti]]|ref=}}
+{{Herolist|name=Ndoki |alter= Charles Ndoki|teams=[[S.T.A.R. Corps]]|first=''S.T.A.R. Corps'' #3||date=January|year=1998|writer=[[Dan Vado]]|artist=Norman Felchle|ref=<ref>{{cite web|url=http://www.comics.org/issue/239642/|title=Ndoki|publisher=GCD|access-date=2010-02-19}}</ref>}}
+{{Herolist|name=New Moon|alter=|teams=[[Moondancers]]|first=''[[World's Finest Comics]]'' #295|date=September|year=1983|writer=|artist=|ref=}}
+{{Herolist|name=[[Northwind (comics)|Northwind]]|alter=Norda Cantrell|teams=[[Infinity, Inc.]]|first=''All-Star Squadron'' #25|year=1983|date=September|writer=[[Roy Thomas]]|artist=[[Jerry Ordway]]}}
+{{Herolist|name=[[Nu'Bia]]{{ref label|Nubia|S|none}}|alter=|teams=|first=''Wonder Woman'' #206|date=January|year=1973|writer=[[Robert Kanigher]]|artist=[[Don Heck]]|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=98|title=Nubia|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20060720135711/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=98|archive-date=2006-07-20}}</ref>}}
+{{Herolist|name=[[Orishas (DC Comics)|Obatala, Lord of the White Cloth]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Onyx (comics)|Onyx]]|alter=Onyx Adams|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Orpheus (comics)|Orpheus]]|alter=Gavin King|teams=|first=''Batman: Orpheus Rising''|year=2001|date=October|writer=Alex Simmons|artist=[[Dwayne Turner ]]|ref=}}
+{{Herolist|name=[[Pantha]]|alter=Rosabelle Mendez|teams=[[Teen Titans]]|first=''The New Titans'' #73|year=2001|date=February|writer=[[Marv Wolfman]]|artist=[[Tom Grummett]]}}
+{{Herolist|name=Percival Hazard|alter=|teams=Squad K|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Philippus (fictional character)|Philippus]]|alter=Philippus|teams=Amazons|first=''[[Wonder Woman]]'' (vol. 2) #1|date=February|year=1987|writer=[[George Pérez]]|artist=[[George Pérez]]}}
+{{Herolist|name=Ralph Jackson|alter=Ralph Jackson|teams=[[United States Army]]|first=''[[World's Finest Comics]]'' #17 |date=Spring|year=1945|writer=Jack Schiff|artist=John Daly||ref=<ref name="John Wells"/>}}
+{{Herolist|name=[[Rocket (DC Comics)|Rocket]]|alter=Raquel Ervin|teams=[[Shadow Cabinet (comics)|Shadow Cabinet]]|first=[[Icon (character)|Icon]] #1|year=1993|date=May|writer=[[Dwayne McDuffie]]|artist=[[M. D. Bright]]}}
+{{Herolist|name=Rupert Zambesi Kenboya|alter=|teams=|first=''Showcase'' #66 |date=|year=1967|writer=[[Bob Haney]]|artist=[[Mike Sekowsky]]|ref=<ref name="John Wells"/>}}
+{{Herolist|name=Rush & Silence|alter=|teams=|first=''[[Superman vol. 2|Superman]]'' (vol. 2) #179|year=2002|date=August 2002|writer=|artist=|ref=}}
+{{Herolist|name=Samosa|alter=|teams=Kid Lanterns from [[Green Lantern]] Mosaic|first=|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=Scrap{{ref label|Scrap|V|none}}|alter=|teams=[[Department of Extranormal Operations|D.E.O.rphans]]|first=''[[Teen Titans|Titans]]'' (vol. 4) #26|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=Sela{{ref label|Sela|W|none}}|alter=|teams=[[Justice League|JLA]] (Obsidian Age)|first=|date=|writer=|artist=}}
+{{Herolist|name=Seraph{{ref label|Seraph|U|none}}|alter=|teams=DNAngels|first=''[[Superboy (comic book)|Superboy]]'' (vol. 3) #88|date=July 2001|writer=|artist=}}
+{{Herolist|name=[[Shango (DC Comics)|Shango the Thunderer]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Shondra Kinsolving]]{{ref label|Shondra|W1|none}}
+|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=The Signal|alter=Duke Thomas|teams=Batman (partnership)/ Team Batman, The Outsiders|first=|date=|writer=|artist=}}
+{{Herolist|name=Sir Gawain|alter=|teams=|first=''Camelot 3000'' #3|year=1983|date=|writer=|artist=|ref=}}
+{{Herolist|name=Skitter|alter=Celine Patterson|teams=[[Teen Titans]]|first=''[[Superboy (Kon-El)|Superboy]]'' (vol. 5) #1|year=2011|date=|writer=[[Scott Lobdell]]|artist=[[Brett Booth]]}}
+{{Herolist|name=[[Skyrocket (comics)|Skyrocket]]|alter=Cecelia Forrestal|teams=The Power Company|first=''JLA'' #61|year=2002|date=February|writer=[[Kurt Busiek]]|artist=[[Tom Grummett]]|ref=}}
+{{Herolist|name=Sojourner{{ref label|Sojourner|X|none}}|alter=Henrietta Jessup|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=The Solution{{ref label|Solution|Y|none}}|alter=|teams=[[Young Justice]] |first=|date=|writer=|artist=}}
+{{Herolist|name=Sonik{{ref label|Sonik|Z|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Spectre (comics)|The Spectre]]|alter=[[Crispus Allen]]|teams=|first=''Infinite Crisis'' #4|year=2006|date=March|writer=[[Geoff Johns]]|artist=[[Phil Jimenez]]}}
+{{Herolist|name=Starboy|alter=|teams=|first=''Legion of Superheroes'' (vol. 4) #1|year=2005|date=|writer=|artist=|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=206|title=Starboy|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20060421033557/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=206|archive-date=2006-04-21}}</ref>}}
+{{Herolist|name=[[Thom Kallor#Legion's 2005 reboot|Star Boy]]|alter=|teams=[[Legion of Super-Heroes]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[John Henry Irons|Steel]]
+|alter=John Henry Irons|teams=Justice League|first=''The Adventures of Superman'' #500|year=1993|date=June|writer=[[Louise Simonson]]|artist=[[Jon Bogdanove]]|ref=}}
+{{Herolist|name=[[Natasha Irons|Steel / Vaporlock]]|alter=Natasha Irons |teams=Lex Luthor's Everyman Project, Infinity Inc.|first=''Steel'' (vol. 2) #1|year=1994|date=February|writer=[[Louise Simonson]]|artist=[[Chris Batista]]|ref=}}
+{{Herolist|name=[[Static (DC Comics)|Static]]|alter=Virgil Ovid Hawkins|teams=[[Teen Titans]], [[Justice League]], [[S.T.A.R. Labs]]|first=''[[Static (DC Comics)|Static]]'' #1|year=1993|date=June 1993|writer=|artist=|ref=}}
+
+{{Herolist|name=[[Superman (DC Comics)|Superman Earth 23]]|alter=Calvin Ellis|teams=[[Multiverse Earth 23]], [[Justice League]], [[S.T.A.R. Labs]]|first=''[[LEGION OF SUPERHEROES#23 https://www.dccomics.com/characters/earth-23]]'' #1|year=2011|date=June 2011|writer=|artist=|ref=}}
+
+{{Herolist|name=[[Superman (DC Comics)|Superman Earth 2]]|alter=Val Zod|teams=[[Multiverse Earth 2]], [[Justice League]], [[S.T.A.R. Labs]]|first=''[[EARTH 2: SOCIETY#22 https://www.dccomics.com/comics/earth-2-society-2015/earth-2-society-20]]'' #1|year=2017|date=March 2017|writer=|artist=|ref=}}
+
+{{Herolist|name=Stoneyard |alter=|teams=|first=''[[Superman vol. 2|Superman]]'' (vol. 2) #179|year=2002|date=August 2002|writer=|artist=|ref=}}
+{{Herolist|name=Strix |alter=Mary|teams=[[Court of Owls]], [[Birds of Prey (comics)|Birds of Prey]]|first= ''[[Batgirl (comic book)#The New 52: Batgirl, Birds of Prey and other appearances (2011-present)|Batgirl]]'' (vol. 3) #9|year=2012|date=May|writer=[[Gail Simone]]|artist=Ardian Syaf|ref=}}
+{{Herolist|name=Superman & Supergirl of Earth-D|alter=|teams=Justice Alliance of America|first=''Legends of the DC Universe: Crisis on Infinite Earths''|year=1999|date=|writer=|artist=|ref=}}
+{{Herolist|name=Superman|alter=Harvey Dent|teams=|first=''[[Tangent Comics]]: Superman'' #1|year=1997 |date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Alternate versions of Superman#Alternate Universe Depictions|Superman of Earth 23]]|alter=Calvin Ellis|teams=[[Justice League]]|first=''Final Crisis'' #7|year=2009|date=|writer=[[Grant Morrison]]|artist=[[Doug Mahnke]]}}
+{{Herolist|name=Syn|alter=Synaethesia Jackson|teams=Top Ten|first=''Top Ten'' #1|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Tattooed Man#Mark Richards|Tattooed Man]]|alter= Mark Richards|teams= [[Justice League]], [[Teen Titans|Titans]]|first=''Green Lantern'' (vol. 4) #9|year=2006|date=April|writer=[[Geoff Johns]]|artist=}}
+{{Herolist|name=[[Technocrat (comics)|Technocrat]]|alter=Geoffrey Brown|teams=[[Outsiders (comics)|Outsiders]]|first=''Outsiders'' (vol. 2) #1 Alpha|year=1993|date=1993|writer=[[Mike W. Barr]]|artist=[[Paul Pelletier]]}}
+{{Herolist|name=Ted & Terri Trapper|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Joshua Clay|Tempest]]|alter=Martin Ellis{{ref label|Ellis|N|none}}|teams=[[Doom Patrol]]|first=''Showcase'' #94|year=1977|date=|writer=[[Paul Kupperberg]]|artist=[[Joe Staton]] |ref=}}
+{{Herolist|name=[[Thunder (comics)#Anissa Pierce|Thunder]]|alter=Anissa Pierce|teams=[[Outsiders (comics)|Outsiders]]|first=''Outsiders'' (vol. 3) #1|year=2003|date=August|writer=[[Judd Winick]]|artist=[[Tom Raney]]|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=93|title=Thunder|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20050527074508/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=93|archive-date=2005-05-27}}</ref>}}
+{{Herolist|name=Thunder Fall|alter=|teams=The Kingdom|first=''Batwing'' #2|year=2011|date=|writer=[[Judd Winick]]|artist=[[Ben Oliver]]}}
+{{Herolist|name=[[Tyroc]]|alter=Troy Stewart|teams=[[Legion of Super-Heroes]]|first=''Superboy and the Legion of Super-Heroes'' #216|year=1976|date=April|writer=[[Cary Bates]]|artist=[[Mike Grell]]|ref=<ref>{{cite web|url=http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=91|title=Tyroc|publisher=The Museum of Black Superheroes|access-date=2009-01-22|url-status=usurped|archive-url=https://web.archive.org/web/20060719155418/http://www.blacksuperhero.com/exhibithtml/detail.cfm?id=91|archive-date=2006-07-19}}</ref>}}
+{{Herolist|name=Underground |alter=|teams=|first=''Superman'' (vol. 2) #179|year=2002|date=August 2002|writer=|artist=|ref=}}
+{{Herolist|name=[[Vixen (comics)|Vixen]]|alter=Mari Jiwe McCabe|teams=[[Justice League|JLA]], [[Suicide Squad]], [[International Ultramarine Corps]], [[Justice League International|JLI]]|first=''Action Comics'' #521|year=1981|date=July|writer=[[Gerry Conway]]|artist=[[Bob Oksner]]|ref=}}
+{{Herolist|name=[[Mal Duncan|Vox, Herald, Hornblower, Guardian]]|alter=Mal Duncan|teams=[[Teen Titans]], [[Doom Patrol]]|first=''Teen Titans'' #26|date=March|year=1970|writer=[[Bob Kanigher]]|artist=[[Nick Cardy]]. }}
+{{Herolist|name=Vykin|alter=|teams=[[Forever People]]|first=''Forever People'' #1|year=1971|date=February|writer=[[Jack Kirby]]|artist=[[Jack Kirby]]|ref=}}
+{{Herolist|name=Wilson Forbes{{ref label|Forbes|A3|none}}
+|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Wonder Woman|alter=Diana Prince|teams=|first=''[[DC vs. Marvel]]'' #4|year=1996|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Alternate versions of Wonder Woman#Alternate universe depictions|Wonder Woman of Earth 23]]|alter=Nubia|teams=[[Justice League]]|first=''[[Final Crisis]]'' #7|date=|year=2009|writer=[[Grant Morrison]]|artist=[[Doug Mahnke]].}}
+{{Herolist|name=Wyldeheart{{ref label|Wyldeheart|A4|none}}
+|alter=|teams=|first|date=|writer=|artist=}}
+{{Herolist|name=[[Xero (comics)|Xero]]|alter=Coltrane "Trane" Walker|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[XS (comics)|XS]]|alter=Jenni Ognats|teams=[[Legion of Super-Heroes]]|first=''Legionnaires'' #0|year=1994|date=October|writer=Tom McCraw|artist=[[Jeff Moy]]|ref=}}
+{{Herolist|name=Zeke{{ref label|Zeke|A5|none}}
+|alter=|teams=D.E.O.rphans|first=''Titans'' (vol. 4) #26|date=|writer=|artist=}}
+{{HerolistEnd}}
+Tanya Spears Power Girl II
+
+Black Manta
+
+Val-Zod Superman of Earth-2 (New 52)
+
+===[[Dell Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[Lobo (Dell Comics)|Lobo]] {{ref label|Name|A|none}}|alter=|teams=|first=|year=1965|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Disney comics#Italy|Disney Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[Taranee Cook]]|alter=|teams=W.I.T.C.H.|first=''[[W.I.T.C.H.]]'' #1|year=2001|date=April|writer=[[Elisabetta Gnone]]|artist=Alessandro Barbucci}}
+{{HerolistEnd}}
+
+===Dorkstorm===
+{{HerolistStart}}
+{{Herolist|name=Black Ice {{ref label|Name|A|none}}
+|alter=Bobby Blaque|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Eclipse Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Crackshot |alter=Lee Alexander Clayton|teams=[[The Liberty Project]] and Teenagents|first=|date=|writer=|artist=}}
+{{Herolist|name=The Firedrake|alter=|teams=|first=''[[Miracleman]]''|date=|writer=|artist=}}
+{{Herolist|name=Polestar {{ref label|Polestar|A|none}}|alter=|teams=The New Wave|first=|date=|writer=|artist=}}
+{{Herolist|name=Roboto {{ref label|Roboto|B|none}}|alter=|teams=Team Youngblood |first=|date=|writer=|artist=}}
+{{Herolist|name=[[Sabre (graphic novel)|Sabre]] {{ref label|Sabre|C|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Simon Ashley|alter=|teams=James D. Hudnall's ESPERS|first=|date=|writer=|artist=}}
+{{Herolist|name=Strike {{ref label|Strike|D|none}}|alter=Dennis Foreman|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Terrayne|alter=Harry Robinson|teams=the Futurians|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Epic Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[Black Eagle (Wild Cards)|Black Eagle]]|alter=|teams=[[Wild Cards]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Captain Confederacy]] II|alter=|teams=|first=''Captain Confederacy''|date=1991|writer=Will Shetterly|artist=Vince Stone}}
+{{Herolist|name=[[Fortunato (Wild Cards)|Fortunato]]|alter=|teams=[[Wild Cards]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Harlem Hammer (Wild Cards)|Harlem Hammer]] |alter=|teams=[[Wild Cards]]|first=|date=|writer=Will Shetterly|artist=Vince Stone}}
+{{Herolist|name=Spirit of the People|alter=|teams=|first=''Captain Confederacy''|date=1991|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[First Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Alis Krafe |alter=|teams=Meta 4|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Fleetway/Quality===
+{{HerolistStart}}
+{{Herolist|name=Cleve |alter=|teams=New Statesmen (Ohio)|first=|date=|writer=|artist=}}
+{{Herolist|name=Meridian |alter=|teams=  New Statesmen (Mississippi)|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[The Guardian Line]] UMI===
+{{HerolistStart}}
+{{Herolist|name=Code{{ref label|Code|A|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Joe |alter=|teams=Joe & Max|first=|date=|writer=|artist=}}
+{{Herolist|name=Genesis 5|alter=two unknown members|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Icon Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Benmarley |alter=|teams=FG3, [[Powers (comics)|Powers]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Boogie Girl |alter=|teams=FG3, Powers|first=|date=|writer=|artist=}}
+{{Herolist|name=Teague |alter=|teams=Powers|first=|date=|writer=|artist=}}
+{{Herolist|name=Unnamed Amazon |alter=|teams=the Golden Ones, [[Powers (comics)|Powers]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Wazz |alter=|teams=FG3, Powers|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Image Comics]]===
+{{HerolistStart}}
+{{Herolist|name=American Pi {{ref label|Pi|A|none}}|alter=|teams=[[Common Grounds]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Ant (comics)|Ant]]|alter=Hannah Washington|teams=|first=Ant #1|date=March 2004|writer=[[Mario Gully]]|artist=}}
+{{Herolist|name=[[Black Samson (Invincible)|Black Samson]]|alter=|teams=|first=|date=|writer=Robert Kirkman|artist=}}
+{{Herolist|name=Blindspot|alter=Murdock Ellison|teams=|first=''[[Tribe (comics)|Tribe]]'' #1|date=March 1993|writer=Todd Johnson|artist=Larry Stroman}}
+{{Herolist|name=[[Bulletproof (comics)|Bulletproof]]|alter=|teams=|first=|date=|writer=Robert Kirkman|artist=}}
+{{Herolist|name=[[Chapel (comics)|Chapel]]|alter=Bruce Stinson|teams=|first=''[[Youngblood (comics)|Youngblood]]''|date=|writer=|artist=}}
+{{Herolist|name=The Crush|alter=J.C. Pratt|teams=|first=The Crush #1|date=January 1996|writer=|artist=}}
+{{Herolist|name=[[Darkwing (Invincible)|Darkwing]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Kittycat|alter=|teams=Liberty Balance, Common Grounds|first=|date=|writer=|artist=}}
+{{Herolist|name=Longfellow|alter=|teams=|first=[[Wildguard]]|date=|writer=|artist=}}
+{{Herolist|name=Mach Master|alter=|teams=|first=''[[Wildguard]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Mayhem! (comics)|Mayhem!]]|alter=Dante|teams=|first=''Mayhem!'' #1|date=October 2009|writer=[[Tyrese Gibson]]|artist=Tone Rodriguez}}
+{{Herolist|name=Optica |alter=|teams=|first=''[[Wildguard]]''|date=|writer=|artist=}}
+{{Herolist|name=Psi-Mistress |alter=|teams=|first=''[[Wildguard]]''|date=|writer=|artist=}}
+{{Herolist|name=Rapture|alter=Sharona Jackson|teams=|first=''[[The Savage Dragon]]'' #4|date=|writer=|artist=}}
+{{Herolist|name=Sentinel |alter=|teams=|first=''[[Youngblood (comics)|Youngblood]]''|date=|writer=|artist=}}
+{{Herolist|name=Star|alter=Chris Robinson|teams=|first=''[[The Savage Dragon]]'' #1|date=January 1993|writer=[[Erik Larsen]]|artist=}}
+{{Herolist|name=[[Shadowhawk|Shadowhawk I]]|alter=|teams=|first=''Shadowhawk'' #1|date=|writer=|artist=}}
+{{Herolist|name=[[Spawn (comics)|Spawn]]|alter=Albert Simmons|teams=CIA|first=Spawn #1|date= June 1992|writer=[[Todd McFarlane]]|artist=}}
+{{Herolist|name=Toughlon|alter=|teams=|first=[[Wildguard]]|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Impact Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[The Black Hood|Black Hood II]]|alter=Giles "Hit" Coffee|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Innovation===
+{{HerolistStart}}
+{{Herolist|name=Unknown Black Male|alter=|teams=Group Larue|first=|date=|writer=|artist=}}
+{{Herolist|name=Penn|alter=|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Independent comics===
+{{HerolistStart}}
+{{Herolist|name=Elijah Wallace|alter=|teams=|first=''ENGLEWOOD#1''|date=2019|writer=Micah Curtis|artist=Armand Strange}}
+{{HerolistEnd}}
+
+===Kitchen Sink===
+{{HerolistStart}}
+{{Herolist|name=Miss |alter=|teams=|first=''[[Megaton Man]]''|date=|writer=|artist=}}
+{{Herolist|name=Silver-Age |alter=|teams=|first=''[[Megaton Man]]''|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Lion Forge Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Noble |alter=David Powell|teams=|first=''Noble Vol.1: God Shots''|date=2017|writer=Brandon Thomas|artist=Roger Robinson}}
+{{HerolistEnd}}
+
+===Lone Star Press===
+{{HerolistStart}}
+{{Herolist|name=Midas |alter=|teams=|first=''[[Pantheon (Lone Star Press)|Pantheon]]''|date=|writer=[[Bill Willingham]]|artist=}}
+{{Herolist|name=Tangaroa |alter=|teams=|first=''[[Pantheon (Lone Star Press)|Pantheon]]''|date=|writer=Bill Willingham|artist=}}
+{{HerolistEnd}}
+
+===Malibu ([[Ultraverse]])===
+{{HerolistStart}}
+{{Herolist|name=Aura |alter=|teams=Protectors|first=|date=|writer=|artist=}}
+{{Herolist|name=Chalice |alter=|teams=Protectors|first=|date=|writer=|artist=}}
+{{Herolist|name=D.J. Blast|alter=|teams=[[The Squad (comics)|The Squad]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Yrial |alter=|teams=[[Strangers (Malibu Comics)|Strangers]] |first=|date=|writer=|artist=}}
+{{Herolist|name=Grip |alter=|teams=[[Aladdin (Malibu Comics)|Strangers]] |first=|date=|writer=|artist=}}
+{{Herolist|name=Zip Zap|alter=|teams=Strangers|first=|date=|writer=|artist=}}
+{{Herolist|name=Book|alter=|teams=[[The Quattro (comics)|The Solution]]|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Marvel Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[Abe Brown (Marvel Comics)|Abraham Brown]]|alter=|teams=[[Sons of the Tiger]]|first=''Deadly Hands of Kung Fu'' #1|year=1974|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2014/03/09/abe-brown/|title=Abe Brown (Character)|date=9 March 2014|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Adept (comics)|Adept]]|alter=Jelene Anderson|teams=[[Strikeforce Morituri]]|first=[[Strikeforce: Morituri#1]]|year=1984|date=|writer=|artist=}}
+{{Herolist|name=[[Aegis (Trey Rollins)|Aegis]]|alter=Trey Rollins|teams=[[New Warriors]]|first=''The New Warriors'' (vol. 2) #0|year=1999|date=June|writer=[[Jay Faerber]]|artist=Steve Scott|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/07/10/aegis-trey-jason-rollins/|title=Aegis (Character)|date=10 July 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Agent Storm/Tempest|alter=|teams=[[X-Force]]|first=''Cloak and Dagger'' (vol. 3) #9|year=1989|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/05/23/tempest-pvt-william-read/|title=Tempest (Character)|date=23 May 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Alex Wilder]]|alter=|teams=[[Runaways (comics)|Runaways]]|first=''Runaways'' #1|year=2003|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/24/alex-wilder/|title=Alex Wilder (Character)|date=24 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Anarchist (comics)|Anarchist]]|alter=Tike Alicar|teams=[[X-Force]], [[X-Statix]]|first=''X-Force'' #116|year=2001|date=July|writer=[[Peter Milligan]]|artist=[[Mike Allred]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/11/tike-alicar-anarchist/|title=Anarchist (Character)|date=11 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Angel Salvadore|Angel II]]|alter=Angel Salvadore|teams=[[X-Men]], [[New Warriors]], [[Teen Brigade]]|first=''New X-Men'' #118|year=2001|date=2001|writer=[[Grant Morrison]]|artist=[[Ethan Van Sciver]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/01/20/angel-salvadore/|title=Angel Salvadore (Character)|date=20 January 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Attractive Lad|alter=Aundray Phelps|teams=Crazy Eights|first=''Wonder Man'' #4|year=1991|date=|writer=|artist=}}
+{{Herolist|name=Axe|alter=|teams=[[Harriers (comics)|Harriers]]|first=''Wolverine'' (vol. 2) #5|year=1989|date=|writer=|artist=}}
+{{Herolist|name=[[Donyell Taylor|Bandit]] now [[Night Thrasher]]|alter=Donyell Taylor|teams= New Warriors/Avengers Resistance/Counter Force|first=''Night Thrasher'' #3|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/08/donyell-taylor/|title=Donyell Taylor (Character)|date=8 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Battlestar (comics)|Battlestar]], Bucky|alter=Lemar Hoskins|teams=Buckies, partner of [[U.S. Agent (comics)|Captain America]], [[Wild Pack]]|first=''Captain America'' #323|year=1986|date=November|writer=[[Mark Gruenwald]]|artist=[[Paul Neary]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/07/20/battlestar-lemar-hoskins/|title=Battlestar (Character)|date=20 July 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Bedlam (comics)|Bedlam]]|alter=Jesse Aaronson|teams=[[X-Force]]|first=''X-Force'' #82|year=1998|date=October|writer=[[John Francis Moore (comics)|John Francis Moore]]|artist=[[Jim Cheung]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/24/jesse-bedlam/|title=Bedlam (Character)|date=24 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Ben Payton|alter=|teams=Seeker 3000|first=''Marvel Premiere'' #41|year=1978|date=|writer=|artist=}}
+{{Herolist|name=[[Black Musketeers (comics)|The Black Musketeers]] {{ref label|BMusk|A|none}}|alter=Dr. Joshua Itobo, Ishanta, and Khanata|teams=|first=''Black Panther'' #9|year=1978|date=|writer=|artist=}}
+{{Herolist|name=[[Black Panther (comics)|Black Panther]]|alter=T'Challa|teams=[[Avengers (comics)|Avengers]], [[Defenders (comics)|Defenders]], [[Fantastic Force]], [[Fantastic Four]]
+[[Illuminati (comics)|Illuminati]]|first=''Fantastic Four'' #52|year=1966|date=July|writer=[[Stan Lee]]|artist=[[Jack Kirby]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/05/31/black-panther-tchalla/|title=Black Panther (Character)|date=31 May 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Black Talon (comics)#Black Talon (Desmond Drew)|Black Talon]]|alter=Desmond Drew|teams=Cult Leader|first=''Strange Tales'' #173|year=1974|date=April|writer=Len Wein|artist=Gene Colan}}
+{{Herolist|name=[[Black Talon (comics)#Black Talon (Samuel Barone)|Black Talon]]|alter=Samuel Barone|teams=Lethal Legion, X-Humed|first=''Avengers'' #152|year=1976|date=October|writer=[[Gerry Conway]]|artist=[[John Buscema]]}}
+{{Herolist|name=[[Blade (comics)|Blade]]|alter=Eric Brooks|teams=[[Nightstalkers (comics)|Nightstalkers]], [[Midnight Sons]], [[Vanguard (Marvel Comics)|Vanguard]], [[MI-13 (comics)|MI-13]]|first=''Tomb of Dracula'' #10|year=1973|date=July 1973|writer=[[Marv Wolfman]]|artist=[[Gene Colan]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/06/04/blade-eric-brooks/|title=Blade (Character)|date=4 June 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Bling (comics)|Bling!]]|alter=Roxanne "Roxy" Washington|teams=New X-Men|first=''X-Men'' (vol. 2) #171|year=2005|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/09/29/bling-roxanne-washington/|title=Bling (Character)|date=29 September 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Blitziana]]|alter=|teams=Godpack|first=''Mighty Thor'' #473|year=1994|date=April|writer=[[Roy Thomas]]|artist=[[M.C. Wyman]]}}
+{{Herolist|name=[[Blue Marvel (Marvel Comics)|Blue Marvel]]|alter=Adam Brashear|teams=|first=''Adam: Legend of the Blue Marvel'' #1|year=2008|date=November|writer=Kevin Grevioux|artist=Mat Broome|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/12/07/blue-marvel/|title=Blue Marvel (Character)|date=7 December 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Blur|alter=Stanley Stewart|teams=Squadron Supreme|first=''Supreme Power'' #1|year=2003|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/01/19/blur-stanley-stewart/|title=Blur (Character)|date=19 January 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Brother Voodoo]]|alter=Jericho Drumm|teams=[[Midnight Sons]]|first=''Strange Tales'' #169|year=1973|date=September|writer=[[Len Wein]]|artist=[[Gene Colan]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/09/06/doctor-voodoo-jericho-drumm/|title=Doctor Voodoo (Character)|date=6 September 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Isaiah Bradley|Captain America]]|alter=Isaiah Bradley|teams=|first=''Truth: Red, White & Black'' #1|year=2003|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/07/08/isaiah-bradley-the-black-captain-america/|title=Isaiah Bradley (Character)|date=8 July 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Captain Marvel II, Photon, Pulsar|alter=[[Monica Rambeau]] |teams=Avengers, [[Nextwave]]|first=''The Amazing Spider-Man'' Annual #16|year=1982|date=|writer=[[Roger Stern]]|artist=[[John Romita, Jr.]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/06/21/photon-monica-rambeau/|title=Monica Rambeau (Character)|date=21 June 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Captain Universe]]|alter=|teams=[[Avengers (comics)|Avengers]]|first=''Avengers'' (vol. 5) #1|year=2012|date=December 2012|writer=[[Jonathan Hickman]]|artist=[[Jerome Opeña]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/01/28/captain-universe/|title=Captain Universe (Character)|date=28 January 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Cardiac (comics)|Cardiac]]|alter=Elias Wirtham|teams=|first=''The Amazing Spider-Man'' #342|year=1990|date=December|writer=[[David Michelinie]]|artist=[[Erik Larsen]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/22/cardiac-elias-wirtham/|title=Cardiac (Character)|date=22 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Derek Morgan |alter=|teams=Ultimate X|first=''Ultimate X'' #3|year=2010|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/17/derek-morgan/|title=Derek Morgan (Character)|date=17 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Frenzy|alter=[[Joanna Cargill]]|teams=[[Alliance of Evil]], [[Femizons]], [[Acolytes (comics)|Acolytes]], [[X-Men]]|first=''X-Factor'' #4|year=1986|date=May|writer=[[Bob Layton]]|artist=[[Keith Pollard]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/05/08/frenzy-joanna-cargill/|title=Frenzy (Character)|date=8 May 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Cecilia Reyes]]|alter=|teams=[[X-Men]]|first=''X-Men'' (vol. 2) #65|year=1997|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/18/cecilia-reyes/|title=Cecilia Reyes (Character)|date=18 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Charcoal (comics)|Charcoal]]|alter=Charlie Burlingame|teams=[[Thunderbolts (comics)|Thunderbolts]]|first=''Thunderbolts'' #19|year=1998|date=October|writer=[[Kurt Busiek]]|artist=[[Mark Bagley]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/08/13/charcoal/|title=Charcoal (Character)|date=13 August 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[chord (comics)|Chord]]|alter=Andrew Chord|teams=[[New Warriors]] ally|first=''Thor'' #411|year=1989|date=|writer=|artist=}}
+{{Herolist|name=[[Cloak and Dagger (comics)|Cloak]]|alter=Tyrone "Ty" Johnson|teams=partner of [[Cloak and Dagger (comics)|Dagger]], Secret Avengers, [[Dark X-Men]], [[X-Men]]|first=''Peter Parker, the Spectacular Spider-Man'' #64|year=1982|date=March|writer=[[Bill Mantlo]]|artist=[[Ed Hannigan]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/23/cloak-tyrone-johnson/|title=Cloak (Character)|date=23 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Darwin (comics)|Darwin]]|alter=|teams=[[X-Men]], [[X-Factor Investigations]]|first=''[[X-Men: Deadly Genesis]]'' #2|year=2006|date=February|writer=[[Ed Brubaker]]|artist=[[Pete Woods]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/06/01/darwin-armando-munoz/|title=Darwin (Character)|date=June 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Deathlok]]|alter=Michael Collins|teams=[[Secret Defenders]]|first=''Astonishing Tales'' #25|year=1974|date=August|writer=[[Doug Moench]], [[Gregory Wright (comics)|Gregory Wright]]|artist=[[George Pérez]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/05/17/michael-collins/|title=Michael Collins (Character)|date=17 May 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Debrii]]|alter=Debroah Fields|teams=New Warriors|first=''New Warriors'' (vol. 3) #4|year=2005|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/03/debrii-deborah-fields/|title=Debrii (Character)|date=3 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Doorman (comics)|Doorman]]|alter=DeMarr Davis|teams=[[Great Lakes Avengers|Great Lakes Avengers/X-Men/Champions/Initiative]]|first=''West Coast Avengers (vol. 2)'' #46|year=1989|date=July|writer=[[John Byrne (comics)|John Byrne]]|artist=[[John Byrne (comics)|John Byrne]]}}
+{{Herolist|name=[[Falcon (comics)|Falcon]]|alter=Sam Wilson|teams=partner of [[Captain America]], [[S.H.I.E.L.D.|S.H.I.E.L.D. Super Agents]], [[Defenders (comics)|Defenders]], [[Avengers (comics)|Avengers]]|first=''Captain America'' #117|year=1969|date=September|writer=[[Stan Lee]]|artist=[[Gene Colan]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/06/02/falcon-samuel-wilson/|title=Falcon (Character)|date=2 June 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Gabe Jones]]|alter=|teams=[[Sgt. Fury and his Howling Commandos|Howling Commandos]], [[S.H.I.E.L.D.]], [[Godzilla Squad]]|first=''Sgt. Fury'' #1|year=1963|date=December|writer=[[Stan Lee]]|artist=[[Jack Kirby]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/03/12/gabe-jones-character/|title=Gabe Jones (Character)|date=12 March 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Gauntlet|alter=Joseph Green|teams=|first=''Civil War Battle Damage Report'' #1|year=2007|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/02/15/gauntlet/|title=Gauntlet (Character)|date=15 February 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Genii |alter=|teams=[[Young Gods (comics)|Young Gods]]|first=''Thor'' #202|year=1972|date=|writer=|artist=}}
+{{Herolist|name=[[Georgianna Castleberry]]|alter=|teams=[[Thunderiders|Team America]]|first=''Team America'' #2|year=1982|date=|writer=|artist=}}
+{{Herolist|name=Girth |alter=|teams=Happy Campers|first=''[[NFL SuperPro]]'' #10|year=1992|date=|writer=|artist=}}
+{{Herolist|name=[[G. W. Bridge]] |alter=|teams=[[Six Pack (comics)|Six Pack]], [[S.H.I.E.L.D.]], [[Weapon P.R.I.M.E.]]|first=''X-Force'' #1|year=1991|date=August|writer=[[Rob Liefeld]], [[Fabian Nicieza]]|artist=[[Rob Liefeld]]}}
+{{Herolist|name=[[Goblyn]]|alter=Goblyn Dean|teams=[[Derangers]], [[Beta Flight]], [[Gamma Flight]]|first=''Alpha Flight'' #53|year=1987|date=December|writer=[[Bill Mantlo]]|artist=[[Terry Shoemaker]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/08/11/goblyn/|title=Goblyn (Character)|date=11 August 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Bill Foster (comics)|Goliath]], Giant-Man, Black Goliath|alter=Bill Foster|teams=ally of [[Avengers (comics)|Avengers]], technical advisor to [[Champions (1975 team)|Champions]], [[Defenders (comics)|Defenders]], [[Features of the Marvel Universe#Project Pegasus|Project Pegasus]]|first=''Avengers'' #32|year=1966|date=September|writer=[[Stan Lee]]|artist=[[Don Heck]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/29/goliath-bill-foster/|title=Goliath (Character)|date=29 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Goliath (Tom Foster)|Goliath]]|alter=Tom Foster|teams=[[Damage Control (comics)|Damage Control]], [[Revengers]]|first=''Black Panther'' (vol. 4) #23|year=2007|date=February 2007|writer=[[Reginald Hudlin]]|artist=[[Koi Turnbull]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2014/04/29/tom-foster/|title=Tom Foster (Character)|date=29 April 2014|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name="Hammer" Eisenhower|alter=|teams=[[Six Pack (comics)|Six Pack]]|first=''X-Force'' #8|year=1992|date=March|writer=[[Rob Liefeld]], [[Fabian Nicieza]]|artist=[[Rob Liefeld]], [[Mike Mignola]]}}
+{{Herolist|name=Harrier, [[Cardinal (comics)|Cardinal]]|alter=Donald Clendenon|teams=Air Force, [[Masters of Evil]], [[Thunderbolts (comics)|Thunderbolts]]|first=''New Warriors'' #28|year=1992|date=October|writer=[[Fabian Nicieza]]|artist=[[Darick Robertson]]}}
+{{Herolist|name=[[Heather Hudson (Exiles)|Heather Hudson]]|alter=|teams=[[Exiles (Marvel Comics)|Exiles]]|first=''Exiles'' #10|year=2002|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/12/01/heather-hudson/|title=Heather Hudson (Character)|date=December 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=High-Tech, [[Chemistro]]|alter=Curtis Carr|teams=|first=''Hero for Hire'' #12|year=1973|date=August|writer=[[Steve Englehart]]|artist=[[George Tuska]]}}
+{{Herolist|name=Hit-Maker|alter=|teams=|first=''Wonder Man'' Annual #2|year=1993|date=|writer=|artist=}}
+{{Herolist|name=[[Horus (Marvel Comics)|Horus]]|alter=|teams=[[Heliopolitans|Heliopolitan Gods]]|first=''Thor'' #239|year=1975|date=|writer=|artist=}}
+{{Herolist|name=[[Human Top (David Mitchell)|Human Top]]|alter=David Mitchell|teams=Kid Commandos, Penance Council, [[V-Battalion]]|first=''Invaders'' #27|year=1978|date=April|writer=[[Roy Thomas]]|artist=[[Frank Robbins]]}}
+{{Herolist|name=[[Hybrid (Scott Washington)|Hybrid]]|alter=|teams=[[New Warriors]]|first=''New Warriors'' #21|year=1992|date=|writer=|artist=}}
+{{Herolist|name=[[Riri Williams|Ironheart]]|alter=Riri Williams|teams=|first=''Invincible Iron Man'' (vol. 3) #7|year=2016|date=May, 2016|writer=Brian Michael Bendis|artist=Mike Deodato|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2016/06/25/riri-williams-character/|title=Riri Williams (Character)|date=25 June 2016|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Isis (Marvel Comics)|Isis]]|alter=|teams=Heliopolitan Gods|first=''Thor'' #239|year=1975|date=|writer=|artist=}}
+{{Herolist|name=[[Josiah X]]|alter=Josiah al hajj Saddiq, Josiah Bradley|teams=[[The Crew (comics)|The Crew]]|first=''The Crew'' #1|year=2003|date=September|writer=[[Christopher Priest (comic book writer)|Christopher Priest]]|artist=[[Joe Bennett (penciller)|Joe Bennett]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/07/07/josiah-x/|title=Josiah-X (Character)|date=7 July 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[The Craptacular B-Sides#Members|Jughandle]]|alter=Jesse Metuchen|teams=[[The Craptacular B-Sides]]|first=''Craptacular B-Sides'' #1|year=2002|date=|writer=[[Brian David-Marshall]]|artist=Brett Weldele}}
+{{Herolist|name=[[Kasper Cole]]|alter=|teams=[[The Crew (comics)|The Crew]]|first=''Black Panther'' (vol. 3 #50)|year=2002|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/06/02/kasper-cole-the-white-tiger/|title=Kasper Cole (Character)|date=2 June 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Kestrel|alter=John Wraith|teams=|first=''Wolverine'' (vol. 2) #48|year=1991|date=|writer=|artist=}}
+{{Herolist|name="Licorice" Calhoun|alter=|teams=|first=''Fantastic Four'' #291|year=1986|date=|writer=|artist=}}
+{{Herolist|name=[[Lightbright]]|alter=|teams=[[Wild Pack]] |first=''Silver Sable and the Wild Pack'' #16|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/02/20/lightbright/|title=Lightbright (Character)|date=20 February 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Longstrike|alter=Christine Cord|teams=New Warriors|first=''New X-Men'' #126|year=2002|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2014/09/01/christine-cord/|title=Christine Cord (Character)|date=September 2014|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Power Man/[[Luke Cage]]|alter=Carl Lucas|teams=[[Fantastic Four]], [[Defenders (comics)|Defenders]], [[Avengers (comics)|New Avengers]]|first=''Hero for Hire'' #1|year=1972|date=June|writer=[[Archie Goodwin (comics)|Archie Goodwin]], [[John Romita, Sr.]], & [[Roy Thomas]]|artist=[[George Tuska]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/06/05/power-man-luke-cage/|title=Luke Cage (Character)|date=5 June 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Monet St. Croix|M]]|alter=Monet St. Croix|teams=[[Generation X (comics)|Generation X]], [[X-Men]], [[X-Corporation]], [[X-Factor Investigations]], [[Hellfire Club (comics)|Hellfire Club]]|first=''Uncanny X-Men'' #316|year=1994|date=|writer=[[Scott Lobdell]]|artist=[[Chris Bachalo]]|ref=<ref>{{Cite web|url=https://www.marvel.com/articles/comics/trace-the-lineage-of-marvel-s-black-super-heroes|title=Trace the Lineage of Marvel's Black Super Heroes}}</ref>}}
+{{Herolist|name=[[Man-Ape]]|alter=M'Baku|teams=[[Lethal Legion]], [[Masters of Evil]], [[Villains for Hire]]|first=''The Avengers'' #62|year=1969|date=|writer=Roy Thomas|artist=John Buscema}}
+{{Herolist|name=[[Maggott]]|alter=Japeth|teams=[[X-Men]], [[Generation X (comics)|Generation X]]|first=''Uncanny X-Men'' #345|year=1997|date=June|writer=[[Scott Lobdell]]|artist=[[Joe Madureira]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/19/maggott-japheth/|title=Maggott (Character)|date=19 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Code: Blue]]|alter=Marcus Stone|teams=|first=''Thor'' #404|year=1989|date=|writer=|artist=}}
+{{Herolist|name=[[Maxam]]|alter=|teams=|first=''Warlock and the Infinity Watch'' #12|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/06/14/maxam/|title=Maxam (Character)|date=14 June 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Meteor Man|alter=Jefferson Reed|teams=|first=''Meteor Man: The Movie'' #1|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/06/20/meteor-man/|title=Meteor man (Character)|date=20 June 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Midnight Sun (Marvel Comics)|Midnight Sun]]|alter=|teams=ally of [[Shang-Chi]]|first=''Special Marvel Edition'' #16|year=1974|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2014/03/15/midnight-sun/|title=Midnight Sun|date=15 March 2014|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Mister Gideon|alter=Gideon Wilson|teams=[[Gamma Corps]]. Older brother of [[Falcon (comics)|Falcon]]|first=''World War Hulk: Gamma Corps'' #1|year=2007|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2014/07/30/mister-gideon-character/|title=Mister Gideon (Character)|date=30 July 2014|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Misty Knight]]|alter=|teams=[[Daughters of the Dragon]], [[Heroes for Hire]]|first=''Marvel Team-Up'' #1|year=1972|date=March 1972|writer=[[Tony Isabella]], [[Roy Thomas]]|artist=[[Ross Andru]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/06/16/misty-knight/|title=Misty Knight (Character)|date=16 June 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[M'Shulla]]|alter=|teams=[[Killraven|Killraven's Freemen]]|first=''Amazing Adventures'' (vol. 2) #19|year=1973|date=|writer=|artist=}}
+{{Herolist|name=Meteorite|alter=Valerie Barnhardt|teams=|first=''Thunderbolts'' #48|year=2001|date=|writer=|artist=}}
+{{Herolist|name=[[Nick Fury, Jr.]]/Marcus Johnson|alter=|teams=[[S.H.I.E.L.D.]], [[Secret Avengers]]|first=''Battle Scars'' #1|year=2012|date=2012|writer=[[Matt Fraction]], [[Chris Yost]], Cullen Bunn, [[Paul Neary]]|artist=[[Scot Eaton]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/01/17/marcus-johnson/|title=Nick Fury Jr. (Character)|date=17 January 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Night Thrasher]]|alter=Dwayne Taylor/ Donyell Taylor|teams=[[New Warriors]]/[[Counter Force]]|first=''Thor'' #411|year=1989|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/21/night-thrasher-dwayne-taylor/|title=Night Thrasher (Character)|date=21 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Nightmask#Other versions|Nightmask]]|alter=New Adam|teams=[[Avengers (comics)|Avengers]]|first=''Avengers'' (vol. 5) #1|year=2013|date=|writer=[[Jonathan Hickman]]|artist=Jerome Opena|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/01/27/nightmask/|title=NightMask (Character)|date=27 January 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Nightwatch (comics)|Nightwatch]]|alter=Dr. Kevin Trench|teams=|first=''Web of Spider-Man'' #97|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/12/22/nightwatch-kevin-trench/|title=Nightwatch (Character)|date=22 December 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[N'Kantu, the Living Mummy]]|alter=|teams=|first=''Supernatural Thrillers'' #5|year=1973|date=|writer=|artist=}}
+{{Herolist|name=Numinus |alter=|teams=[[Power Pack]]|first=''Power Pack'' #51|year=1989|date=|writer=|artist=}}
+{{Herolist|name=[[Pathway (comics)|Pathway]]|alter=Laura Dean|teams=ally of [[Alpha Flight]]|first=''Alpha Flight'' #48|year=1987|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/08/11/pathway/|title=Pathway (Character)|date=11 August 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Patriot (comics)|Patriot]]|alter=Elijah Bradley|teams=Young Avengers|first=''Young Avengers'' #1|year=2005|date=|writer=[[Alan Heinberg]]|artist=[[Jim Cheung]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/07/13/the-patriot-eli-bradley/|title=Patriot (Character)|date=13 July 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Patriot (comics)#Patriot (Rayshaun Lucas)|Patriot]]|alter=Rayshaun Lucas|teams=[[Champions (2016 team)|Champions]], [[S.H.I.E.L.D.]]|first=''[[Captain America: Sam Wilson]]'' #18|year=2017|date=|writer=[[Nick Spencer]]|artist=[[Daniel Acuña]]}}
+{{Herolist|name=Phaser|alter=Christian Cord|teams=New Warriors|first=''New X-Men'' #126|year=2002|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/05/phaser-christian-cord/|title=Christian Cord (Character)|date=5 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Phastos]]|alter=|teams=[[Eternals (comics)|Eternals]]|first=''Eternals'' (vol. 2) #1|year=1985|date=|writer=|artist=}}
+{{Herolist|name=[[Power Man (Victor Alvarez)|Power Man]]|alter=Victor Alvarez|teams=[[Avengers Academy]]|first=''Dark Reign: The List - Daredevil'' #1|year=2009|date=September|writer=[[Fred Van Lente]]|artist=[[Mahmud Asrar]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/07/28/power-man-victor-hernan-alvarez/|title=Power Man (Character)|date=28 July 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Prodigy (David Alleyne)|Prodigy II]]|alter=David Alleyne|teams=[[New X-Men: Academy X]]|first=''New Mutants'' (vol. 2) #4|year=2003|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/10/01/prodigy-david-alleyne/|title=Prodigy (Character)|date=October 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Prowler (Marvel Comics)|Prowler]]|alter=Hobie Brown|teams=|first=''Amazing Spider-Man'' #78|year=1969|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/09/18/prowler-hobie-brown/|title=Prowler (Character)|date=18 September 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Rage (comics)|Rage]]|alter=Elvin Halliday|teams=[[Avengers (comics)|Avengers]], New Warriors/[[Counter Force]]|first=''Avengers'' #326|year=1990|date=November|writer=[[Larry Hama]]|artist=[[Paul Ryan (cartoonist)|Paul Ryan]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/11/23/rage-elvin-daryl-holiday/|title=Rage (Character)|date=23 November 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Reno Jones|alter=|teams=[[Gunhawks]]|first=''Gunhawks'' #1|year=1972|date=|writer=|artist=}}
+{{Herolist|name=[[Rocket Racer]]|alter=Robert Farrell|teams=|first=''Amazing Spider-Man'' #172|year=1977|date=|writer=|artist=}}
+{{Herolist|name=[[Shard (comics)|Shard]]|alter=Shard Bishop|teams=[[X-Factor (comics)|X-Factor]]|first=''Uncanny X-Men Annual'' #17|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/20/shard-bishop/|title=Shard (Character)|date=20 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Shola Inkosi]]|alter=|teams=|first=''Mekanix'' #1|year=2002|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/06/13/shola-inkosi/|title=Shola Inkosi (Character)|date=13 June 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Silhouette (comics)|Silhouette]]|alter=Silhouette Chord|teams=New Warriors|first=''New Warriors'' #2|year=1990|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/07/08/silhouette/|title=Silhouette (Character)|date=8 July 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Sister Voodoo|alter=Vanna Black|teams=hired by [[Brother Voodoo]]|first=''[[Marvel Age]]'' Annual #3|year=1987|date=|writer=|artist=}}
+{{Herolist|name=[[Spider-Man (Miles Morales)|Spider-Man]]|alter=Miles Morales|teams= [[Avengers (comics)|Avengers]], Web Warriors, [[Ultimates]], [[Champions (2016 team)|Champions]]|first=''Ultimate Comics: Fallout'' #4 |year=2011|date=August 2011|writer=[[Brian Michael Bendis]]|artist=[[Sara Pichelli]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/03/miles-morales-spider-man/|title=Miles Morales (Character)|date=3 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Splice |alter=|teams=[[Young Gods]]|first=''Thor'' #300|year=1980|date=|writer=|artist=}}
+{{Herolist|name=Sprocket |alter=Amelia Barnhardt|teams=employee of [[Night Thrasher]]|first=''Night Thrasher: Four Control'' #2|year=1992|date=|writer=|artist=}}
+{{Herolist|name=[[Storm (Marvel Comics)|Storm]]|alter=Ororo Munroe|teams=X-Men, [[Fantastic Four]], [[Avengers (comics)|Avengers]], [[Uncanny X-Force]]|first=''Giant-Size X-Men'' #1|year=1975|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/02/storm-ororo-munroe/|title=Storm (Character)|date=2 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Sun Girl (Marvel Comics)|Sun Girl]]|alter=Selah Burke|teams= [[New Warriors]]|first=''[[Superior Spider-Man Team-Up]]'' #1|year=2013|date=|writer=[[Chris Yost]]|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2014/02/21/sun-girl/|title=Sun Girl (Character)|date=21 February 2014|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}} 
+{{Herolist|name=[[Sunspot (comics)|Sunspot]]|alter=Roberto Da Costa|teams=[[New Mutants]], [[X-Force]], [[New Avengers (comics)|New Avengers]], [[U.S. Avengers]]|first=''[[Marvel Graphic Novel]] #4: The New Mutants''|year=1982|date=|writer=[[Chris Claremont]]|artist=[[Bob McLeod (comics)|Bob McLeod]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/10/05/sunspot-roberto-da-costa/|title=Sunspot (Character)|date=5 October 2011|publisher=The Museum of Black Superheroes|access-date=2020-06-08}}</ref>}}
+{{Herolist|name=[[Synch (comics)|Synch]]|alter=Everett Thomas|teams=Generation X|first=''X-Men'' (vol. 2) #36|year=1994|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/02/14/synch-everett-thomas/|title=Synch (Character)|date=14 February 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Tag (comics)|Tag]]|alter=Brian Cruz|teams=the [[New X-Men (2004 series)]]|first=''New Mutants'' (vol. 2) #10|year=2004|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/10/18/tag-brian-cruz/|title=Tag (Character)|date=18 October 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Throg]]|alter=Simon Walterson|teams=[[Pet Avengers]]|first=''Lockjaw and the Pet Avengers'' #1
+|year=2009|date=May|writer=[[Chris Eliopoulos]]|artist=Ig Guara|ref=<ref>{{cite web |last=Wilson|first=John|date=February 16, 2020 |url=https://www.cbr.com/marvel-facts-trivia-lockjaw-zabu-pet-avengers/|title=Marvel: 10 Things Everyone Forgets About Lockjaw, Zabu, & The Pet Avengers
+|publisher=[[Comic Book Resources]]|accessdate=October 28, 2021}}</ref>}}
+{{Herolist|name=Tempest|alter=Becka Munroe|teams=GeNext|first=''GeNext'' #1|year=2008|date=July|writer=[[Chris Claremont]]|artist=[[Patrick Scherberger]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2010/08/11/becka-munroe/|title=Becka Munroe (Character)|date=11 August 2010|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=3-D Man, Triathlon|alter=[[Delroy Garrett]]|teams=[[Skrull Kill Krew]]<br />[[Avengers: The Initiative|The Initiative]]<br />[[Point Men]]<br />[[Avengers (comics)|Avengers]]<br />[[Triune Understanding]]<br />[[Agents of Atlas]]
+|first=''Avengers'' (vol. 3) #8|year=1998|date=September 1998|writer=Kurt Busiek|artist=George Pérez|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2012/02/26/triathlon/|title=Triathlon (Character)|date=26 February 2012|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Valida Payton|alter=|teams=Seeker 3000|first=''Marvel Premiere'' #41|year=1978|date=|writer=|artist=}}
+{{Herolist|name=[[Venus Dee Milo]]|alter=|teams=|first=''X-Statix'' #1|year=2002|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/08/06/venus-dee-milo/|title=Venus Dee Milo (Character)|date=6 August 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Vibrania]]|alter=|teams=Ally of [[Robbie Baldwin|Speedball]]|first=''Marvel Super-Heroes'' (vol. 2) #4|year=1990|date=|writer=|artist=}}
+{{Herolist|name=Vibraxas|alter=|teams=[[Fantastic Force]]|first=''Fantastic Four'' #391|year=1994|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/28/vibraxis-nkano/|title=Vibraxas (Character)|date=28 August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Voodo Chile|alter=|teams=|first=''Marvel Age'' Annual #3|year=1987|date=|writer=|artist=}}
+{{Herolist|name=[[War Machine]]/Briefly Iron Man |alter=James "Rhodey" Rhodes|teams=[[West Coast Avengers]], [[The Crew (comics)|The Crew]], [[Secret Avengers]]|first=''Iron Man'' #118|year=1979|date=January 1979|writer=[[David Michelinie]]|artist=[[Bob Layton]]|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/07/19/war-machine-james-rhodes/|title=War Machine (Character)|date=19 July 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=Wes Cassady {{ref label|Cassady|C|none}}
+|alter=|teams=|first=''The Amazing Spider-Man'' #302|year=1988|date=|writer=|artist=}}
+{{Herolist|name=Wildstreak|alter=Tamika Bowden|teams=Fantastic Four ally|first=''Fantastic Four'' Annual #26|year=1993|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2013/01/14/wildstreak/|title=Wildstreak (Character)|date=14 January 2013|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{Herolist|name=[[Windshear (comics)|Windshear]]|alter=Colin Ashworth Hume |teams=[[Alpha Flight]]|first=''Alpha Flight'' #87|year=1990|date=|writer=|artist=|ref=<ref>{{cite web|url=http://worldofblackheroes.com/2011/08/01/windshear-colin-ashworth-hume/|title=Windshear (Character)|date=August 2011|publisher=The Museum of Black Superheroes|access-date=2019-06-30}}</ref>}}
+{{HerolistEnd}}
+
+===[[Marvel UK]]===
+{{HerolistStart}}
+{{Herolist|name=Doctor Crocodile {{ref label|Crocodile|B|none}}|alter=Joshua N'Dingi|teams=|first=Captan Btain Vol.2 #9|year=1985|date=September 1985|writer=Jamie Delano|artist=Alan Davies}}
+{{Herolist|name=Big Shot|alter=|teams=|first=Death's Head Vol.1 #4|year=1989|date=March 1989|writer=Simon Furman|artist=Bryan Hitch}}
+{{Herolist|name=Green Knight|alter=|teams=[[Knights of Pendragon]]|first=|year=|date=|writer=|artist=}}
+{{Herolist|name=Perez|alter=|teams=Warheads (Kether Troop)|first=Warheads #1|year=1992|date=June 1992|writer=Nick Vince|artist=Gary Erskine}}
+{{Herolist|name=[[Wakanda|Afrikaa]] {{ref label|Afrikaa|A|none}}|alter=Khairi Ngala|teams=|first=Black Axe #5|year=1993|date=August 1993|writer=Simon Jowett|artist=Edward Perryman}}
+{{Herolist|name=Shift |alter=Clifton Joseph|teams=|first=''[[Genetix (comics)|Code Name: GENETIX]] #1''|year=1993|date=October 1993|writer=Graham Marks, Andy Lanning|artist=Phil Gascoine}}
+{{Herolist|name=Howitzer |alter=|teams=[[Gene Dogs]]|first=Gene Dogs #1|year=1993|date=October 1993|writer=John Freeman|artist=David Taylor}}
+{{Herolist|name=Ultra Marine |alter=|teams=[[Dark Guard]]|first=Dark Guard #1|year=1993|date= October 1993|writer=Dan Abnett|artist=Carlos Pacheco}}
+{{Herolist|name=Death Wreck |alter=|teams=|first=Death III #1|year=1993|date=September 1993|writer=Dan Abnett|artist=Dell Barrass}}
+{{HerolistEnd}}
+
+===[[Marvel Comics 2|MC2]]===
+{{HerolistStart}}
+{{Herolist|name=[[Blacklight (MC2)|Blacklight]]|alter=Kandra Freeman|teams=A-Next|first=A-Next #9|year=1999|date=|writer=|artist=}}
+{{Herolist|name=[[Coal Tiger]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Daze (comics)|Daze]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Earth Sentry]]|alter=John Foster|teams=A-Next|first=A-Next #2|date=|writer=|artist=}}
+{{Herolist|name="Fred" {{ref label|Fred|A|none}}
+|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Ladyhawk (comics)|Ladyhawk]]|alter=|teams=|first=Spider-Girl #6 (vol. 1)|year=1999|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Megaton Publishing===
+{{HerolistStart}}
+{{Herolist|name=Megaton|alter=Matthew Scott|teams=|first=Megaton #1|year=1983|date=November 1983|writer=[[Gary Carlson]]|artist=[[Butch Guice]]}}
+{{HerolistEnd}}
+
+===[[Milestone Media]]===
+{{HerolistStart}}
+{{Herolist|name=Brick House|alter=|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}
+{{Herolist|name=Bubbasaur|alter=Bubba Brown|teams=Blood Syndicate|first=''Blood Syndicate'' #1|year=1994|date=|writer=|artist=|ref=}}
+{{Herolist|name=Buck Wild, Mercenary Man {{ref label|Buckwild|C|none}}|alter=Rufus T. Wild|teams=|first=''Icon'' #|year=|date=|writer=|artist=|ref=<ref>{{cite web|url=http://www.internationalhero.co.uk/b/buckwild.htm|title=Buck Wild|publisher=An International Catalogue of Superheroes|access-date=2009-01-08}}</ref>}}
+{{Herolist|name=D-Struct {{ref label|DStruct|A|none}}|alter=Damon Briggs|teams=|first=''Static'' #12|year=1994|date=April 1994|writer=[[Kurt Busiek]]<br />[[Neil Vokes]]|artist=|ref=<ref>{{cite web|url=http://www.internationalhero.co.uk/d/dstruct.htm|title=D-Struct|access-date=2009-01-08|publisher=An International Catalogue of Superheroes}}</ref>}}
+{{Herolist|name=DMZ|alter=|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}
+{{Herolist|name=Fade|alter=Carlos Quinones|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}{{Herolist|name=Flashback|alter=Sara Quinones|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}
+{{Herolist|name=[[Hardware (comics)|Hardware]]|alter=Curt Metcalf|teams=|first=''[[Hardware (comics)|Hardware]]'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Denys Cowan]]|artist=}}
+{{Herolist|name=Holocaust / Pyre|alter=|teams=Blood Syndicate|first=''Static'' #4|year=1993|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Icon (character)|Icon]]|alter=Augustus Freeman IV|teams=|first=''[[Icon (character)|Icon]]'' #1|year=1993|date=May 1993|writer=Dwayne McDuffie<br />Denys Cowan|artist=}}
+{{Herolist|name=Masquerade|alter=|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}
+{{Herolist|name=Payback|alter=|teams=[[Heroes (comics)|Heroes]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Rocket (DC Comics)|Rocket]]|alter=Raquel Ervin|teams=|first=''Icon'' #1|year=1993|date=May 1993|writer=Dwayne McDuffie<br />Denys Cowan|artist=}}
+{{Herolist|name=Starlight|alter=Stella Maxwell|teams=[[Shadow Cabinet (comics)|Shadow Cabinet]], The Heroes|first=''Shadow Cabinet''|year=|date=|writer=|artist=|ref=}}
+{{Herolist|name=[[Static (DC Comics)|Static]]|alter=Virgil Ovid Hawkins|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Tarmack|alter=Charles Bell|teams=Blood Syndicate|first=''Static'' #2|year=1993|date=|writer=|artist=|ref=}}
+{{Herolist|name=Tech-9|alter=Rolando Texador|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}
+{{Herolist|name=Technique {{ref label|Technique|B|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Wise Son: The White Wolf|Wise Son]]|alter=Hannibal White|teams=[[Blood Syndicate]]|first=''Blood Syndicate'' #1|year=1993|date=April 1993|writer=[[Dwayne McDuffie]]<br />[[Ivan Velez, Jr.]]|artist=[[Denys Cowan]]<br />[[Jimmy Palmiotti]]|ref=}}
+{{HerolistEnd}}
+
+===[[New Universe]]===
+{{HerolistStart}}
+{{Herolist|name=Blur|alter=Jeff Walters|teams=[[DP7 (comics)|D.P.7]]|first=''D.P.7'' #1|date=November 1986|writer=[[Mark Gruenwald]]|artist=[[Paul Ryan (cartoonist)|Paul Ryan]]}}
+{{Herolist|name=Brick Wall|alter=Beauford Wohl|teams=[[Kickers, Inc.]]|first=''Kickers, Inc.'' #1|date=November 1986|writer=[[Tom DeFalco]]|artist=[[Ron Frenz]]}}
+{{Herolist|name=Dasher|alter=Dallas Corbin|teams=[[Kickers, Inc.]]|first=''Kickers, Inc.'' #1|date=November 1986|writer=[[Tom DeFalco]]|artist=[[Ron Frenz]]}}
+{{Herolist|name=Friction|alter=Charlotte "Charly" Beck|teams=[[DP7 (comics)|D.P.7]]|first=''D.P.7'' #1|date=November 1986|writer=[[Mark Gruenwald]]|artist=[[Paul Ryan (cartoonist)|Paul Ryan]]}}
+{{Herolist|name=Mutator, Wild Thing {{ref label|Mutator|A|none}}|alter=George Mullaney|teams=[[DP7 (comics)|D.P.7]], Para-Troop|first=''D.P.7'' #1 (possibly)|date=November 1986|writer=[[Mark Gruenwald]]|artist=[[Paul Ryan (cartoonist)|Paul Ryan]]}}
+{{Herolist|name=Think Tank |alter=Theresa "Teddy" Roberts|teams=[[Spitfire and the Troubleshooters]]|first=''Spitfire and the Troubleshooters'' #1|date=October 1986|writer=[[Eliot R. Brown]], [[Gerry Conway]] & [[Jack Morelli|John Morelli]]|artist=[[Herb Trimpe]]}}
+{{Herolist|name=Voyager|alter=Tyrone Jessup|teams=[[Psi-Force]]|first=''Psi-Force'' #1|date=November 1986|writer=Steve Perry|artist=[[Mark Texeira]]}}
+{{HerolistEnd}}
+
+===[[Pacific Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Urth |alter=|teams=Earth 4|first=''Powerman #1''|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Pikin Press]]===
+{{HerolistStart}}
+{{Herolist|name=[[Powerman (comics)|Powerman]]|alter=|teams=|first=''Powerman #1''|date=1975|writer=Don Avenall, Norman Worker|artist=Dave Gibbons}}
+{{HerolistEnd}}
+
+===[[Random House/Identity Artists & Writers Group]]===
+
+===[[Supreme Power]]===
+{{HerolistStart}}
+{{Herolist|name=[[Blue Eagle (comics)|Blue Eagle]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[the Atlanta Blur|Blur]]|alter=Stanley Stewart|teams=Squadron Supreme|first=Supreme Power #5|year=2004|date=|writer=|artist=}}
+{{Herolist|name=[[Nighthawk (Supreme Power)|Nighthawk]]|alter=|teams=Squadron Supreme|first=Supreme Power #2|year=2004|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[Ultimate Marvel]]===
+{{HerolistStart}}
+{{Herolist|name=[[Falcon (comics)#Ultimate Falcon|Falcon]]|alter=Sam Wilson|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Defenders (comics)#Ultimate Defenders|Luke Cage]]|alter=|teams=Ultimate Defenders|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Misty Knight]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Ultimate Nick Fury|Nick Fury]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Spider-Man (Miles Morales)|Spider-Man]]|alter=Miles Morales|teams=|first=|date=|writer=[[Brian Michael Bendis]]|artist=}}
+{{Herolist|name=[[Vision (Marvel Comics)#Ultimate Marvel|Vision]]|alter=Robert Mitchell|teams=|first=''[[Ultimate Comics: Ultimates]]'' #22|date=|writer=Sam Humphries|artist=[[Joe Bennett (artist)|Joe Bennett]]}}
+{{HerolistEnd}}
+
+===[[Urban Legend]]===
+{{HerolistStart}}
+
+{{Herolist|name=[[The Urban Legend (comics)|The Urban Legend]]|alter=Malcom T. Madiba|teams=|first=|year=2012|date=|writer=[[Josef Yohannes]]|artist=NewTasty}}
+{{HerolistEnd}}
+
+===[[Vertigo Comics]]===
+{{HerolistStart}}
+{{Herolist|name=Agent 355|alter=|teams=|first=''[[Y: The Last Man]]''|date=|writer=|artist=}}
+{{Herolist|name=Boy|alter=Lucille Butler |teams=[[The Invisibles]]|first=|year=1994|date=|writer=|artist=|ref=}}
+{{Herolist|name=Chullo {{ref label|Chullo|A|none}}|alter=Charles Henry|teams=The Judges|first=|date=|writer=|artist=}}
+{{Herolist|name=Dhalua Strong|alter=|teams=|first=''Tom Strong'' #1|year=1999|date=|writer=Alan Moore, Chris Sprouse|artist=|ref=}}
+{{Herolist|name=Strel|alter=|teams=|first=''100%'' #1|year=2002|date=|writer=Paul Pope|artist=|ref=}}
+{{Herolist|name=Ziona|alter=|teams=|first=''2020 Visions #10: Repro-Man''|year=1998|date=|writer=Jamie Delano|artist=|ref=}}
+{{HerolistEnd}}
+
+===[[Wildstorm]] (ABC/Homage)===
+{{HerolistStart}}
+{{Herolist|name=[[Ambrose Chase]]|alter=|teams=|first=''[[Planetary (comics)|Planetary]]''|date=|writer=|artist=}}
+{{Herolist|name=Anansi |alter=|teams=|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Battalion (WildStorm)|Battalion]]|alter=Jackson King|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Black Badge|alter=|teams=|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=Black Rapier |alter=|teams=the Honor Guard|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=Blue Knight|alter=|teams=|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=Cleopatra |alter=|teams=the Honor Guard|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=Dhalua Strong {{ref label|Dhalua|A|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Flint|alter=Victoria Ngengi|teams=[[Stormwatch (comics)|Stormwatch]], associate of the [[Authority (comics)|Authority]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Hoodoo Priest|alter=Parsifal Congo |teams=|first=''[[Top 10 (comics)|Top 10]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Jack-in-the-Box (Astro City)|Jack-in-the-Box]]|alter=Zachary Johnson|teams=|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=King Peacock|alter=John Corbeau |teams=|first=''[[Top 10 (comics)|Top 10]]''|date=|writer=|artist=}}
+{{Herolist|name=Micro-Maid|alter=Doctor Sally-Jo Jessell |teams=|first=''[[Top 10 (comics)|Top 10]]''|date=|writer=|artist=}}
+{{Herolist|name=MPH |alter=|teams=the Honor Guard|first=''[[Astro City]]''|date=|writer=|artist=}}
+{{Herolist|name=New American |alter=|teams=|first=''[[The American Way (comics)|The American Way]]'' #1|date=|writer=|artist=}}
+{{Herolist|name=[[Promethea]] |alter=Sophie Bangs|teams=|first=''ABC Comics''|date=|writer=|artist=}}
+{{Herolist|name=Rite |alter=|teams=the Changers|first=''[[Stormwatch (comics)|Stormwatch]]''|date=|writer=|artist=}}
+{{Herolist|name=Stochastic Fats|alter=Willie Beaumont|teams=[[Top 10 (comics)|Top 10]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Stormwatch (comics)|Strafe]]|alter=Malcolm King|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Synaesthesia|alter=Wanda Jackson|teams=[[Top 10 (comics)|Top 10]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Tesla Strong {{ref label|Tesla|B|none}}|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Augustus Cole|alter=Cole Train|teams=|first=Gears of War|date=|writer=Ortega|artist=Sharp}}
+{{Herolist|name=[[Voodoo (Wildstorm)|Voodoo]]|alter=Priscilla Kitaen|teams=[[WildC.A.T.S.]]|first=''WildC.A.T.S.'' #1|year=1992|writer=[[Brandon Choi]]|artist=[[Jim Lee]]}}
+{{HerolistEnd}}
+
+===[[Valiant Comics]]===
+{{HerolistStart}}
+{{Herolist|name=[[Quantum and Woody|Quantum]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Livewire (Valiant Comics)|Livewire]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Shadowman (comics)|Shadowman]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===[[ZOOLOOK]]===
+{{HerolistStart}}
+{{Herolist|name=[[Dread & Alive]] |alter=Drew McIntosh|teams=|first=Concrete Jungle #1|year=2010|date=February 2010|writer=Nicholas Da Silva|artist=Rodney Buchemi}}
+{{Herolist|name=HITLESS |alter=Agent HITLESS|teams=|first=Ambush #1|date=|year=2007|writer=Nicholas Da Silva|artist=Rodney Buchemi| ref=<ref>{{cite web|url=https://www.pocketgamer.com/articles/003531/the-best-digital-comics-for-your-psp/|title=The best digital comics for your PSP|publisher=Pocketgamer.com|access-date=2007-07-06}}</ref>}}
+{{HerolistEnd}}
+
+==Other media==
+
+===Newspapers===
+{{HerolistStart}}
+{{Herolist|name=Bungleton Green<ref>[http://www.clstoons.com/paoc/gallary/bung_green.htm A Bungleton Green Retrospective<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20071215003238/http://www.clstoons.com/paoc/gallary/bung_green.htm |date=2007-12-15 }}</ref>|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Chisolm Kid |alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Don Powers|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Ebony White|alter=|teams=|first=''The Spirit'' comic strip|year=1940|date=|writer=Will Eisner|artist=|ref=}}
+{{Herolist|name=Guy Fortune<ref>[http://www.clstoons.com/paoc/gallary/comix.htm A Salute to Pioneering Cartoonists of Color, Cartoon Gallery 1<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20071207193309/http://www.clstoons.com/paoc/gallary/comix.htm |date=2007-12-07 }}</ref> |alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Jive Gray |alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Mark Hunt|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Mystic Commandos|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Neil Knight |alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Sergeant Joe|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Speed Jaxon|alter=|teams=|first=|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Novels and anthologies===
+{{HerolistStart}}
+{{Herolist|name=[[Black Eagle (Wild Cards)|Black Eagle]] ([[Wild Cards]])|alter=Earl Sanderson, Jr.|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Cassie (Animorphs)|Cassie]] of the [[Animorphs]] book series.|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Fortunato (Wild Cards)|Fortunato]] ([[Wild Cards]])|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Harlem Hammer (Wild Cards)|Harlem Hammer]] ([[Wild Cards]])|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Knight Seeker]] |alter=Nygel Spinner|teams=|first=|date=|writer=Eric Cooper|artist=}}
+{{Herolist|name=[[Hiro Protagonist]] ([[Snow Crash]])|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Max Madigan]] |alter=Max Madigan|teams=|first=The Serpent Cult|date=|writer=Howard Night|artist=}}
+
+{{HerolistEnd}}
+
+===Webcomics===
+{{HerolistStart}}
+{{Herolist|name=Anubysse|alter=Kevin Bright|teams=Evil Shenanigans|first=''Pre-BC''|date=2007|writer=|artist=| ref=<ref>{{cite web|url=http://www.wowarmory.com/character-sheet.xml?r=Chromaggus&n=Anubysse|title=Wow Armory}}</ref>}}
+{{Herolist|name=Black Puma|alter=|teams=Justice Squad|first=''Slightly Warped''|date=|writer=|artist=}}
+{{Herolist|name=Chocolate Thunder|alter=|teams=|first=''Gettosake Entertainment''  |date=|writer=|artist=|ref=<ref>{{cite web|url=http://www.gettosake.com/home_frame.html |title=Gettosake.com |url-status=dead |archive-url=https://web.archive.org/web/20090116023930/http://www.gettosake.com/home_frame.html |archive-date=2009-01-16 }}</ref>}}
+{{Herolist|name=Destiny |alter=|teams=|first=''12 Comics''|date=|writer=|artist=}}
+{{Herolist|name=Destruct-O-Tron|alter=Todd Purvee|teams=Super Haters|first=''Super Haters #1''|date=June 25, 2009|writer=Nick Marino|artist=Nick Marino| ref=<ref>{{cite web|url=http://www.audioshocker.com/2009/06/25/super-haters-1-meet-the-haters|title=Super Haters #1 at AudioShocker.com|url-status=dead|archive-url=https://web.archive.org/web/20131028175132/http://www.audioshocker.com/2009/06/25/super-haters-1-meet-the-haters|archive-date=2013-10-28}}</ref>}}
+{{Herolist|name=Eleggua |alter=|teams=|first=''Impcomics.com''|date=|writer=|artist=|ref=<ref>{{cite web|url=http://www.impcomics.com/ELE%202.htm|title=Eleggua|url-status=dead|archive-url=https://web.archive.org/web/20060807154343/http://www.impcomics.com/ELE%202.htm|archive-date=2006-08-07}}</ref>}}
+{{Herolist|name=Fearless Grasshopper|alter=|teams=|first=''Gettosake Entertainment''|date=|writer=|artist=}}
+{{Herolist|name=Fierce|alter=|teams=|first=''Gettosake Entertainment''|date=|writer=|artist=}}
+{{Herolist|name=Harmony|alter=|teams=|first=''12 Comics''|date=|writer=|artist=}}
+{{Herolist|name=JetSpeed|alter=|teams=|first=''12 Comics''|date=|writer=|artist=}}
+
+{{Herolist|name=Nanoman|alter=|teams=|first=''Gettosake Entertainment''|date=|writer=|artist=}}
+{{Herolist|name=[http://www.neters.tv Neters]|alter=|teams=|first=|date=|writer=|artist=|ref=<ref>[http://www.daathrekh.com daathrekh.com]</ref>}}
+{{Herolist|name=Nightflyer|alter=|teams=Justice Squad|first=''Slightly Warped''|date=|writer=|artist=}}
+{{Herolist|name=Sister Hoodoo|alter=Aretha|teams=Marvelous Detectives|first=''Super Haters #391''|date=June 19, 2012|writer=Nick Marino, Justique Woolridge|artist=Nick Marino| ref=<ref>{{cite web|url=http://comics.superhaters.com/2012/06/super-haters-391.html|title=Super Haters #391 at SuperHaters.com|url-status=dead|archive-url=https://web.archive.org/web/20150402115747/http://comics.superhaters.com/2012/06/super-haters-391.html|archive-date=2015-04-02}}</ref>}}
+{{Herolist|name=Stealth|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Sunblayde |alter=|teams=|first=''12 Comics''|date=|writer=|artist=}}
+{{Herolist|name=The Urban Avenger|alter=|teams=|first=''GlascoGraphix.com'' |date=|writer=|artist=|ref=<ref>{{cite web|url=http://www.theurbanavenger.com|title=The Urban Avenger|url-status=dead|archive-url=https://web.archive.org/web/20080907145959/http://www.theurbanavenger.com/|archive-date=2008-09-07}}</ref>}}
+{{Herolist|name=Venus Kincaid|alter=|teams=|first=''Gettosake Entertainment''|date=|writer=|artist=}}
+{{Herolist|name=Yo Mo'Fro,The Big Brother|alter=|teams=|first=''FOG webcomics''|date=2009|writer=F.Jones|artist=F.Jones|ref=<ref>{{cite web |url=http://www.yomofro.com/ |title=Home |website=yomofro.com}}</ref>}}
+{{Herolist|name=Youngshot |alter=|teams=|first=''12 Comics''|date=|writer=|artist=}}
+{{Herolist|name=Zenon |alter=|teams=|first=''12 Comics''|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Television===
+{{HerolistStart}}
+{{Herolist|name=Action Hank |alter=|teams=|first=''Dexter's Laboratory''|date=|writer=|artist=}}
+{{Herolist|name=Afro Samurai|alter=|teams=|first=''Afro Samurai''|date=|writer=|artist=}}
+{{Herolist|name=[[Tattooed Teenage Alien Fighters from Beverly Hills|Apollo]]|alter=Swinton Sawyer|teams=[[Tattooed Teenage Alien Fighters from Beverly Hills|TTAFFBH]]|date=|year=1994|writer=|artist=}}
+{{Herolist|name=Princess Aisha|alter=|teams=[[Winx Club]]|first=''The Shadow Phoenix''|date=|year=2005|writer=|artist=}}
+{{Herolist|name=[[Static Shock#Other heroes|Anansi the Spider]]|alter=|teams=Static (ally)|first=''[[Static Shock]]''|date=|writer=|artist=}}
+{{Herolist|name=Agent Antoine Triplett|alter=|teams=S.H.I.E.L.D.|first=[[Agents of S.H.I.E.L.D.]]|date=|writer=|artist=}}
+{{Herolist|name=Batwoman|alter=Ryan Wilder|teams=|first=''[[Batwoman (TV series)|Batwoman]]''|date=|writer=|artist=}}
+{{Herolist|name=Benny Sherwood|alter=|teams Tom Clarke (ally)|first=''[[Wizards vs Aliens]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Big Lob]]|alter=|teams=[[G.I. Joe: A Real American Hero|G.I. Joe]]|first=''[[G.I. Joe: The Movie]]''|date=|writer=|artist=}}
+{{Herolist|name=Black Lightning|alter=Franklin Pierce|teams=|first=''[[Black Lightning (TV series)|Black Lightning]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Operation Overdrive Power Rangers#Will Aston|Black Overdrive Ranger]]|alter=Will Aston|teams=[[Power Rangers: Operation Overdrive|Power Rangers Operation Overdrive]]|first=|date=|year=2007|writer=|artist=}}
+{{Herolist|name=[[Zack Taylor|Black Ranger I]]|alter=Zack Taylor|teams=[[Mighty Morphin Power Rangers]]|first=|date=|year=1993|writer=|artist=}}
+{{Herolist|name=[[Black Vulcan]]|alter=|teams=[[Super Friends]]|first=''Super Friends'' Animated Cartoon|date=|year=1978|writer=|artist=Alex Togh|ref=}}
+{{Herolist|name=[[Blade: The Series|Blade]]|alter=Eric Brooks|teams=|first=''Blade'' (TV show)|date=|writer=|artist=}}
+{{Herolist|name=[[Dino Thunder Power Rangers#Ethan James|Blue Dino Thunder Ranger]]|alter=Ethan James|teams=[[Power Rangers: Dino Thunder|Power Rangers Dino Thunder]]|first=|date=|year=2004|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Hyperforce|Blue Hyperforce Ranger]]|alter=Eddie Banks|teams=[[Power Rangers Hyperforce]]|first=|date=|year=2017|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Megaforce|Blue (Super) Megaforce Ranger]]|alter=Noah Carver|teams=[[Power Rangers Megaforce]]|first=|date=|year=2013|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Samurai|Blue Samurai Ranger]]|alter=Kevin|teams=[[Power Rangers Samurai]]|first=|date=|year=2011|writer=|artist=}}
+{{Herolist|name=[[Power Rangers: Wild Force|Blue Wild Force Ranger]]|alter=Max Cooper|teams=[[Power Rangers: Wild Force|Power Rangers Wild Force]]|first=|date=|year=2002|writer=|artist=}}
+{{Herolist|name=[[The Brown Hornet]]|alter=|teams=|first=''[[Fat Albert and the Cosby Kids|Fat Albert]]''|date=|writer=|artist=}}
+{{Herolist|name=Bulletproof|alter=Baldwin P. Vess|teams=C.O.P.S.|first=''C.O.P.S.''|date=|writer=|artist=}}
+{{Herolist|name=[[Bumblebee (DC Comics)|Bumblebee]]|alter=|teams=Teen Titans (East)|first=''[[Teen Titans (TV series)|Teen Titans]]''|date=|writer=|artist=}}
+{{Herolist|name=Capital G|alter=|teams=[[Dexter's Laboratory#The Justice Friends|Justice Friends]]|first=''[[Dexter's Laboratory]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Cassie (Animorphs)|Cassie]]|alter=|teams=|first=''[[Animorphs]]''|date=|writer=|artist=}}
+{{Herolist|name=Curtis Holt|alter=|teams=Team Arrow|first=Arrow|date=|writer=|artist=}}
+{{Herolist|name=[[Cyborg (comics)|Cyborg]]|alter=Stone|teams=Teen Titans|first=''[[Teen Titans (TV series)|Teen Titans]]'' episode #1|date=|writer=|artist=}}
+{{Herolist|name=[[Deathlok]]|alter=Michael Peterson|teams=|first=''[[Agents of S.H.I.E.L.D.]]'' episode #1|date=|writer=|artist=}}
+{{Herolist|name=[[List of Gargoyles characters#Other characters|Delilah]]|alter=|teams=|first=''[[Gargoyles (TV series)|Gargoyles]]''|date=|writer=|artist=}}
+{{Herolist|name=Detective Jesse Reese|alter=|teams=Gotham City Police Department|first=[[Birds of Prey (TV series)|Birds of Prey]]|date=|writer=|artist=}}
+{{Herolist|name=[[Dungeons & Dragons (TV series)#Characters|Diana]]|alter=|teams=|first=''[[Dungeons & Dragons (TV series)|Dungeons and Dragons]]'' episode #1|date=|writer=|artist=}}
+{{Herolist|name=Dion Warren|alter=|teams=|first=''[[Raising Dion]]''|date=|writer=|artist=}}
+{{Herolist|name=Doc|alter=Walter Hartford|teams=[[The Adventures of the Galaxy Rangers|Galaxy Rangers]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Doc (G.I. Joe)|Doc]]|alter=Carl W. Greer|teams=[[G.I. Joe: A Real American Hero|G.I. Joe]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Doc Clayton|alter= None|teams=Fort Kerium|first=[[BraveStarr]] |date=1987|writer=|artist=}}
+{{Herolist|name=Doc Saturday|alter= None|teams=|first= [[Secret Saturdays]]|date=|writer=|artist=}}
+{{Herolist|name=Dr. Elwin "El" Lincoln|alter= None|teams=[[Misfits of Science]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Elisa Maza]]|alter=|teams=|first=''[[Gargoyles (TV series)|Gargoyles]]''|date=|writer=|artist=}}
+{{Herolist|name=Elizabeth|alter=|teams=[[The Tomorrow People|Tomorrow People]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Falcon|alter=Sam Wilson|teams=Avengers|first=|date=|writer=|artist=}}
+{{Herolist|name=Guardian|alter=James Olsen|teams=|first=''[[Supergirl (TV series)|Supergirl]]''|date=|writer=|artist=}}
+{{Herolist|name=Guardian|alter=Kelly Olsen|teams=|first=''[[Supergirl (TV series)|Supergirl]]''|date=|writer=|artist=}}
+{{Herolist|name=Commander Jonathan Ford|alter=|teams=NAVY|first=''SeaQuest DSV''|date=|writer=|artist=}}
+{{Herolist|name=Lt. J.J. Fredricks|alter=|teams=NAVY|first=''SeaQuest DSV''|date=|writer=|artist=}}
+{{Herolist|name=[[Beetleborgs|Green Hunter Beetleborg / Titanium Silver Beetleborg]]|alter=Roland Williams|teams=[[Big Bad Beetleborgs|Beetleborgs]]|first=''Big Bad Beetleborgs''|date=|year=1996|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Lost Galaxy|Green Galaxy Ranger]]|alter=Damon Henderson|teams=[[Power Rangers Lost Galaxy]]|first=|date=|year=1999|writer=|artist=}}
+{{Herolist|name=[[Lightspeed Rescue Power Rangers#Joel Rawlings|Green Lightspeed Ranger]]|alter=Joel Rawlings|teams=[[Power Rangers: Lightspeed Rescue|Power Rangers Lightspeed Rescue]]|first=|date=|year=2000|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Beast Morphers|Grid Battleforce Red Ranger]]|alter=Devon Daniels|teams=[[Power Rangers: Beast Morphers|Power Rangers Beast Morphers]]|first=|date=|year=2019|writer=|artist=}}
+{{Herolist|name=Hondo MacLean|alter=|teams=[[M.A.S.K.]]|first=|date=|writer=|artist=|ref=<ref>{{cite book |last1=Bellomo |first1=Mark |title=Totally Tubular '80s Toys |date=2010 |publisher=Penguin |isbn=978-1440216466 |url=https://books.google.com/books?id=8hFjDwAAQBAJ&pg=PT307 |page=307}}</ref>}}
+{{Herolist|name=[[Mystic Knights of Tir Na Nog|Mystic Knight of Water]]|alter=Ivan|teams=[[Mystic Knights of Tir Na Nog|Mystic Knights]]|first=''Mystic Knights of Tir Na Nog''|date=|year=1998|writer=|artist=}}
+{{Herolist|name=[[VR Troopers|VR JB Reese]]|alter=JB Reese|teams=[[VR Troopers]]|first=''VR Troopers''|date=|year=1994|writer=|artist=}}
+{{Herolist|name=JD Bennett|alter=|teams=[[Bionic Six]]|first=''Bionic 6''|date=|writer=|artist=}}
+{{Herolist|name=John Diggle|alter=Spartan|teams=Team Arrow|first=[[Arrow (TV series)|Arrow]]|date=2012|writer=|artist=}}
+{{Herolist|name=Green Lantern|alter=[[John Stewart (character)|John Stewart]]|teams=Justice League|first=''Justice League''|date=|writer=|artist=}}
+{{Herolist|name=[[Hammerman]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=[[D. L. Hawkins]]|alter=|teams=|first=''[[Heroes (U.S. TV series)|Heroes]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Heavy Duty (G.I. Joe)|Heavy Duty]]|alter=Lamont A. Morris|teams=[[G.I. Joe: A Real American Hero|G.I. Joe]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Mal Duncan|Herald]]|alter=|teams=|first=''Teen Titans''|date=|writer=|artist=}}
+{{Herolist|name=Hotwing|alter=|teams=Silverhawks|first=''Silverhawks''|date=|writer=|artist=}}
+{{Herolist|name=Jake Justice|alter=|teams=[[Rescue Heroes]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Jonathan James Junior|alter=|teams=[[Thunderbirds 2086]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Jett Jackson|alter=|teams=|first=''The Famous Jett Jackson''|date=|writer=|artist=}}
+{{Herolist|name=[[Black Vulcan#Other versions|Juice]]|alter=|teams=|first=''[[Justice League Unlimited]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Kamen Rider Dragon Knight|Kamen Rider Camo]]|alter= Grant Stanley, Van|teams=|first=''[[Kamen Rider: Dragon Knight]]''|date=|year=2008|writer=|artist=|}}
+{{Herolist|name=Kenny|alter=|teams=[[The Tomorrow People|Tomorrow People]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Kiddy Phenil|alter=|teams=|first=''[[Silent Möbius]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Planeteer#Kwame|Kwame]]|alter=|teams=Planeteers|first=[[Captain Planet]]|date=|writer=|artist=}}
+{{Herolist|name=Leo Dooley|alter=|teams= Davenport Bionic Academy|first=[[Lab Rats (U.S. TV series)|''Lab Rats'' (TV series)]]|date=|writer=|artist=}}
+{{Herolist|name=Lothar |alter=|teams=|first=''[[Defenders of the Earth]]''|date=|writer=|artist=}}
+{{Herolist|name=LJ (Lothar Junior)|alter=|teams=|first=''[[Defenders of the Earth]]''|date=|writer=|artist=}}
+{{Herolist|name=[[M.A.N.T.I.S.]]|alter=Miles Hawkins|teams=[[M.A.N.T.I.S.]]|first=[[M.A.N.T.I.S.]]|year=1994|date=|writer=[[Sam Raimi]] and [[Sam Hamm]]|artist=Carl Lumbly}}
+{{Herolist|name=Max Jones|alter=|teams=Zone Riders|first=''[[Spiral Zone]]''  |date=|writer=|artist=|ref=<ref>{{cite web|url=http://spiral-zone.com/tonka/zoneriders.htm|title=SPIRAL ZONE – Earth's Most Powerful Soldiers}}</ref>}}
+{{Herolist|name=[[Superstretch and Microwoman|Micro Woman]]|alter=Christy Cross|teams=[[Tarzan and the Super 7]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Micron|alter=|teams=|first=''[[Batman Beyond]]''|date=|writer=|artist=}}
+{{Herolist|name=Mister T |alter=|teams=|first=''[[Mister T (TV series)|Mister T]]''|date=|writer=|artist=}}
+{{Herolist|name=Misty Magic |alter=|teams=|first=''[[Kid Superpower Hour with Shazam!]]''  |date=|writer=|artist=|ref=<ref>{{cite web|url=http://www.internationalhero.co.uk/h/herohigh.htm|title=Hero High<!-- Bot generated title -->}}</ref>}}
+{{Herolist|name=Mjnari|alter=|teams=[[X-Men]] (ally)|first=[[X-Men: The Animated Series|X-Men]]|date=|writer=|artist=}}
+{{Herolist|name=Moleculad|alter=|teams=[[Hanna-Barbera]]'s Teen Force|first=''[[Space Stars]]''|date=|writer=|artist=}}
+{{Herolist|name=Astrea|alter=|teams=''[[Space Sentinels]]''|first=|year=1977|date=|writer=|artist=}}
+{{Herolist|name=Morgan|alter=Rockne Tarkington|teams=|first=''[[Danger Island (TV series)|Danger Island]]''|date=|writer=|artist=}}
+{{Herolist|name=Naomi McDuffie|alter=|teams=|first=''[[Naomi (TV series)|Naomi]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Codename: Kids Next Door#Sector V|Numbuh Five]]|alter=Abigail "Abby" Lincoln|teams=Kids Next Door|first=''[[Codename: Kids Next Door]]''|date=|writer=|artist=}}
+{{Herolist|name=Owen Renyolds|alter=|teams=[[Supah Ninjas]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Panthro|alter=|teams=Thundercats|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Dino Charge|Pink Dino Charge Ranger]]|alter=Shelby Watkins|teams=[[Power Rangers Dino Charge]]|first=|date=|year=2015|writer=|artist=}}
+{{Herolist|name=Power Man|alter=Luke Cage|teams=|first=''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''|date=|writer=|artist=}}
+{{Herolist|name=[[Power Rangers RPM|Ranger Operator Series Red]]|alter=Scott Truman|teams=[[Power Rangers: RPM|Power Rangers RPM]]|first=|date=|year=2009|writer=|artist=}}
+{{Herolist|name=[[Jack Landors|SPD Red Ranger I (B-Squad)]]|alter=Jack Landers|teams=[[Power Rangers: S.P.D.|Power Rangers S.P.D.]]|first=|date=|year=2005|writer=|artist=}}
+{{Herolist|name=[[TJ Johnson|Red Turbo Ranger II]]|alter=TJ Johnson|teams=[[Power Rangers: Turbo|Power Rangers Turbo]]|first=|date=|year=1997|writer=|artist=}}
+{{Herolist|name=Rena Rouge|alter=Alya Césaire|teams=French Miraculous Superhero Team|first=''Sapotis''|date=2018|writer=|artist=}}
+{{Herolist|name=Cosmo, Splashdown, Sunstroke, Venus|alter=|teams=[[Rickety Rocket|Rickety Rocket Crew]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Roadblock (G.I. Joe)|Roadblock]]|alter=Marvin Hinton|teams=[[G.I. Joe: A Real American Hero|G.I. Joe]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Richmond "Rocky" Canyon|alter=|teams=[[Rescue Heroes]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Rubberband Man|alter=Adam Evans|teams=Static (ally)|first=''Static Shock''|date=|writer|artist}}
+{{Herolist|name=Samantha|alter=|teams=Monster Buster Club|first=Monster Buster Club (MBC)|date=|writer=|artist=}}
+{{Herolist|name=[[Micah Sanders]]|alter=|teams=|first=''[[Heroes (U.S. TV series)|Heroes]]'' episode #1|date=|writer=|artist=}}
+{{Herolist|name=Scout |alter=Sgt. Robert Baker |teams=[[Captain Power|Captain Power and the Soldiers of the Future]]|first=|date=|writer=|artist=}}
+{{Herolist|name=She-Bang|alter=Shenice Vale|teams=Static (ally)|first=''Static Shock''|date=|writer=|artist=}}
+{{Herolist|name=Silver Sentry|alter=|teams=[[Teenage Mutant Ninja Turtles (2003 series)|Teenage Mutant Ninja Turtles]]|first=|date=2003|writer=|artist=}}
+{{Herolist|name=Solomon "Doc" Saturday|alter=|teams=Saturday Family|first=[[The Secret Saturdays]]|date=|writer=|artist=}}
+{{Herolist|name=Soul Power|alter=Morris Grant|teams=Static (ally)|first=|date=|writer=|artist=}}
+{{Herolist|name=Sparky|alter=Phillip Rollins|teams=Static (ally)|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Spyke]]|alter=Evan Daniels|teams=[[X-Men: Evolution]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Stalker (G.I. Joe)|Stalker]]|alter=Lonzo Wilkenson|teams=[[G.I. Joe: A Real American Hero|G.I. Joe]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Stalker|alter=|teams=[[Batman Beyond]](ally)|first=|date=|writer=|artist=}}
+{{Herolist|name=Starfire|alter=[[Starfire (Teen Titans)|Princess Koriand'r / Kory Anders / Starfire]]|teams=Titans|first=|date=|writer=|artist=}}
+{{Herolist|name=Static|alter=Virgil Hawkins|teams= (partnership) Gear|first=''[[Static Shock]]'' episode #1|date=|writer=|artist=}}
+{{Herolist|name=[[Superstretch and Microwoman|Super Stretch]]|alter=Chris Cross|teams=[[Tarzan and the Super 7]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[List of Gargoyles characters#The Mutates|Talon]]|alter=Derek Maza|teams=|first=''[[Gargoyles (TV series)|Gargoyles]]''|date=|writer=|artist=}}
+{{Herolist|name= [[Teal'c]]|alter=[[Jaffa (Stargate)|Jaffa]]|teams=|first=''[[Stargate SG-1]]''|date=|writer=|artist=}}
+{{Herolist|name= [[The Super Globetrotters]]|alter=|teams=|first=|date=|writer=|artist=}}
+{{Herolist|name=Thunder|alter=Anissa Pierce|teams=|first=''[[Black Lightning (TV series)|Black Lightning]]''|date=|writer=|artist=}}
+{{Herolist|name=Tupperware|alter=Token Black|teams=Coon and Friends|first=''[[South Park]]''|date=|writer=|artist=}}
+{{Herolist|name= Turbo|alter=Edward Hayes|teams=[[Rambo and the Forces of Freedom]]|first=|date=|writer=|artist=}}
+{{Herolist|name=Warhawk |alter=Rex Stewart|teams=[[Justice League Unlimited]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Ninja Steel|White Ninja Steel Ranger]]|alter=Hayley Foster|teams=[[Power Rangers: Ninja Steel|Power Rangers Ninja Steel]]|first=|date=|year=2017|writer=|artist=}}
+{{Herolist|name=Winston Zeddmore|alter=|teams=[[The Real Ghostbusters]]|first=|date=|writer=|artist=}}
+{{Herolist|name=[[Aisha Campbell|Yellow Ranger II]]|alter=Aisha Campbell|teams=[[Mighty Morphin Power Rangers]]|first=|date=|year=1994|writer=|artist=}}
+{{Herolist|name=[[Power Rangers Time Force|Yellow Time Force Ranger]]|alter=Katie Walker|teams=[[Power Rangers: Time Force|Power Rangers Time Force]]|first=|date=|year=2001|writer=|artist=}}
+{{Herolist|name=[[Miss Alicia|Yellow Wild West Ranger]]|alter=Miss Alicia|teams=Wild West Rangers from [[Mighty Morphin Power Rangers]]|first=|date=|year=1994|writer=|artist=}}
+{{Herolist|name=[[Tanya Sloan|Zeo Ranger II Yellow / Yellow Turbo Ranger I]]|alter=Tanya Sloan|teams=[[Power Rangers Zeo]] / [[Power Rangers: Turbo|Power Rangers Turbo]]|first=|date=|year=1996|writer=|artist=}}
+{{Herolist|name=[[Zak Saturday]]|alter=None|teams=|first=[[Secret Saturdays]]|date=|writer=|artist=}}
+{{HerolistEnd}}
+
+===Movies===
+{{HerolistStart}}
+{{Herolist|name=Ayo||alter=|teams=Dora Milaje|first=''[[Captain America: Civil War]]''|year=2016|portrayed by=[[Florence Kasumba]]|ref=}}
+{{Herolist|name=[[Bishop (comics)|Bishop]]|alter=Lucas Bishop|teams=[[X-Men]]|first=''[[X-Men: Days of Future Past]]''|year=2014|portrayed by=[[Omar Sy]]|ref|}}
+{{Herolist|name=[[Black Panther (character)|Black Panther]]|alter=T'Challa|teams=Avengers|first=''[[Captain America: Civil War]]''|year=2016|portrayed by=[[Chadwick Boseman]]|ref=}}
+{{Herolist|name=[[Blade (character)|Blade]]|alter=Eric Brooks {{ref label|Blade|A|none}} / Daywalker|teams=Nightstalkers (ally)|first=''[[Blade (1998 film)|Blade]]''|year=1998|portrayed by=[[Wesley Snipes]]|ref=}}
+{{Herolist|name=[[Blankman]]|alter=Darryl Walker|teams=Blankman and Other Guy|first=''Blankman''|year=1994|portrayed by=[[Damon Wayans]]|ref=}}
+{{Herolist|name=[[Billy Cranston|Blue Ranger (2017, film)]]|alter=Billy Cranston|teams=[[Power Rangers (film)|Power Rangers]]|first=''[[Power Rangers (film)|Power Rangers]]''|year=2017|portrayed by=[[RJ Cyler]]|ref=}}
+{{Herolist|name=Catwoman|alter=Patience Phillips|teams=|first=''[[Catwoman (film)|Catwoman]]''|year=2004|portrayed by=[[Halle Berry]]|ref=}}
+{{Herolist|name=[[Cobra Bubbles]]|alter=|teams=CIA|first=''[[Lilo & Stitch]]''|year=2002|portrayed by=[[Michael Clarke Duncan]]|ref=}}
+{{Herolist|name=[[Darwin (comics)|Darwin]]|alter=Armando Muñoz|teams=|first=''[[X-Men: First Class (film)|X-Men: First Class]]''|year=2011|portrayed by=[[Edi Gathegi]]|ref=}}
+{{Herolist|name=[[Falcon (comics)|Falcon]]|alter=Sam Wilson|teams=Avengers|first=''[[Captain America: The Winter Soldier]]''|year=2014|portrayed by=[[Anthony Mackie]]|ref=}}
+{{Herolist|name=[[Frozone]]|alter=Lucius Best|teams=The Incredibles (ally)|first=''[[The Incredibles]]''|year=2004|portrayed by=[[Samuel L. Jackson]]|ref=}}
+{{Herolist|name=Hancock|alter=John Hancock|teams=|first=''[[Hancock (film)|Hancock]]''|year=2008|portrayed by=[[Will Smith]]|ref=}}
+{{Herolist|name=[[Heimdall (comics)|Heimdall]]|alter=|teams=Revengers|first=''[[Thor (film)|Thor]]''|year=2011|portrayed by=[[Idris Elba]]|ref=}}
+{{Herolist|name=Heavy Duty|alter=Lamont A. Morris|teams=G.I.Joe|first=''[[G.I. Joe: The Rise of Cobra]]''|year=2009|portrayed by=[[Adewale Akinnuoye-Agbaje]]|ref=}}
+{{Herolist|name=[[Johnny Storm|Human Torch]]|alter=Johnny Storm|teams=[[Fantastic Four]]|first=''[[Fantastic Four (2015 film)|Fantastic Four]]''|year=2015|portrayed by=[[Michael B. Jordan]]|ref=}}
+{{Herolist|name=The Golden Blaze|alter=Gregory Fletcher|teams=|first=''[[The Golden Blaze]]''|year=2005|writer=[[Archie Gips]]|portrayed by=[[Blair Underwood]]|ref=}}
+{{Herolist|name=Kestrel|alter=[[Kestrel (Marvel Comics)|John Wraith]]|teams=Weapon X|first=''[[X-Men Origins: Wolverine]]''|year=2009|portrayed by=[[Will.i.am]]}}
+{{Herolist|name=Kiddy Phenil|alter=|teams=AMP|first=''[[Silent Möbius]]''|year=1992|portrayed by=[[Hiromi Tsuru]], [[Joyce Kurtz]], [[Lisa Ann Beley]]|ref=}}
+{{Herolist|name=The Invisible Boy|alter=|teams=|first=''[[Mystery Men]]''|year=1999|portrayed by=[[Kel Mitchell]]|ref=}}
+{{Herolist|name=Jax|alter=Major Jackson Briggs|teams=|first=''[[Mortal Kombat (1995 film)|Mortal Kombat]]''|year=1993|portrayed by=[[Lynn "Red" Williams]]|ref=}}
+{{Herolist|name=[[Meteor Man (comics)|Meteor Man]]|alter=Jefferson Reed|teams=|first=''The Meteor Man''|year=1993|portrayed by=[[Robert Townsend (actor)|Robert Townsend]]|ref=}}
+{{Herolist|name=[[Monica Rambeau]]|alter=|teams=|first=''[[Captain Marvel (film)|Captain Marvel]]''|year=2019|portrayed by=[[Teyonah Parris]]|ref=}}
+{{Herolist|name=[[Malice (comics)#In other media|Nakia]]||alter=|teams=|first=''[[Black Panther (film)|Black Panther]]''|year=2018|portrayed by=[[Lupita Nyong'o]]|ref=}}
+{{Herolist|name=[[Nick Fury]]|alter=Col. Nicolas Fury|teams=Avengers|first=''[[Iron Man (2008 film)|Iron Man]]''|year=2008|portrayed by=[[Samuel L. Jackson]]|ref=}}
+{{Herolist|name=[[Okoye (character)|Okoye]]||alter=|teams=Avengers and Dora Milaje|first=''[[Black Panther (film)|Black Panther]]''|year=2018|portrayed by=[[Danai Gurira]]|ref=}}
+{{Herolist|name=Other Guy|alter=Kevin Walker|teams=Blank Man|first=''Blankman''|year=1994|portrayed by=[[David Alan Grier]]|ref=}}
+{{Herolist|name=Penny Lent|alter=|teams=|first=''[[Sky High (2005 film)|Sky High]]''|year= 2005|portrayed by=Malika & Kadijah Haqq}}
+{{Herolist|name=Popsicle|alter=Ethan|teams=|first=''[[Sky High (2005 film)|Sky High]]''|year= 2005|portrayed by=[[Dee Jay Daniels]]}}
+{{Herolist|name=[[Ramonda (character)|Ramonda]]||alter=Queen Ramonda|teams=|first=''[[Black Panther (film)|Black Panther]]''|year=2018|portrayed by=[[Angela Bassett]]|ref=}}
+{{Herolist|name=[[Roadblock (G.I. Joe)|Roadblock]]|alter=Marvin F. Hinton|teams=G.I. Joe|first=''[[G.I. Joe: Retaliation]]''|year=2013|portrayed by=[[Dwayne "The Rock" Johnson]]|ref=}}
+{{Herolist|name=[[Shuri (character)|Shuri]]||alter=Princess Shuri|teams=Avengers|first=''[[Black Panther (film)|Black Panther]]''|year=2018|portrayed by=[[Letitia Wright]]|ref=}}
+{{Herolist|name=[[Spawn (character)|Spawn]]|alter=Albert "Al" Simmons|teams=|first=''[[Spawn (1997 film)|Spawn]]''|year=1997|portrayed by=[[Michael Jai White]]|ref=}}
+{{Herolist|name=Spider-Man|alter=Miles Morales|teams=|first=''[[Spider-Man: Into the Spider-Verse]]''|year=2018|portrayed by=[[Shameik Moore]]|ref=}}
+{{Herolist|name=Steel|alter=[[John Henry Irons]]|teams=|first=''[[Steel (1997 film)|Steel]]''|year=1997|portrayed by=[[Shaquille O'Neal]]|ref=}}
+{{Herolist|name=[[Storm (Marvel Comics)|Storm]]|alter=Ororo Monroe|teams=[[X-Men]]|first=''[[X-Men (film)|X-Men]]''|year=1999|portrayed by=[[Halle Berry]]|ref=}}
+{{Herolist|name=[[Valkyrie (Marvel Comics)|Valkyrie]]|alter=|teams=Avengers, (partnerships) Thor|first=''[[Thor: Ragnarok]]''|year=2017|portrayed by=[[Tessa Thompson]]|ref=}}
+{{Herolist|name=[[War Machine]]/Iron Patriot|alter=James "Rhodey" Rhodes|teams=Avengers|first=''[[Iron Man 2]]''|year=2010|portrayed by=[[Don Cheadle]]|ref=}}
+{{Herolist|name=Wasabi|alter=|teams=[[Big Hero 6 (comics)|Big Hero 6]]|first=''[[Big Hero 6 (film)|Big Hero 6]]''|year=2014|portrayed by=[[Damon Wayans, Jr.]]|ref=}}
+{{Herolist|name=[[Aisha Campbell|Yellow Ranger (Movie, 1995)]]|alter=Aisha Campbell|teams=[[Mighty Morphin Power Rangers]]|first=''[[Mighty Morphin Power Rangers: The Movie]]''|year=1995|portrayed by=[[Karan Ashley]]|ref=}}
+{{HerolistEnd}}
+
+==Notes==
+
+===Dark Horse Comics===
+:'''A.'''{{note_label|Plexus|A|none}}Plexus was an ally of [[Nexus (comics)|Nexus]] from ''Nexus: Executioner's Song #3''<ref>{{cite web|url=http://www.comics.org/details.lasso?id=59096|title=GCD :: Issue Details}}</ref>
+
+===DC Comics===
+:'''A.'''{{note_label|Cal|A|none}}[[Cal Durham]] was [[Aquaman]]'s ally who was turned into Waterbreather by [[Black Manta]]
+:'''A1'''{{note_label|Amber|A1|none}}Amber was an ally of [[Jericho (comics)|Jericho]] trained by Adeline Kane Wilson and an operative of Searcher's Inc.
+:'''B.'''{{note_label|Chuck|B|none}}[[Chunk (comics)|Chunk]] was a [[Flash (comics)|Flash]] ally
+:'''C.'''{{note_label|Conjura|C|none}}Conjura used backwards magic like [[Zatanna]].<ref>''Super Dictionary'', 1978.</ref>
+:'''D.'''{{note_label|Crystallex|D|none}}Crystallex becomes a living crystal and morphs. In stasis at [[S.T.A.R. Labs]] San Francisco.
+:'''E.'''{{note_label|Centaur|E|none}}[[Centaur]] was the protector of the Realm from the Wizardworld series in [[Warlord (DC Comics)|Warlord]]
+:'''F.'''{{note_label|FerAlyse|F|none}}FerAlyse was a feral denizen of Chicago's [[Netherworld (DC Comics)|Netherworld]]
+:'''G.'''{{note_label|Glenn|G|none}}Glenn Gammeron is an intergalactic bounty hunter from Mi'ran and an ally of the [[Martian Manhunter]]
+:'''H.'''{{note_label|GusGray|H|none}}Gus Gray was a replacement loader for [[The Haunted Tank]].
+:'''I.'''{{note_label|Healer|I|none}}Healer Randolph was one of [[Tomahawk (comics)|Tomahawk's]] Rangers, an ex-slave turned [[Folk medicine|folk healer]]
+:'''J.'''{{note_label|JJohnson|J|none}}Jackie Johnson was an ex-heavyweight boxing champion, and an amalgamation of [[Jackie Robinson]] and [[Joe Louis]]. He was a member of [[Sgt. Rock]]'s [[Easy Company (comics)|Easy Company]].
+:'''K.'''{{note_label|Corrigan|K|none}}Jim Corrigan was an African-American police officer and an ally of [[Jimmy Olsen]] and [[Black Lightning]]
+:'''L.'''{{note_label|Jody|L|none}}Jody was an ally of [[Tomahawk (comics)|Tomahawk]].
+:'''M.'''{{note_label|Machiste|M|none}}[[Machiste (comics)|Machiste]] was a sometimes ally of the [[Warlord (DC Comics)|Warlord]]
+:'''N.'''{{note_label|Ellis|N|none}}Martin Ellis woke from coma in ''[[Justice League Quarterly]]'' #17 with powers of [[Joshua Clay|Tempest]]
+:'''O.'''{{note_label|Bones|O|none}}[[Mister Bones]] was the DEO regional director
+:'''P.'''{{note_label|Bornu|P|none}}Mohammed Ibn Bornu was a North African warrior hero.
+:'''Q.'''{{note_label|Molo|Q|none}}Molo represented Africa.
+:'''R.'''{{note_label|Nubia|R|none}}[[Nu'Bia]] was a [[Wonder Woman]] ally
+:'''S.'''{{note_label|Hazard|S|none}}Percival Hazard was the leader of Squad K and grandson of Ulysses Hazard. He was last seen in Action Comics Annual #13 2008.
+:'''T.'''{{note_label|Philippus|T|none}}Philippus was an [[Amazons|Amazon]] ally of [[Wonder Woman]].
+:'''U.'''{{note_label|Seraph|U|none}}Seraph was a US government agent.
+:'''V.'''{{note_label|Scrap|V|none}}Scrap had magnetic powers
+:'''W.'''{{note_label|Sela|W|none}}Sela was an [[Atlantis|Atlantean]] warrior woman 3,000 years ago
+:'''W1.'''{{note_label|Shondra|W1|none}}[[Shondra Kinsolving]] was a doctor with telekinetic healing abilities and an ally of [[Batman]].
+:'''X.'''{{note_label|Sojourner|X|none}}Sojourner was a member of [[Artemis of Bana-Mighdall|Artemis']] HellEnders.
+:'''Y.'''{{note_label|Solution|Y|none}}The Solution was a [[Teen Titans]] tryout.
+:'''Z.'''{{note_label|Sonik|Z|none}}Sonik ([[Superman]]/[[Batman]] ally from [[World's Finest Comics|World's Finest]])
+:'''A1.'''{{note_label|Trapper|A1|none}}Ted & Terri Trapper were private detectives<ref name="Super Dictionary, 1978">Super Dictionary, 1978</ref>
+:'''A2.'''{{note_label|Ames|A2|none}}Tina Ames had the power of "Bio-Energy" and could become living energy.
+:'''A3.'''{{note_label|Forbes|A3|none}}Wilson Forbes was a [[Daily Planet]] reporter.<ref name="Super Dictionary, 1978"/>
+:'''A4.'''{{note_label|Wyldeheart|A4|none}}Wyldeheart was an ally of [[Damage (DC comics)|Damage]]
+:'''A5.'''{{note_label|Zeke|A5|none}}Zeke had super strength.
+
+===Dell Comics===
+:'''A.'''{{note_label|cowboy|A|none}}Lobo, two issue run
+
+===Dorkstorm Notes===
+:'''A.'''{{note_label|Name|A|none}}Dr. Blink Superhero Shrink
+
+===Eclipse Comics Notes===
+:'''A.'''{{note_label|Polestar|A|none}}Polestar was the acrobatic female member of the New Wave
+:'''B.'''{{note_label|Roboto|B|none}}Roboto (cyborg member of Team Youngblood from [[The DNAgents]] universe)
+:'''C.'''{{note_label|Sabre|C|none}}[[Sabre (graphic novel)|Sabre]] was one of the first graphic novels.
+:'''D.'''{{note_label|Strike|D|none}}Strike inherited the power harness from Sgt. Strike
+
+===The Guardian Line Comics Notes===
+:'''A.'''{{note_label|Code|A|none}}Code was a [[The Spirit|Spirit]] styled vigilante
+
+===Image Comics Notes===
+:'''A.'''{{note_label|Pi|A|none}}American Pi was a supersmart heroine
+
+===Marvel Comics===
+:'''A.'''{{note_label|BMusk|A|none}}The Black Musketeers were allies of the [[Black Panther (comics)|Black Panther]]
+:'''B.'''{{note_label|Cassady|C|none}}Wes Cassady is a construction publisherer who was bitten by a radioactive rabbit.
+
+===Marvel Comics UK===
+:'''A.'''{{note_label|Afrikaa|A|none}}Afrikaa was a superhuman ally of [[Black Panther (comics)|Black Panther]]
+:'''B.'''{{note_label|Crocodile|B|none}}Doctor Crocodile was an ally of [[Captain Britain]]
+
+===MC2 Notes===
+:'''A.'''{{note_label|Fred|A|none}}Fred was [[Iron Man|Stark's]] bodyguard ([[War Machine|Jim Rhodes]])
+
+===Milestone Media===
+:'''A.'''{{note_label|DStruct|A|none}}D-Struct was an ally of [[Hardware (comics)|Hardware]].
+:'''B.'''{{note_label|Technique|B|none}}Technique was a female version of Hardware.
+:'''C.'''{{note_label|Buckwild|C|none}}Buck Wild was a [[Luke Cage]] parody.
+
+===New Universe Comics===
+:'''A.'''{{note_label|Mutator|A|none}}[[Mutator (comics)|Mutator]] was revealed as African American in the final issue.
+
+===Vertigo Comics Notes===
+:'''A.'''{{note_label|Chullo|A|none}}Chullo was an ex-cop and empowered by The Nazz
+
+===Wildstorm Comics===
+:'''A.'''{{note_label|Dhalua|A|none}}Dhalua Strong was the wife of [[Tom Strong]]
+:'''B.'''{{note_label|Tesla|B|none}}Tesla Strong was the daughter of [[Tom Strong]]
+
+===Movies===
+:'''A.'''{{note_label|Blade|A|none}}Character was never fully mentioned by this name in the film.
+
+==See also==
+*[[List of black animated characters]]
+*[[African characters in comics]]
+*[[Ethnic stereotypes in comics]]
+*[[List of Asian superheroes]]
+*[[List of Latino superheroes]]
+*[[List of black video game characters]]
+*[[List of Native American superheroes]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web|url=http://www.comicbookresources.com/columns/index.cgi?column=oym&article=1835 |title=Afros, Icons, and Spandex: A Brief History of the African American Superhero|first=Erick|last= Hogan|date=February 5, 2004|publisher=[[ComicBookResources.com]]|archive-date=June 17, 2011|archive-url=https://web.archive.org/web/20110617071743/http://www.comicbookresources.com/?page=article&id=14623 |url-status=live}}
+*{{cite web|url=http://www.clstoons.com/paoc/paocopen.htm |title=Salute to Pioneering Cartoonists of Color|archive-url=https://web.archive.org/web/20081017134959/http://www.clstoons.com/paoc/paocopen.htm | archive-date=October 17, 2008|year=1998|first=Tim |last=Jackson|publisher=Creative License Studio}}
+*{{cite web|url=http://www.fortunecity.com/tatooine/niven/142/profiles/pro13.html |title=The Black Proteges |publisher=The Quarter Bin: Profiles (fan site) |archive-url=https://web.archive.org/web/20080905192154/http://www.fortunecity.com/tatooine/niven/142/profiles/pro13.html |archive-date=September 5, 2008 |url-status=dead }}
+*{{cite web|url=http://worldofblackheroes.com/black-superheroes/ |title=World of Black Heroes|publisher=(fan site)|archive-url=https://web.archive.org/web/20111123021008/http://worldofblackheroes.com/black-superheroes/ |archive-date=November 23, 2011|url-status=live |access-date=January 5, 2017}}
+*{{cite web|archive-url=https://web.archive.org/web/20091026214410/http://www.geocities.com/Area51/Dungeon/2864/Blacks.html |archive-date=October 26, 2009|title=Black Supers List|url=http://www.geocities.com/Area51/Dungeon/2864/Blacks.html| publisher =(fan site)}}
+
+{{DEFAULTSORT:Black Superheroes}}
+[[Category:Lists of superheroes]]
+[[Category:African-American culture|Superheroes]]
+[[Category:Lists of black people|superheroes]]
+[[Category:Afrofuturism]]

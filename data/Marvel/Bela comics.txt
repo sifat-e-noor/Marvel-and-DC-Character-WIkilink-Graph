@@ -1,0 +1,651 @@
+{{Short description|None}}
+The '''[[Brotherhood of Mutants]]''', also known as the '''Brotherhood of Evil Mutants''' and the '''Brotherhood''', is a team of [[comic book]] [[Mutant (Marvel Comics)|mutant]] [[supervillain]]s in [[Marvel Comics]]' [[Marvel Universe|universe]] who are devoted to mutant superiority over normal humans. Their roster has varied and has included many powerful and dangerous mutants, and they have often been at odds with the [[X-Men]], although on rare occasions they have worked alongside them, usually in order to overcome some greater evil. The original Brotherhood first appeared in ''The Uncanny X-Men'' #4 (March 1964), and were created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Known members==
+{| class="wikitable" width=100%
+!width=11%| Character
+!width=18%| Real Name
+!width=23%| Joined In
+!width=48%| Notes
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Original Incarnation''' (Uncanny X-Men #4: 1964)
+|-
+||[[Magneto (Marvel Comics)|Magneto]]<ref name="Uncanny4"/>
+||Erik Magnus Lensherr (originally Max Eisenhardt)
+|rowspan="5"|''[[Uncanny X-Men]]'' #4
+|| Team founder and original leader. Father of [[Polaris (Marvel Comics)|Polaris]]. Depowered following M-Day, but repowered in ''Uncanny X-Men'' #507. Currently a member of [[Cyclops (Marvel Comics)|Cyclops]]' faction of [[X-Men]].
+|-
+||[[Toad (Marvel Comics)|Toad]]<ref name="Uncanny4">{{Comic book reference | Writer = [[Stan Lee]] | Penciller = [[Jack Kirby]] | Inker = [[Paul Reinman]] | Story = The Brotherhood of Evil Mutants | Title = The Uncanny X-Men | Issue = #4 | Date = March 1964 | Publisher = [[Marvel Comics]] | }}</ref>
+||Mortimer Toynbee
+||Served in many incarnations of the team as both a member and a leader. Served as the janitor for the [[X-Mansion|Jean Grey School for Higher Learning]]. Last seen with Magneto's most recent incarnation of the Brotherhood.
+|-
+||[[Quicksilver (comics)|Quicksilver]]<ref name="Uncanny4"/>
+||Pietro Django Maximoff
+||Formerly known as Pietro Frank. Recruited alongside his sister, the Scarlet Witch. Lost his powers following M-Day, but repowered in ''[[X-Factor Investigations|X-Factor]]''. Current member of X-Factor.
+|-
+||[[Scarlet Witch]]<ref name="Uncanny4"/>
+||Wanda Marya Maximoff
+||Formerly known as Wanda Frank. Recruited alongside her brother, Quicksilver. Former member of Force Works. Currently a part of the [[Avengers Unity Squad]].
+|-
+||[[Mastermind (Jason Wyngarde)|Mastermind]]<ref name="Uncanny4"/>
+||Jason Wyngarde
+||Recruited as the final member of the original lineup. Former member of the Hellfire Club. Father of [[Mastermind (Martinique Jason)|the second Mastermind]] and [[Lady Mastermind]]. Died in ''The Uncanny X-Men'' Annual #17.<ref name="XMAnnual17">{{Comic book reference | Writer = [[Scott Lobdell]] | Penciller = [[Jason Pearson]] | Inker = [[Mark Farmer]] | Story = The Gift Goodbye | Title = The Uncanny X-Men Annual | Issue = #17 | Date = 1993 | Publisher = [[Marvel Comics]] | }}</ref>
+|-
+||[[Blob (comics)|Blob]]<ref name="AmAdv2-12">{{Comic book reference | Writer = [[Steve Englehart]] | Penciller = [[Tom Sutton]] | Inker = [[Mike Plooq]] | Story = Iron Man: D.O.A. | Title = Amazing Adventures vol. 2 | Issue = #12 | Date = May 1972 | Publisher = [[Marvel Comics]] | }}</ref>
+||Frederick J. "Fred" Dukes
+|rowspan="2"|''Amazing Adventures'' vol. 2 #12 (May 1972)
+||Has been in several incarnations of the team.  Depowered as a result of M-Day but has since been repowered.  Later joined X-Cell.  Last seen during ''Fear Itself'' storyline.
+|-
+||[[Unus the Untouchable]]<ref name="AmAdv2-12"/>
+||Angelo Unuscione
+||Also known as Gunther Bain (due to a legal name change). Depowered following M-Day. Died when the Terrigen Mists restored his powers in ''Son of M'' #1.<ref name="SonM1">{{Comic book reference | Writer = [[David Hine]] | Penciller = [[Roy Allan Martinez]] | Inker = [[Roy Allan Martinez]] | Story = One Day in the Life of Pietro Maximoff - Homo Sapien | Title = Son of M | Issue = #1 | Date = Feb. 2006 | Publisher = [[Marvel Comics]] | }}</ref>
+|-
+||[[Lorelei (Mutate)|Lorelei]]<ref name="Def15">{{Comic book reference | Writer = [[Len Wein]] | Penciller = [[Sal Buscema]] | Inker = [[Klaus Janson]] | Story = Panic Beneath The Earth | Title = The Defenders | Issue = #15 | Date = Sept. 1974 | Publisher = [[Marvel Comics]] | }}</ref>
+||Lani Ubana
+|rowspan="2"|''[[Defenders (comics)|The Defenders]]'' #15 (Sept. 1974)
+||Currently a member of the [[Savage Land Mutates]].
+|-
+||[[Alpha the Ultimate Mutant]]<ref name="Def15"/>
+||None
+||Genetic creation of Magneto.
+|-
+||[[Vanisher]]<ref name="Champ17">{{Comic book reference | Writer = [[Bill Mantlo]] | Penciller = [[George Tuska]] | Inker = [[John Byrne (comics)|John Byrne]] | Story = The Sentinels Hunt Again | Title = The Champions | Issue = #17 | Date = Jan. 1978 | Publisher = [[Marvel Comics]] | }}</ref>
+||Telford Porter
+||''[[Champions (1975 team)|The Champions]]'' #17
+''[[Fallen Angels (comics)|Fallen Angels]]'' #1 (retconned)
+||Associate member.  Later a forced member of [[X-Force]].
+|-
+||[[List of Marvel Comics characters: A#Astra|Astra]]<ref name="XMFor4">{{Comic book reference | Writer = [[Fabian Nicieza]] | Penciller = [[Kevin Maguire (artist)|Kevin Maguire]] | Inker = [[Andrew Pepoy]] | Story = The Age of Innocence | Title = X-Men Forever | Issue = #4 | Date = April 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+||''X-Men Forever'' #4
+||She was never seen as a participating member. [[Retcon]]ned as the first recruit. Resigned prior to the first mission.  Current status and whereabouts are unknown.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Second Incarnation'''<br>Founded by '''Magneto'''.<ref name="CapAmAnn4"/> Later known as the [[Resistants|Mutant Force]] and the [[Resistants]].
+|-
+||[[Burner (comics)|Burner]]<ref name="CapAmAnn4">{{Comic book reference | Writer = [[Jack Kirby]] | Penciller = [[Jack Kirby]] | Inker = [[John Tartaglione]] & [[John Verpoorten]] | Story = The Great Mutant Massacre | Title = Captain America Annual | Issue = #4 | Date = 1977 | Publisher = [[Marvel Comics]] | }}</ref>
+||Byron Calley
+|rowspan="5"|''[[Captain America]]'' Annual #4 (1977)
+||Later known as Crucible. Current whereabouts are unknown.
+|-
+||[[Lifter (comics)|Lifter]]<ref name="CapAmAnn4"/>
+||Ned Lathrop
+||Later known as Meteorite. Current whereabouts are unknown.
+|-
+||[[Peepers (Marvel Comics)|Peeper]]
+||Peter Quinn
+||Later known as Occult and later Peepers. Retained his powers following M-Day only to be killed and eaten by [[Predator X (Marvel Comics)|Predator X]].<ref name="XFactorvol.3#26">{{Comic book reference | Writer = [[Peter David]] | Penciller = [[Scot Eaton]] | Inker = [[John Dell]] | Story = Messiah Complex, Part 7 | Title = X-Factor | Issue = #26 | Date = Feb. 2008 | Publisher = [[Marvel Comics]] | }}</ref>
+|-
+||[[Randall Darby|Shocker]]<ref name="CapAmAnn4"/>
+||Randall Darby
+||Later known as Paralyzer. Depowered following M-Day. Current whereabouts are unknown.
+|-
+||[[Slither (comics)|Slither]]<ref name="CapAmAnn4"/>
+||Aaron Salomon
+||Current whereabouts are unknown.
+|-
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Third Incarnation'''<br>First appeared in ''[[Uncanny X-Men]]'' #141 (Jan. 1981). Later became known as [[Freedom Force (comics)|Freedom Force]]. Included the veteran member Blob.
+|-
+||[[Mystique (comics)|Mystique]]<ref name="Uncanny141">{{Comic book reference | Writer = [[John Byrne (comics)|John Byrne]] & [[Chris Claremont]] | Penciller = [[John Byrne (comics)|John Byrne]] | Inker = [[Terry Austin (comics)|Terry Austin]] | Story = Days Of Future Past | Title = The Uncanny X-Men | Issue = #141 | Date = Jan. 1981 | Publisher = [[Marvel Comics]] | }}</ref>
+||Raven Darkholme
+|rowspan="4"|''The [[Uncanny X-Men]]'' #141 (Jan. 1981)
+||Co-founder and team leader. Served in several incarnations. Adoptive mother of the X-Man [[Rogue (comics)|Rogue]] and actual mother of the X-Man [[Nightcrawler (comics)|Nightcrawler]]. Lover of Destiny. Later worked alongside the X-Men and the Marauders. Current member.
+|-
+||[[Destiny (Irene Adler)|Destiny]]<ref name="Uncanny141"/>
+||Irene Adler
+||Co-founder and second in command to Mystique. Lover of Mystique and adoptive mother of the X-Man [[Rogue (comics)|Rogue]]. Killed by Legion in ''The Uncanny X-Men'' #255. Revived by Selene in ''X-Necrosha'' #1.
+|-
+||[[Avalanche (comics)|Avalanche]]<ref name="Uncanny141"/>
+||Dominikos Ioannis Petrakis
+||Co-founder and served in several incarnations. Retained his powers following M-Day; current whereabouts are unknown.
+|-
+||[[Pyro (Marvel Comics)|Pyro]]<ref name="Uncanny141"/>
+||St. John Allerdyce
+||Co-founder and served in several incarnations. Died in ''Cable'' vol. 2 #87. Revived in ''X-Necrosha'' #1.
+|-
+||[[Rogue (comics)|Rogue]]<ref name="AvAnn10">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Michael Golden (comics)|Michael Golden]] | Inker = [[Armando Gill]] | Story = By Friends - Betrayed | Title = The Avengers Annual | Issue = #10 | Date = 1981 | Publisher = [[Marvel Comics]] | }}</ref>
+||Anna Marie
+||''The [[Avengers (comics)|Avengers]]'' Annual #10 (1981)
+||Adoptive daughter of Mystique and Destiny. Later defected to the X-Men. 
+|-
+||[[Blindspot (Mutant)|Blindspot]]<ref name="Rog7">{{Comic book reference | Writer = [[Antony Bedard]] | Penciller = [[Karl Moline]] | Inker = [[Drew Hennessy]] & [[Rick Magyar]] | Story = Forget-Me-Not Part 1 | Title = Rogue vol. 3 | Issue = #7 | Date = March 2005 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+||''[[Rogue (comics)|Rogue]]'' vol. 3 #7 (March 2005)
+||[[Retcon]]ned to have joined this incarnation. Current status and whereabouts are unknown.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Fourth Incarnation'''<br>Founded in ''[[X-Force]]'' #5 (Dec. 1991). Included veteran members '''Blob''', '''Pyro''', and '''Toad'''.
+|-
+||[[Phantazia]]<ref name="XFo5">{{Comic book reference | Writer = [[Rob Liefeld]] & [[Fabian Nicieza]] | Penciller = [[Rob Liefeld]], [[Brian Murray (artist)|Brian Murray]] & [[Marat Mychaels]] | Inker = [[Rob Liefeld]] & [[Marat Mychaels]] | Story = Under The Magnifying Glass | Title = X-Force | Issue = #5 | Date = Dec. 1991 | Publisher = [[Marvel Comics]] | }}</ref>
+||Eileen Harsaw
+|rowspan="3"|''[[X-Force]]'' #5 (Dec. 1991)
+||Depowered following M-Day and driven insane. Current whereabouts are unknown.
+|-
+||[[Sauron (comics)|Sauron]]<ref name="XFo5"/>
+||Karl Lykos
+||Former member of the [[Savage Land Mutates]]. Retained powers following M-Day and currently in the Savage Land.
+|-
+||[[Masque (comics)|Masque]]<ref name="XFo5"/>
+||Unrevealed
+||Former member of the [[Morlocks]].
+|-
+||[[Thornn]]<ref name="XFo5"/>
+||Lucia Callasantos
+||[[X-Force]] #6
+||Former member of the [[Morlocks]]. Depowered in the wake of [[Decimation (comics)|M-Day]], however, her mutant form (albeit without powers) has returned.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Fifth Incarnation'''<br>Founded in ''[[X-Factor (comics)|X-Factor]]'' #112 (July 1995). Briefly became servants of [[Onslaught (Marvel Comics)|Onslaught]] under the names '''Dark Attendants''' and '''Dark Descendants'''.
+|-
+||[[Dark Beast]]<ref name="XFa112">{{Comic book reference | Writer = [[John Francis Moore (comics)|John Francis Moore]] | Penciller = [[Jeff Matsuda]] | Inker = [[Al Milgrom]] | Story = Unnecessary Evils | Title = X-Factor | Issue = #112 | Date = July 1995 | Publisher = [[Marvel Comics]] | }}</ref>
+||Henry Phillip "Hank" McCoy
+|rowspan="2"|''[[X-Factor (comics)|X-Factor]]'' #112 (July 1995)
+||Founder and leader of this incarnation. "Beast" from the Age of Apocalypse timeline, thus coming from another reality. Briefly pretended to be [[Beast (comics)|Beast]] and infiltrated the X-Men. Retained powers following M-Day. Later seen trying to help Beast reverse M-Day. Former member of the Dark X-Men.
+|-
+||[[Fatale (Marvel Comics)|Fatale]]<ref name="XFa112"/>
+||Unrevealed
+||Used the alias Pamela Greenwood to get close to Bishop, but this is not her name. Depowered following M-Day and former member of X-Cell. Current whereabouts are unknown.
+|-
+||[[Random (comics)|Random]]<ref name="XFa114">{{Comic book reference | Writer = [[John Francis Moore (comics)|John Francis Moore]] | Penciller = [[Steve Epting]] | Inker = [[Al Milgrom]] | Story = That Certain Mystique | Title = X-Factor | Issue = #114 | Date = Sept. 1995 | Publisher = [[Marvel Comics]] | }}</ref>
+||Marshall Evan Stone III
+||''[[X-Factor (comics)|X-Factor]]'' #114 (Sept. 1995)
+||Associate member and revealed to be only a child. Former member of the Acolytes, which recently disbanded in ''[[X-Men: Legacy]]'' #225.  Currently a resident of the mutant nation of [[Utopia (comics)|Utopia]].
+|-
+||[[Havok (comics)|Havok]]<ref name="XFa125">{{Comic book reference | Writer = [[Howard Mackie]] | Penciller = [[Jeff Matsuda]] | Inker = [[Al Milgrom]] | Story = The Ticking Clock | Title = X-Factor | Issue = #125 | Date = Aug. 1996 | Publisher = [[Marvel Comics]] | }}</ref>
+||Alexander "Alex" Summers
+||''[[X-Factor (comics)|X-Factor]]'' #125 (Aug. 1996)
+||Defected from X-Factor to infiltrate and spy on this incarnation. Took over leadership following Dark Beast's leave. Leader of X-Factor and former field leader and member of the X-Men. Brother of the X-Man [[Cyclops (Marvel Comics)|Cyclops]]. Former leader of the Starjammers. Later returned to the X-Men, then X-Factor. Currently a member of the Avengers Unity Squad
+|-
+||Ever<ref name="Uncanny339">{{Comic book reference | Writer = [[Scott Lobdell]] | Penciller = [[Adam Kubert]] & [[Cedric Nocon]] | Inker = [[Jesse Delperdang]] & [[Scott Hanna]] | Story = Fight and Flight | Title = The Uncanny X-Men | Issue = #339 | Date = Dec. 1996 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+||''The [[Uncanny X-Men]]'' #339 (Dec. 1996)
+||Apparently a (retconned) former member of the Gene Nation. Current status and whereabouts are unknown.
+|-
+||[[Nate Grey|X-Man]]<ref name="XMan26">{{Comic book reference | Writer = [[Terry Kavanagh]] | Penciller = [[Pascal Ferry]] | Inker = [[Jaime Mendoza]] | Story = Down to Earth | Title = X-Man | Issue = #26 | Date = April 1997 | Publisher = [[Marvel Comics]] | }}</ref>
+||Nathaniel "Nate" Grey
+|rowspan="2"|''X-Man'' #26 (April 1997)
+||Like Dark Beast, he is also from the Age of Apocalypse timeline. Died in ''X-Man'' #75. Returned in ''Dark X-Men'' vol. 2 #1. Currently a member of the [[New Mutants]]
+|-
+||[[Aurora (comics)|Aurora]]<ref name="XMan26"/>
+||Jeanne-Marie Beaubier
+||Former member of [[Alpha Flight]] and sister of the X-Man [[Northstar (Marvel Comics)|Northstar]]. Retained powers following M-Day. Brainwashed into becoming evil, but was eventually restored to sanity by [[S.H.I.E.L.D.]] Later seen in Canada when her brother rejoined the X-Men. Subsequently, joined the X-Men and rejoined Alpha Flight.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Sixth Incarnation'''<br>Founded in ''The Uncanny X-Men'' #363 (Jan. 1999). Included veteran members '''Blob''', '''Pyro''', and '''Toad'''. Following the departure of Professor X, they became mercenaries led by Mystique.
+|-
+||[[Professor X]]<ref name="Uncanny363">{{Comic book reference | Writer = [[Steven T Seagle]] | Penciller = [[Chris Bachalo]] | Inker = [[Art Thibert]] & [[Tim Townsend]] | Story = When You're Unwanted | Title = The Uncanny X-Men | Issue = #363 | Date = Jan. 1999 | Publisher = [[Marvel Comics]] | }}</ref>
+||Charles Francis Xavier
+|rowspan="3"|''The Uncanny X-Men'' #363 (Jan. 1999)
+||Founder and first leader of this incarnation. Also founder and former leader of the X-Men. Former member of the Starjammers. Current member of the Illuminati.
+|-
+||[[Mimic (comics)|Mimic]]<ref name="Uncanny363"/>
+||Calvin Montgomery Rankin
+||Not a mutant, but can mimic mutant abilities. Has the powers of the original X-Men ([[Warren Worthington III|Angel]], [[Beast (comics)|Beast]], [[Cyclops (Marvel Comics)|Cyclops]], [[Iceman (comics)|Iceman]], and [[Jean Grey]]). Former member of the Dark X-Men.  Current member of the Jean Grey School staff.
+|-
+||[[Post (comics)|Post]]<ref name="Uncanny363"/>
+||Kevin Tremain
+||Was annihilated by Pyro during an assassination attempt against [[Robert Kelly (comics)|Senator Robert Kelly]].<ref name="Cablevol.2#87">{{Comic book reference | Writer = [[Robert Weinberg (author)|Robert Weinberg]] | Penciller = [[Michael Ryan (artist)|Michael Ryan]] | Inker = [[Ketchum and Pertzborn]] | Story = Dream’s End - part 2: Life Decisions | Title = Cable | Issue = #87 | Date = Jan. 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Seventh Incarnation'''<br>Founded in [[X-Men: Legacy|X-Men]] #106 (Nov. 2000). Included veteran members '''Avalanche''', '''Blob''', '''Mystique''', '''Post''', and '''Toad'''
+|-
+||[[Crimson Commando]]<ref name="XMv2-106">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Thomas Derenick]], [[Anthony Williams (comics)|Anthony Williams]] & [[Leinil Francis Yu]] | Inker = [[Rick Ketcham]], [[Mark Morales (artist)|Mark Morales]] & [[Norm Rapmund]] | Story = Search & Rescue Chapter One | Title = X-Men 2 | Issue = #106 | Date = Nov. 2000 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+|rowspan="2"|''[[X-Men: Legacy|X-Men]]'' #106 (Nov. 2000)
+||Female successor to the original Crimson Commando. Current status and whereabouts are unknown.
+|-
+||[[Sabre (Marvel Comics)|Sabre]]<ref name="XMv2-106"/>
+||Unrevealed
+||Successor to the original [[Super Sabre]]. Current status and whereabouts are unknown.
+|-
+||[[Sabretooth (comics)|Sabretooth]]<ref name="Uncanny388">{{Comic book reference | Writer = [[Chris Claremont]] | Penciller = [[Salvador Larroca]] | Inker = [[Lary Strucker]] & [[Art Thibert]] | Story = The Past Is But Prologue | Title = The Uncanny X-Men | Issue = #388 | Date = Dec. 2000 | Publisher = [[Marvel Comics]] | }}</ref>
+||Victor Creed
+||''The Uncanny X-Men'' #388 (Dec. 2000)
+||Former member of the Marauders and infiltrated the X-Men later on. Beheaded by Wolverine.<ref name="Wolvol.3#55">{{Comic book reference | Writer = [[Jeph Loeb]] | Penciller = [[Simone Bianchi (artist)|Simone Bianchi]] | Inker = Andrea Silvestri | Story = Quod Sum Eris (Evolution chapter six) | Title = Wolverine vol. 3 | Issue = #55 | Date = Sept. 2007 | Publisher = [[Marvel Comics]] | }}</ref>
+|-
+||[[Mastermind (Martinique Jason)|Mastermind]]<ref name="Cabv2-87">{{Comic book reference | Writer = [[Robert Weinberg (author)|Robert Weinberg]] | Penciller = [[Michael Ryan (artist)|Michael Ryan]] | Inker = [[Rick Ketcham]] & [[Ted Pertzborn]] | Story = Life Decisions | Title = Cable | Issue = #87 | Date = Jan. 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Martinique Jason
+||''[[Cable (comics)|Cable]]'' vol. 2 #87 (Jan. 2001)
+||Daughter and successor of the original Mastermind (Jason Wyngarde). Retained her powers following M-Day and current member of the Sisterhood of Mutants.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Eighth Incarnation'''<br>Founded in ''The Brotherhood'' #1. This was a large organization with many independent cells. Many were never seen on page or even named.
+|-
+||X<ref name="Bro1">{{Comic book reference | Writer = X | Penciller = [[Esad Ribic]] | Inker = [[Kent Williams (artist)|Kent Williams]] | Story = Be All That You Can Be | Title = The Brotherhood | Issue = #1 | Date = July 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Marvin Hoffman
+|rowspan="5"|''The Brotherhood'' #1 (July 2001)
+||Co-founder and later killed by Mike Asher.
+|-
+||Orwell<ref name="Bro1"/>
+||Unrevealed
+||Co-founder and later killed by X.
+|-
+||Fagin<ref name="Bro1"/>
+||Unrevealed
+||Fagin could transform into a purple, spiky humanoid form with slightly enhanced strength. Later killed by Vivisector.<ref>{{Marvunapp|http://www.marvunapp.com/Appendix/faginbh.htm|Fagin}}</ref>
+|-
+||Mike Asher<ref name="Bro1"/>
+||Michael Asher
+||Later killed by U-Go Girl.
+|-
+||[[Oswald (comics)|Oswald]]<ref name="Bro1"/>
+||Unrevealed
+||Current status and whereabouts are unknown. Presumed deceased.
+|-
+||[[Marshal (comics)|Marshall]]<ref name="Bro2">{{Comic book reference | Writer = X | Penciller = [[Esad Ribic]] | Inker = [[Kent Williams (artist)|Kent Williams]] | Story = Who Is X? | Title = The Brotherhood | Issue = #2 | Date = Aug. 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+|rowspan="2"|''The Brotherhood'' #2 (Aug. 2001)
+||Co-founder and later leaves the group. Turns against the Brotherhood, but is killed by Mike Asher.
+|-
+||Unnamed Colombian mutant
+||Unrevealed
+||Mutant left behind for the government. Current status and whereabouts are unknown.
+|-
+||Marabeth<ref name="Bro3">{{Comic book reference | Writer = X | Penciller = [[Esad Ribic]] | Inker = [[Kent Williams (artist)|Kent Williams]] | Story = Brunk With Powers That Could Destroy The World | Title = The Brotherhood | Issue = #3 | Date = Sept. 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+||''The Brotherhood'' #3 (Sept. 2001)
+||Current status and whereabouts are unknown. Presumed deceased.
+|-
+||Bryson Bale<ref name="Bro4">{{Comic book reference | Writer = X | Penciller = [[Leonardo Manco]] | Inker = [[Jimmy Palmiotti]] | Story = The Heiress | Title = The Brotherhood | Issue = #4 | Date = Oct. 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Bryson Bale
+|rowspan="4"|''The Brotherhood'' #4 (Oct. 2001)
+||Later killed by Malcolm Reeves.
+|-
+||Bela<ref name="Bro4"/>
+||Thomas Morgan
+||It is later implied he was killed by Marshal during an interrogation.
+|-
+||Clive Vickers<ref name="Bro4"/>
+||Clive Vickers
+||Killed by Malon Reeves.
+|-
+||Fiona Dunn<ref name="Bro4"/>
+||Fiona Dunn
+||Later killed by Marshal.
+|-
+||Malon Reeves<ref name="Bro5">{{Comic book reference | Writer = X | Penciller = [[Leonardo Manco]] | Inker = [[Jimmy Palmiotti]] | Story = Sublime Seduction | Title = The Brotherhood | Issue = #5 | Date = Nov. 2001 | Publisher = [[Marvel Comics]] | }}</ref>
+||Malon Estella Reeves
+||''The Brotherhood'' #5 (Nov. 2001)
+||Later killed by Spike.
+|-
+||Unnamed mutant fan of [[Phish]]
+||Unrevealed
+||''The Brotherhood'' #7 (Jan. 2002)
+||Current status and whereabouts is unknown.
+|-
+||[[Jane Smythe|Jane Smythe/Dick Smythe]]<ref name="Bro8">{{Comic book reference | Writer = X | Penciller = [[Sean Phillips]] | Inker = [[Kent Williams (artist)|Kent Williams]] | Story = Loyalties | Title = The Brotherhood | Issue = #8 | Date = Feb. 2002 | Publisher = [[Marvel Comics]] | }}</ref>
+||Jane Smythe/Dick Smythe
+||''The Brotherhood'' #8 (Feb. 2002)
+||Was known as Jane Smythe in her female form and Dick Smythe in his male form. Current status and whereabouts is unknown.  Presumed deceased.
+|-
+||Ms. Fingers<ref name="Bro9">{{Comic book reference | Writer = X | Penciller = [[Sean Phillips]] | Inker = [[Kent Williams (artist)|Kent Williams]] | Story = The Eagle and the Serpent | Title = The Brotherhood | Issue = #9 | Date = March 2002 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+|rowspan="6"|''The Brotherhood'' #9 (March 2002)
+||Ms. Fingers was a squidlike mutant with the ability to teleport or become transparent. She caught Marshal by surprise in his final battle with Hoffman, as one of the last Brotherhood members loyal to Hoffman, but she was hit with a brick by Orwell.
+|-
+||Trois<ref name="Bro9"/>
+||Unrevealed
+||Current status and whereabouts is unknown.
+|-
+||Chela<ref name="Bro9"/>
+||Unrevealed
+||Later killed by [[X-Force]] member [[Phat (comics)|Phat]] with the excess skin from his hand.<ref name="Bro9"/>
+|-
+||Unnamed mutant with boney protrusions
+||Unrevealed
+||Killed at the X-Force parade.<ref name="Bro9"/>
+|-
+||Unnamed scaley mutant
+||Unrevealed
+||Killed by X-Force at the parade.<ref name="Bro9"/>
+|-
+||Unnamed mutant with fangs
+||Unrevealed
+||Killed by X-Force at the parade.<ref name="Bro9"/>
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Ninth Incarnation'''<br>Founded in The Uncanny X-Men #401 (Feb. 2002). Included veteran members '''Mystique''', '''Avalanche''', '''Blob''', and '''Mastermind (Martinique Jason)'''.
+|-
+||[[Fever Pitch (comics)|Fever Pitch]]<ref name="Uncanny401">{{Comic book reference | Writer = [[Joe Casey]] | Penciller = [[Ron Garney]] | Inker = [[Mark Morales (artist)|Mark Morales]] | Story = Golden: A Silent Adventure | Title = Uncanny X-Men | Issue = #401 | Date = Jan. 2002 | Publisher = [[Marvel Comics]] | }}</ref>
+||Unrevealed
+||''The Uncanny X-Men'' #401 (Jan. 2002)
+||Retained his powers following M-Day and took refuge at the [[X-Mansion|Xavier Institute]]. Current status and whereabouts is unknown.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Tenth Incarnation'''<br>Founded in ''[[X-Men: Legacy|New X-Men]]'' #146 (Oct. 2003). Included veteran member '''Toad'''.
+|-
+||[[Xorn|"Magneto"/Xorn]]<ref name="NewXM146">{{Comic book reference | Writer = [[Grant Morrison]] | Penciller = [[Phil Jimenez]] | Inker = [[Andy Lanning]] | Story = Planet X - X-Men Emergency | Title = New X-Men | Issue = #146 | Date = Nov. 2003 | Publisher = [[Marvel Comics]] | }}</ref>
+||Kuan-Yin Xorn
+|rowspan="7"|''[[X-Men: Legacy|New X-Men]]'' #146 (Nov. 2003)
+||Co-founder and leader. Impersonated Magneto and killed Jean Grey. Former X-Men until he turned on them to recreate the Brotherhood. Killed by Wolverine after killing Jean Grey. Returned shortly after M-Day as the Collective, possessing [[Michael Pointer (comics)|Michael Pointer]].<ref name="NewAv17">{{Comic book reference | Writer = [[Brian Michael Bendis]] | Penciller = [[Mike Deodato Jr]] | Inker = [[Joe Pimentel]] | Story = The Collective Part 1 | Title = The New Avengers | Issue = #17 | Date = May 2006 | Publisher = [[Marvel Comics]] | }}</ref>
+|-
+||[[Basilisk (comics)|Basilisk]]<ref name="NewXM146"/>
+||Mike Columbus
+||Former student of the Xavier Institute and later killed by Xorn.
+|-
+||[[Barnell Bohusk|Beak]]<ref name="NewXM146"/>
+||Barnell "Barry" Bohusk
+||Former member of the [[Exiles (Marvel Comics)|Exiles]] and former student of the Xavier Institute. Depowered following M-Day. Joined New Warriors as "Blackwing" and left once the group disbanded. Current member of the Teen Brigade.
+|-
+||[[Ernst (comics)|Ernst]]<ref name="NewXM146"/>
+||Unrevealed
+||Currently a student at the Jean Grey School.
+|-
+||[[Stepford Cuckoos|Esme Cuckoo]]<ref name="NewXM146"/>
+||Esme Cuckoo
+||Former student of the Xavier Institute and later killed by Xorn.
+|-
+||[[Martha Johansson|No-Girl]]<ref name="NewXM146"/>
+||Martha Johansson
+||Former student of the Xavier Institute. Recently found by [[Beast (comics)|Beast]] in the remains of the Xavier Institute.<ref name="XMDWS2">{{Comic book reference | Writer = [[Mike Carey (British writer)|Mike Carey]] | Penciller = [[Scot Eaton]] | Inker = [[Drew Hennessy]] | Story = Lights Out | Title = X-Men: Divided We Stand | Issue = #2 | Date = July 2008 | Publisher = [[Marvel Comics]] | }}</ref> Currently a Member of the [[Five Lights]].
+|-
+||[[Angel Salvadore|Angel]]<ref name="NewXM146"/>
+||Angel Salvadore
+||Former student of the Xavier Institute. Depowered following M-Day and joined the New Warriors until they were disbanded. Current member of the Teen Brigade.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Eleventh Incarnation'''<br>Founded in [[X-Men: Legacy|X-Men]] #161 (Nov. 2004). Included veteran members '''Avalanche''' and '''Sabretooth'''.
+|-
+||[[Exodus (comics)|Exodus]]<ref name="XMv2-161">{{Comic book reference | Writer = [[Chuck Austen]] | Penciller = [[Salvador Larroca]] | Inker = [[Danny Miki]] | Story = Heroes & Villains Part 1 | Title = X-Men  | Issue = #161 | Date = Nov. 2004 | Publisher = [[Marvel Comics]] | }}</ref>
+||Bennet du Paris
+|rowspan="5"|''[[X-Men: Legacy|X-Men]]'' #161 (Nov. 2004)
+||Later reformed the Acolytes only and lead them until he disbanded them in ''[[X-Men: Legacy]]'' #225. Current whereabouts are unknown.
+|-
+||[[Black Tom Cassidy]]<ref name="XMv2-161"/>
+||Thomas Samuel Eamon Cassidy
+||Cousin of the former X-Man [[Banshee (comics)|Banshee]]. Retained powers following M-Day. Currently partnered up with [[Juggernaut (comics)|Juggernaut]].
+|-
+||[[Juggernaut (comics)|Juggernaut]]<ref name="XMv2-161"/>
+||Cain Marko
+||Mole working for the X-Men. Former member of the X-Men and Excalibur. Non-mutant and stepbrother to Professor X. Last seen having his mind placed in a box by Professor X in ''[[X-Men: Legacy]]''. Current member of the Thunderbolts.
+|-
+||Mammomax<ref name="XMv2-161"/>
+||Maximus Jensen
+||Retained powers following M-Day and took refuge at the Xavier Institute. Killed by [[Predator X (Marvel Comics)|Predator X]].<ref name="NewXMv2-33">{{Comic book reference | Writer = [[Craig Kyle]] & [[Christopher Yost]] | Penciller = [[Paco Medina]] | Inker = [[Juan Vlasco]] | Story = Mercury Falling Part 1 | Title = New X-Men vol. 2 | Issue = #33 | Date = Feb. 2007 | Publisher = [[Marvel Comics]] | }}</ref>
+|-
+||[[Nocturne (Talia Wagner)|Nocturne]]<ref name="XMv2-161"/>
+||Talia Josephine "T.J." Wagner
+||Mole working for the X-Men. Former member of the [[Exiles (Marvel Comics)|Exiles]] and [[Excalibur]]. Alternate reality daughter of [[Nightcrawler (comics)|Nightcrawler]] and [[Scarlet Witch]]. Returned to the Exiles and retired with [[Thunderbird (John Proudstar)|Thunderbird]]. Current whereabouts are unknown.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''False Incarnation'''<br>According to "Cyclops" a new Brotherhood had formed. However it was a ruse created by [[Donald Pierce]] who was impersonating Cyclops.
+|-
+||[[Sunspot (comics)|Sunspot]]
+||Roberto "Bobby" da Costa
+|rowspan="4"|''Young X-Men'' #2
+||Co-founder and leader. Former member of the Hellfire Club as their Lord Imperial and former student of the Xavier Institute. Later became a mentor of the Young X-Men until they disbanded. Stayed with the X-Men in San Francisco and has recently helped recreate the [[New Mutants]], which he is currently a part of.
+|-
+||[[Cannonball (comics)|Cannonball]]
+||Samuel Zachary "Sam" Guthrie
+||Former member of [[X-Force]] and former student at both the Massachusetts Academy and the Xavier Institute. Current member of the [[X-Men]] and former leader of the recreated [[New Mutants]].
+|-
+||[[Danielle Moonstar|Moonstar]]
+||Danielle "Dani" Moonstar
+||Former member of [[X-Force]] and former student and teacher at the Xavier Institute. Later became a mentor of the Young X-Men until they disbanded. Current member of the [[X-Men]] and the leader of the [[New Mutants]].
+|-
+||[[Magma (comics)|Magma]]
+||Amara Juliana Olivians Aquilla
+||Former member of [[X-Force]] and former student at the Xavier Institute. Current member of the [[New Mutants]] and staying in San Francisco.
+|-
+||[[Wolfsbane (comics)|Wolfsbane]]
+||Rahne Sinclair
+|rowspan="2"|
+||Associate member only. Member of X-Factor and former student and teacher at the Xavier Institute. Former member of [[X-Force]], later returned to X-Factor
+|-
+||[[Karma (comics)|Karma]]
+||Xi'an Coy Manh
+||Associate member only. Former student and teacher at the Xavier Institute. Former member of the recreated [[New Mutants]]. Currently a member of the [[X-Men]].
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Sisterhood of Mutants'''<br>First mentioned in [[Uncanny X-Men]] #499. This lineup consists of only females, although they were also helped by [[Empath (comics)|Empath]] in their attack against the X-Men.
+|-
+||[[Madelyne Pryor|Red Queen]]
+||Madelyne Jennifer "Maddie" Pryor
+|rowspan="2"|''The Uncanny X-Men'' #499
+||Founder and former leader of the team. Was looking for a host body that was strong enough for her power to claim as her own. Tricked by Cyclops into a weak body, and disappeared in ''The Uncanny X-Men'' #511. Identity still in question; the original Madelyne Pryor was a clone of [[Jean Grey]], ex-wife of [[Cyclops (Marvel Comics)|Cyclops]], and mother of [[Cable (comics)|Cable]].
+|-
+||[[Mastermind (Martinique Jason)|Mastermind]]
+||Martinique Jason
+||Was approached by the Red Queen to join. Daughter of the original Mastermind and sister of Lady Mastermind. Former member of the Brotherhood of Mutants. Recently escaped with the remaining members of the team and current whereabouts is unknown.
+|-
+||[[Chimera (Marvel Comics)|Chimera]]
+||Unrevealed
+||''The Uncanny X-Men'' #503
+||Approached by the Red Queen to join. Escaped with the team and recently return as the leader of the new team of [[Marauders (comics)|Marauders]].
+|-
+||[[Spiral (comics)|Spiral]]
+||Rita Wayword
+|rowspan="2"|''The Uncanny X-Men'' #504
+||Approached by the Red Queen to join. Former member of Freedom Force and a "Mojoworlder". Claimed leadership following the death of the Red Queen. Current whereabouts are unknown.
+|-
+||[[Lady Deathstrike]]
+||Yuriko Oyama
+||Has been reconstructed to follow the orders of Spiral and joined when she did. Former member of the Reavers and the Thunderbolts. Recently escaped with the team and currently working for the Descendants.
+|-
+||[[Lady Mastermind]]
+||Regan Wyngarde
+||''The Uncanny X-Men'' #508
+||Approached by the Red Queen to join. Daughter of the original Mastermind and sister of Mastermind II. Former member of both the X-Men and the [[Marauders (comics)|Marauders]]. Recently escaped with the team; current whereabouts are unknown.
+|-
+||[[Betsy Braddock|Psylocke]]
+||Elizabeth "Betsy" Braddock
+||''The Uncanny X-Men'' #509
+||Placed in her original Caucasian body, and brainwashed into joining by the Red Queen. Former member of the [[Exiles (Marvel Comics)|Exiles]]; has now rejoined the X-Men. Current member of X-Force.
+|-
+||[[Empath (comics)|Empath]]
+||Manuel Alfonso Rodrigo de la Rocha
+||''The Uncanny X-Men'' #510
+||Associate member only. Previously working under the Red Queen's orders in the Hellfire Cult. Although imprisoned before the gathering of the Sisterhood of Mutants, he was revealed to be helping the group's attack against the X-Men. Currently remains the X-Men's prisoner.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Thirteenth Incarnation'''<br>First appearance in miniseries ''Magneto: Not a Hero'' #1. This lineup consisted of '''Astra''' and the clones of the members of the original Brotherhood of Magneto that she created.
+|-
+||[[Joseph (comics)|"Magneto"/Joseph]]
+||Erik Magnus Lensherr (clone)
+|rowspan="6"|''Magneto: Not a Hero'' #1
+||Years ago a member of the X-Men who sacrificed himself to save the Earth from Magneto. Recently resurrected by Astra as a villain. Currently remains the X-Men's prisoner.
+|-
+||Blob
+||Frederick J. "Fred" Dukes (Clone)
+||Clone of the original [[Blob (comics)|Blob]] created by Astra. Killed by Magneto in ''Magneto: Not a Hero'' #4.
+|-
+||Mastermind
+||Jason Wyngarde (Clone)
+||Clone of the original [[Mastermind (Jason Wyngarde)|Mastermind]] created by Astra. Killed by Magneto in ''Magneto: Not a Hero'' #4.
+|-
+||Toad
+||Mortimer Toynbee (Clone)
+||Clone of the original [[Toad (Marvel Comics)|Toad]] created by Astra. Killed by Magneto in ''Magneto: Not a Hero'' #3.
+|-
+||Scarlet Witch
+||Wanda Marya Maximoff (Clone)
+||Clone of the original [[Scarlet Witch]] created by Astra. Killed by Magneto in ''Magneto: Not a Hero'' #3.
+|-
+||Quicksilver
+||Pietro Django Maximoff (Clone)
+||Clone of the original [[Quicksilver (comics)|Quicksilver]] created by Astra. Killed by Magneto in ''Magneto: Not a Hero'' #3.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Fourteenth Incarnation'''<br>First appearance in series ''Uncanny X-Force'' #26. Included the veteran members '''Mystique''' and '''Sabretooth'''.
+|-
+||[[Shadow King]]
+||Amahl Farouk
+|rowspan="2"|''[[Uncanny X-Force]]'' #26
+||Farouk was a telepath who confronted Xavier years ago and lost his body, becoming a psychic form of life. Psylocke caged him for years in her mind. He informed Daken about Wolverine's X-Force and helped him found the new Brotherhood to destroy them. He is defeated in battle by [[Betsy Braddock|Psylocke]] and his psychic form is imprisoned in the vegetative body of Omega White.
+|-
+||[[Weapon Plus#Weapon III|Skinless Man]]
+||Unknown
+||Weapon III of the Weapon Plus project. The Skinless Man had his skin removed by Fantomex and thus despises him. He joined the Brotherhood to complete his revenge against his nemesis. He was killed by [[Deadpool]] in ''Uncanny X-Force'' #34.
+|-
+||[[Daken]]
+||Akihiro
+|rowspan="5"|''Uncanny X-Force'' #27
+||Daken is the mutant son of [[Wolverine (character)|Wolverine]] and his deceased wife Itsu. He possesses superhuman abilities similar to his father (e.g., healing factor, retractable claws), and was member of the Dark Avengers under the name Wolverine. He was depowered and believed dead, but has returned alive and fully powered. He was drowned by Wolverine in ''Uncanny X-Force'' #34 but was later resurrected by [[The Apocalypse Twins]] through the use of a Celestial Death Seed, and made part of their new Horsemen of Death.
+|-
+||[[Blob (comics)#Age of Apocalypse|Blob]]
+||Frederick J. "Fred" Dukes (Age of Apocalypse version)
+||In the AoA Universe, Blob was a guinea pig of Dark Beast and later was a member of the Sinister Six. Years later, as a member of the Black Legion, he murdered Linda, AoA Nightcrawler's wife. He escaped to the 616 reality. Killed by AoA Nightcrawler in ''Uncanny X-Force'' #33.
+|-
+||[[Omega Red#Omega Clan)|Omega Red]]
+||Arkady Rossovich
+||One of the three "clones" of Omega Red created by White Sky, a secret organization that creates custom hit-men. The clones are programmed to hate the X-Force, as they believe that Wolverine, Deadpool and AoA Nightcrawler killed their parents. He possesses tentacles housed within his arms like the original Omega Red. Killed (presumably by Wolverine) in ''Uncanny X-Force'' #33.
+|-
+||[[Omega Red#Omega Clan|Omega Black]]
+||Arkady Rossovich
+||One of the three "clones" of Omega Red created by White Sky, a secret organization that creates custom hit-men. The clones are programmed to hate the X-Force, as they believe that Wolverine, Deadpool and AoA Nightcrawler killed their parents. She possesses five tentacles in her chest that fill her foes with diseases.
+|-
+||[[Omega Red#Omega Clan|Omega White]]
+||Arkady Rossovich
+||One of the three "clones" of Omega Red created by White Sky, a secret organization that creates custom hit-men. The clones are programmed to hate the X-Force, as they believe that Wolverine, Deadpool and AoA Nightcrawler killed their parents. He possesses the ability of creating psychic tentacles that drain the life force from others. His artificial mind is erased by [[Betsy Braddock|Psylocke]] and his body is subsequently used to imprison the Shadow King in ''Uncanny X-Force'' #34.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Fifteenth Incarnation'''<br>First appearance in series ''All New X-Men'' #9. Included the veteran members '''Mystique''', '''Sabretooth''' and '''Blob''', as well as '''Lady Mastermind'''. By using Lady Mastermind's illusions, they commit numerous heists to incriminate the original X-Men, who had recently been brought through time to the present by Beast. Mystique and the Brotherhood later dominated [[Madripoor]] and began to build her "Mutant Utopia" in the island nation.
+|-
+||[[Silver Samurai]]
+||Shingen "Shin" Harada
+||''[[Wolverine and the X-Men (comics)|Wolverine and the X-Men]]'' #20
+||The son of Kenuichio Harada, the original Silver Samurai. Joined Mystique initially to track down newly awakened mutants to join her cause.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Future Brotherhood of Mutants'''<br>First appearance in one-shot ''X-Men: Battle of the Atom'' #1. Came to the present pretending to be the Future X-Men and trying to send the original X-Men back to their time, until being revealed as impostors by the real Future X-Men.
+|-
+||[[Jean Grey|Xorn]]
+||Jean Grey
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||The future version of [[Jean Grey]] in case she never returned to her time. Had to wear [[Xorn]]'s mask to contain her intense psychic powers. Died after her powers overcame her physical strength. Revealed to be alive in ''All-New X-Men'' #27.
+|-
+||[[Raze (Marvel Comics)|Raze]]
+||
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||The son of [[Wolverine (character)|Wolverine]] and Mystique, from whom he inherited his claws and shapeshifting powers. Pretended to be [[Kitty Pryde]] (from the [[Days of Future Past]] future) before revealing his real identity.
+|-
+||[[Professor X]]
+||Charles Francis Xavier II
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||The alleged grandson of Charles Xavier, also known as [[Professor X]]. Gets paralyzed from the waist down after being stabbed by the future version of [[Colossus (comics)|Colossus]] with [[Magik (comics)|Magik]]'s Soulsword. Revealed to be the future son of Mystique and Professor Charles Xavier.
+|-
+||[[Beast (comics)|Beast]]
+||Henry Phillip "Hank" McCoy
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||The future version of Beast, with a scarier appearance including a horn. Killed by a [[Sentinel (comics)|Sentinel]]. Revealed to be alive in ''All-New X-Men'' #27. 
+|-
+||[[Molly Hayes|Bruiser]]
+||Molly Hayes
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||The future version of Molly Hayes, from the [[Runaways (comics)|Runaways]].
+|-
+||[[Deadpool]]
+||Wade Wilson
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||The future version of Deadpool. Killed in battle against Magik and the future version of Colossus. Revealed to be alive in ''All-New X-Men'' #27. 
+|-
+||[[Iceman (comics)|Ice Thing]]
+||Robert Louis "Bobby" Drake
+||''[[Battle of the Atom|X-Men: Battle of the Atom]]'' #1
+||A sentient ice being created by the future version of [[Iceman (comics)|Iceman]].
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Sisterhood - Second Incarnation'''<br>First appearance in series ''X-Men'' vol. 4 #7. Includes veteran members '''Lady Deathstrike''' (whose consciousness was downloaded into the body and mind of Ana Cortes, a mobbed-up rich girl from Colombia, and shares the body with Ana's own consciousness; when Ana killed herself; Deathstrike's consciousness was transferred to her associate Reiko's body, sharing it with Arkea) and '''Madelyne Pryor''' (revived by Arkea and the Enchantress). The second incarnation of the Sisterhood banded together to retrieve living samples of Arkea, a technological virus related to [[Sublime (Marvel Comics)|John Sublime]].
+|-
+||[[Typhoid Mary (character)|Typhoid Mary]]
+||Mary Walker
+||''[[X-Men (comic book)|X-Men]]'' vol. 4 #7
+||Invited by Lady Deathstrike to join her Sisterhood in exchange for a way to merge her multiple personalities into one.
+|-
+||[[Enchantress (Marvel Comics)|Enchantress]]
+||Amora
+||''[[X-Men (comic book)|X-Men]]'' vol. 4 #8
+||Invited by Lady Deathstrike to join her Sisterhood in exchange for a way to have her powers restored.
+|-
+||[[Arkea]]
+||
+||''[[X-Men (comic book)|X-Men]]'' vol. 4 #9
+||A sentient alien technological bacterium, reanimated in the body of Lady Deathstrike's associate Reiko. Joined the Sisterhood (and later became the leader of the team) to get revenge against her brother Sublime and the X-Men. Killed in battle against [[Storm (Marvel Comics)|Storm]]'s X-Men team. 
+|-
+||[[Selene (comics)|Black Queen]]
+||Selene Gallio
+||''[[X-Men (comic book)|X-Men]]'' vol. 4 #11
+||Former member of the Inner Circle of the [[Hellfire Club (comics)|Hellfire Club]]. Revived by the Enchantress and invited to join Arkea's Sisterhood.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Sixteenth Incarnation'''<br>First appearance in series ''X-Men: Gold'' vol. 2 #1. In the wake of the conflict between mutants and Inhumans, anti-mutant activist Lydia Nance hired Mesmero to assemble a new Brotherhood of Evil Mutants, whose acts of terrorism she used to propel her platform. All other members of this Brotherhood were under Mesmero's mental domination. The X-Men managed to rescue the mayor and avoid the trap, defeating the Brotherhood in the process. Mesmero's hold over the team was broken, and the members of the Brotherhood were handed over to S.H.I.E.L.D., ultimately leading to its disbandment.
+|-
+||[[Mesmero]]
+||Vincent
+||''X-Men: Gold'' vol. 2 #2
+||
+|-
+||[[Magma (comics)|Magma]]
+||Amara Juliana Olivians Aquilla
+||''X-Men: Gold'' vol. 2 #1
+||
+|-
+||[[Masque (comics)|Masque]]
+||Unknown
+||''X-Men: Gold'' vol. 2 #1
+||A member of the Morlocks. 
+|-
+||[[Pyro (Marvel Comics)|Pyro]]
+||Simon Lasker
+||''X-Men: Gold'' vol. 2 #1
+||A male mutant whose appearance and powers resemble the original [[Pyro (Marvel Comics)|Pyro]].
+|-
+||[[Avalanche (comics)|Avalanche]]
+||Unrevealed
+||''X-Men: Gold'' vol. 2 #1
+||His appearance and powers resemble those of Dominikos Ioannis Petrakis aka the original [[Avalanche (comics)|Avalanche]].
+|-
+||Kologoth
+||Kologoth Antares
+||''X-Men: Gold'' vol. 2 #1
+||A mutant with a reptilian-like appearance.
+|}
+
+==Other versions==
+
+===House of M Brotherhood===
+Since the rise of Mutants in this alternate version of Earth, most human officers were phased out (similar to what happened to S.H.I.E.L.D.), with the exception of [[Falcon (comics)|Sam Wilson]]. A mutant strikeforce known as the Brotherhood is also implemented to take down organized crime. Among its members are:
+
+* [[Thunderbird (John Proudstar)|John Proudstar]] (leader)
+* [[Avalanche (comics)|Avalanche (Dominikos Ioannis Petrakis)]]
+* [[Blob (comics)|Blob (Frederick J. Dukes)]]
+* [[Tabitha Smith|Boom Boom (Tabitha Smith)]]
+* [[Feral (comics)|Feral (Lucia Callasantos)]]
+* [[Punisher|Frank Castle]] - only human member; defected to the Avengers.
+* [[Taskmaster (comics)|Taskmaster]] - posed as a mutant; was made quadriplegic by Luke Cage after he killed Tigra.
+
+===[[Age of Apocalypse]] Brotherhood lineup===
+The Brotherhood of Mutants is referred to as the "Brotherhood of Chaos." Among its members are:
+
+* Arclight (who is not the same as the mainstream Marvel character [[Arclight (comics)|Arclight/Philippa Sontag]])
+* [[Madison Jeffries|Box (Madison Jeffries)]]
+* [[Copycat (Marvel Comics)|Copycat (Vanessa Carlyle)]]
+* [[Spyne]]
+* [[Yeti (comics)|Yeti]]
+
+===Ultimate Brotherhood lineup===
+Among the members of the Ultimate Marvel Universe's version of the Brotherhood of Mutants are:
+
+* [[Blob (comics)#Ultimate Marvel|Blob (Franklin Dukes)]]
+* Detonator
+* [[Forge (character)#Ultimate Marvel|Forge]]
+* Hard-Drive
+* [[Juggernaut (character)#Ultimate Marvel|Juggernaut (Cain)]]
+* [[Longshot (Marvel Comics)#Ultimate Marvel|Longshot (Arthur Centino)]]
+* [[Magneto (Marvel Comics)#Ultimate Marvel|Magneto (Erik Lehnsherr)]]
+* [[Mastermind (Jason Wyngarde)#Other versions|Mastermind]]
+* [[Jamie Madrox#Ultimate Marvel|Multiple Man (Jamie Madrox)]]
+* [[Mystique (character)#Ultimate Marvel|Mystique]]
+* [[Quicksilver (Marvel Comics)#Ultimate Marvel|Quicksilver (Pietro Maximoff Lensherr)]] - Defected to the Ultimates. Returned to the Brotherhood.
+* [[Sabretooth (character)#Sabretooth|Sabretooth (Creed)]]
+* [[Unus the Untouchable#Ultimate Marvel|Unus the Untouchable]]
+* [[Vanisher#Ultimate Marvel|Vanisher]]
+
+====Former members====
+* [[Cyclops (Marvel Comics)#Ultimate Marvel|Cyclops (Scott Summers)]] - Defected from the X-Men. Returned to the X-Men. Currently deceased.
+* [[Rogue (Marvel Comics)#Ultimate Marvel|Rogue (Marian)]] - Defected to the X-Men
+* [[Scarlet Witch#Ultimate Marvel|Scarlet Witch (Wanda Maximoff Lensherr)]] - Defected to the Ultimates.
+* [[Toad (Marvel Comics)|Toad]] - Defected to the X-Men. Currently deceased.
+* [[Wolverine (Ultimate Marvel character)#Wolverine|Wolverine (James "Logan" Howlett)]] - Placed as a mole in the X-Men, but defected to the X-Men. Currently deceased.
+
+====Animal Evolutionaries====
+* Prosimian - A mutant [[ape]].
+* Orb-Weaver - A mutant [[spider]].
+* Sumatran - A mutant [[rhinoceros]].
+* Saluki - A mutant [[dog]].
+* Kathleen - A mutant [[caterpillar]].
+
+==References==
+{{reflist}}
+
+{{Brotherhood of Evil Mutants}}
+{{Jack Kirby}}
+{{X-Men}}
+{{Ultimate X-Men}}
+
+{{DEFAULTSORT:Brotherhood Of Mutants Members}}
+[[Category:Lists of Marvel Comics characters by organization]]

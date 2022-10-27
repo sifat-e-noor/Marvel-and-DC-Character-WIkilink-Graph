@@ -1,0 +1,423 @@
+{{Short description|none}}
+'''''[[Avengers: The Initiative]]''''' was a comic book series from [[Marvel Comics]] than ran from April 2007 to June 2010. The series focused on the training facility located at [[Camp Hammond (comics)|Camp Hammond]] in [[Stamford, Connecticut]], where pro-registration heroes were trained for the [[Fifty State Initiative]]. Following is a list of characters who were featured in the series.
+
+==Camp Hammond staff==
+{{Main|Camp Hammond (comics)}}
+{| class="wikitable" width=100%
+!width=20%| Name
+!width=22%| First Shown
+!| Notes
+|-
+|[[Henry Peter Gyrich]]
+|rowspan="10"|''Avengers: The Initiative'' #1 (June 2007)
+|Administrator; Secretary of Superhuman Armed Forces.<ref name="ATI1">''Avengers: The Initiative'' #1</ref> Forced to depart his position by [[Iron Man]] in ''Avengers: The Initiative'' #12.<ref name="ATI12">''Avengers: The Initiative'' #12</ref>
+|-
+|[[Baron Von Blitzschlag]]
+|Head Scientist.<ref name="battledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & Ronald Byrd | Penciller = | Inker = | Story = | Title = [[Civil War (comics)|Civil War Battle Damage Report]] | Issue = one-shot |date= March 2007 | Publisher = [[Marvel Comics]]}}</ref>
+|-
+|[[War Machine]]
+|Camp Director;<ref name="ATI1"/> Field Commander.<ref name="ANIM">''Official Handbook of the Marvel Universe Vol. IV'' (May 2008)</ref> Resigned his position in ''Avengers: The Initiative'' #16.<ref name="ATI16">''Avengers: The Initiative'' #16</ref>
+|-
+|[[Henry Pym|Yellowjacket]]
+|Chief Administrator.<ref name="ATI1"/> Revealed to be a [[Skrulls|Skrull]] impostor,<ref>''[[Secret Invasion]]'' #1</ref> and killed in ''Avengers: The Initiative'' #19.<ref name="ATI19">''Avengers: The Initiative'' #19</ref>
+|-
+|[[Gauntlet (comics)|Gauntlet]]
+|Drill Instructor.<ref name="ATI1"/> Became Camp Director in ''Avengers: The Initiative'' #20.<ref name="ATI20">''Avengers: The Initiative'' #20</ref> Left to join the Avengers Resistance.<ref name="ATI25"/>
+|-
+|[[She-Hulk]]
+|Instructor.<ref name="ATI1"/> Removed from her instructor position and as a [[S.H.I.E.L.D.]] agent after a falling out with Tony Stark.<ref>''She-Hulk'' vol. 4 #18</ref>
+|-
+|[[Vance Astrovik|Justice]]
+|Youth Counselor.<ref name="ATI2">''Avengers: The Initiative'' #2</ref> Left to lead Counter Force.<ref name="ATI10">''Avengers: The Initiative'' #10</ref>
+|-
+|[[Delroy Garrett|Triathlon]]
+|Instructor-In-Training.<ref name="ATI4">''Avengers: The Initiative'' #4</ref> Assigned to the [[Hawaii]] Initiative team [[Point Men]], as the new [[3-D Man]].<ref name="ATI12"/> Left to work with the [[Skrull Kill Krew]].<ref name="ATI16"/>
+|-
+|[[Tigra]]
+|Instructor.<ref name="ATI1"/> Assigned to the [[Arkansas]] Initiative team.<ref name="ATI21">''Avengers: The Initiative'' #21</ref> Left to join the Avengers Resistance.<ref name="ATI25"/>
+|-
+|[[Nighthawk (Marvel Comics)|Nighthawk]]
+|Instructor.<ref name="ATI1"/> Assigned to the [[New Jersey]] Initiative team, the Defenders.<ref name="LD1">''The Last Defenders'' #1</ref>
+|-
+|[[Patsy Walker|Hellcat]]
+|rowspan="6"|''Avengers: The Initiative'' #3 (Aug. 2007)
+|Instructor: [[First aid]].<ref name="ATI3"/> Assigned to the [[Alaska]] Initiative team.<ref name="ATI21"/>
+|-
+|[[Black Widow (Natalia Romanova)|Black Widow]]
+|Instructor: Marksmanship.<ref name="ATI3">''Avengers: The Initiative'' #3</ref>
+|-
+|[[Stingray (comics)|Stingray]]
+|Instructor: Swimming.<ref name="ATI3"/> Assigned to the [[Hawaii]] Initiative team [[Point Men]].<ref name="ATI21"/>
+|-
+|[[Thing (comics)|Thing]]
+|Instructor: Tactics.<ref name="ATI3"/>
+|-
+|[[Beast (comics)|Beast]]
+|Consultant.<ref name="ATI3"/>
+|-
+|[[Danielle Moonstar]]
+|Consultant.<ref name="ATI3"/>
+|-
+|[[Taskmaster (comics)|Taskmaster]]
+|''Avengers: The Initiative'' #8 (Feb. 2008)
+|Drill Instructor,<ref name="ATI8">''Avengers: The Initiative'' #8</ref> and Shadow Initiative field leader.<ref name="ATI20"/> Originally replaced Gauntlet when he was in a coma.
+|-
+|[[Trauma (comics)|Trauma]]
+|rowspan="2"|''Avengers: The Initiative'' #12 (June 2008)
+|Counselor.<ref name="ATI12"/>
+|-
+|Physique
+|Infirmary department head.<ref name="ATI12"/>
+|-
+|}
+Other guest instructors and staff included: [[Ares (Marvel Comics)|Ares]], [[Ms. Marvel]], and [[Wonder Man]] as part of the [[Mighty Avengers]].<ref name="battledamage"/> [[Batroc the Leaper]] previously worked out of the Virginia training facility, and was set to be moved to Camp Hammond as a [[Martial arts]] instructor.<ref name="battledamage"/> He later returned to his life of crime as a mercenary.<ref>''Captain America'' vol. 5 #43</ref> [[Gargoyle (comics)#Gargoyle (Isaac Christians)|Gargoyle]] served as an Initiative instructor before retiring.<ref name="ATI21"/>
+
+==Camp Hammond recruits==
+There were an undetermined number of recruits at Camp Hammond before it closed; according to Henry Peter Gyrich and War Machine, there are over sixty super humans at Camp Hammond including staff.<ref name="ATI16"/> Recruits shown to be located at the camp include:
+
+{| class="wikitable" width=100%
+!width=20%| Name
+!width=22%| First Shown
+!| Notes
+|-
+|[[Cloud 9 (comics)|Cloud 9]]
+|rowspan="11"|''Avengers: The Initiative'' #1 (June 2007)
+|Assigned to the [[Montana]] Initiative team, [[Freedom Force (comics)|Freedom Force]].<ref name="ATI12"/>
+|-
+|[[Hardball (Marvel Comics)|Hardball]]
+|Assigned to the [[Nevada]] Initiative team, the [[Heavy Hitters (comics)|Heavy Hitters]].<ref name="ATI12"/> Left to join [[Hydra (Marvel Comics)|HYDRA]].<ref>''Avengers: The Initiative Special'' #1</ref> Subsequently rejoined
+|-
+|[[Komodo (comics)|Komodo]]
+|Assigned to the [[Arizona]] Initiative team, the [[Desert Stars]].<ref name="ATI12"/> Joined the Shadow Initiative in ''Avengers: The Initiative'' #20.<ref name="ATI20"/>
+|-
+|[[Trauma (comics)|Trauma]]
+|Became a counselor following graduation.<ref name="ATI12"/>
+|-
+|[[Armory (comics)|Armory]]
+|Her Tactigon was confiscated and she was sent out of the Initiative after accidentally killing Michael Van Patrick.<ref name="ATI1"/>
+|-
+|[[Michael Van Patrick|MVP (Michael Van Patrick)]]
+|Accidentally killed by Armory.<ref name="ATI1"/>
+|-
+|[[Thor Girl]]
+|Assigned to the [[Georgia (U.S. state)|Georgia]] Initiative team.<ref name="ATI12"/> Revealed to be a [[Skrulls|Skrull]] impostor.<ref name="ATI18">''Avengers: The Initiative'' #18</ref>
+|-
+|[[Bengal (comics)|Bengal]]
+|Assigned to the Shadow Initiative.<ref name="ATI5">''Avengers: The Initiative'' #5</ref>
+|-
+|[[Ultra Girl]]
+|Director of the Junior Guardsmen. Left to join Counter Force.<ref name="ATI10"/> Returned and assigned to the [[Georgia (U.S. state)|Georgia]] Initiative team.<ref name="ATI12"/> Rejoined the New Warriors in ''Avengers: The Initiative'' #23.<ref name="ATI23">''Avengers: The Initiative'' #23</ref>
+|-
+|[[Rage (comics)|Rage]]
+|Left to join Counter Force.<ref name="ATI10"/>
+|-
+|[[Slapstick (comics)|Slapstick]]
+|Left to join Counter Force.<ref name="ATI10"/>
+|-
+|[[Debrii]]
+|''Avengers: The Initiative'' #6 (Nov. 2007)
+|Left to join Counter Force.<ref name="ATI10"/>
+|-
+|[[Ant-Man (Eric O'Grady)|Ant-Man]]
+|rowspan="8"|''Avengers: The Initiative'' #8 (Feb. 2008)
+|Assigned to the [[Thunderbolts (comics)|Thunderbolts]].<ref name="ATI20"/>
+|-
+|[[Crusader (Marvel Comics)#Crusader (Skrull)|Crusader]]
+|Revealed to be a [[Skrulls|Skrull]], and shot through the head by 3-D Man.<ref name="ATI19"/>
+|-
+|[[Dragon Lord (comics)|Dragon Lord]]
+|Killed by [[Michael Van Patrick#KIA|KIA]].<ref name="ATI9">''Avengers: The Initiative'' #9</ref>
+|-
+|[[Geldoff|Proton (Geldoff)]]
+|Killed by Skrulls after being taken prisoner.<ref>''[[Secret Invasion]]'' #3</ref>
+|-
+|[[Geiger (comics)|Geiger]]
+|Assigned to the [[New Mexico]] Initiative team.<ref name="ATI21"/>
+|-
+|[[Red Nine]]
+|Assigned to the [[Georgia (U.S. state)|Georgia]] Initiative team.<ref name="ATI21"/>
+|-
+|[[Melee (comics)|Melee]]
+|Trained to be an instructor following graduation.<ref name="ATI21"/>
+|-
+|[[Diamondback (Rachel Leighton)|Diamondback]]
+|Recruited by Norman Osborn after the closing of Camp Hammond.<ref name="ATI25"/>
+|-
+|[[Prodigy (Ritchie Gilmore)|Prodigy]]
+|rowspan="6"|''Avengers: The Initiative'' #13 (July 2008)<ref name="newr">[http://www.marvel.com/news/comicstories.3381.Initiative_Initiation%7Ecolon%7E_The_New_Class "Initiative Initiation: The New Class" Marvel.com]</ref>
+|Assigned to the [[Nevada]] Initiative team, the [[Heavy Hitters (comics)|Heavy Hitters]] by Norman Osborn.<ref name="ATI25"/>
+|-
+|[[Sunstreak]]
+|Assigned to the [[Oregon]] Initiative team, [[Force of Nature (comics)|The Force of Nature]] by Norman Osborn.<ref name="ATI26">''Avengers: The Initiative'' #26</ref>
+|-
+|[[Annex (comics)|Annex]]
+|Assigned to the [[New Mexico]] Initiative team.<ref name="ATI21"/>
+|-
+|[[Batwing (Marvel Comics)|Batwing]]
+|Assigned to the Shadow Initiative.<ref name="ATI21"/>
+|-
+|[[Gorilla Girl]]
+|Left in ''Avengers: The Initiative'' #21.<ref name="ATI21"/>
+|-
+|[[Butterball (Emery Schaub)|Butterball]]
+|Not being cut out for the military applications of The Initiative, was sent home with a registration ID card.<ref name="ATI13"/>
+|-
+|}
+
+===Other Initiative trainees===
+* [[Cassandra Lang|Stature]]:<ref name="battledamage"/>
+* [[Rocket Racer]]:<ref name="battledamage"/>
+* [[Alex Power]]:<ref name="battledamage"/>
+* [[Puma (comics)|Puma]]:<ref name="battledamage"/> Left to continue activity as a villain
+* [[Challenger (comics)|Challenger]]: Assigned to the [[Montana]] Initiative team, [[Freedom Force (comics)|Freedom Force]].<ref name="ATI12"/>
+* [[Think Tank (Marvel Comics)|Think Tank]]: Assigned to the [[Montana]] Initiative team, [[Freedom Force (comics)|Freedom Force]].<ref name="ATI12"/>
+* [[Equinox (comics)|Equinox]]: Assigned to the [[Montana]] Initiative team, [[Freedom Force (comics)|Freedom Force]].<ref name="ATI12"/> Revealed to be a [[Skrull]] infiltrator, and was killed by Cloud 9.<ref name="ATI18"/>
+* [[Spinner (Marvel Comics)|Spinner]]: Assigned to the [[Montana]] Initiative team, [[Freedom Force (comics)|Freedom Force]].<ref name="ATI12"/> Believed killed trying to destroy a Skrull weapon system.<ref name="ATI19"/> Revealed to be alive in Fear Itself: Youth in Revolt.
+* [[Shooting Star (comics)|Shooting Star]]: Assigned to the [[Texas]] Initiative team, the [[Rangers (comics)|Rangers]].<ref>{{Cite comic | Writer = Mark Millar | Penciller = Steve McNiven | Inker = Dexter Vines | Story = | Title = Civil War | Volume = 1 | Issue = 7 | Date = | Publisher = [[Marvel Comics]] | Page = | Panel = | ID = }}</ref>
+* [[Blazing Skull]]: Assigned to the [[New Jersey]] Initiative team, the [[Defenders (comics)|Defenders]].<ref name="LD1"/>
+* [[Nonstop (comics)|Nonstop]]: Assigned to the [[Nevada]] Initiative team, the [[Heavy Hitters (comics)|Heavy Hitters]].
+* [[Telemetry (comics)|Telemetry]]: Assigned to the [[Nevada]] Initiative team, the [[Heavy Hitters (comics)|Heavy Hitters]].
+* [[Gravity (comics)|Gravity]]: Assigned to the [[Nevada]] Initiative team, the [[Heavy Hitters (comics)|Heavy Hitters]]. Transferred to the [[Great Lakes Initiative]] by Norman Osborn.<ref name="ATI25"/>
+* [[Earth A]] [[Hulkling]]: Falsely joined The Initiative using his [[Earth-616]] counterpart's identity,<ref name="SH21">''She Hulk'' vol. 4 #21</ref> since returned home.
+* Earth A [[Wiccan (comics)|Wiccan]]: Falsely joined The Initiative using his Earth-616 counterpart's identity,<ref name="SH21"/> since returned home.
+
+==Camp H.A.M.M.E.R. staff==
+{{Main|Camp H.A.M.M.E.R.}}
+{| class="wikitable" width=100%
+!width=20%| Name
+!width=22%| First Shown
+!| Notes
+|-
+|[[Green Goblin|Norman Osborn]]
+|''Avengers: The Initiative'' #23
+|Chief Administrator;<ref name="ATI23"/> Instructor: [[Public Relations]].<ref name="ATI26"/>
+|-
+|[[Taskmaster (comics)|Taskmaster]]
+|''Avengers: The Initiative'' #24
+|Camp Director;<ref name="ATI24">''Avengers: The Initiative'' #24</ref> Senior Instructor.<ref name="ATI26"/>
+|-
+|[[Hood (comics)|The Hood]]
+|rowspan="2"|''Avengers: The Initiative'' #25
+|Chief Operating Officer.<ref name="ATI25">''Avengers: The Initiative'' #25</ref>
+|-
+|[[Trauma (comics)|Trauma]]
+|Counselor.<ref name="ATI25"/>
+|-
+|}
+Other staff included [[Ares (Marvel Comics)|Ares]] and [[Moonstone (comics)|Ms. Marvel (Moonstone)]] as part of the [[Dark Avengers]].<ref name="ATI25"/> [[Baron Von Blitzschlag]] and [[Physique (comics)|Physique]] also retained the positions they had at Camp Hammond under Osborn's administration.<ref name="ATI29">''Avengers: The Initiative'' #29</ref>
+
+==Camp H.A.M.M.E.R. recruits==
+Recruits shown to be part of Norman Osborn's Initiative include:
+{| class="wikitable" width=100%
+!width=20%| Name
+!width=22%| First Shown
+!| Notes
+|-
+|[[Griffin (Marvel Comics)|Griffin]]
+|rowspan="6"|''Avengers: The Initiative'' #25 (Aug. 2009)
+|
+|-
+|[[Living Laser]]
+|
+|-
+|[[Razor Fist]]
+|
+|-
+|[[Scorcher (comics)|Scorcher]]
+|
+|-
+|[[Robbie Baldwin|Penance]]
+|Former member of Norman Osborn's [[Thunderbolts (comics)|Thunderbolts]].
+|-
+|[[Diamondback (Rachel Leighton)|Diamondback]]
+|Assigned to the [[Delaware]] initiative team.<ref name="ATI26"/> Double agent with the Avengers Resistance.<ref name="ATI30">''Avengers: The Initiative'' #30</ref>
+|-
+|[[Aqueduct (comics)|Aqueduct]]
+|rowspan="16"|''Avengers: The Initiative'' #26 (Sept. 2009)
+|rowspan="3"|Assigned to the [[Oregon]] Initiative team.<ref name="ATI26"/>
+|-
+|[[Aireo|Skybreaker]]
+|-
+|Terraformer
+|-
+|[[Ironclad (comics)|Ironclad]]
+|rowspan="4"|Assigned to the [[North Carolina]] Initiative team.<ref name="ATI26"/>
+|-
+|[[Vapor (Marvel Comics)|Vapor]]
+|-
+|[[Vector (comics)|Vector]]
+|-
+|[[X-Ray (comics)|X-Ray]]
+|-
+|[[Asylum (comics)|Asylum]]
+|rowspan="5"|Assigned to the [[Maryland]] Initiative team.<ref name="ATI26"/>
+|-
+|[[Coronary (comics)|Coronary]]
+|-
+|[[Impulse (Psionex)|Impulse]]
+|-
+|[[Mathemanic]]
+|-
+|[[Pretty Persuasions]]
+|-
+|[[Asp (comics)|Asp]]
+|rowspan="4"|Assigned to the [[Delaware]] initiative team.<ref name="ATI26"/>
+|-
+|[[Black Mamba (comics)|Black Mamba]]
+|-
+|[[Quicksand (comics)|Quicksand]]
+|-
+|[[Skein (comics)|Skein]]
+|-
+|[[Boomerang (comics)|Outback]]
+|''Avengers: The Initiative'' #28 (Nov. 2009)
+|Assigned to the [[Nevada]] Initiative team, the [[Heavy Hitters (comics)|Heavy Hitters]].<ref name="ATI28">''Avengers: The Initiative'' #28</ref>
+|-
+|}
+
+===Other Camp H.A.M.M.E.R. trainees===
+* [[Brothers Grimm (comics)|Percy Grimes]]<ref name="ATI25"/>
+* [[Brothers Grimm (comics)|Barton Grimes]]<ref name="ATI25"/>
+* [[Cutthroat (comics)|Cutthroat]]<ref name="ATI25"/>
+* [[Mandrill (comics)|Mandrill]]<ref name="ATI26"/>
+* [[Vampiro (comics)|Vampiro]]: Joined the Initiative to get out of prison. Killed by The Hood.<ref name="ATI26"/>
+* [[Man-Killer]]<ref name="ATI31">''Avengers: The Initiative'' #31</ref>
+
+==Shadow Initiative==
+{{Main|Shadow Initiative}}
+The Shadow Initiative was created as a covert ops team, designed to handle unofficial field assignments.<ref name="ATI5"/> After Norman Osborn took over the Initiative and shut down Camp Hammond, the team was reorganized into a first strike team, containing heroes that were considered expendable.<ref name="ATI24"/>
+
+{| class="wikitable" width=100%
+!width=20%| Name
+!width=22%| Joined in
+!| Notes
+|-
+|[[Bengal (comics)|Bengal]]
+|rowspan="7"|''Avengers: The Initiative'' #5 (Oct. 2007)
+||Also part of Osborn's new Shadow Initiative.<ref name="ATI26"/> Quit in ''Avengers: The Initiative'' #34.<ref name="ATI34">''Avengers: The Initiative'' #34</ref>
+|-
+|[[Constrictor (comics)|Constrictor]]
+|Also an instructor at Camp Hammond.<ref name="ATI13">''Avengers: The Initiative'' #13</ref>
+|-
+|[[Mutant Zero]]
+|Revealed to be [[Typhoid Mary (comics)|Typhoid Mary]].<ref name="ATI20"/> Not known by other cadets outside the Shadow Initiative.
+|-
+|[[Michael Van Patrick#Scarlet Spiders|Scarlet Spider (Michael)]]
+|Left to join Counter Force.<ref name="ATI10"/> Killed by [[Ragnarok (comics)|Ragnarok]].<ref name="ATI22">''Avengers: The Initiative'' #22</ref>
+|-
+|[[Michael Van Patrick#Scarlet Spiders|Scarlet Spider (Van)]]<ref name="ATI11">''Avengers: The Initiative'' #11</ref>
+|Killed by KIA.<ref name="ATI10"/>
+|-
+|[[Michael Van Patrick#Scarlet Spiders|Scarlet Spider (Patrick)]]
+|Left to join Counter Force.<ref name="ATI10"/>
+|-
+|[[Trauma (comics)|Trauma]]
+|Became a counselor at Camp Hammond.<ref name="ATI12"/>
+|-
+|[[Taskmaster (comics)|Taskmaster]]
+|rowspan="2"|''Avengers: The Initiative'' #20 (Feb. 2009)
+|Shadow Initiative field leader.<ref name="ATI20"/>
+|-
+|[[Komodo (comics)|Komodo]]
+|Also part of Osborn's new Shadow Initiative.<ref name="ATI26"/> Left to join the Avengers Resistance.<ref name="ATI29"/>
+|-
+|[[Batwing (Marvel Comics)|Batwing]]
+|''Avengers: The Initiative'' #21 (Mar. 2009)
+|Also part of Osborn's new Shadow Initiative.<ref name="ATI26"/> Quit in ''Avengers: The Initiative'' #34.<ref name="ATI34"/>
+|-
+|[[Butterball (Emery Schaub)|Butterball]]
+|rowspan="10"|''Avengers: The Initiative'' #26 (Sept. 2009)
+|Quit in ''Avengers: The Initiative'' #34.<ref name="ATI34"/>
+|-
+|Badd Axe
+|
+|-
+|[[Ringer (comics)#Keith Kraft|Ringer]]
+|
+|-
+|[[Barracuda (comics)#Other versions|Barracuda]]
+|rowspan="3"|Former member of [[Heavy Mettle]].
+|-
+|[[Riot (comics)#Second Riot|Riot]]
+|-
+|Stronghold
+|-
+|Warbow
+|Former member of [[Heavy Mettle]]. Killed during the [[Siege (comics)|Siege]] of Asgard.
+|-
+|[[Blackwing (character)|Blackwing]]
+|Former member of [[Heavy Mettle]]. Killed during the assault on Prison 42.<ref name="ATI27">''Avengers: The Initiative'' #27</ref>
+|-
+|Firearms
+|rowspan="2"|Killed during the assault on Prison 42.<ref name="ATI27"/>
+|-
+|Slaughter Boy
+|-
+|Johnny Guitar
+|rowspan="2"|''Avengers: The Initiative'' #27 (Oct. 2009)
+|Killed during the assault on Prison 42.<ref name="ATI27"/>
+|-
+|Doctor Sax
+|Expelled due to injury.<ref name="ATI27"/>
+|-
+|}
+
+==Avengers Resistance==
+{{Main|Counter Force (Marvel Comics)}}
+After [[Camp Hammond (comics)|Camp Hammond]] was shut down,<ref name="ATI23"/> [[Tigra]] and [[Gauntlet (comics)|Gauntlet]] joined the New Warriors who had left the Initiative, and formed the Avengers Resistance, with the specific purpose of exposing the criminal deeds of [[Norman Osborn]].<ref name="ATI25"/> Following Norman Osborne's arrest in the aftermath of the Siege of Asgard, the team disbanded.
+
+{| class="wikitable" width=100%
+!width=20%| Character
+!width=22%| Joined in
+!| Notes
+|-
+||[[Vance Astrovik|Justice]]
+|rowspan="8"|''Avengers: The Initiative'' #10 (Apr. 2008)
+||
+|-
+||[[Donyell Taylor|Night Thrasher]]
+||
+|-
+||[[Rage (comics)|Rage]]
+||
+|-
+||[[Michael Van Patrick#Scarlet Spiders|Scarlet Spider (Michael)]]
+||Killed by [[Ragnarok (comics)|Ragnarok]].<ref name="ATI22"/>
+|-
+||[[Michael Van Patrick#Scarlet Spiders|Scarlet Spider (Patrick)]]
+||
+|-
+||[[Slapstick (comics)|Slapstick]]
+||
+|-
+||[[Ultra Girl]]
+||
+|-
+||[[Debrii]]
+||Quit the team in ''Avengers: The Initiative'' #28.<ref name="ATI28"/>
+|-
+||[[Tigra]]
+|rowspan="2"|''Avengers: The Initiative'' #25 (Aug. 2009)
+||
+|-
+||[[Gauntlet (comics)|Gauntlet]]
+||
+|-
+||[[Komodo (comics)|Komodo]]
+||''Avengers: The Initiative'' #29 (Dec. 2009)
+||Joined after having her powers removed by Taskmaster.<ref name="ATI29"/>
+|-
+||[[Diamondback (Rachel Leighton)|Diamondback]]
+||''Avengers: The Initiative'' #30 (Jan. 2010)
+||Double agent with Norman Osborn's Initiative.<ref name="ATI30"/>
+|-
+|}
+
+==References==
+{{reflist|2}}
+
+{{Initiative}}
+
+{{DEFAULTSORT:Avengers: The Initiative}}
+[[Category:Lists of Marvel Comics characters by organization]]
+[[Category:Lists of Avengers (comics) characters]]

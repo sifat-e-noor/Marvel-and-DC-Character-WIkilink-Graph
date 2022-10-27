@@ -1,0 +1,181 @@
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics--> 
+|title               = Captain Britain and MI13
+|image               = Britaincov.jpg
+|caption             = Cover art for ''Captain Britain & The MI: 13'' #1.<br>Art by [[Bryan Hitch]].
+|schedule            = Monthly
+|ongoing             = n
+|publisher           = [[Marvel Comics]]
+|startmo             = May 
+|startyr             = 2008 
+|endmo               = July
+|endyr               = 2009
+|issues              = 
+|Superhero           = y
+|main_char_team      = [[Captain Britain]]<br />[[Pete Wisdom]]<br />[[Black Knight (Dane Whitman)|Black Knight]]<br />[[Blade (comics)|Blade]]<br />[[Spitfire (comics)|Spitfire]]<br />[[Faiza Hussain]]
+|writers             = [[Paul Cornell]]
+|artists             = 
+|pencillers          = [[Leonard Kirk]]
+|inkers              = [[Jesse Delperdang]]<br>[[Paul Neary]]<br>[[Michael Bair]]<br>[[Jay Leisten]]
+|colorists           = [[Brian Reber]]
+|creative_team_month = 
+|creative_team_year  = 
+|creators            = [[Paul Cornell]]<br />[[Leonard Kirk]]
+|TPB                 = Secret Invasion
+|ISBN                = 0-7851-3344-5
+|TPB1                = Hell Comes To Birmingham
+|ISBN1               = 0-7851-3345-3
+|TPB2                = Vampire State 
+|ISBN2               = 0-7851-3952-4
+|subcat              = Marvel Comics
+|sort                = Captain Britain and MI13
+}}
+'''''Captain Britain and MI13''''' is an [[American comic book]] series published by [[Marvel Comics]] and written by [[Paul Cornell]], with art by [[Leonard Kirk]]. The series centers on the fictional [[United Kingdom|British]] government agency [[MI-13 (comics)|MI: 13]], which is dedicated to protecting the United Kingdom from supernatural threats. The main strikeforce is led by the superhero [[Captain Britain|Captain Britain (Brian Braddock)]], and consists of various Marvel Comics characters that are of British descent or have a connection to the country. The series launched as a [[tie-in]] to the ''[[Secret Invasion]]'' event in May [[2008 in comics|2008]] and ceased publication with issue #15.
+
+==Publication history==
+The idea for the series grew out of Cornell's first [[Marvel MAX]] [[Limited series (comics)|limited series]] ''[[Pete Wisdom|Wisdom]]'', which is centered around Pete Wisdom and [[MI-13 (comics)|MI: 13]]. Editor [[Nick Lowe (comics)|Nick Lowe]] said, "I loved working with Paul on ''Wisdom'' and wanted to expose more readers to his writing."<ref name=cornlowe>[http://www.comicbookresources.com/?page=article&id=12587 Cornell & Lowe talk "Captain Britain and MI:13"], [[Comic Book Resources]], February 18, 2008.</ref>
+
+In August [[2007 in comics|2007]] it was announced that Cornell was going to take over writing ''[[Excalibur (comics)#New Excalibur (2005–2007)|New Excalibur]]'',<ref name=xmenpanel>[http://www.newsarama.com/Chicago_07/Marvel/X-Men/panel.html WW: Chicago - Marvel X-Men Panel] {{Webarchive|url=https://web.archive.org/web/20071026054159/http://www.newsarama.com/Chicago_07/Marvel/X-Men/panel.html |date=2007-10-26 }}, [[Newsarama]], August 10, 2007</ref> another series with close links to MI: 13, but, over time, the project morphed into a new series. Cornell explained, "I think there have been so many [[Excalibur (comics)|Excaliburs]] lately that Nick [Lowe] just wanted to underline that this is a fresh start. And it shows that we have a purpose firmly in mind. And it spotlights [[Captain Britain|Cap]], which is fine by me."<ref name=damnskrulls>[http://forum.newsarama.com/showthread.php?t=155363 Damn Bloody Skrulls: Captain Britain and MI: 13] {{Webarchive|url=https://web.archive.org/web/20110308004407/http://forum.newsarama.com/showthread.php?t=155363 |date=2011-03-08 }}, [[Newsarama]], April 29, 2008</ref>
+
+The ''New Excalibur'' team was wound up in the 2007 crossover mini-series ''[[X-Men: Die by the Sword]]'' and the major Marvel summer event of [[2008 in comics|2008]], ''[[Secret Invasion]]'', was used as a launchpad for the new ''Captain Britain and MI: 13'' series, much like how [[Decimation (comics)|the fallout]] of the [[2005 in comics|2005]] summer event, ''[[House of M]]'', was used to launch ''New Excalibur'' which after issue #4, separated from the event to become an [[ongoing series]].
+
+To help keep the series on schedule after the completion of the first story arc, [[Pat Olliffe]] and [[Paul Neary]] took over the art duties for issue #5 (the prologue to second storyline ''Hell Comes to Birmingham'') from Leonard Kirk and inker [[Jesse Delperdang]]. Paul Cornell has stated that Kirk is with the series "for the duration".<ref>{{Cite web |url=http://paulcornell.blogspot.com/2008/09/captain-britain-5-sfx-and-doctor-who.html |title=Paul Cornell's House of Awkwardness (blog) - ''Captain Britain #5, SFX and Doctor Who Puppets'' |access-date=2008-09-26 |archive-url=https://web.archive.org/web/20080918005844/http://paulcornell.blogspot.com/2008/09/captain-britain-5-sfx-and-doctor-who.html |archive-date=2008-09-18 |url-status=dead }}</ref> [[Michael Bair]], with [[Jay Leisten]] and [[Craig Yeung]], took over from Delperdang in issues 7 and 8 before Jay Leisten, at first with [[Cam Smith]], took on the inking duties.
+
+Rumors that the title might have been cancelled, when sales dropped after the Secret Invasion tie-in ended, dropping from estimates of 36,805<ref>[http://www.comicbookresources.com/?page=article&id=18289 Sales Estimates for August, 2008], [[Comic Book Resources]]</ref> to 22,185 by issue #7,<ref>[http://www.comicbookresources.com/?page=article&id=19243 Sales Estimates for November, 2008], [[Comic Book Resources]]</ref> were denied by a Marvel spokesman who revealed plans for numerous upcoming storylines, including appearances by [[Doctor Doom]], [[Dracula (Marvel Comics)|Dracula]] and the return of [[Meggan (character)|Meggan]].<ref>[http://www.newsarama.com/comics/010923-Captain-Britain.html Rumorkiller: Captain Britain NOT Canceled], [[Newsarama]], January 23, 2009</ref>
+
+Doom and Dracula feature in the third storyarc "Vampire State" which runs for six issues and an annual.<ref name=cbr19645>[http://www.comicbookresources.com/?page=article&id=19645 Bloody Hell: Cornell on Captain Britain], [[Comic Book Resources]], January 21, 2009</ref>
+
+Outside of the comic series, several members of the team make [[cameo appearance]]s in ''[[The Mighty Avengers|Mighty Avengers]]'' #22-23,<ref>{{Cite web |url=http://paulcornell.blogspot.com/2009/01/cap-podcast-interview-and-mighty.html |title=Paul Cornell's House of Awkwardness (blog) - ''Cap Podcast Interview and Mighty Avengers News'' |access-date=2009-02-17 |archive-url=https://web.archive.org/web/20160124012415/http://paulcornell.blogspot.com/2009/01/cap-podcast-interview-and-mighty.html |archive-date=2016-01-24 |url-status=dead }}</ref> and Paul Cornell wrote an in [[Canon (fiction)|canon]] [[Twitter]] [[micro-blog]] page as Captain Britain<ref>[http://blog.wired.com/underwire/2009/02/marvels-captain.html Marvel's Captain Britain Twittering Daily Heroics] By John Scott Lewinski, wired.com, February 18, 2009</ref> for a while, where Captain Britain describes character interactions and missions that take place off-panel between storyarcs.
+
+The series also had additional artistic contributions by [[Mike Collins (comics)|Mike Collins]], [[Adrian Alphona]] and [[Ardian Syaf]]. 
+Also received a nod in the Best Graphic Story category for [[Hugo Award for Best Graphic Story]] in 2010.<ref>{{cite web |url= http://marvel.com/news/story/11927/captain_britain_and_mi13_up_for_hugo_award |title=Captain Britain and MI 13 up for Hugo Award|first= |last= |work=marvel.com |year= |accessdate=6 November 2013}}</ref>
+
+On May 19, 2009 Paul Cornell announced that issue #15 would be the last one saying:
+
+{{quote|while we didn’t know this would be the last arc until comparatively recently, I had it in mind that it was possible it would be from the time I started plotting it.  Indeed, the end of this arc marks the end of what I had planned for the book when I started.  One of the images right at the finish is what I always felt I was heading towards, and I’m very pleased I got there.<ref>[http://www.paulcornell.com/2009/05/goodbye-captain-britain.html Goodbye Captain Britain] {{Webarchive|url=https://web.archive.org/web/20090522111821/http://www.paulcornell.com/2009/05/goodbye-captain-britain.html |date=2009-05-22 }}, May 19, 2009</ref>}}
+
+After the end of the series, the final battle from The Guns of Avalon story makes an appearance during a scene from Cornell and Kirk's following series ''[[Dark X-Men]]''. Marvel announced that Cornell and Kirk would reunite to write an MI:13 story in the first issue of the ''[[Heroic Age (comics)|Age of Heroes]]'' [[comics anthology|anthology]] limited series<ref>[http://marvel.com/news/comicstories.11247.the_heroic_age~colon~_age_of_heroes The Heroic Age: Age of Heroes], [[Marvel.com]], February 14, 2010</ref><ref>{{Cite web |url=http://www.paulcornell.com/2010/02/age-of-heroes.html |title=Paul Cornell's House of Awkwardness (blog) - ''Age of Heroes'' |access-date=2010-02-14 |archive-url=https://web.archive.org/web/20100215034048/http://www.paulcornell.com/2010/02/age-of-heroes.html |archive-date=2010-02-15 |url-status=dead }}</ref> which would be followed by a ''Spitfire'' one-shot written by Cornell.
+
+== Characters ==
+The initial main cast of characters included superheroes with British backgrounds like [[Captain Britain]], [[Black Knight (Dane Whitman)|The Black Knight]], and [[Spitfire (comics)|Spitfire]] working for MI: 13 alongside its field agents [[Pete Wisdom]] and [[John the Skrull]]. [[Faiza Hussain|Dr. Faiza Hussain]], a character first seen in this series,<ref>[http://www.comicbookresources.com/?page=article&id=12839 Super Spy Weekend: Faisa Hussain], [[Comic Book Resources]], March 9, 2008</ref> was introduced as a new agent of MI: 13. Former head of MI: 13, [[Alistaire Stuart]], returns as the scientific adviser,<ref name=cornlowe /> while Tink, a MI: 13 field agent from ''Wisdom'', returns in issue #2,<ref name=defenserealm /> although not in an official agent role.
+
+Other British superheroes made appearances in the title, including [[Captain Midlands]] and [[Union Jack (Joseph Chapman)|Union Jack]], Cornell has intentions to further explore a variety of other British superheroes:
+
+{{quote|One of the great things about this title is that, because all British superheroes are de facto part of MI-13, we can visit disparate parts of the [[Marvel UK]] scene without it being a big deal<ref name=defenserealm>[http://www.comicbookresources.com/?page=article&id=16432 Defense of the Realms: Cornell on "Captain Britain and MI:13"], [[Comic Book Resources]], May 15, 2008</ref>}}
+
+When quizzed about if other British characters like some of the [[Knights of Pendragon]], [[Elsa Bloodstone]], [[Motormouth (comics)|Motormouth]], and [[Killpower]], Cornell stated an interest of looking at other British heroes as the series progresses.<ref>[http://www.comicsbulletin.com/features/120784245582350.htm The British Invasion: Paul Cornell on Captain Britain and MI: 13] {{webarchive |url=https://web.archive.org/web/20111012175841/http://www.comicsbulletin.com/features/120784245582350.htm |date=October 12, 2011 }}, [[Comics Bulletin]], April 10, 2008</ref> Cornell had also stated a character would be appearing who was British, even if they were not commonly thought to be, and this was revealed to be [[Blade (comics)|Blade]], who would join the cast in issue #5.<ref>[http://www.comicbookresources.com/?page=article&id=17106 MI:13 Agent Profile - Blade? Cornell talks "Captain Britain"], [[Comic Book Resources]], July 7, 2008</ref> He later confirmed that the series will be featuring Motormouth and Killpower.<ref name=newsarama020911>[http://www.newsarama.com/comics/020911-Nine-Cornella.html Newsarama 9: Paul Cornell], [[Newsarama]], February 11, 2009</ref>
+
+In issue #3, readers saw the return of [[Merlin (Marvel Comics)|Merlin]], a version of the [[Merlyn (Marvel Comics)|Merlyn]] usually seen in stories with Captain Britain (who is the physical amalgamations of all his interdimensional counterparts), specifically an 'aspect' that appeared in [[Marvel UK]]'s [[Doctor Who Magazine|Doctor Who comics]].<ref>''[[Doctor Who Magazine|Doctor Who Monthly]]'' #60 (1982)</ref> This fits with the mention of "[[Higher Evolutionaries]]" having imprisoned him, a group who appeared in [[Alan Moore]]'s "[[Time War (Alan Moore)|Time War]]" storyline and who have [[Rassilon#Other appearances|Rassilon]] as a member. Cornell has a strong Dr Who connection and explained his choice of this 'aspect' of Merlyn:
+
+{{quote|I think we just all liked the look of Merlin with a metal skullcap, as seen in the film ''[[Excalibur (film)|Excalibur]]''.<ref>Played by actor [[Nicol Williamson]]</ref> The coolest thing about Merlin being that every version of him ''is'' him. Apart from those ones in the 1950s that weren't.<ref>[http://www.brokenfrontier.com/lowdown/details.php?id=1434 Mighty Week of Marvel #5]{{Dead link|date=June 2019 |bot=InternetArchiveBot |fix-attempted=yes }}, Broken Frontier, July 15, 2008</ref>}}
+
+==Plot==
+
+===The Guns Of Avalon===
+{{See also|Secret Invasion}}
+During the [[Secret Invasion|Skrull Invasion]], Britain comes under heavy attack by Super Skrulls, which forces a loose coalition of British superheroes to come together to fight them off under the aegis of MI: 13. The [[Skrull]]s launch an assault on the [[Siege Perilous (comics)|Siege Perilous]],<ref name=defenserealm /> preventing access into the [[Avalon (Marvel Comics)|Otherworld (Avalon)]] through its portal while breaking through into Otherworld via another portal located in one their ships. While in Avalon, the Skrulls gather together mystical items and convert them for their own use to make a magically empowered Super Skrull<ref name="CBMI2">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 2 | Date = August 2008 | Publisher = [[Marvel Comics]] | }}</ref> to face the remaining British resistance in London. With all the magic gone from Avalon, Wisdom, in a last-ditch effort, releases the dark and evil magics along with [[Merlin (Marvel Comics)|Merlin]] who resurrects Captain Britain to aid the resistance.<ref name="CBMI3">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]], [[Scott Hanna]] | Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 3 | Date = September 2008 | Publisher = [[Marvel Comics]] | }}</ref>
+
+Captain Britain uses Excalibur to defeat the magic empowered Super-Skrull while the dark magic beings lay claim to Great Britain and at the request of Wisdom exterminate the rest of the Skrull invaders. Standing in the devastation, Captain Britain and Wisdom announce that a team of superheroes should be brought together to face any new threat to the country including the dark magic beings while Faiza Hussain became the new wielder of Excalibur.<ref name="CBMI4">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]]| Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 4 | Date = October 2008 | Publisher = [[Marvel Comics]] | }}</ref>
+
+===Hell Comes to Birmingham===
+The evil released by Wisdom in "Guns of Avalon" starts to cause trouble, chiefly thanks to Plokta, a new character:
+
+{{quote|He's a lovely new Leonard design, in a rather [[Steve Ditko]] vein. He's a Lord of Hell. He's not exactly humanoid," Cornell said. "He's got an important and so far unseen function in the mystical side of the [[Marvel Universe]]. And he's decided to conquer the world exponentially from a tower block in [[Birmingham]]. He's also so got our team's number, only they go in without knowing that."<ref>[http://www.comicbookresources.com/?page=article&id=18038 And Hell Followed: Cornell talks Captain Britain & MI:13], [[Comic Book Resources]], September 12, 2008</ref>}}
+
+Using the tower block in Birmingham, Plokta captures many people within its rooms by giving them an illusion of their hearts desire. Using the collected magical energy of these people, Plokta creates an army of [[Mindless Ones]]. When challenged by Captain Britain, Plokta reveals he has something Brian may want; Meggan. Captain Midlands betrayed his remaining comrades, allowing them to be captured by Plokta briefly. When the team eventually defeated Plokta, Midlands was taken into custody.
+
+===Vampire State===
+[[Dracula (Marvel Comics)|Dracula]], "the greatest general of his generation",<ref name=newsarama020911 /> and his [[vampire]] minions leave their [[Moon]] sanctuary for a planned assault on the United Kingdom; with help from [[Doctor Doom]]. Cornell has said that it would be "a spy game, a clash of intellects, as Dracula tries to strategize and trick his way into a full on takeover of the British Isles".<ref name=cbr19645 /> Black Knight and Faiza Hussain head to the African nation of [[Wakanda]] to retrieve the true [[Ebony Blade]] from Wakanda's queen, [[Storm (Marvel Comics)|Ororo T'Challa]]. The team members are each intercepted by enhanced vampires, while Dracula heads directly to Faiza Hussain's family home. Kidnapping and converting Faiza's father and others while seemingly using his powers over Spitfire to bring her into his inner circle, that includes [[Lilith (Marvel Comics)#Mother of All Demons|Lilith]] and Captain Fate where Dracula uses magic to prepare for an invasion. Britain's intelligence services begin purging themselves of vampire infiltrators, one of which manipulates MI:13 into trying to take the enchanted skull of [[Quincy Harker]] - which ensures all vampires need to be invited into the United Kingdom - into custody; this enables Dracula to learn where it is and have it destroyed, leaving the way open for a mass invasion in Fate's warships.
+
+Using Plokta, MI:13 allow Dracula to experience his invasion plan with everything going his way; with magical barriers blocking off Britain from the rest of the world, Dracula's armies begin their invasion; disposing of most of the heroes of MI:13 and anyone else in their path. Dracula and his armies sweeps across the UK leaving only a pocket of resistance to fend off the invaders. (Cornell has stated that he checked with Marvel which characters they'd allow to be killed and which they wouldn't so that he could give the impression that Britain was genuinely falling <ref name="comicsbulletin.com">[http://www.comicsbulletin.com/features/124893198333150.htm "A Close to Captain Britain" interview at Comics Bulletin] {{webarchive|url=https://web.archive.org/web/20090805020121/http://www.comicsbulletin.com/features/124893198333150.htm |date=2009-08-05 }}</ref>) Dracula soon realizes this to be too easy and breaks free of the dream, but this has prevented him from sending in scouts every hour like he planned. Leading up to the invasion, Spitfire, along with [[Killpower|Julius Mullarkey]] and Faiza's father, reveal that they were not, in fact, under control by Dracula and have been working under cover, and instigate an attack on board Dracula's ship. Bringing other members of MI:13 on board they help dispose of Captain Fate and free some of the converted hostages. Unable to stop Dracula fully and with Brian being harmed by Lilith, the team escapes but without Faiza's father, and, thanks to Doom, Dracula now has Captain Britain's wife [[Meggan (character)|Meggan]].
+
+However, this is then revealed to be an attack by Doom, as Meggan uses her powers to cause rebellion among Dracula's less loyal conscripts. Brian launches a second attack to assist her, this time showing his full power against Lilith, just in time for Dracula to learn that Wisdom had ''not'' led him to the skull of Quincy Harker but had instead led him to a fake; every action by MI:13 was to ensure Dracula wouldn't know the protection spell around the country was still active, leading to the vampire army being mostly wiped out as they remain uninvited. Dracula and his remaining loyal soldiers retreat to their fortress, trying to protect Lilith, but are pursued by MI:13, MI:13's reserves, and a [[Special Air Service]] team. [[Union Jack (comics)|Union Jack]] and Blade take out Dracula's coffin, Faiza destroys the Count with Excalibur, and Brian is able to destroy Lilith.
+
+In the aftermath, Faiza has achieved knight status, Dane Whitman's stone heart curse has worn off, and the two of them (along with Brian & Meggan and Spitfire & Blade) have officially paired up. Faiza's father is returned to Earth, with Brian encouraging him to not give up but to keep on living in "a very British ''compromise'' - living with something terrible, dealing with it in domestic terms. Tragedy right up against sitcom, in a way other cultures don't really get."
+
+===Diplomatic Incident===
+Members of MI-13 attend an official reception in America, presided over by [[Captain America|Steve Rogers]], given in their honor for being the first country in the world to get rid of the Skrulls. Rogers offers Brian membership in the Avengers.  Reactions from the MI-13 team are mixed, but Wisdom eventually, reluctantly declares that Brian will accept, and they can work out some sort of time-share.<ref>''Age of Heroes'' #1 (May 19, 2010)</ref>
+
+===Spitfire===
+While the other core members of MI-13 attend an official reception in America, Spitfire and Blade (on MI-13 orders) hunt for someone in New York<ref>''Spitfire'' one-shot (August, 2010)</ref><ref>{{Cite web|url=http://www.comicbookresources.com/?page=article&id=26492|title = Cornell Plots "Spitfire" a Bloody Good Time in NYC|date = 3 June 2010}}</ref>
+
+== Collected editions ==
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Captain Britain and MI:13 Vol. 1: Secret Invasion''
+|''Captain Britain and MI:13'' #1-4
+|February 2009
+|{{ISBNT|978-0785133995}}
+|-
+|''Captain Britain and MI: 13 Vol. 2: Hell Comes To Birmingham''
+|''Captain Britain and MI:13'' #5-9
+|July 2009
+|{{ISBNT|0785133453}}
+|-
+|''Captain Britain and MI: 13 Vol. 3: Vampire State''
+|''Captain Britain and MI:13'' #10-15 and ''Annual'' #1
+|October 2009
+|{{ISBNT|0785139524}}
+|}
+
+==Reception==
+<!-- Reviews and circulation figures (the latter in 1 month next month) -->
+Reviews of the first issue were largely positive, noting Cornell's solid characterization and tight plotting<ref name=cbr1>[http://www.comicbookresources.com/?page=user_review&id=119 Review of issue #1], [[Comic Book Resources]]</ref> as well as the vein of [[black comedy]] that runs through proceedings<ref name=ign1>[http://comics.ign.com/articles/874/874157p1.html Review of issue #1], [[IGN]]</ref> and the smooth transition from his ''Wisdom'' limited series, despite the differences in the scale of the action,<ref name=cb1>[http://www.comicsbulletin.com/reviews/121068914337037.htm Review of issue #1], [[Comics Bulletin]]</ref> which may make the issue "a little new reader unfriendly."<ref name=bf1>[http://www.brokenfrontier.com/reviews/details.php?id=1859 Review of issue #1]{{Dead link|date=June 2019 |bot=InternetArchiveBot |fix-attempted=yes }}, Broken Frontier</ref> [[Comic Book Resources]] called it "a splendid new series,"<ref name=cbr1 /> [[Comics Bulletin]] conclude "I haven't read a stronger first issue than this in a long time"<ref name=cb1 /> and [[IGN]] agreed, stating "Captain Britain And MI: 13 #1 is as good a debut to a superhero story as I can remember."<ref name=ign1 /> Given the good reviews and the tie-in with Secret Invasion (the first issue of which sold an estimate quarter of a million copies)<ref name=mayslaes>[http://www.comicbookresources.com/?page=article&id=16481 Sales Estimates for April, 2008 Books], [[Comic Book Resources]], May 20, 2008</ref> the sales were high, with the first printing selling out immediately and being followed by a second printing with a variant cover based in Kirk's interior art<ref>[http://www.comicbookresources.com/?page=article&id=16490 "Captain Britain," "Guardian of the Galaxy" sell out, variant cover second printings announced] (press release), [[Comic Book Resources]], May 20, 2008</ref> which, in turn, sold out requiring a third printing.<ref>[http://www.comicsbulletin.com/news/121462297533266.htm Captain Britain & The MI-13 #1 Returns With A Third Printing!], [[Comics Bulletin]], June 27, 2008</ref>
+
+The May 2008 [[direct market|direct sales]] estimates for the first issue were 47,527 making it the 51st top-selling comic title that month,<ref>[http://www.comicbookresources.com/?page=article&id=16836 Sales Estimates for May, 2008], [[Comic Book Resources]], June 17, 2008</ref> more than twice the 20,000 sales for the first issue of the ''Wisdom'' limited series.<ref>[http://www.comicbookresources.com/?page=article&id=8897 Sales Estimates for November, 2006 Books], [[Comic Book Resources]], December 19, 2006</ref> Estimates fell for the second issue to 37,968	(55th place)<ref>[http://www.comicbookresources.com/?page=article&id=17624 Sales Estimates for June, 2008], [[Comic Book Resources]], August 6, 2008</ref> then stayed fairly steady through issue #3 (36,934 sales estimate, 58th)<ref>[http://www.comicbookresources.com/?page=article&id=17852 Sales Estimates for July, 2008], [[Comic Book Resources]], August 26, 2008</ref> and #4 (36,805, 63rd).<ref>[http://www.comicbookresources.com/?page=article&id=18289 Sales Estimates for August, 2008], [[Comic Book Resources]], October 1, 2008</ref> Following the end of the Secret Invasion tie-in the sales dipped again to 32,989 (69th place) for issue #5, to 28,030 (96th) for #6 <ref>[http://www.comicbookresources.com/?page=article&id=18516 Sales Estimates for September, 2008], [[Comic Book Resources]], October 21, 2008</ref> and to 22,185 (95th) with #7.<ref>[http://www.comicbookresources.com/?page=article&id=19243 Sales Estimates for November, 2008], [[Comic Book Resources]], December 19, 2008</ref> Sales stabilised somewhat with issue #8 (21,233 sales and 130th ranking)<ref>[http://www.comicbookresources.com/?page=article&id=19758 Sales Estimates for December, 2008], [[Comic Book Resources]], January 29, 2009</ref> but dropped further with issue #9 (18,478 and 101st in ranking).<ref>[http://www.comicbookresources.com/?page=article&id=20406 Sales Estimates for January, 2009], [[Comic Book Resources]], March 12, 2009</ref>
+
+When talking about the close of the title, Cornell stated "Our audience really left at issue four... People protest about events, but try and write a comic now without them. The audience is actually more concerned with what’s going on, with the big news, than they are with story. I’d be part of an event every issue if I could, if it meant I could keep the title going. ... after [Hell Comes to] Birmingham I realised that the only way the book would survive would be huge event stories of our own." He also said he might've had the characters visit America early on if he'd known how long he had, or put more action into Hell Comes To Birmingham.<ref name="comicsbulletin.com"/>
+
+Following 'Hell Comes To Birmingham', issue #10 recovered sales (20,626 98th in ranking),<ref>[http://www.comicbookresources.com/?page=article&id=20634 Sales Estimates for February, 2009], [[Comic Book Resources]], April 1, 2009</ref> but the issues releases after did not: 17,753 (108th) for #11,<ref>[http://www.comicbookresources.com/?page=article&id=21047 Sales Estimates for March, 2009], [[Comic Book Resources]], May 1, 2009</ref> 19,989 (117th) for #12<ref>[http://www.comicbookresources.com/?page=article&id=21360 Sales Estimates for April, 2009], [[Comic Book Resources]], May 27, 2009</ref> and 17,947 (111th) for #13.<ref>[http://www.comicbookresources.com/?page=article&id=21655 Sales Estimates For May, 2009], [[Comic Book Resources]], June 18, 2009</ref> In June, two issues were released, and sold about the same amount: 17,754 (124th) for #14 and 16,090 (135th) for the Annual.<ref>[http://www.comicbookresources.com/?page=article&id=22443 Sales Estimates For June, 2009], [[Comic Book Resources]], August 7, 2009</ref> The last issue of the series, #15, was placed 122nd, with 16,544 sales.<ref>[http://www.comicbookresources.com/?page=article&id=22825 Sales Estimates for July, 2009], [[Comic Book Resources]], September 4, 2009</ref>
+
+[[Comic Book Resources]] placed the series at #10 in their top 100 comics of 2008, describing it as the "best thing to come out of Secret Invasion" and that it is "the best new superhero title of 2008."<ref>[http://www.comicbookresources.com/?page=article&id=19353 Best 100 Comics of 2008, Part V], [[Comic Book Resources]], January 2, 2009</ref> [[Newsarama]] named Cornell one of their "nine to watch in 2009," saying that he might be "the lead in the next [[British Invasion (comics)|British invasion]] of writers into American comics."<ref>[http://www.newsarama.com/comics/120830-9-Creators.html 9 to Watch in 2009: The Creators], [[Newsarama]], December 30, 2008</ref>
+
+The appearance of [[Prime Minister of the United Kingdom|British Prime Minister]] [[Gordon Brown]] got considerable attention from the press.<ref>[http://www.comicbookresources.com/?page=article&id=16686 Captain Britain and MI:13 Blow Up UK Press], [[Comic Book Resources]], June 4, 2008</ref> Cornell said "I'm quite a fan of Gordon Brown. I'm pleased we've given him a PR boost on both sides of the Atlantic and around the world. I feel quite sorry for him, so I'm glad I've contributed a bit."<ref>[http://www.sundaymail.co.uk/news/scottish-news/2008/06/01/prime-minister-turns-comic-book-hero-78057-20590363/ Prime Minister turns comic book hero], ''[[Sunday Mail (Scotland)|The Sunday Mail]]'' June 1, 2008</ref>
+
+==Awards==
+''Captain Britain and MI13, Volume 3: Vampire State'' was nominated for the 2010 "[[Hugo Award for Best Graphic Story|Best Graphic Story]]" [[Hugo Award]].<ref>[http://www.thehugoawards.org/2010/04/2010-hugo-award-nominees-details/ 2010 Hugo Award Nominees – Details], the Hugo Awards site</ref>
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+{{refbegin}}
+* {{gcdb series|id=30818|title=''Captain Britain and MI: 13''}}
+* [http://www.maelmill-insi.de/UHBMCC/SHOW.HTM?SerNr=8323 ''Captain Britain and MI: 13'']{{Dead link|date=June 2019 |bot=InternetArchiveBot |fix-attempted=yes }} at the Unofficial Handbook of Marvel Comics Creators
+* {{comicbookdb|type=title|id=18514|title=''Captain Britain and MI: 13''}}
+{{refend}}
+
+== External links ==
+* [http://www.marvel.com/news/comicstories.3558.Captain_Britain%7Ecolon%7E_The_Replacements Captain Britain: The Replacements], Marvel.com, May 21, 2008
+* [https://twitter.com/Captain_Britain Captain_Britain], [[Twitter]] (canon micro blog)
+
+===Interviews===
+* [https://web.archive.org/web/20080511002813/http://www.brokenfrontier.com/lowdown/details.php?id=1314 Britain's Greatest Hero Returns], Broken Frontier, May 7, 2008
+* [http://climbingshrimp.blogspot.com/2008/05/captain-britain-extravaganza.html The Captain Britain Extravaganza!], Climbing Shrimp Productions, May 20, 2008
+* [http://www.comicbookresources.com/?page=article&id=18183 X-POSITION: Paul Cornell], [[Comic Book Resources]], September 23, 2008
+* [https://web.archive.org/web/20090805020121/http://www.comicsbulletin.com/features/124893198333150.htm Paul Cornell: A Close to Captain Britain and a Beginning for New Heroes], [[Comics Bulletin]], July 30, 2009
+
+=== Reviews ===
+<!-- To go in the reception section when more become available -->
+* [http://www.comicsbulletin.com/reviews/121311131487387.htm Issue #2], [[Comics Bulletin]]
+* [http://www.newsarama.com/comics/080616-BestShots61608b.html Best Shots: ''Captain Britain and MI: 13'' #2], [[Newsarama]]
+* [http://www.comicbookresources.com/?page=user_review&id=186 Issue #2], [[Comic Book Resources]]
+* [http://www.comicsbulletin.com/reviews/121550132526446.htm Issue #3], [[Comics Bulletin]]
+* [http://www.aintitcool.com/node/37479#5 Issue #3], [[Ain't It Cool News]]
+* [http://www.comicsbulletin.com/reviews/121854351465024.htm Issue #4] {{Webarchive|url=https://web.archive.org/web/20110523055457/http://www.comicsbulletin.com/reviews/121854351465024.htm |date=2011-05-23 }}, [[Comics Bulletin]]
+* [http://www.comicbookresources.com/?page=user_review&id=293 Issue #4], [[Comic Book Resources]]
+* [http://www.comicsbulletin.com/reviews/122156889438819.htm Issue #5] {{Webarchive|url=https://web.archive.org/web/20110523062500/http://www.comicsbulletin.com/reviews/122156889438819.htm |date=2011-05-23 }}, [[Comics Bulletin]]
+* [http://www.comicbookresources.com/?page=user_review&id=364 Issue #5], [[Comic Book Resources]]
+* [http://www.comicsbulletin.com/reviews/123427544427902.htm Issue #10], [[Comics Bulletin]]
+* [http://www.comicbookresources.com/?page=user_review&id=726 Issue #10], [[Comic Book Resources]]
+
+{{Captain Britain}}
+{{X-Comics}}
+
+{{DEFAULTSORT:Captain Britain And Mi13}}
+[[Category:Works by Paul Cornell]]
+[[Category:Occult detective fiction]]

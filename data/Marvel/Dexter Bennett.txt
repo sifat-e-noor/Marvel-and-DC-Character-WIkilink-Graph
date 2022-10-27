@@ -1,0 +1,393 @@
+{{for|''The Adventures of Superpup'' newspaper|The Adventures of Superpup}}
+{{short description|Fictional New York City newspaper}}
+{{Redirect|The DB|other uses|DB (disambiguation){{!}}DB}}
+{{Use mdy dates|date=June 2021}}
+{{Italic title}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+| name         = ''Daily Bugle''
+| image        = Daily Bugle.png
+| imagesize    = <!-- numeral only, defaults to 250 -->
+| caption      =
+| publisher    = [[Marvel Comics]]
+| debut        = {{Plainlist|
+* ''[[Marvel Mystery Comics]]'' #18 (April [[1941 in comics|1941]], historical)
+* ''[[Fantastic Four (comic book)|Fantastic Four]]'' #2 (Jan. [[1962 in comics|1962]], modern)
+}}
+| creators     = {{Plainlist|
+'''Historical'''
+* [[Carl Burgos]]
+'''Modern'''
+* [[Stan Lee]]
+* [[Jack Kirby]]
+}}
+| type         = City
+| organisation =
+| organization =
+| owners       = {{ubl|[[J. Jonah Jameson]] (former)|[[Puma (comics)|Thomas Fireheart]] (former)|William Walter Goodman (former)|[[Norman Osborn]] (former)|Dexter Bennett (former)|[[Robbie Robertson (comics)|Robbie Robertson]] (current)}}
+|employees     = {{ubl|[[Kat Farrell]]|[[Betty Brant]]|[[Glory Grant]]|{{small|'''Formerly:'''}}|[[Robbie Robertson (comics)|Joe "Robbie" Robertson]]|[[Irene Merryweather]]|[[Frederick Foswell]]|Andrew "Andy" Anderson|[[Ben Urich]]|[[Ned Leeds]]|[[Spider-Man|Peter Parker]]|[[Eddie Brock]]}}
+| cat          = newspapers
+| subcat       = Marvel Comics
+| sortkey      = Daily Bugle
+|}}
+
+The '''''Daily Bugle''''' (at one time '''''The DB''''')<ref name="Burned!">[http://www.comicvine.com/the-amazing-spider-man-burned/37-125665/ ''The Amazing Spider-Man'' #554 – "Burned!"]</ref> is a fictional New York City [[Tabloid (newspaper format)|tabloid newspaper]] appearing as a plot element in [[American comic book]]s published by [[Marvel Comics]]. The ''Daily Bugle'' is a regular fixture in the [[Marvel Universe]], most prominently in [[Spider-Man]] comic titles and their derivative media. The newspaper first appeared in the [[Human Torch (android)|Human Torch]] story in ''[[Marvel Mystery Comics]]'' #18 (April [[1941 in comics|1941]]), returned in ''[[Fantastic Four]]'' #2 (Jan. [[1962 in comics|1962]]), and its offices first shown in ''[[The Amazing Spider-Man]]'' #1 (March [[1963 in comics|1963]]). The ''Daily Bugle'' was first featured on film in the 2002 film ''[[Spider-Man (2002 film)|Spider-Man]]''. The fictional newspaper is meant to be a [[pastiche]] of both the New York ''[[Daily News (New York)|Daily News]]'' and the ''[[New York Post]]'', two popular real-life New York City [[Tabloid (newspaper format)|tabloid]]s.
+
+The outlet appears in [[Sam Raimi]]'s [[Spider-Man (2002 film series)|''Spider-Man'' trilogy]] (2002–07), [[Marc Webb]]'s [[The Amazing Spider-Man (film series)|''The Amazing Spider-Man'' duology]] (2012–14) and [[Sony's Spider-Man Universe]] (2018–present). The agency is reimagined as a sensationalist news website in the [[Marvel Cinematic Universe]] (MCU) [[List of Marvel Cinematic Universe films|films]] ''[[Spider-Man: Far From Home]]'' (2019) and ''[[Spider-Man: No Way Home]]'' (2021), and [[web series]] ''[[The Daily Bugle (web series)|The Daily Bugle]]'' (2019–present), headlined by [[J. K. Simmons]] and [[Angourie Rice]] as [[J. Jonah Jameson (Marvel Cinematic Universe)|J. Jonah Jameson]] and [[Betty Brant (Marvel Cinematic Universe)|Betty Brant]] and Nicque Marina.
+
+==Publishing history==
+The ''Daily Bugle'' is featured prominently in many Marvel Comics titles, especially those in which [[Spider-Man]] is the lead character. In [[1996 in comics|1996]], a three-issue (black and white) limited series was printed.
+
+Since [[2006 in comics|2006]], Marvel has published a monthly ''Daily Bugle'' newspaper reporting on the company's publications and authors. Marvel earlier used the newspaper format to promote Marvel's crossover events ''[[Civil War (comic book)|Civil War]]'' and ''[[House of M]]''—reporting on storyline events as if the comic book ''Daily Bugle'' had come to life. Marvel restored this promotional function for the [[2007 in comics|2007]] death of [[Captain America]].
+
+==Fictional History==
+The ''Daily Bugle'' was founded in 1898 and has been published daily ever since. The ''Daily Bugle'' is printed in tabloid format like its rival the ''Daily Globe''. The editor and publisher of the ''Bugle'', [[J. Jonah Jameson]], began his journalistic career as a reporter for the ''Bugle'' while still in high school. Jameson purchased the then-floundering ''Bugle'' with inheritance funds, from his recently deceased father-in-law and turned the paper into a popular success. Other magazines published from time-to-time include the revived ''Now'' magazine and the now-defunct ''Woman'' magazine, edited by [[Carol Danvers]].
+
+J. Jonah Jameson, Inc. purchased the Goodman Building on [[39th Street (Manhattan)|39th Street]] and [[Second Avenue (Manhattan)|Second Avenue]] in 1936 and moved its entire editorial and publishing facilities there.<ref name="mnyc">{{cite book | last = Sanderson | first = Peter | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 36–39 | isbn = 978-1-4165-3141-8}}</ref> Now called the Daily Bugle Building, the office complex is forty-six stories tall, and is capped by the ''Daily Bugle'' logo in {{convert|30|ft|m|adj=on}} letters on the roof. There are loading docks in the rear of the building, reached by a back alley. Three floors are devoted to the editorial office of the ''Bugle'' and two sub-basement levels to the printing presses, while the rest of the floors are rented. (A panel in #105 of ''[[The Amazing Spider-Man]]'' showed the ''Bugle'' building located near a street sign at the corner of [[Madison Avenue (Manhattan)|Madison Avenue]] and a street in the East Fifties (the second digit was not shown). This suggests that the building may have been relocated at some point.)
+
+The newspaper is noted for its anti-[[superhero]] slant, especially concerning [[Spider-Man]], whom the paper constantly smears as a part of its editorial policy. However, the Editor-in-Chief, "Robbie" Robertson, the only subordinate to Jameson who is not intimidated by him, has worked to moderate it. More positively, the newspaper has also published important exposés of political corruption and organized crime in the city, and also takes a strong stance in favor of [[Mutant (Marvel Comics)|mutant rights]], which has led to its being targeted by various criminals and hate groups.
+
+Due to declining circulation, Jameson has conceded to Robertson's objections and has created a special feature section of the paper called ''[[The Pulse (comics)|The Pulse]]'', which focuses on superheroes. In addition, the paper also intermittently ran a [[glossy magazine]] called ''Now Magazine''.
+
+Soon after the team's formation, the [[The New Avengers (comics)|New Avengers]] decided to strike a deal with Jameson regarding exclusive content in exchange for removing the strong anti-Spider-Man sentiment from the newspaper, to which Jameson agreed. Merely one day later, Jameson broke the spirit (though not the letter) of his agreement with [[Iron Man]], using the headline "''a wanted murderer'' ([[Wolverine (character)|Wolverine]]), ''an alleged ex-member of a terrorist organization'' ([[Spider-Woman (Jessica Drew)|Spider-Woman]]) ''and a convicted heroin-dealer'' ([[Luke Cage]]) ''are just some of the new recruits set to bury the once good name of the [[Avengers (comics)|Avengers]],''" but refraining from attacking Spider-Man. This prompted [[Jessica Jones]] to sell the first pictures of her newborn baby to one of the ''Bugle'''s competitors instead.
+
+In the first issue of [[Runaways (comics)|''Runaways'' vol. 2]], [[Victor Mancha]] states in an exchange about Spider-Man that ''"The only people who think he's a criminal are [[Fox News Channel|Fox News]] and the ''Daily Bugle''. And the ''Bugle'' is, like, the least respected newspaper in New York City."'' The paper's major named competitors are the ''Daily Globe'', which implicitly takes a more balanced look at the superhero, ''Front Line'', run by EIC [[Ben Urich]] and [[Sally Floyd (comics)|Sally Floyd]], and ''The Alternative''. After Peter Parker revealed he is Spider-Man and the ''Bugle'' planned to sue him for fraud, the paper itself was put on the defensive with front page accusations from ''The Globe'' (with information secretly supplied by ''Bugle'' reporter [[Betty Brant]]) of [[defamation|libel]]ing the superhero.
+
+The adventures of the staff of the newspaper beyond Peter Parker have been depicted in two series, ''Daily Bugle'' and ''The Pulse''.
+
+===''The DB''===
+<!-- Deleted image removed: [[File:TheDB.jpg|thumb|upright|The ''DB'' building, from<br>''[[The Amazing Spider-Man]]'' No. 555 (2008)<br>Art by [[Chris Bachalo]].]] -->
+After Jameson suffered a near-fatal heart attack, his wife sold the ''Bugle'' to rival newspaper man [[Dexter Bennett]], who changed the name to '''The DB''' (either standing for Dexter Bennett or ''Daily Bugle''), and transformed it into a [[scandal sheet]].<ref name="Burned!"/> Since after ''Brand New Day'' no one knows the secret identity of Spider-Man anymore, the animosity between Jameson and Parker is [[Retroactive continuity|retconned]] as a simple financial question, with Jameson's heart attack coming right after a monetary request from Peter.
+
+The reputation of the DB since the mention in Runaways has plummeted down because of the new, scandalistic angle Bennett gives it. Several reporters unwilling, or refusing the new course, like Peter himself, are forced to go away, finding a new safe haven in the ''[[#Front Line|Front Line]]'', the only magazine willing to accept people fired by Bennett, pursuing a ''scorched earth'' policy over them.
+
+The villain [[Electro (Marvel Comics)|Electro]] targeted Dexter Bennett because of a government bailout plan for the financially strapped paper. Spider-Man intervened, and during a battle inside the DB offices, the entire building was demolished, bringing an end to the newspaper as well.<ref name="Power to the People Part 3">''The Amazing Spider-Man'' #614</ref>
+
+===''Front Line''===
+'''Front Line''' was a newspaper founded and run by [[Ben Urich]] and [[Sally Floyd (comics)|Sally Floyd]]. The organization was formed in ''[[Civil War: Front Line]]'' #11 as '''Frontlines.com'''. The newspaper appeared in the miniseries ''[[World War Hulk: Front Line]]'' and ''[[Siege (comics)|Siege]]: Embedded''. Originally it was not competitive with the ''Daily Bugle'' while Jameson was still in charge, but it became an alternative view to ''The DB'' once Bennett took control.
+
+===Reborn===
+Sometime after the DB's destruction, Jameson, now the mayor of New York cashed in the DB shares he acquired from Bennett and gave the money to Robbie Robertson. Jameson asked Robertson to remake ''Front Line'' (which itself was on hard times) into the new ''Daily Bugle''.<ref>''The Amazing Spider-Man'' #648</ref>
+
+==Fictional staff members==
+
+===Current===
+{{div col|colwidth=40em}}
+*'''[[Betty Brant]]''' (reporter), Secretary (formerly)<ref name="AmSp4">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[Steve Ditko]] | Inker = [[Steve Ditko]] | Story = Nothing Can Stop... the Sandman | Title = The Amazing Spider-Man | Issue = #4 | Date = Sept. 1963 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Abner Abernathy'''<ref name="MarvTU115">{{Cite comic | Writer = [[J. M. DeMatteis]] | Penciller =  [[Mike Esposito (comics)|Mike Esposito]] & [[Herb Trimpe]] | Inker = [[Mike Esposito (comics)|Mike Esposito]] | Story = Dichotomies | Title = Marvel Team-Up | Issue = #155 | Date = March 1982 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Tom Amos''' (reporter)<ref name="MarVis21">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = 21 | Date = September 1997 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*[[Alejandro Arbona]] (copy editor)<ref name="FallenSonDB">{{Cite comic | Writer = [[Ed Brubaker]] | Penciller =   [[Steve Epting]] | Inker = unknown | Story = Daily Bugle: Captain America Assassinated | Title = Civil War: Fallen Son Daily Bugle Special | Issue = #1 | Date = May 2007 | Publisher = [[Marvel Comics]] }}</ref> – based on an actual person
+*'''Johanna Audiffred''' (Jeff Suter's assistant)<ref name="FallenSonDB"/>
+*'''Connor Austen''' (reporter)<ref name="DBCivWarSp">{{Cite comic | Writer = unknown | Penciller = unknown | Inker = unknown | Story = Civil War | Title = Daily Bugle Civil War Newspaper Special | Issue = #1 | Date = Sept. 2006 | Publisher = [[Marvel Comics]] }}</ref> – attended SHIELD press conference
+*'''Chris Baiocchi''' (staff writer)<ref name="DBCivWarSp"/> – interviewed Tony Stark
+*'''John Barber''' (copy editor)<ref name="DBCivWarSp"/>
+*'''Ron Barney''' (reporter)<ref name="MarVis14">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #14 | Date = Feb. 1997 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen.
+*'''Joe Bazooka''' (reporter)<ref name="MarVis10">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #10 | Date = Oct. 1996 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen.
+*'''Noel Beckford''' (reporter)<ref name="AmSpDevDi98">{{Cite comic | Writer = [[Tom DeFalco]] | Penciller = [[Tom Lyle]] | Inker = [[Robert Jones (comics)|Robert Jones]] | Story = Duel with Devil Dinosaur | Title = Amazing Spider-Man/Devil Dinosaur '98 | Issue = #1 |date = 1998 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Aaron "Abe" Benerstein''' (film critic)<ref name="SpMTangWeb20">{{Cite comic | Writer = [[Zeb Wells]] | Penciller = [[Dean Haspiel]] | inker = [[Dean Haspiel]] | Story = behind the Mustache | Title = Spider-Man's Tangled Web | Issue = #20 | Date = Jan. 2003 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Mike Berino Bering''' (reporter)<ref name="MarVis14"/> – Named but yet to be seen.
+*'''Miriam Birchwood''' (gossip columnist)<ref name="MarH&L">{{Cite comic | Writer = [[Stan Lee]] & [[Fabian Nicieza]] | Penciller =  [[John Buscema]], [[Sal Buscema]], [[Gene Colan]], [[Steve Ditko]], [[Ron Frenz]], [[John Romita Sr]] & [[Marie Severin]] | Inker = [[Terry Austin (comics)|Terry Austin]], [[Al Milgrom]], [[Tom Palmer Sr]], [[Bill Reinhold]], [[Marie Severin]] & [[Joe Sinnott]] | Story = For Better and For Worse | Title = Marvel: Heroes & Legends | Issue = #1 | Date = Oct. 1996 | Publisher = [[Marvel Comics]] }}</ref> – Attended [[Mister Fantastic|Reed]] and [[Invisible Woman|Sue Richards]]' wedding.
+*'''Phil Bostwich''' (reporter)<ref name="MarVis29">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #29 | Date = May 1998 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen.
+*[[Tom Brevoort]] (executive editor)<ref name="DBCivWarSp"/> – based on actual person
+*'''Kenny Brown'''<ref name="Annex1">{{Cite comic | Writer = [[Jack C. Harris]] |Penciller = [[Walter McDaniel]] | Inker = [[Matt Banning]] & [[Scott Koblish]] | Story = Crucible of Power Part 1: Enemy Unknown | Title = Annex | Issue = #1 | Date = Aug. 1994 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Blaine Browne''' (reporter)<ref name="SpecSp120">{{Cite comic | Writer = [[Bill Mantlo]] | Penciller = [[Keith Giffen]] | Inker = [[Vince Colletta]] | Story = A House is Not a Home | Title = The Spectacular Spider-Man vol. 2 | Issue = #120 | Date = Nov. 1986 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Isabel Bunsen (Marvel Comics)|Isabel "Izzy" Bunsen]]''' (science editor)<ref name="SpecSM124">{{Cite comic | Writer = [[Roger McKenzie (comics)|Roger McKenzie]] | Penciller =  [[Greg LaRocque]] | Inker = [[Art Nichols (comics)|Art Nichols]] | Story = When Strikes the Octopus | Title = The Spectacular Spider-Man vol. 2 | Issue = #124 | Date = March 1987 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Ed Brubaker]]''' (reporter)<ref name="FallenSonDB"/> – based on actual person, co-wrote report of Captain America's assassination with Kat Farrell.
+*'''Dan Buckley''' (J. Jonah Jameson's assistant)<ref name="DBCivWarSp"/>
+*'''Marge Butler''' (Receptionist)<ref name="SpMUn13">{{Cite comic | Writer = [[James Felder]]  | Penciller = [[Joe Bennett (artist)|Joe Bennett]] | inker = [[Randy Emberlin]], [[Al Milgrom]] & [[Steve Montano (comics)|Steve Montano]] | Story = The Sting of Conscience | Title = Spider-Man Unlimited | Issue = #13 | Date = Aug. 1996 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Harrison Cahill''' (chairman of the board)<ref name="AmSp198">{{Cite comic | Writer = [[Marv Wolfman]] | Penciller = [[Sal Buscema]] | Inker = [[Jim Mooney]] | Story = Mysterio is Deadlier by the Dozen | Title = The Amazing Spider-Man | Issue = #198 | Date = Nov. 1979 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Ken Clarke''' (reporter)<ref>''UK Spider-Man'' Annual 1982</ref>
+*'''George Clum''' (theater critic)<ref name="AmSp207">{{Cite comic | Writer = [[Denny O'Neil]] | Penciller = [[Jim Mooney]] | Inker = [[Pablo Marcos]] | Story = Mesmero's Revenge | Title = The Amazing Spider-Man | Issue = #207 | Date = Aug. 1980 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Ksitigarbha "Miss Kay" Cohn''' (reporter)<ref name="SpMTangWeb11">{{Cite comic | Writer = [[Darwyn Cooke]] | Penciller = [[Darwyn Cooke]] | inker = [[J Bone]] | Story = Open All Night | Title = Spider-Man's Tangled Web | Issue = #11 | Date = April 2002 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Peggy Collins''' (Intern)<ref name="SpMFamv2-2">{{Cite comic | Writer = [[Paul Benjamin (comics)|Paul Benjamin]] & [[Sean McKeever]]  | Penciller = [[Kano (comics)|Kano]] & [[Vasilis Lolos]] | inker = [[Kano (comics)|Kano]] & [[Vasilis Lolos]] | Story = Undone | Title = Spider-Man Family | Date = June 2007 | Publisher = [[Marvel Comics]]/[[Columbia Pictures]] }}</ref>
+*'''Cole Cooper''' (photographer)<ref>''Web of Spider-Man'' #113</ref>
+*'''[[Kathryn Cushing (Marvel Comics)|Kathryn "Kate" Cushing]]''' (city editor)<ref>''Web of Spider-Man'' #5</ref>
+*'''Vickie Danner''' (Washington DC liaison)<ref name="SpMArac3">{{Cite comic | Writer = [[Mike Lackey]]  | Penciller = [[Andrew Wildman]] | inker = [[Stephen Baskerville]] | Story = Jury Rigged | Title = Spider-Man: The Arachnis Project | Issue = #3 | Date = Oct. 1994 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Peter David]]''' (reporter)<ref name="DBCivWarSp"/> – based on actual person
+*'''Dan Davis''' (reporter)<ref name="CapAmAnn99">{{Cite comic | Writer = [[Joe Casey]] | Penciller = [[Pablo Raimondi]] | Inker = [[Walden Wong]] | Story = Full Court Press | Title = ''Captain America'' '99 | Issue = #1 |date = 1999 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Albert Jack Dickinson''' (reporter)<ref name="Deadl1">{{Cite comic | Writer = [[Bill Rosemann]] | Penciller = [[Guy Davis (comics)|Guy Davis]] | Inker = [[Guy Davis (comics)|Guy Davis]] | Story = Deadline | Title = Deadline | Issue = #1 | Date = June 2002 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Nick Dillman''' (reporter)<ref name="DD71">{{Cite comic | Writer = [[Roy Thomas]] | Penciller = [[Gene Colan]] | Inker = [[Syd Shores]] | Story = If An Eye Offends Thee... | Title = Daredevil | Issue = #71 | Date = Dec. 1970 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Herman Donaldson''' (fact checker)<ref name="AmSp192">{{Cite comic | Writer = [[Marv Wolfman]] | Penciller = [[Keith Pollard]] | Inker = [[Jim Mooney]] | Story = 24 Hours Till Doomsday | Title = The Amazing Spider-Man | Issue = #192 | Date = May 1979 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Kim Drunter''' (financial reporter)<ref name="AmSp349">{{Cite comic | Writer = [[David Michelinie]] | Penciller = [[Erik Larsen]] | Inker = [[Randy Emberlin]] | Story = Man of Steal | Title = The Amazing Spider-Man | Issue = #349 | Date = July 1991 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Rich DuFour''' (reporter)<ref name="DD242">{{Cite comic | Writer = [[Ann Nocenti]] | Penciller = [[Keith Pollard]] | Inker = [[Danny Bulanadi]] | Story = Cavier Killer | Title = Daredevil | Issue = #242 | Date = May 1987 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Sam Dunne''' (national editor)<ref name="CapAmAnn99"/>
+*'''Anthea Dupres''' (reporter)<ref name="ClanD7">{{Cite comic | Writer = [[Alan Davis]] | Penciller = [[Alan Davis]] | Inker = [[Mark Farmer]] | Story = Real Heroes | Title = ClanDestine | Issue = #7 | Date = April 1995 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Edwin E. Edwards''' (photographer)<ref name="SpMTangWeb11"/>
+*'''Ken Ellis''' (reporter)<ref>''Web of Spider-Man'' #118</ref> – dubbed the [[Scarlet Spider]]... the Scarlet Spider.
+*'''[[Christine Everhart]]'''<ref>''Iron Man'' vol. 3 #75</ref>
+*'''[[Steve Epting]]''' (photographer)<ref name="CapAmv5-25">{{Cite comic | Writer = [[Ed Brubaker]] | Penciller = [[Steve Epting]] | Inker = [[Steve Epting]] | Story = The Death of the Dream Part 1 | Title = Captain America vol. 5 | Issue = #25 | Date = April 2007 | Publisher = [[Marvel Comics]] }}</ref> – Based on the comic book artist<ref>[http://www.marvel.com/news/comicstories.392 Daily Bugle: Captain America shot and killed] {{webarchive|url=http://arquivo.pt/wayback/20091001200333/http://www.marvel.com/news/comicstories.392 |date=October 1, 2009 }}</ref>
+*'''Mark Ewing''' (reporter)<ref name="Cons1">{{Cite comic | Writer = [[Dan Abnett]] | Penciller = [[Igor Kordey]] | Inker = none | Story = Book One: Show & Tell | Title = Conspiracy | Issue = #1 | Date = Feb. 1998 | Publisher = [[Marvel Comics]] }}</ref> – Investigated the alleged conspiracy involving the group Control
+*'''Samuel Exmore''' (apprentice editor)<ref name="PPSpM11">{{Cite comic | Writer = [[Howard Mackie]] | Penciller =  [[John Romita Jr]] | Inker = [[Scott Hanna]] | Story = An Exemplary Day | Title = Peter Parker: Spider-Man | Issue = #11 | Date = Nov. 1999 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Tony Falcone''' (copy writer)<ref name="AmSp254">{{Cite comic | Writer = [[Tom DeFalco]] | Penciller = [[Rick Leonardi]] | Inker = [[Joe Rubenstein]] | Story = With Great Power... | Title = The Amazing Spider-Man | Issue = #254 | Date = July 1984 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Debby Ferraro'''<ref name="SpM33">{{Cite comic | Writer = [[Steven Grant]] | Penciller = [[Bob McLeod (comics)|Bob McLeod]] | Inker = [[Bob McLeod (comics)|Bob McLeod]] | Story = Vengeance Part 2 | Title = Spider-Man | Issue = #33 | Date = April 1993 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Nicholas Finch''' (reporter)<ref name="DD230">{{Cite comic | Writer = [[Frank Miller]] | Penciller = [[David Mazzucchelli]] | Inker = [[David Mazzuchelli]] | Story = Born Again | Title = Daredevil | Issue = #230 | Date = May 1986 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Bob Fisck''' (political correspondent)<ref name="DBCivWarSp"/> – interviewed Valerie Cooper
+*'''Sid Franken''' (reporter)<ref name="CapAmAnn99"/>
+*'''Colm Glover''' (reporter)<ref name="MarVis34">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #34 | Date = Oct. 1998 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''Tim Gluohy''' (reporter)<ref name="MarVis15">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #15 | Date = March 1997 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen.
+*'''Melvin Gooner''' (reporter)<ref name="SpM8">{{Cite comic | Writer = [[Todd McFarlane]] | Penciller = [[Todd McFarlane]] | Inker = [[Todd McFarlane]] | Story = Perceptions Part 1 | Title = Spider-Man | Issue = #8 | Date = March 1991 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Glory Grant]]''' (Administrative Assistant)<ref name="AmSp140">{{Cite comic | Writer = [[Gerry Conway]] | Penciller =  [[Ross Andru]] | Inker = [[Frank Giacoia]] | Story = ...And One Will Fall | Title = The Amazing Spider-Man | Issue = #140 | Date = Jan. 1975 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Justin Gray]]''' (reporter)<ref name="DBCivWarSp"/> – based on actual person
+*'''[[Marc Guggenheim]]''' (reporter)<ref name="DBCivWarSp"/> – based on actual person
+*'''Banning Gumpart'''<ref name="DD16">{{Cite comic | Writer = [[Brian Michael Bendis]] | Penciller = [[David W. Mack|David Mack]] | Inker = [[Mark Morales (artist)|Mark Morales]] | Story = Wake Up Part 1 | Title = Daredevil vol. 2 | Issue = #16 | Date = May 2001 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Toni Harris''' (apprentice editor)<ref name="PPSpM1">{{Cite comic | Writer = [[Howard Mackie]] | Penciller =  [[John Romita Jr]] | Inker = [[Scott Hanna]] & [[JImmy Palmiotti]] | Story = Power Without Responsibility | Title = Peter Parker: Spider-Man | Issue = #1 | Date = Jan. 1999 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Matt Hicksville''' (reporter)<ref name="MarVis21"/> – Named but yet to be seen
+*'''David Hine''' (reporter)<ref name="DBCivWarSp"/>
+*'''Jean-Paul Hoffman'''<ref name="Spmanmovie">{{Cite comic | Writer = [[David Koepp]] & [[Alvin Sargent]]  | Title = Spider-Man (2002 film) | Date = May 2002 | Publisher = [[Marvel Comics]]/[[Columbia Pictures]] }}</ref>
+*'''Russ Holmes'''<ref name="CivilWarFront6">{{Cite comic | Writer = [[Paul Jenkins (writer)|Paul Jenkins]] | Penciller = [[Ramon F Bachs]] | Inker = [[John Lucas (comics)|John Lucas]] | Story = Embedded Part 6 | Title = Civil War: Front Line | Issue = #6 | Date = Nov. 2006 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Edward Holt''' (purchasing officer)<ref name="PunWarJ15">{{Cite comic | Writer = [[Carl Potts]] | Penciller =  [[Dave Ross (comics)|Dave Ross]] | Inker = [[Russ Heath]] | Story = Headlines | Title = The Punisher War Journal | Issue = #15 | Date = Feb. 1990 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Matt Idelson''' (reporter)<ref name="MarVis8">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #8 | Date = Aug. 1996 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''Max Igoe''' (sports writer)<ref name="PPSpMElek">{{Cite comic | Writer = Jack Morelli | Penciller = Joyce Chen | Inker = Andy Lanning| Story = The Night They Killed Big Bear | Title = Peter Parker: Spider-Man/Elektra '98 | Issue = #1 |date = 1998 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Frank Janson''' (rewrite editor)<ref name="DD230"/>
+*'''Hal Jerkins''' (typesetter)<ref name="AmSp178">{{Cite comic | Writer = [[Len Wein]] | Penciller = [[Ross Andru]] | Inker = [[Jim Mooney]] | Story = Green Grows the Goblin | Title = The Amazing Spider-Man | Issue = #178 | Date = March 1978 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Bud Johnson''' (page designer)<ref name="SpMTangWeb20"/>
+*'''Charles Jones''' (member of the board of directors)<ref name="AmSp198"/>
+*'''[[Phantom Reporter|Richard Jones (Phantom Reporter)]]'''<ref name="The Twelve #3">''The Twelve'' #3</ref> – offer a job as a reporter
+*'''David L. Kanon''' (photographer)<ref name="SpMFamv2-2"/>
+*'''Richard "Dick" Katrobousis''' (editor)<ref>''UK Spider-Man'' Annual (1982)</ref>
+*'''Steve Keene''' (accountant)<ref>''UK Spider-Man'' Annual (1982)</ref>
+*'''Samuel Kingston''' (syndicated columns editor)<ref name="The Twelve #3"/> – offered Phantom Reporter a job because of his "unique" perspective.
+*'''[[Stan Lee|Lee]] "Your Man at the Bugle" [[Jack Kirby|Kirby]]''' (Entertainment Writer), based on actual persons<ref name="DBCivWarSp"/>
+*'''Richard "Andy" Lessman''' (reporter)<ref name="AmSp191">{{Cite comic | Writer = [[Marv Wolfman]] | Penciller = [[Keith Pollard]] | Inker = [[Mike Esposito (comics)|Mike Esposito]] | Story = Wanted for Murder: Spider-Man | Title = The Amazing Spider-Man | Issue = #191 | Date = April 1979 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Yusef Lichtenstein''' (editor)<ref name="DD230"/>
+*'''Maggie Lorca''' (reporter)<ref name="SpM29">{{Cite comic | Writer = [[Ann Nocenti]] | Penciller = [[Chris Marrinan]] | Inker = [[Sam DeLarosa]] | Story = Return of the Mad Dog Ward Part 1: Hope and Other Liars | Title = Spider-Man | Issue = #29 | Date = Dec. 1992 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Nick Lowe''' (entertainment editor)<ref name="DBCivWarSp"/>
+*'''Judy Lumley''' (society & fashion editor)<ref name="PPSpM3">{{Cite comic | Writer = [[Howard Mackie]] | Penciller =  [[John Romita Jr]] | Inker = [[Scott Hanna]] | Story = Eyewitness | Title = Peter Parker: Spider-Man | Issue = #3 | Date = March 1999 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Karen Lynch'''<ref name="CivilWarFront7">{{Cite comic | Writer = [[Paul Jenkins (writer)|Paul Jenkins]] | Penciller = [[Ramon F Bachs]] | Inker = [[John Lucas (comics)|John Lucas]] | Story = Embedded Part 7 | Title = Civil War: Front Line | Issue = #7 | Date = Dec. 2006 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Eileen Lutomski''' (proofreader)<ref name="SpMTangWeb20"/>
+*'''Ann MacIntosh''' (columnist and classified editor)<ref name="AmSpAnn18">{{Cite comic | Writer = [[Tom DeFalco]] & [[Stan Lee]] | Penciller = [[Ron Frenz]] | Inker = [[Jackson Guice]] & [[Bob Layton Sr]] | Story = The Scorpion Takes a Bride! (But Not the Way You Think) | Title = The Amazing Spider-Man Annual | Issue = #18 |date = 1984 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Jerome Maida''' (reporter)<ref name="DBCivWarSp"/>
+*'''Midge Marder''' (editor)<ref>''X-Man'' #21 (1996)</ref>
+*'''Ralfie Markarian''' (reporter)<ref>''X-Man'' #26 (1997)</ref>
+*'''Michael Marts''' (reporter)<ref name="MarVis6">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #6 | Date = June 1996 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''Tom Marvelli''' (Art Director)<ref name="DBCivWarSp"/>
+*'''Mike Mayhew''' (photographer)<ref name="DBCivWarSp"/>
+*'''Maggie McCulloch''' (chief librarian)<ref name="MarvTU83">{{Cite comic | Writer = [[Chris Claremont]] | Penciller =  [[Sal Buscema]] | Inker = [[Steve Leialoha]] | Story = Slaughter on 10th Avenue | Title = Marvel Team-Up | Issue = #83 | Date = July 1979 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Jim Mclaughlin''' (reporter)<ref name="DBCivWarSp"/>
+*'''Patrick McGrath''' (Graphic Designer)<ref name="DBCivWarSp"/> – Based on a real person
+*'''[[Joy Mercado]]''' (reporter)<ref name="MoonK33">{{Cite comic | Writer = [[Doug Moench]] | Penciller =  [[Kevin Nowlan]] | Inker = [[Brent Eric Anderson]], [[Joe Chiodo]], [[Carl Potts]] & [[Bill Sienkiewicz]] | Story = Exploding Myths | Title = Moon Knight | Issue = #33 | Date = Sept. 1983 | Publisher = [[Marvel Comics]] }}</ref> – A tough, intelligent, sassy investigative reporter, a friend of Peter Parker who may suspect he is really [[Spider-Man]].
+*'''[[Clifford Meth]]''' (reporter)<ref name="DBCivWarSp"/> – interviewed Tony Stark and Wasp
+*'''Dawn Michaels''' (investigative reporter)<ref name="Hulk10">{{Cite comic | Writer = unknown | Penciller = unknown | Inker = unknown | Story = unknown | Title = Hulk! | Issue = #10 | Date = August 1978 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Harvey Michaelson''' (reporter)<ref name="AmSp196">{{Cite comic | Writer = [[Marv Wolfman]] | Penciller = [[Allen Milgrom]] | Inker = [[Jim Mooney]] & [[Frank Giacoia]] | Story = Requiem | Title = The Amazing Spider-Man | Issue = #196 | Date = Sept. 1979 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Kirk Morello''' (reporter)<ref name="DBCivWarSp"/> – interviewed [[Misty Knight]] & [[Colleen Wing]]
+*'''Daniel Morton''' (photographer)<ref name="DD230"/>
+*'''Terry Morrow''' (staff writer)<ref name="DBCivWarSp"/>
+*'''Danny Nasimoff''' (night editor)<ref name="AmSp243">{{Cite comic | Writer = [[Roger Stern]] | Penciller = [[John Romita Jr]] | Inker = [[Dave Simons]] | Story = Options | Title = The Amazing Spider-Man | Issue = #243 | Date = Aug. 1983 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Jim Nausedas''' (Jeff Suter's assistant)<ref name="FallenSonDB"/>
+*'''Ben O'Malley''' (freelance writer)<ref name="DBCivWarSp"/> – wrote article on Super-Hero imitation
+*'''Sean O'Reilly''' (reporter)<ref>''White Tiger'' #3</ref>
+*''' Marge O'Toole'''<ref name="SpMUn13"/>
+*'''Bill Oakley''' (reporter)<ref name="DD242"/>
+*'''Jan Parsec''' (reporter)<ref name="MarVis25">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = 25 | Date = Jan. 1998| Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''Trevor Parsons''' (reporter)<ref>''White Tiger'' #3 (March 2006)</ref>
+*'''Victor Paunchilito''' (Reporter/Columnist)<ref name="AmSp223">{{Cite comic | Writer = [[J. M. DeMatteis]] & [[Denny O'Neil]] | Penciller = [[John Romita Jr]] | Inker = [[Al Milgrom]] | Story = Fusion! | Title = The Amazing Spider-Man | Issue = #223 | Date = Dec. 1981 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Victor Pei''' (assistant photography editor)<ref name="SpM3">{{Cite comic | Writer = [[Todd McFarlane]] | Penciller = [[Todd McFarlane]] | Inker = [[Todd McFarlane]] | Story = Torment Part 3 | Title = Spider-Man | Issue = #3 | Date = Dec. 1992 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Suzie Pelkey''' (receptionist)<ref name="DD242"/>
+*'''[[Ryan Penagos]]''' (reporter)<ref name="FallenSonDB"/> – based on actual person, interviewed Tony Stark and David Purdin.
+*'''Robert Pitney''' (typesetter)<ref name="OmegaUnk5">{{Cite comic | Writer = [[Steve Gerber]] & [[Mary Skrenes]] | Penciller =  [[Jim Mooney]] | Inker = [[Jim Mooney]] | Story = Through the Rat Hole – Into the Cat's Lair | Title = Omega the Unknown | Issue = #5 | Date = Nov. 1976 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Bill Price''' (reporter)<ref name="CivilWarFront8">{{Cite comic | Writer = [[Paul Jenkins (writer)|Paul Jenkins]] | Penciller = [[Ramon F Bachs]] | Inker = [[John Lucas (comics)|John Lucas]] | Story = Embedded Part 8 | Title = Civil War: Front Line | Issue = #8 | Date = Jan. 2007 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Gus Qualen''' (photographer)<ref name="AmSp230">{{Cite comic | Writer = [[Roger Stern]] | Penciller = [[John Romita Jr]] | Inker = [[Jim Mooney]] | Story = To Fight the Unbeatable Foe | Title = The Amazing Spider-Man | Issue = #230 | Date = July 1982 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Joe Quesada]]''' (Joe Robertson's assistant)<ref name="DBCivWarSp"/> – based on actual person
+*'''David Rabinowitz''' (reporter)<ref name="AmSp187">{{Cite comic | Writer = [[Jim Starlin]] & [[Marv Wolfman]] | Penciller = [[Jim Starlin]] | Inker = [[Bob McLeod (comics)|Bob McLeod]] | Story = The Power of Electro | Title = The Amazing Spider-Man | Issue = #187 | Date = Dec. 1978 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Ralph Reddin''' (security guard)<ref name="CivilWarFront1">{{Cite comic | Writer = [[Paul Jenkins (writer)|Paul Jenkins]] | Penciller = [[Ramon F Bachs]] | Inker = [[John Lucas (comics)|John Lucas]] | Story = Embedded Part 1 | Title = Civil War: Front Line | Issue = #1 | Date = Aug. 2006 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Brian Reed''' (reporter)<ref name="DBCivWarSp"/> – based on actual person
+*'''Carl Reed-Duxfield''' (reporter)<ref name="SpM13">{{Cite comic | Writer = [[Todd McFarlane]] | Penciller = [[Todd McFarlane]] | Inker = [[Todd McFarlane]] | Story = Sub-City Part 1 | Title = Spider-Man | Issue = #13 | Date = Aug. 1991 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Tony Reeves''' (photographer)<ref name="SpMUn6">{{Cite comic | Writer = [[Tom DeFalco]]  | Penciller = [[Ron Lim]] | inker = [[James Sanders III]] & [[Fred Fredericks]] | Story = People Like Us | Title = Spider-Man Unlimited | Issue = #6 | Date = Aug. 1994 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Patrick Reynolds''' (reporter)<ref name="UK Spider-Man Annual 1982">''UK Spider-Man'' Annual (1982)</ref>
+*'''Jim Richardson'''<ref name="CivilWarFront6"/>
+*'''Kim Robinson'''<ref name="AmSp349"/>
+*'''[[Bill Rosemann]]''' (editor)<ref name="FallenSonDB"/> – based on actual person
+*'''Fabio Rossi''' (Advertising Salesman)<ref>''Web of Spider-Man'' #40</ref>
+*'''Mike Sangiocomo''' (correspondent)<ref name="DBCivWarSp"/>
+*'''[[Andy Schmidt]]''' (political editor)<ref name="DBCivWarSp"/> – based on an actual person
+*'''[[Cory Sedlmeier]]''' (photo editor)<ref name="DBCivWarSp"/> – based on actual person
+*'''Arnold Sibert''' (entertainment editor and movie critic)<ref name="SpMGathSinSix">{{Cite comic | Writer = unknown  | Penciller = unknown | inker = unknown | Story = unknown | Title = Spider-Man: The Gathering of the Sinister Six | Issue = #1 | Date = unknown | Publisher = [[Marvel Comics]] }}</ref> – became involved in opposing a plot of [[Mysterio]]
+*'''Joe Sidesaddle''' (reporter)<ref name="MarVis27">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #27 | Date = March 1998| Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''[[Warren Simons]]''' (sports editor)<ref name="DBCivWarSp"/> – based on actual person
+*'''Sanjay Sinclair''' (reporter)<ref name="CivilWarFront1"/>
+*'''[[Dan Slott]]''' (reporter)<ref name="DBCivWarSp"/> – based on actual person
+*'''Charles "Charley" Snow''' (reporter)<ref name="MarvTU79">{{Cite comic | Writer = [[John Byrne (comics)|John Byrne]] & [[Chris Claremont]] | Penciller =  [[John Byrne (comics)|John Byrne]] | Inker = [[Terry Austin (comics)|Terry Austin]] | Story = Sword of the She-Devil | Title = Marvel Team-Up | Issue = #79 | Date = March 1979 | Publisher = [[Marvel Comics]] }}</ref>
+*'''John Snow''' ([[White House]] Spokesperson)<ref name="DBCivWarSp"/>
+*'''Jeff Stern''' (reporter)<ref name="UK Spider-Man Annual 1982"/>
+*'''[[J. Michael Straczynski|J. Michael Straczinski]]''' (reporter)<ref name="DBCivWarSp"/> – based on actual person, worked for the Marvel Comics universe version of Marvel Comics.
+*'''[[Jeff Suter]]''' (Senior Art Director)<ref name="FallenSonDB"/> – based on actual person
+*'''Bill Tatters''' (reporter)<ref name="MarVis23">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #23 | Date = Nov. 1997 | Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''Leila Taylor''' (reporter)<ref name="CapAm139">{{Cite comic | Writer = [[Stan Lee]] | Penciller = [[John Romita Sr]] | Inker = [[John Romita Sr]] | Story = The Badge and the Betrayal | Title = Captain America | Issue = #139 | Date = July 1971 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Duke Thomas''' (reporter)<ref name="CivilWarFront1"/>
+*'''Wendy Thorton''' (sports columnist)<ref name="AmSp252">{{Cite comic | Writer = [[Tom DeFalco]] & [[Roger Stern]] | Penciller = [[Ron Frenz]] | Inker = [[Brett Breeding]] | Story = Homecoming | Title = The Amazing Spider-Man | Issue = #252 | Date = May 1984 | Publisher = [[Marvel Comics]] }}</ref>
+*Maury Toeitch (reporter)<ref name="MarVis26">{{Cite comic | Writer = [[Benny R. Powell]] | Title = Marvel Vision | Issue = #26 | Date = Feb. 1998| Publisher = [[Marvel Comics]] }}</ref> – Named but yet to be seen
+*'''Reginald Lance Toomey'''<ref name="SpMTangWeb11"/>
+*'''Dilbert Trilby''' (obituary writer)<ref name="SpMUn3">{{Cite comic | Writer = [[Tom DeFalco]]  | Penciller = [[Ron Lim]] | inker = [[James Sanders III]] | Story = An Obituary for Octopus | Title = Spider-Man Unlimited | Issue = #3 | Date = Nov. 1993 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Charlie Verreos''' (reporter)<ref name="AmSp230"/>
+*'''Bill Webb''' (photographer)<ref name="UK Spider-Man Annual 1982"/>
+*'''David Weiss''' (copy editor)<ref name="SpMUn3"/>
+*'''Sydney Weiss''' (reporter)<ref name="FallenSonDB"/>
+*'''[[Zeb Wells]]''' (reporter)<ref name="DBCivWarSp"/> – based on actual person
+*'''Jill Whyte-Blythe''' (reporter)<ref name="SpMTangWeb11"/>
+*'''Sarah Williams''' (photographer)<ref name="UK Spider-Man Annual 1982"/>
+*'''Spence Williams''' (Intern)<ref name="SpMTangWeb11"/>
+*'''Richard Wormly''' (editor-in-chief's assistant)<ref name="AmSp19">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[Steve Ditko]] | Inker = [[Steve Ditko]] | Story = Spidey Strikes Back | Title = The Amazing Spider-Man | Issue = #19 | Date = Dec. 1964 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Bill Xanthis''' (rewrite editor)<ref name="AmSp230"/>
+*'''Angela Yin''' (photographer)<ref name="SpecSM215">{{Cite comic | Writer = [[Tom DeFalco]] | Penciller = [[Sal Buscema]] | Inker = [[Sal Buscema]] | Story = The Predator and the Prey Part 1: The Monster Within | Title = The Spectacular Spider-Man vol. 2 | Issue = #215 | Date = Aug. 1994 | Publisher = [[Marvel Comics]] }}</ref> – Sister of the criminal [[Dragonfly (comics)|Dragonfly]]
+*'''Callum Broom''' (photographer)
+*'''Mickey Zimmer''' (photographer)<ref name="UK Spider-Man Annual 1982"/>
+*'''Lester''' (reporter)<ref name="marvhol07">{{Cite comic | Writer = [[Mike Carey (British writer)|Mike Carey]] | Penciller =  [[Nelson DeCastro|Nelson]] | Inker = [[Nelson DeCastro|Nelson]] | Story = The Meaning of Christmas | Title = Marvel Holiday Special 2007 | Issue = #1 | Date = Feb. 2008 | Publisher = [[Marvel Comics]] }}</ref>
+{{div col end}}
+
+===Former===
+{{div col|colwidth=40em}}
+*'''[[Dexter Bennett]]''' (Former owner)
+*'''[[J. Jonah Jameson]]''' (publisher)<ref name="AmSp1">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[Steve Ditko]] | Inker = [[Steve Ditko]] | Story = Spider-Man/Spider-Man vs. the Chameleon | Title = The Amazing Spider-Man | Issue = #1 | Date = March 1963 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Robbie Robertson (comics)|Joseph "Robbie" Robertson]]''' (Editor-in-Chief)<ref name="AmSp51">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[John Romita Sr]] | Inker = [[Mike Esposito (comics)|Mike Esposito]] | Story = In the Clutches of... The Kingpin | Title = The Amazing Spider-Man | Issue = #51 | Date = Aug. 1967 | Publisher = [[Marvel Comics]] }}</ref> – Presently the Editor-in Chief for ''Frontline''.
+*'''Nick Bandouveris''' (reporter)<ref name="Uncanny X-Men #339">''The Uncanny X-Men'' #339</ref> – Killed by [[Bastion (comics)|Bastion]];<ref name="Uncanny X-Men #339"/> his murder is the reason JJJ didn't take the Xavier files from Bastion
+*'''Lance Bannon''' (photographer)<ref name="AmSp208">{{Cite comic | Writer = [[Denny O'Neil]] | Penciller = [[John Romita Jr]] | Inker = [[Al Milgrom]] | Story = Fusion! | Title = The Amazing Spider-Man | Issue = #208 | Date = Sept. 1980 | Publisher = [[Marvel Comics]] }}</ref> – killed by [[F.A.C.A.D.E.]]<ref>''Web of Spider-Man'' #114</ref>
+*'''Eleanore Arlene Brant''' (Jameson's Former Secretary)<ref>''Untold Tales of Spider-Man'' #12</ref> – Betty's mother; put into coma<ref name="AmSp1"/>
+*'''Meredith Campbell''' (intern)<ref name="GreGob7">{{Cite comic | Writer = [[Tom DeFalco]] | Penciller = [[Scott McDaniel]] | Inker = [[Derek Fisher]] | Story = Slammed | Title = Green Goblin | Issue = #7 | Date = April 1996 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Jack "Flash Gun" Casey''' (Reporter circa 1940s)<ref name="HumanTComics4">{{Cite comic | Writer = unknown | Penciller = unknown | Inker = unknown | Story = unknown | Title = Human Torch Comics | Issue = #3 | Date = Spring 1941 | Publisher = [[Marvel Comics]]/[[Timely Comics]] }}</ref>
+*'''Jacob Conover''' (reporter)<ref name="DD131">{{Cite comic | Writer = [[Marv Wolfman]] | Penciller = [[Bob Brown (comics)|Bob Brown]] | Inker = [[Klaus Janson]] | Story = Watch Out for Bullseye, He Never Misses | Title = Daredevil | Issue = #131 | Date = March 1976 | Publisher = [[Marvel Comics]] }}</ref> – In jail after being revealed to be the criminal [[Rose (Marvel Comics)#Jacob Conover|Rose]]
+*'''[[Ethan Edwards|Ethan Edwards (Virtue/Tiller/Moral-Man)]]''' (reporter)<ref name="MKSpM13">{{Cite comic | Writer = [[Reginald Hudlin]] | Penciller =  [[Billy Tan]] | Inker = [[Jon Sibal]] | Story = Wild Blue Yonder Part 1 | Title = Marvel Knights: Spider-Man | Issue = #13 | Date = June 2005 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Kat Farrell|Katherine "Kat" Farrell]]''' (reporter)<ref name="Deadl1"/>
+*'''Ian Fate''' (reporter)<ref name="Def104">{{Cite comic | Writer = [[J. M. DeMatteis]] | Penciller = [[D David Perlin]] | Inker = [[Al Milgrom]] & [[Joe Sinnott]] | Story = Yesterday Never Dies | Title = The Defenders | Issue = #104 | Date = Feb. 1982 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Puma (comics)|Thomas Fireheart (Puma)]]''' (Owner)<ref name="AmSp256">{{Cite comic | Writer = [[Tom DeFalco]] | Penciller = [[Ron Frenz]] | Inker = [[Joe Rubenstein]] | Story = Introducing... Puma | Title = The Amazing Spider-Man | Issue = #256 | Date = Sept. 1984 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Frederick Foswell]]''' (reporter)<ref name="AmSp10">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[Steve Ditko]] | Inker = [[Steve Ditko]] | Story = The Enforcers | Title = The Amazing Spider-Man | Issue = #10 | Date = March 1964 | Publisher = [[Marvel Comics]] }}</ref> – Got fired from the ''Bugle'' then rehired again;<ref name="AmSp23">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[Steve Ditko]] | Inker = [[Steve Ditko]] | Story = The Goblin and the Gangsters | Title = The Amazing Spider-Man | Issue = #23 | Date = April 1965 | Publisher = [[Marvel Comics]] }}</ref> he later dies saving Spider-Man<ref name="AmSp52">{{Cite comic | Writer = [[Stan Lee]] | Penciller =  [[John Romita Sr]] | Inker = [[Mike Esposito (comics)|Mike Esposito]] | Story = To Die a Hero | Title = The Amazing Spider-Man | Issue = #52 | Date = Sept. 1967 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Phil Fox''' (reporter)<ref name="Hero4Hire4">{{Cite comic | Writer = [[Archie Goodwin (comics)|Archie Goodwin]] | Penciller = [[Billy Graham (comics)|Billy Graham]] | Inker = [[Syd Shores]] | Story = Cry Fear, Cry Phantom | Title = Luke Cage: Hero for Hire | Issue = #4 | Date = Dec. 1972 | Publisher = [[Marvel Comics]] }}</ref> – deceased
+*'''Cliff Garner''' (reporter)<ref name="Cons1"/><ref name="Inv3">{{Cite comic | Writer = [[Roy Thomas]] | Penciller = [[Frank RObbins]] | Inker = [[Vince Colletta]] | Story = Blitzkrieg at Bermuda | Title = The Invaders | Issue = #3 | Date = Nov. 1975 | Publisher = [[Marvel Comics]] }}</ref> – formerly of the [[United States Air Force|Air Force]], investigated the possible conspiracy of Control, slain by co-conspiracy theorist General Edward Harrison<ref name="Cons2">{{Cite comic | Writer = [[Dan Abnett]] | Penciller = [[Igor Kordey]] | Inker = none | Story = Book Two: Print the Legend | Title = Conspiracy | Issue = #2 | Date = March 1998 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Simon J. Goodman''' (publisher)<ref name="Marvels1">{{Cite comic | Writer = [[Kurt Busiek]] | Penciller = [[Alex Ross]] | Inker = [[Alex Ross]] |Story = A Time of Marvels |Title = Marvels | Issue = #1 | Date = Jan. 1994 | Publisher = [[Marvel Comics]] }}</ref> – publisher in the 1940s, name is probably a reference to [[Martin Goodman (publisher)|Martin Goodman]], first publisher of Marvel Comics.
+*'''William Walter Goodman''' (Owner/Publisher)<ref>''Web of Spider-Man'' #52</ref>
+*'''Irving Griffin'''<ref name="marvhol07"/>
+*'''Derek Gratham''' (intern)<ref name="GreGob7"/>
+*'''[[Mystique (comics)|Randy Green]]''' (reporter)<ref name="MsMarv16">{{Cite comic | Writer = [[Chris Claremont]] | Penciller =  [[Jim Mooney]] | Inker = [[Frank Springer]] | Story = The Deep Deadly Silence | Title = Ms Marvel | Issue = #16 | Date = April 1978 | Publisher = [[Marvel Comics]] }}</ref> – Mystique in disguise, seen working as a ''Daily Bugle'' reporter in ''X-Factor''
+*'''Amber Grant''' (freelance photographer)<ref name="OmegaUnkv2-5">{{Cite comic | Writer = [[Jonathan Lethem]] & [[Karl Rusnak]] | Penciller = [[Farel Dalrymple]] | Inker = [[Farel Dalrymple]] | Story = Chapter Five | Title = Omega the Unknown vol. 2 | Issue = #5 | Date = April 2006 | Publisher = [[Marvel Comics]] }}</ref> – made Peter Parker envious of her ability to tell off Jameson and still sell to him; current status unknown
+*'''Jeffrey Haight''' (photographer)<ref name="SpDrOcNegX1">{{Cite comic | Writer = [[Brian K Vaughan]] | Penciller = [[Staz Johnson]] | Inker = [[Danny Miki]] | Story = Negative Exposure Part 1 | Title = Spider-Man/Doctor Octopus: Negative Exposure | Issue = #1 | Date = Dec. 2003 | Publisher = [[Marvel Comics]] }}</ref> – former boyfriend of [[Anna Kefkin]], made alliance with [[Doctor Octopus|Dr. Octopus]] in desperate effort to gain a front-page photograph. Sent to prison for assisting in Dr. Octopus' escape.
+*'''Walter "Old Man" Jameson''' (Editor/Reporter)<ref name="SgtFury110">{{Cite comic | Story = The Reporter | Title = Sgt. Fury | Issue = #110 | Date = May 1973 | Publisher = [[Marvel Comics]] }}</ref> – Mistakenly assumed to be JJJ's father, David Jameson.
+*'''[[Jessica Jones]]''' (Superhero correspondent and consultant)<ref>''The Pulse'' #1 (April 2004)</ref> – Resigned after Jameson trashed then-boyfriend, [[Luke Cage]] in an article about the [[The New Avengers (comics)|New Avengers]]
+*'''Nick Katzenberg''' (reporter)<ref>''Web of Spider-Man'' #50</ref> – died of lung cancer<ref name="AmSp385">{{Cite comic | Writer = [[David Michelinie]] | Penciller = [[Mark Bagley]] | Inker = [[Randy Emberlin]] | Story = Rough Justice | Title = The Amazing Spider-Man | Issue = #385 | Date = Jan. 1994 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Terri Kidder''' (reporter)<ref>''[[The Pulse (comics)|The Pulse]]'' #2</ref> – killed by the [[Green Goblin]]<ref>''The Pulse'' #2</ref>
+*'''Simon LaGrange''' (reporter)<ref name="DD242"/> – fired
+*'''[[Ned Leeds|Ned Leeds (Hobgoblin)]]''' (reporter)<ref name="AmSp18">{{Cite comic | Writer = Stan Lee | Penciller =  Steve Ditko | Inker = Steve Ditko | Story = The End of Spider-Man | Title = The Amazing Spider-Man | Issue = #18 | Date = Nov. 1964 | Publisher = [[Marvel Comics]] }}</ref> – killed by the [[Foreigner (comics)|Foreigner]]'s men<ref name="SpMvWol1">{{Cite comic | Writer = [[Jim Owsley]]  | Penciller = [[Mark D. Bright]] | inker = [[Al Williamson]] | Story = High Tide | Title = Spider-Man vs. Wolverine | Issue = #1 | Date = Feb. 1987 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Sean Lowe''' (editor)<ref name="DBCivWarSp"/>
+*'''Laurie Lynton''' (columnist)<ref name="MKSpM15">{{Cite comic | Writer = [[Reginald Hudlin]] | Penciller =  [[Mark Buckingham (comic book artist)|Mark Buckingham]] & [[Billy Tan]] | Inker = [[Jon Sibal]] | Story = Wild Blue Yonder Part 3 | Title = Marvel Knights: Spider-Man | Issue = #15 | Date = Aug. 2005 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Jeff Mace|Jeff Mace (Patriot/Captain America)]]''' (Reporter circa 1940)<ref name="HumanTComics">{{Cite comic | Writer = unknown | Penciller = unknown | Inker = unknown | Story = unknown | Title = Human Torch Comics | Issue = #3 | Date = Winter 1940 | Publisher = [[Marvel Comics]]/[[Timely Comics]] }}</ref>
+*'''James Jonah "JJ" McTeer''' (reporter)<ref name="PunYear1-1">{{Cite comic | Writer = [[Dan Abnett]] & [[Andy Lanning]] | Penciller =  [[Dale Eaglesham]] | Inker = [[Scott Koblish]] | Story = Family Business | Title = Punisher: Year One | Issue = #1 | Date = Dec. 1994 | Publisher = [[Marvel Comics]] }}</ref> – deceased
+*'''[[Irene Merryweather]]''' (reporter)<ref name="Cab48">{{Cite comic | Writer = [[James Robinson (comics)|James Robinson]] | Penciller = [[Ladronn]] | Inker = [[Juan Vlasco]] | Story = The Hellfire Hunt Part 1: Dirty Secrets | Title = Cable vol. 2 | Issue = #28 | Date = Nov. 1997 | Publisher = [[Marvel Comics]] }}</ref> – freelance and then became salaried,<ref name="SolX1">{{Cite comic | Writer = [[Darko Macan]] | Penciller = [[Igor Kordey]] | Inker = [[Igor Kordey]] | Story = Dear Irene | Title = Soldier X | Issue = #1 | Date = Sept. 2002 | Publisher = [[Marvel Comics]] }}</ref> Fired<ref name="CabDead6">{{Cite comic | Writer = [[Fabian Nicieza]] | Penciller = [[Patrick Zircher]] | Inker = [[Udon Studios]] & [[Rob Ross]] | Story = If Looks Could Kill Part 6: I've Got You Under My Skin | Title = Cable & Deadpool | Issue = #6 | Date = Oct. 2004 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[List of Marvel Comics characters: M#Miss Patriot|Mary Morgan (Miss Patriot)]]''' (Reporter circa 1940s)<ref name="HumanTComics"/>
+*'''Glorianna O'Breen''' (photographer)<ref name="DD205">{{Cite comic | Writer = [[Denny O'Neil]] | Penciller = [[William Johnson (comics)|William Johnson]]| Inker = [[Danny Bulanadi]] | Story = The Gael | Title = Daredevil | Issue = #205 | Date = April 1984 | Publisher = [[Marvel Comics]] }}</ref> – deceased
+*'''[[Green Goblin|Norman Osborn (Green Goblin)]]''' (Owner)<ref name="SpecSM250">{{Cite comic | Writer = [[J. M. DeMatteis]] | Penciller =  [[John Ross (artist)|John Ross]] | Inker = [[Dan Green (artist)|Dan Green]] & [[Al Milgrom]] | Story = The Return of Evil | Title = The Spectacular Spider-Man vol. 2 | Issue = #250 | Date = Oct. 1997 | Publisher = [[Marvel Comics]] }}</ref> – Bought then lost control of the ''Bugle''<ref name="PPSpMAnn">{{Cite comic | Writer = [[Jack Morelli]] | Penciller =  [[Joyce Chin]] | Inker = [[Andy Lanning]] | Story = The Night They Killed Big Bear... | Title = Peter Parker: Spider-Man '98 | Issue = #1 |date = 1998 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Spider-Man|Peter Parker]]''' (photographer, usually [[freelancer|freelance]]):<ref name="Amfan15">{{Cite comic | Writer = unknown | Penciller =  unknown | Inker = unknown | Story = Spider-Man | Title = Amazing Fantasy | Issue = #15 | Date = Aug. 1962 | Publisher = [[Marvel Comics]] }}</ref> Fired for refusing to accept Dexter Bennett's way of doing business.<ref>''The Amazing Spider-Man'' #561</ref> Presently works as a freelance photographer for the "Frontline".<ref>''The Amazing Spider-Man'' #568</ref>
+*'''Jess Patton''' (Secretary)<ref name="SpMTangWeb1">{{Cite comic | Writer = [[Garth Ennis]] | Penciller = [[John McCrea (comics)|John McCrea]] | inker = [[James Hodgkins]] | Story = The Thousand: The Coming of the Thousand | Title = Spider-Man's Tangled Web | Issue = #1 | Date = June 2001 | Publisher = [[Marvel Comics]] }}</ref> – Killed and body taken over by the Thousand
+*'''Addie Pinckney''' (Los Angeles Correspondent)<ref>''[[She-Hulk|The Sensational She-Hulk]]'' #10</ref> – status unknown, was elderly when depicted.
+*'''Armando Ruiz''' (Janitor)<ref name="SpecSp137">{{Cite comic | Writer = [[Gerry Conway]] | Penciller = [[Sal Buscema]] | Inker = [[Sal Buscema]] | Story = Nowhere to Run, Nowhere to Hide | Title = The Spectacular Spider-Man vol. 2 | Issue = #137 | Date = April 1988 | Publisher = [[Marvel Comics]] }}</ref> – deceased
+*'''Christine Ryan''' (reporter)<ref name="GenM2">{{Cite comic | Writer = [[Paul Jenkins (writer)|Paul Jenkins]] | Penciller = [[Ramon F Bachs]] | Inker = [[John Lucas (comics)|John Lucas]] | Story = none | Title = Generation M | Issue = #2 | Date = Feb. 2006 | Publisher = [[Marvel Comics]] }}</ref> – resigned
+*'''Chuck Self''' (reporter)<ref name="Punv4-15">{{Cite comic | Writer = [[Garth Ennis]] | Penciller =  [[Darick Robertson]] | Inker = [[Nelson DeCastro|Nelson]] | Story = The Exclusive | Title = Punisher vol. 4 | Issue = #15 | Date = Oct. 2002 | Publisher = [[Marvel Comics]] }}</ref> – Handcuffed himself to the [[Punisher]] to get a story; died from falling into a woodchipper<ref name="Punv4-15"/>
+*'''Phil Sheldon''' (photographer)<ref name="Marvels1"/> – Retired after the death of [[Gwen Stacy]]<ref name="Marvels4">{{Cite comic | Writer = [[Kurt Busiek]] | Penciller =  [[Alex Ross]] | Inker = [[Alex Ross]] | Story = A Time of Marvels | Title = Marvels | Issue = #4 | Date = April 1994 | Publisher = [[Marvel Comics]] }}</ref>
+*'''Gabriel Simms''' (Security Guard)<ref name="PunWarJ15"/> – deceased
+*'''C. Thomas Sites''' (Reporter circa 1940s)<ref name="SgtFury110"/>
+*'''Paul Swanson''' (reporter)<ref name="Deadl1"/> – fired
+*'''[[Ben Urich]]''' (reporter)<ref name="DD158">{{Cite comic | Writer = [[Roger McKenzie (comics)|Roger McKenzie]] | Penciller = [[Frank Miller]] | Inker = [[Klaus Janson]] | Story = A Grave Mistake | Title = Daredevil | Issue = #158 | Date = May 1979 | Publisher = [[Marvel Comics]] }}</ref> – Resigns after the [[Civil War (comics)|Civil War]] and creates Frontline.<ref name="CivilWarFront10">{{Cite comic | Writer = [[Paul Jenkins (writer)|Paul Jenkins]] | Penciller = [[Ramon F Bachs]] | Inker = [[John Lucas (comics)|John Lucas]] | Story = Embedded Part 10 | Title = Civil War: Front Line | Issue = #10 | Date = March 2007 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Phil Urich]]''' (cameraman for Norah Winters, current [[Hobgoblin (comics)|Hobgoblin]]); fired after secret identity was exposed.<ref name="Superior Spider-Man #16"/> – Currently working in LA with [[Loners|the Loners]]
+*'''Lynn Walsh''' (Intern)<ref name="GreGob1">{{Cite comic | Writer = [[Tom DeFalco]] | Penciller = [[Scott McDaniel]] | Inker = [[Scott McDaniel]] | Story = Enter the Green Goblin | Title = Green Goblin | Issue = #1 | Date = Oct. 1995 | Publisher = [[Marvel Comics]] }}</ref>
+*'''[[Billy Walters (photographer)|William "Billy" Walters]]''' (photographer)<ref name="SpecSM235">{{Cite comic | Writer = [[Todd Dezago]] | Penciller =  [[Sal Buscema]] | Inker = [[John Stanisci]] | Story = Puppets | Title = The Spectacular Spider-Man vol. 2 | Issue = #235 | Date = June 1996 | Publisher = [[Marvel Comics]] }}</ref> – Left the ''Bugle''<ref name="SenSp31">{{Cite comic | Writer = [[Todd Dezago]] & [[Mike Wieringo]] | Penciller =  [[Mike Wieringo]] | Inker = [[Richard Case]] | Story = More Than a Feelin' | Title = Sensational Spider-Man | Issue = #31 | Date = Sept. 1994 | Publisher = [[Marvel Comics]] }}</ref> to care for his aging mother.
+*'''[[Norah Winters]]''' (reporter); fired due to affiliation with Phil Urich after his secret identity was exposed.<ref name="Superior Spider-Man #16">''The Superior Spider-Man'' #16</ref>
+*'''Ray Rothman''' (employee) – fired by J. Jonah Jameson for viewing article.<ref>[[Dan Slott|Slott, Dan]] (w), [[Mark Bagley|Bagley, Mark]] (a). ''Original Sins'' #3 (July 2014). Marvel Comics</ref>
+{{div col end}}
+
+== Other versions ==
+=== Age of Apocalypse ===
+In the ''[[Age of Apocalypse]]'' timeline, the ''Daily Bugle'' is a clandestine paper run by humans meant to inform the public about the secrets of [[Apocalypse (comics)|Apocalypse]], here the tyrannical ruler of North America. This ''Daily Bugle'' is run by a Robbie Robertson, who is killed by a [[Brood (comics)|Brood]]-infected [[Corsair (comics)|Christopher Summers]], leaving the status of the paper unknown.<ref>''Tales From The Age of Apocalypse'' #2 (Dec. 1997)</ref>
+
+=== Amalgam ===
+The ''Daily Bugle'' appears in the Amalgam (DC & Marvel Comics) world. Similar to the mainstream ''Bugle'', employees include J. Jonah White, Tana Moon, Jack Ryder and [[Spider-Boy]]. In this world, the Daily Bugle regularly produces cover stories revolving around Spider-Boy's love life.<ref name="SpiBoy1">{{Cite comic | Writer = [[Karl Kesel]] | Penciller = [[Mike Wieringo]] | Inker = [[Karl Kesel]] & [[Gary Martin (comics)|Gary Martin]] | Story = Big Trouble | Title = Spider-Boy | Issue = #1 | Date = April 1996 | Publisher = [[Marvel Comics]]/[[DC Comics]]/[[Amalgam Comics]] }}</ref>
+
+=== 1602 ===
+In the ''[[Marvel 1602]]'' setting, Jameson is publisher of the first "news-sheet" in the New World; the ''Daily Trumpet''.
+
+=== House of M ===
+In this alternate reality, the ''Daily Bugle'' exists mostly as a propaganda machine for the ruling mutant hierarchy. Stories can be and are repressed if they aren't favorable enough to mutants. In this reality, a blue-skinned woman named Cerena Taylor is the editor-in-chief. Other staff members include Bugman (the ''Daily Bugle'''s paparazzi driver), Jacob Guntherson (the Daily Bugle's photographer), and Triporter (the Daily Bugle's three-eyed reporter).
+
+=== Ultimate Marvel ===
+In the ''[[Ultimate Marvel]]'' universe, the ''Bugle'' is much the same as in the 616 version. The main difference is that Peter Parker is not employed as a photographer, but works on the newspaper's website after Jameson sees him assist with a problem. The newspaper plays less of a role in ''[[Ultimate Spider-Man]]'' than it did in the comics portraying the equivalent period of the 616 Spider-Man's career. Peter frequently implies that he doesn't spend much time there. After the events of [[Ultimatum (comics)|Ultimatum]], the ''Daily Bugle'', much like the rest of New York, was heavily damaged. Instead of a full rebuild, the ''Bugle'' was made into an online newspaper and blog.
+
+==In other media==
+===Television===
+* The ''Daily Bugle'' appears in ''[[The Amazing Spider-Man (TV series)|The Amazing Spider-Man]]'' live-action TV series.
+* A ''Daily Bugle'' newspaper appears in the ''[[Spider-Woman (TV series)|Spider-Woman]]'' episode "The Kongo Spider".
+* A ''Daily Bugle'' newspaper appears in the ''[[X-Men: Evolution]]'' episode "On Angel's Wings".
+* A parody of the ''Daily Bugle'' appears in a skit called "The X-Play Bugle", with [[Adam Sessler]] as the editor-in-chief, in the ''[[X-Play]]'' episode "Spider-Man 3".
+* The ''Daily Bugle'' appears in ''[[Spider-Man: The Animated Series]]''.
+* The Daily Bugle appears in ''[[The Spectacular Spider-Man (TV series)|The Spectacular Spider-Man]]''. Similar to the depictions seen in the Sam Raimi film trilogy and the ''[[Marvels]]'' comic miniseries, this version of the newspaper is also housed in the [[Flatiron Building]].
+* A variation of the ''Daily Bugle'' appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''. This version is called '''Daily Bugle Communications''', which serves as a television news outlet, with J. Jonah Jameson (voiced by [[J. K. Simmons]]) as its most prominent anchorman.
+
+===Film===
+====Sam Raimi's ''Spider-Man'' trilogy====
+The ''Daily Bugle'' appears in the live-action films ''[[Spider-Man (2002 film)|Spider-Man]]'' (2002), ''[[Spider-Man 2]]'' (2004), and ''[[Spider-Man 3]]'' (2007), all directed by [[Sam Raimi]]. This version is housed in the [[Flatiron Building]] like in the ''[[Marvels]]'' miniseries, with [[J. Jonah Jameson (film character)|J. Jonah Jameson]] (portrayed by [[J. K. Simmons]]) as the editor in-chief, [[Robbie Robertson (comics)|Robbie Robertson]] (portrayed by [[Bill Nunn]]) as associate editor, and [[Betty Brant]] (portrayed by [[Elizabeth Banks]]), [[Peter Parker (Sam Raimi film series)|Peter Parker]] (portrayed by [[Tobey Maguire]]), and [[Eddie Brock#Film|Eddie Brock]] (portrayed by [[Topher Grace]]) as employees. One ''Bugle'' employee who appears exclusively in the films is '''Hoffman''' (portrayed by [[Ted Raimi]]), who serves as [[comic relief]] and is frequently harassed by Jameson.
+
+====20th Century Fox's ''Daredevil'' film====
+[[Ben Urich]] appears in the live-action film ''[[Daredevil (film)|Daredevil]]'' (2003), although he works for the ''[[New York Post]]'' instead, as the film rights to the ''Daily Bugle'' were owned by Columbia Pictures at the time.
+
+====Marc Webb's ''The Amazing Spider-Man'' films====
+The ''Daily Bugle'' appears as both a newspaper and television station in the live-action films ''[[The Amazing Spider-Man (2012 film)|The Amazing Spider-Man]]'' (2012) and ''[[The Amazing Spider-Man 2 (2014 film)|The Amazing Spider-Man 2]]'' (2014), both directed by [[Marc Webb]]. [[Peter Parker (The Amazing Spider-Man film series)|Peter Parker]] (portrayed by [[Andrew Garfield]]) works for the ''Bugle'' in the second film. Jameson is mentioned, but does not appear physically.  To promote the second film, an official ''Daily Bugle'' blog was hosted on Tumblr, where promotional material was posted as in-universe articles.
+
+====''Spider-Verse'' animated films====
+The ''Daily Bugle'' appears via Peter B. Parker's flashback in ''[[Spider-Man: Into the Spider-Verse]]'' (2018).
+
+====Sony's Spider-Man Universe====
+In films set in [[Sony's Spider-Man Universe]], the ''Daily Bugle'' appears as a newspaper outlet with the same title treatment as the version seen in Sam Raimi's ''Spider-Man'' trilogy.
+
+In the live-action film ''[[Venom: Let There Be Carnage]]'' (2021), the ''Bugle'' documents convicted serial killer [[Cletus Kasady]]'s crimes, which [[Eddie Brock (Sony's Spider-Man Universe)|Eddie Brock]] (portrayed by [[Tom Hardy]]) and [[Toxin (comics)|Patrick Mulligan]] read while separately collecting evidence for his crimes. In the mid-credits scene, Brock and [[Venom (Sony's Spider-Man Universe)|Venom]] are transported to the [[Marvel Cinematic Universe]] (MCU) and watch Jameson of ''TheDailyBugle.net'' broadcasting Peter Parker's identity as Spider-Man, as seen in ''Far From Home''.
+
+During the events of the film ''[[Morbius (film)|Morbius]]'' (2022), [[Morbius (film)#Cast|Milo]] ([[Matt Smith]]) orders a ''Daily Bugle'' newspaper from a street news stand in [[New York City]]. The organization is also established to have an online presence in a similar fashion to ''TheDailyBugle.net''. In a deleted scene, [[Morbius, the Living Vampire|Michael Morbius]] reads the front page of a ''Bugle'' newspaper covering his apprehension by the police for a "vampire murder" case.<ref>{{Citation|last=pm|first=Jesse SchedeenUpdated: 2 Nov 2021 2:41 pmPosted: 2 Nov 2021 1:03|title=Which Marvel Universe Does Morbius Exist in? - IGN|date=November 2, 2021 |url=https://www.ign.com/articles/morbius-trailer-breakdown-marvel-connections-easter-eggs-venom-spider-man-mcu|language=en|access-date=2021-11-02}}</ref><ref>{{Cite web |last=Newby |first=Richard |date=2022-04-01 |title=6 Spider-Man and Venom References You May Have Missed in Morbius |url=https://www.vulture.com/2022/04/6-spider-man-and-venom-references-in-morbius.html |access-date=2022-04-11 |website=Vulture |language=en-us}}</ref>
+
+===Marvel Cinematic Universe===
+[[Christine Everhart (Marvel Cinematic Universe)|Christine Everhart]] is featured prominently in the [[Marvel Cinematic Universe]] films ''[[Iron Man (2008 film)|Iron Man]]'' (2008) and ''[[Iron Man 2]]'' (2010) as well as part of promotional material for ''[[Ant-Man (film)|Ant-Man]]'' (2015) and ''[[Captain America: Civil War]]'' (2016). Due to Sony Pictures owning the ''Spider-Man'' film rights and all associated characters and organizations at the time, Everhart was not announced as being portrayed as a reporter for the ''Daily Bugle.'' Instead, she initially works as a journalist for ''[[Vanity Fair (magazine)|Vanity Fair]]'' before transitioning towards being an anchor for the in-universe news organization ''[[WHIH Newsfront]]'' in later years.
+
+[[Ben Urich (Marvel Cinematic Universe)|Ben Urich]] appears as a series regular in the first season of the [[Netflix]] television series ''[[Marvel's Daredevil]]''. However, since the show was in production prior to Marvel Studios and Sony Pictures' agreement to share the ''Spider-Man'' film rights, the crew on the show were also restricted from adapting the character as a ''Daily Bugle'' employee. Instead, he works for the fictional newspaper agency the ''New York Bulletin'', whose origins in the comics included the company being established by Caxton J. Ford, a former ''Daily Bugle'' employee. The agency is also featured prominently throughout the rest of [[Marvel's Netflix television series]], which all share continuity with the MCU.
+
+A controversial online news outlet called '''''[[TheDailyBugle.net]]''''' appears in the [[mid-credits scene]] of the live-action film ''[[Spider-Man: Far From Home]]'' (2019),. The outlet is run by [[J. Jonah Jameson (film character)|J. Jonah Jameson]] (again portrayed by J. K. Simmons), who plays doctored footage sent in by one of [[Mysterio (Marvel Cinematic Universe)|Mysterio]]'s associates to demonize [[Peter Parker (Marvel Cinematic Universe)|Spider-Man]] (portrayed by [[Tom Holland]]) before publicly revealing his [[secret identity]].
+
+The outlet and Jameson return in the sequel ''[[Spider-Man: No Way Home]]'' (2021) and the [[web series]] ''[[The Daily Bugle (web series)|The Daily Bugle]]'' (2019–present), the latter of which is headlined by Simmons as Jameson and [[Angourie Rice]] as [[Betty Brant (Marvel Cinematic Universe)|Betty Brant]]. In the film, Jameson launches a misinformed slander campaign against Parker following the reveal of his secret identity as Spider-Man while Brant, who is undergoing an internship at the firm, serves as a correspondent for Jameson while continuing her work on Midtown High's news program, covering Parker's celebrity status within the school. Following [[Stephen Strange (Marvel Cinematic Universe)|Doctor Strange]]'s second, successful attempt at wiping the world's knowledge of Peter's civilian identity, Jameson resumes his coverage of Spider-Man's vigilante activity while promising his viewers that he will uncover the truth of his secret identity.
+
+===Theatre===
+The ''Daily Bugle'' appears in the [[Broadway theatre|Broadway]] [[musical theatre|musical]] ''[[Spider-Man: Turn Off the Dark]]'', with J. Jonah Jameson portrayed by [[Michael Mulheren]] through the entirety of the play's run.
+
+===Video games===
+* The ''Daily Bugle'' appears as Spider-Man's home stage in the arcade and console-imported game ''[[Marvel Super Heroes (video game)|Marvel Super Heroes]]''.
+* The ''Daily Bugle'' appears in ''[[X-Men: Mutant Academy 2]]''.
+* The ''Daily Bugle'' appears in the 2000 ''[[Spider-Man (2000 video game)|Spider-Man]]'' video game.
+* The ''Daily Bugle'' appears in the 2002 ''[[Spider-Man (2002 video game)|Spider-Man]]'' video game.
+* The ''Daily Bugle'' appears in the ''[[Spider-Man 2 (2004 video game)|Spider-Man 2]]'' video game.
+* The ''Daily Bugle'' appears as a stage in ''[[Marvel Nemesis: Rise of the Imperfects]]''{{'}}s story mode and versus mode.
+* The ''Daily Bugle'' appears in the 2007 ''[[Ghost Rider (video game)|Ghost Rider]]'' video game's challenge mode.
+* The ''Daily Bugle'' appears as a landmark in the ''[[Spider-Man 3 (video game)|Spider-Man 3]]'' video game.
+* The ''Daily Bugle'' appears in ''[[The Incredible Hulk (2008 video game)|The Incredible Hulk]]'' video game.
+* The ''Daily Bugle'' appears in ''[[Spider-Man: Web of Shadows]]''.
+* The ''Daily Bugle'' appears as a stage in ''[[Marvel vs Capcom 3: Fate of Two Worlds]]'' and ''[[Ultimate Marvel vs. Capcom 3]]''.
+* ''Daily Bugle Communications'' appears in ''[[Disney Infinity: 2.0 Edition]]''.
+* A [[Marvel Noir]] version of the ''Daily Bugle'' appears in ''[[Lego Marvel Super Heroes 2]]''.
+* The ''Daily Bugle'' appears in [[Spider-Man (2018 video game)|''Marvel's Spider-Man'']], with Mary Jane Watson as a reporter, later associate editor, and Robbie Robertson as editor-in-chief after J. Jonah Jameson retired to start a podcast. [[Peter Parker (Insomniac Games character)|Peter Parker]] also worked for the ''Daily Bugle'' as a photographer before he resigned after Spider-Man was blamed for a killing spree perpetrated by [[Electro (Marvel Comics)|Electro]] and became [[Doctor Octopus|Dr. Otto Octavius]]' research assistant at Octavius Industries some years prior to the events of the game.
+* The ''Daily Bugle'' appears as a point of interest in ''[[Fortnite]]'' Chapter 3 Season 1.
+
+===Miscellaneous===
+An unrelated ''Daily Bugle'' appears in the untelevised [[DC Comics]]-related pilot ''[[The Adventures of Superpup]]''.
+
+===In popular culture===
+* The ''Daily Bugle'' appears on a newspaper in the 1977 horror movie ''[[Death Bed: The Bed That Eats]]''.<ref>{{cite web |author=Miles |title=Seriously – A Review of Death Bed: The Bed That Eats |url=https://hodgeblodge.wordpress.com/2008/09/03/seriously-a-review-of-death-bed-the-bed-that-eats/ |access-date=March 25, 2019 |work=Hodgeblodge Worldpress.com |date=September 3, 2008}}</ref>
+* The ''Daily Bugle'' appears in the 1994 film ''[[The Shawshank Redemption]]''.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Daily_Bugle_%28Building%29 The ''Daily Bugle''] at Marvel.com
+* [http://thedailybugle.net TheDailyBugle.net] official [[Marvel Cinematic Universe]] tie-in website
+
+{{Spider-Man}}
+{{Jessica Jones}}
+{{Stan Lee}}
+{{Jack Kirby}}
+{{Authority control}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1962]]
+[[Category:Fictional elements introduced in 1962]]
+[[Category:Fictional newspapers]]
+[[Category:Spider-Man]]

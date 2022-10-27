@@ -1,0 +1,310 @@
+{{short description|Fictional comic book series}}
+{{about|the series about the team of young X-Men|the series written by Grant Morrison|New X-Men (2001 series)}}
+{{Infobox comic book title <!-- Wikipedia:WikiProject Comics -->
+| title = New X-Men
+| image = NewX-Men44cover.jpg
+| imagesize =
+| caption = The New X-Men in ''[[X-Men: Messiah Complex]]''.<br>Art by Humberto Ramos.<br>From left to right: Elixir, Hellion, Dust, Gentle, Rockslide, Prodigy, Anole, Surge, Pixie, Mercury, X-23
+| schedule = Monthly
+| ongoing = y
+| publisher = [[Marvel Comics]]
+| startmo = July
+| startyr = 2004
+| endmo = March
+| endyr = 2008
+| issues = 46 ([[List of New X-Men story arcs|List of story arcs]])
+| main_char_team = [[New Mutants]]<br>[[Hellions (Marvel Comics)|Hellions]]<br>[[Danielle Moonstar]]<br>[[Emma Frost]]
+| writers = [[Craig Kyle]]<br>[[Christopher Yost]]
+| artists = Randy Green<br>[[Michael Ryan (artist)|Michael Ryan]]<br>Paco Medina<br>[[Mark Brooks (comics)|Mark Brooks]]<br>[[Skottie Young]]<br>[[Humberto Ramos]]
+| pencillers =
+| inkers =
+| colorists = Jean-Francois Beaulieu
+| creative_team_month = June
+| creative_team_year = 2007
+| creators = [[Nunzio DeFilippis]]<br>[[Christina Weir]]<br>Michael Ryan
+| subcat = Marvel Comics
+| sort = New X-Men
+}}
+'''''New X-Men''''' is a [[superhero]] [[comic book]] series published by [[Marvel Comics]] within the [[X-Men]] franchise.
+
+After the end of [[Grant Morrison]]'s run on [[X-Men: Legacy|''X-Men'' vol. 2]] titled ''[[New X-Men (2001 series)|New X-Men]]'', the title was used for a new series, [[New_Mutants#The_New_Mutants,_vol._2|''New X-Men: Academy X'']] during the [[X-Men ReLoad]] event. The title was later shortened to simply ''New X-Men'' in 2006 when the new creative team of [[Craig Kyle]] and [[Christopher Yost]] took over the series with issue #20.
+
+Whereas the other ''X-Men'' comics mostly deal with established adult [[Mutant (Marvel Comics)|mutants]], this series concentrates on the lives of young students residing at the [[X-Mansion|Xavier Institute for Higher Learning]] as they learn to control their powers.
+
+After the 2007 crossover ''[[X-Men: Messiah Complex]]'', the ''New X-Men'' title was canceled and briefly relaunched as ''[[Young X-Men]]'' for 12 issues. The series was written by [[Marc Guggenheim]]. After the first arc of ''Young X-Men'', the characters began appearing in the pages of ''[[Uncanny X-Men]]''. With the cancellation of ''Young X-Men'' the characters were folded onto the main X-Men books, appearing most prominently in the pages of ''[[X-Men: Legacy]]'', ''[[Wolverine and the X-Men (comics)|Wolverine and the X-Men]]'', and most recently, in ''[[X-Men (comic book)|X-Men]]''.
+
+==Founding==
+{{further|List of New X-Men story arcs}}
+
+''New X-Men'' begins where [[Grant Morrison]]'s run on the former ''[[New X-Men (2001 series)|New X-Men]]'' ended. The school is rebuilt and [[Emma Frost]] and [[Cyclops (Marvel Comics)|Cyclops]] are named the headmasters. They organize the students into several battle squads who train together.
+
+The series focuses chiefly on two rival teams: the [[New Mutants#The New Mutants, vol. 2|New Mutants]], whose mentor is [[Danielle Moonstar]], and the [[Hellions (Marvel Comics)|Hellions]], whose mentor is [[Emma Frost]].
+
+===New Mutants squad===
+The [[New Mutants#The New Mutants, vol. 2|New Mutants squad]]'s tutor is [[Danielle Moonstar]]. It is co-led by Wind Dancer and Prodigy.
+
+* '''[[Elixir (comics)|Elixir]]''' (Josh Foley) - Foley is an Omega-class healer who is a rabid mutant-hater until he finds out he is one himself. Following the events of "[[Decimation (comics)|M-Day]]" and [[William Stryker|Reverend Stryker]] slaughtering many of his friends and his lover Wallflower, Elixir's powers morph so that he can now kill as well as heal with a touch of his hand.
+* '''[[Icarus (comics)|Icarus]]''' (Joshua "Jay" Guthrie) - Guthrie is able to fly, sing hypnotically, and heal himself rapidly. Jay's wings are amputated in issue #20 and he is killed in issue #26 by Reverend Stryker.
+* '''[[Prodigy (David Alleyne)|Prodigy]]''' (David Alleyne) - Alleyne takes on the knowledge and skills of nearby people. After being depowered, he regained the knowledge talents originally acquired before "[[Decimation (comics)|M-Day]]".<ref name="NX43">''New X-Men'' vol. 2, #43 (December 2007)</ref>
+* '''[[Surge (Marvel Comics)|Surge]]''' (Noriko Ashida) - A [[Japanese people|Japanese]] immigrant who constantly absorbs static electricity and can discharge it as electric blasts or bursts of superhuman speed. She becomes a member of the [[X-Men]] while attending the [[X-Mansion|Jean Grey School for Higher Learning]].
+* '''[[Wallflower (comics)|Wallflower]]''' (Laurie Collins) - Collins exudes [[pheromone]]s that alter the feelings of other people. She is killed in issue #25 by the [[Purifiers (Marvel Comics)|Purifiers]].
+* '''[[Wind Dancer]]''' (Sofia Mantega) - A girl from [[Venezuela]] who can control air particles, allowing her to fly and hear distant conversations. Wind Dancer loses her powers as a result of "[[Decimation (comics)|M-Day]]". Following her de-powering, she joined a short-lived incarnation of the [[New Warriors]].<ref>{{cite book |title=New Warriors |date=August 2007 |publisher=Marvel Comics |edition=Vol. 4, #1}}</ref>
+* '''[[Wither (comics)|Wither]]''' (Kevin Ford) - Ford is a member of the New Mutants for a short time before switching to the Hellions.<ref name="NXA6">''New X-Men: Academy X'' #6 (December 2004)</ref>
+
+===Hellions squad===
+The [[Hellions (Marvel Comics)|Hellions squad]]'s tutor is [[Emma Frost]]. It is led by Hellion.
+
+* '''[[Dust (comics)|Dust]]''' (Sooraya Qadir) - Qadir is a shy girl from [[Afghanistan]] who can turn herself into a living whirlwind of dust. She regularly dresses in an [[abaya]] with a [[niqāb]]. She joins the [[X-Men]] and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+* '''[[Hellion (Marvel Comics)|Hellion]]''' (Julian Keller) - Keller is a mutant with the power of [[psychokinesis|telekinesis]]. He joins the X-Men and is a student at the Jean Grey School for Higher Learning.
+* '''[[Icarus (comics)|Icarus]]''' (Joshua "Jay" Guthrie) - Guthrie is a member of the Hellions for a short time before switching to the New Mutants.<ref name="NXA6" />
+* '''[[Mercury (Marvel Comics)|Mercury]]''' (Cessily Kincaid) - Kincaid is a [[shapeshifting|shapeshifter]] whose body is composed of non-toxic liquid [[mercury (element)|mercury]]. She joins the X-Men and is a student at the Jean Grey School for Higher Learning.
+* '''[[Rockslide (comics)|Rockslide]]''' (Santo Vaccaro) - Vaccaro is able to manifest a physical body made of solid rock from the immediate environment and launch limbs at great velocity. He joins the X-Men and is a student at the Jean Grey School for Higher Learning.
+* '''[[List of Marvel Comics characters: S#Specter|Specter]]''' (Dallas Gibson) - Gibson is a member for a brief time before being reassigned to the Corsairs squad.<ref>''New X-Men: Academy X Yearbook Special'' #1 (December 2005)</ref>
+* '''[[Tag (comics)|Tag]]''' (Brian Cruz) - Cruz could [[psionics|psionically]] "tag" a person so that bystanders are compelled to run away from or toward that person. He is killed on the bus ambushed by the [[Purifiers (Marvel Comics)|Purifiers]] along with several other depowered mutants.<ref name="NX24">''New X-Men'' vol. 2, #24 (May, 2006)</ref>
+* '''[[Wither (comics)|Wither]]''' (Kevin Ford) - Ford can destroy organic matter with a touch. He is romantic rivals with Elixir for Wallflower. When Wallflower dies, Wither flees the school and becomes Selene's second-in-command. He is killed by Elixir during the final battle of the "[[Necrosha]]" storyline.<ref>''X-Force'' vol. 3, #25 (May, 2010)</ref>
+
+===Other squads===
+There are also other teams advised by different [[X-Men]]. For a complete list of students prior to "[[Decimation (comics)|M-Day]]", see [[List of Xavier Institute students and staff]].
+
+* The Advocates squad leader is [[Rogue (comics)|Rogue]]. This squad consists of:
+** '''Boggart''' (Robin Wise) - Wise has super strength and green skin. He is depowered during "[[Decimation (comics)|M-Day]]".
+** '''Naiad''' (Aurelie Sabayon) - Sabayon has the ability to breathe underwater. She is depowered during "M-Day".
+** '''Pinpoint''' (Gerard Cooper) - Cooper possesses telescopic vision. He is depowered during "M-Day".
+** '''Trovão''' (Pedro de Noli) - De Noli has the ability to create sonic booms. He is depowered during "M-Day".
+** '''Umbra''' (Patrick Nesbitt) - Nesbitt has the ability to manipulate darkness. He is depowered during "M-Day".
+** '''Xenon''' (Shaun Kennedy) - Kennedy has the ability to generate light. He is depowered during "M-Day".
+*The [[Alpha Squadron (comics)|Alpha Squadron]] squad leader is initially [[Northstar (Marvel Comics)|Northstar]] (Jean-Paul Beaubier), but he is later replaced by [[Karma (comics)|Xi'an "Shan" Coy Manh]]. The squad consists of:
+** '''[[Anole (comics)|Anole]]''' (Victor Borkowski) - Borkowski has Reptilian mutations that give him enhanced strength, speed, durability, reflexes and stamina. He also has a prehensile tongue, wall crawling abilities, the ability to blend into his environment and regenerative powers. He joins the [[X-Men]] and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''[[Indra (comics)|Indra]]''' (Paras Gavaskar) - Gavaskar can create an exoskeleton and weapons from his skin. He is the youngest mutant at the school.<ref>''New X-Men'' vol. 2, #42 (November 2007)</ref> He joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''[[List of Marvel Comics characters: K#Kidogo|Kidogo]]''' (Lazaro Kotikash) - Kotikash can shrink to four inches tall. He is depowered as a result of "M-Day".
+** '''[[Loa (comics)|Loa]]''' (Alani Ryan) - Ryan can disintegrate matter by phasing through it. She is enrolled at the [[Avengers Academy]].
+** '''[[Network (comics)|Network]]''' (Sarah Vale) - Vale has the ability to communicate with machinery. She is depowered during "M-Day" and killed on the bus ambushed by the [[Purifiers (Marvel Comics)|Purifiers]] along with several other depowered mutants.<ref name="NX24" />
+** '''[[Rubbermaid (comics)|Rubbermaid]]''' (Andrea Margulies) - Margulies can turn her body into a rubber-like substance. She is depowered during "M-Day" and killed on the bus ambushed by the Purifiers along with several other depowered mutants.<ref name="NX24" />
+* The Chevaliers squad leader is [[Gambit (Marvel Comics)|Gambit]]. This squad is introduced in ''X-Men'' vol. 2, #171. The squad consists of:
+** '''[[Bling (comics)|Bling!]]''' - (Roxanne Washington) Washington's skin produces diamond shards. She joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''[[Flubber (comics)|Flubber]]''' (Nick Shelley) - Shelley's body is made of a rubbery substance. This grants him great strength and the ability to leap great distances. He is depowered during "M-Day".
+** '''[[Mystique (comics)|Foxx]]''' (Raven Darkholme) - Darkholme has the ability to shapeshift. She uses the alias of Foxx to infiltrate the X-Men, claiming later that she was testing Gambit's commitment to Rogue. She becomes an instructor at the Hellfire Academy and the leader of the [[Brotherhood of Mutants#Mystique's Fourth Attempt|Brotherhood of Evil Mutants]].
+** '''[[Onyxx]]''' (Sydney Green) - Green's body is made of a rock-like substance. He has super strength and is difficult to injure. He is killed by Wither during [[Selene (comics)|Selene]]'s attack on [[Asteroid M#Fifth version/Utopia|Utopia]].
+** '''[[List of Marvel Comics characters: R#Rain Boy|Rain Boy]]''' (Carl Aalston) - Aalston's body is living water that is held together by a containment suit.
+*The Corsairs squad leader is [[Cyclops (Marvel Comics)|Cyclops]]. The squad consists of:
+** '''[[Dryad (comics)|Dryad]]''' (Callie Betto) - Betto can communicate with and control plant life. She is depowered during "M-Day" and killed on the bus ambushed by the Purifiers along with several other depowered mutants.<ref name="NX24" />
+** '''[[Quill (comics)|Quill]]''' (Max Jordan) - Jordan's body is covered with quills, which he can fire as projectiles. He is shot and killed by one of Stryker's Purifiers when the mansion is attacked.<ref>''New X-Men'' vol. 2, #27 (August 2006)</ref>
+** '''[[List of Marvel Comics characters: S#Specter|Specter]]''' (Dallas Gibson) - Gibson can merge his body with his shadow, granting him superhuman strength, speed and durability. He can see in complete darkness and is immune to all [[Darkforce]] attacks. He is depowered as a result of "M-Day".
+** '''[[Stepford Cuckoos|Three-In-One]]''' (Celeste, Mindee and Phoebe Cuckoo) - The Cuckoo sisters are able to combine their telepathic abilities and they possess the ability to transform into an organic diamond form. They join the Extinction Team as students of the New Charles Xavier School for Mutants.
+*The Paladins squad leader is [[Kitty Pryde]]. The members that are named are:
+** '''[[Armor (comics)|Armor]]''' (Hisako Ichiki) - Ichiki has the ability to create a psionic exoskeleton. She joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''[[Blindfold (comics)|Blindfold]]''' (Ruth Aldine) - Aldine possess telepathy, the ability to see the future as well as the past, and clairvoyance. She joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''Wing''' (Edward Tancredi) - powers neutralized by Ord; apparently committed suicide afterward in the Danger Room.
+*The [[Paragons (comics)|Paragons]] squad leader is originally [[Rahne Sinclair]], who is replaced by [[Magma (comics)|Magma]] (Amara Aquilla). The squad consists of:
+** '''[[DJ (comics)|DJ]]''' (Mark Sheppard) - Sheppard changes music into energy blasts, blinding lights, flight or a force field. The style of music determines the ability. He is depowered during "M-Day" and killed on the bus ambushed by the Purifiers along with several other depowered mutants.<ref name="NX24" />
+** '''Match''' (Ben Hammil) - Hammil has the ability to create and control fire. He joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].  A [[Mutant (Marvel Comics)|mutant]], Hamill attended the [[X-Mansion|Xavier Institute]] before its closing. While at the institute, Hamill was the field leader of the [[Paragons (comics)|Paragons training squad]]. Match appeared in ''[[Dark Phoenix (film)|Dark Phoenix]]'' portrayed by [[Lamar Johnson (actor)|Lamar Johnson]]. The character, created by [[Nunzio DeFilippis]] and [[Christina Weir]], first appeared in ''New Mutants'' Vol. 2 #7. DeFilippis revealed that while he and Weir created the character, he was based on a background mutant from ''New X-Men: Academy X'', #7. "We saw a cool bit of artwork in the background of a panel (I think it was Carlo Barberi who first drew him) and thought for a few seconds about a name, codename, and power set."<ref name="DeFilippisWeir">{{cite web|url=https://www.bleedingcool.com/2019/09/07/character-x-men-dark-phoenix/|title=When You Get Paid For a Character No One Realised Was in X-Men: Dark Phoenix|website=Bleeding Cool News|last=Johnston|first=Rich|date=September 7, 2019|access-date=September 7, 2019}}</ref>
+** '''[[Pixie (X-Men)|Pixie]]''' (Megan Gwynn) - Gwynn is a hybrid mutant and fairy. She can fly and her wings create a hallucinogenic dust. She also has magical powers. She joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''[[Trance (comics)|Trance]]''' (Hope Abbott) - Abbott has the ability to create an astral projection of herself. This form is capable of flight and producing energy blasts. She joins the X-Men and is a student at the [[X-Mansion|Jean Grey School for Higher Learning]].
+** '''[[Wolf Cub (comics)|Wolf Cub]]''' (Nicholas "Nick" Gleason) - Gleason is in a permanent lycanthropic state. He possesses enhanced strength, senses, speed, agility and endurance. He also has razor-sharp claws. He is killed by [[Donald Pierce]].<ref>''Young X-Men'' #5 (October 2008)</ref>
+** '''[[Preview (comics)|Preview]]''' (Jessica Vale) - Vale has the ability to see minutes into the future. She is depowered during "M-Day". She is [[Network (comics)#Network (Sarah Vale)|Network]]'s sister.
+
+The Excelsiors, led by [[Iceman (comics)|Iceman]], are mentioned but the members are never named. The Exemplars, led by [[Beast (comics)|Beast]], are unknown as well with the exception of [[Angel Salvadore]]. [[Storm (Marvel Comics)|Storm]]'s squad, mentioned in ''New X-Men'', has one survivor, [[Gentle (comics)|Gentle]].
+
+==''Decimation''==
+In the aftermath of the ''[[Decimation (comics)|Decimation]]'' event known as M-Day, the mutant student body in the academy dropped from 182 to 27. At least 45 depowered students were killed and, of the remaining students, [[Emma Frost]] picked a select group to train as New X-Men. These new X-Men were [[Dust (comics)|Dust]], [[Elixir (comics)|Elixir]], [[Hellion (Marvel Comics)|Hellion]], [[Mercury (Marvel Comics)|Mercury]], [[Rockslide (comics)|Rockslide]], [[Surge (Marvel Comics)|Surge]] (appointed leader) and [[X-23]]. As time progressed, several members were added and/or earned the right to be on the team, such as [[Anole (comics)|Anole]], [[Armor (comics)|Armor]], [[Gentle (comics)|Gentle]], [[Pixie (X-Men)|Pixie]] and [[Prodigy (David Alleyne)|Prodigy]]. The rest of the students were instructed to remain on school grounds, some providing assistance to the current [[X-Men]] teams and trainees. Some M-day survivors and depowered students either left the mansion or were killed off during villainous attacks by [[William Stryker|Stryker]] and his men, or various other enemies.
+
+==''Young X-Men''==
+{{Main|Young X-Men}}
+The ''Young X-Men'' series launched as part of the ''[[X-Men]]'' storyline "[[X-Men: Divided We Stand|Divided We Stand]]" in April, 2008. Written by [[Marc Guggenheim]] and pencilled by [[Yanick Paquette]], it featured a line-up of [[Blindfold (comics)|Blindfold]], [[Dust (comics)|Dust]], [[Rockslide (comics)|Rockslide]], [[Wolf Cub (comics)|Wolf Cub]] and three new characters: [[Graymalkin]], [[Ink (comics)|Ink]], and in the second issue, [[Cipher (comics)|Cipher]]. The first arc involved the group being formed by [[Donald Pierce]], who thanks to changes inflicted upon him by the [[Purifiers (Marvel Comics)|Purifiers]], impersonates [[Cyclops (Marvel Comics)|Cyclops]] as part of an elaborate plot to kill the young mutants who he sees are the last generation of mutants born prior to M-Day. The group are manipulated into fighting members of the [[New Mutants]] before Pierce is ultimately exposed. In the end, per Blindfold's prediction at the start of the series, Donald Pierce murders Wolf Cub before being captured by the group and taken into custody by the X-Men.
+
+When the X-Men franchise is relaunched with the relocation of the X-Men to San Francisco following the events in ''Uncanny X-Men'', the characters relocate to California.<ref>''Young X-Men'' #6 (Released September 2008, Published November 2008)</ref> The series is ultimately canceled with issue #12 and many events of the series (such as Dust being mortally wounded during the team's fight with the New Mutants) would be ignored by later writers.
+
+==''X-Men: Legacy'', ''X-Force'' and ''Wolverine and the X-Men''==
+
+Most of the characters (most notably [[Pixie (X-Men)|Pixie]], who was granted full X-Men membership<ref name="NX43" />) appear sporadically following the events of ''Uncanny X-Men'' #500 and the cancellation of ''Young X-Men''. [[Elixir (comics)|Elixir]] and [[X-23]] are incorporated into the roster of a new ''[[X-Force]]'' series. The characters are ultimately given a new home in the pages of ''[[X-Men: Legacy]]'', written by [[Mike Carey (writer)|Mike Carey]] starting with ''X-Men: Legacy'' #226. Now a loose collection of students, the kids are led by [[Rogue (comics)|Rogue]], who serves as the team's teacher. Following the events of ''[[X-Men: Schism]]'', many of the New X-Men members follow [[Wolverine (character)|Wolverine]] back East as he reopens the [[X-Mansion|Xavier Institute]] as a school and sanctuary for young mutants named the Jean Grey School for Higher Learning. As of ''[[X-Men: Regenesis]]'', several additional X-Men join Rogue and Wolverine in serving as teachers for the young mutants: [[Cannonball (comics)|Cannonball]], [[Gambit (Marvel Comics)|Gambit]], [[Rachel Summers|Rachel Grey]], [[Husk (comics)|Husk]] and [[Kitty Pryde|Shadowcat]]. The group has also accepted non-mutant members, such as [[Broo (comics)|Broo]] (a young [[Brood (comics)|Brood]] hatchling who is a pacifist) and Kid Gladiator, the son of [[X-Men]] enemy [[Gladiator (Kallark)|Gladiator]]. Another member of the student body is [[Quentin Quire|Kid Omega]], whose involvement with the school is involuntary in an effort to reform him.<ref>''X-Men: Regenesis'' #1 (Released October 2011, Published December 2011)</ref>
+
+==Contributors==
+{| class="wikitable"
+|-
+! Issue(s)
+! Writer(s)
+! Artist(s)
+|-
+| colspan=3 | As ''New X-Men: Academy X''
+|-
+| 1-2
+| rowspan=8 | Nunzio DeFilippis, Christina Weir
+| Randy Green
+|-
+| 3-4
+| [[Staz Johnson]]
+|- 
+| 5-8
+| [[Michael Ryan (artist)|Michael Ryan]]
+|-
+| 9
+| [[Carlo Pagulayan]]
+|-
+| 10-11
+| Paco Medina
+|-
+| 12-13
+| Michael Ryan
+|-
+| 14-15
+| Paco Medina
+|-
+| 16-19 "[[House of M]]"
+| [[Aaron Lopresti]]
+|-
+| colspan=3 | As ''New X-Men''
+|-
+| 20-23
+| rowspan=8 | [[Craig Kyle]], [[Christopher Yost]]
+| [[Mark Brooks (comics)|Mark Brooks]] (Issue #23 with [[Paul Pelletier]])
+|-
+| 24-28
+| Paco Medina
+|-
+| 29
+| [[Duncan Rouleau]]
+|-
+| 30-31
+| Paco Medina
+|-
+| 32
+| [[Mike Norton]]
+|-
+| 33-37
+| Paco Medina (Issue #37 with [[Skottie Young]], [[Niko Henrichon]])
+|-
+| 38-43
+| Skottie Young
+|-
+| 44-46 '"[[X-Men: Messiah Complex|Messiah CompleX]]"
+| [[Humberto Ramos]]
+|-
+| colspan=3 | ''New X-Men: Hellions'' (related reading)
+|-
+| 1-4
+| Nunzio DeFilippis, Christina Weir
+| [[Clayton Henry]]
+|-
+|}
+
+==Collected editions==
+
+===Trade paperbacks===
+{| class="wikitable"
+! Title
+! Material collected
+! width=110 | Publication date
+! width=110 | ISBN
+|-
+| ''New Mutants Vol. 1: Back to School''
+| ''New Mutants'' (vol. 2) #1-6
+| March 2005
+| {{ISBNT|0-7851-1242-1}}
+|-
+| ''New Mutants: Back to School - Complete Collection''
+| ''New Mutants,'' vol. 2 #1–13; ''X-Men Unlimited'' #42-43
+| January 2018
+| {{ISBNT|978-1302915681}}
+|-
+| ''New X-Men: Academy X - Complete Collection''
+| ''New X-Men: Academy X'' #1–15; ''New X-Men: Academy X Yearbook'' #1; ''New X-Men: Hellions'' #1–4;
+| December 2018
+| {{ISBNT|978-1302910327}}
+|-
+|''New X-Men Childhood's End - Complete Collection''
+|New X-Men #16-32
+|January 2019
+| {{ISBNT|978-1302913847}}
+|-
+|''New X-Men Quest for Magik - Complete Collection''
+|New X-Men (2004) 33-39, 40-42 (A Stories), 43; X-Infernus 1-4, Saga; material from X-Men Unlimited (2004) 14; X-Men: Divided We Stand 2
+|July 2019
+| {{ISBNT|978-1302918378}}
+|-
+| ''New X-Men: Academy X Vol. 1: Choosing Sides''
+| ''New X-Men: Academy X'' #1-6
+| January 2005
+| {{ISBNT|0-7851-1538-2}}
+|-
+| ''New X-Men: Academy X Vol. 2: Haunted''
+| ''New X-Men: Academy X'' #7-11
+| July 2005
+| {{ISBNT|0-7851-1615-X}}
+|-
+| ''New X-Men: Hellions''
+| ''New X-Men: Hellions'' #1-4
+| November 2005
+| {{ISBNT|0-7851-1746-6}}
+|-
+| ''New X-Men: Academy X Vol. 3: X-Posed''
+| ''New X-Men: Academy X'' #12-15, ''New X-Men: Academy X Yearbook''
+| January 2006
+| {{ISBNT|0-7851-1791-1}}
+|-
+| ''House of M: New X-Men''
+| ''New X-Men: Academy X'' #16-19, ''Secrets of the House of M''
+| March 2006
+| {{ISBNT|0-7851-1941-8}}
+|-
+| ''New X-Men: Childhood's End, Vol. 1''
+| ''New X-Men'' #20-23
+| May 2006
+| {{ISBNT|0-7851-1831-4}}
+|-
+| ''New X-Men: Childhood's End, Vol. 2: Crusade''
+| ''New X-Men'' #24-27
+| August 2006
+| {{ISBNT|0-7851-2024-6}}
+|-
+| ''New X-Men: Childhood's End, Vol. 3: Nimrod''
+| ''New X-Men'' #28-32
+| December 2006
+| {{ISBNT|0-7851-2025-4}}
+|-
+| ''New X-Men: Childhood's End, Vol. 4: Mercury Falling''
+| ''New X-Men'' #33-36
+| June 2007
+| {{ISBNT|0-7851-2238-9}}
+|-
+| ''New X-Men: Childhood's End, Vol. 5: Quest for Magik''
+| ''New X-Men'' #37-43
+| December 2007
+| {{ISBNT|0-7851-2239-7}}
+|-
+| ''X-Men: Messiah Complex''
+| ''X-Men: Messiah CompleX'' one-shot, ''Uncanny X-Men'' #492-494, ''X-Men'' #205-207, ''New X-Men'' #44-46, ''X-Factor'' #25-27, ''X-Men: Messiah CompleX - Mutant Files''
+| November 2008
+| {{ISBNT|0-7851-2320-2}}
+|-
+|}
+
+===Hardcovers===
+{| class="wikitable"
+|-
+! Title
+! Material collected
+! width=110 | Publication date
+! width=110 | ISBN
+|-
+| ''X-Men: Messiah Complex''
+| ''X-Men: Messiah Complex'' one-shot, ''Uncanny X-Men'' #492-494, ''X-Men'' #205-207, ''New X-Men'' #44-46, ''X-Factor'' #25-27
+| April 2008
+| {{ISBNT|0-7851-2899-9}}
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal|Comics|2000s}}
+{{Wikiquote}}
+*[http://marvel.com/catalog/?book_title=New+X-Men ''New X-Men''] at Marvel.com
+*{{comicbookdb|type=title|id=1089|title=''New X-Men''}}
+*[http://www.sequart.org/magazine/640/confessions-of-a-new-x-men-reader/ Confessions of a New X-Men Reader]—look back on Morrison's tenure
+
+{{X-Comics}}
+
+[[Category:X-Men titles]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:Works by Christopher Yost]]

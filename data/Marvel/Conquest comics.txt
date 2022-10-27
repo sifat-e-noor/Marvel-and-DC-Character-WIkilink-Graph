@@ -1,0 +1,479 @@
+{{short description|Comic book series}}
+{{For|the character|Invincible (character)}}
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics--> 
+|title               = Invincible
+|image               = Invincible Issue 75.jpeg
+|imagesize           = <!-- default 250 -->
+|caption             = {{Descript-cvr|Invincible||75|November 2010}}. Cover Art by [[Robert Kirkman]] and [[Ryan Ottley]].
+|schedule            = Monthly
+|format              = Ongoing series
+|Superhero            = y
+|publisher           = [[Skybound Entertainment]]<br /> ([[Image Comics]])
+|startmo             = January
+|startyr             = 2003 
+|endmo               = February
+|endyr               = 2018
+|issues              = 144
+|main_char_team      = {{ubl|[[Invincible (character)|Mark Grayson / Invincible]]|[[Omni-Man|Nolan Grayson / Omni-Man]]|[[Atom Eve|Atom Eve Wilkins]]}}
+|writers             = [[Robert Kirkman]]
+|artists             = [[Cory Walker]]<br />[[Ryan Ottley]]
+|letterers           = Russ Wooton
+|colorists           = Bill Crabtree
+|editors             = Robert Kirkman
+|creative_team_month = 
+|creative_team_year  = 
+|creators            = [[Robert Kirkman]]
+|TPB                 = Family Matters
+|ISBN                = 1-5824-0320-1
+|TPB1                = Eight is Enough
+|ISBN1               = 1-5824-0347-3
+|TPB2                = Perfect Strangers
+|ISBN2               = 1-5824-0391-0
+|TPB3                = Head of the Class
+|ISBN3               = 1-5824-0440-2
+|TPB4                = The Facts of Life
+|ISBN4               = 1-5824-0554-9
+|TPB5                = A Different World
+|ISBN5               = 1-5824-0579-4
+|TPB6                = Three's Company
+|ISBN6               = 1-5824-0656-1
+|TPB7                = My Favorite Martian
+|ISBN7               = 1-5824-0683-9
+|TPB8                = Out of This World
+|ISBN8               = 1-5824-0827-0
+|TPB9                = Who's the Boss?
+|ISBN9               = 1-6070-6013-2
+|TPB10               = Happy Days
+|ISBN10              = 1-6070-6062-0
+|TPB11               = Still Standing
+|ISBN11              = 1-6070-6166-X
+|TPB12               = Growing Pains
+|ISBN12              = 1-6070-6251-8
+|TPB13               = The Viltrumite War
+|ISBN13              = 1-6070-6367-0
+|TPB14               = Get Smart
+|ISBN14              = 1-6070-6498-7
+<!--the template supports up to 14 pairs of "TPB" and "ISBN"-->
+|subcat              = Image Comics
+|sort                = Invincible (comic series)
+}}
+
+<!--excess pairs of "TPB" and "ISBN":
+|TPB15               = Family Ties
+|ISBN15              = 1-6070-6579-1
+|TPB16               = What's Happening?
+|ISBN16              = 1-6070-6662-9
+|TPB17               = The Death of Everyone
+|ISBN17              = 1-6070-6762-5
+|TPB18               = The War at Home
+|ISBN18              = 1-6070-6856-7
+|TPB19               = Friends
+|ISBN19              = 1-6321-5043-1
+|TPB20               = Modern Family
+|ISBN20              = 1-6321-5318-1
+|TPB21               = Reboot?
+|ISBN21              = 1-6321-5626-1
+|TPB22               = Full House
+|ISBN22              = 1-6321-5888-4
+|TPB23               = The End of All Things, Part 1
+|ISBN23              = 1-5343-0322-5
+|TPB24               = The End of All Things, Part 2
+|ISBN24              = 1-5343-0503-8
+-->
+'''''Invincible''''' is an [[American comic book]] series written by [[Robert Kirkman]], illustrated by [[Cory Walker]] and [[Ryan Ottley]], and published by [[Image Comics]]. Set in the [[Image Universe]],<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=15081|title=One Fan's Opinion: Issue #14|publisher=[[Comic Book Resources]]|date=2005-11-10|access-date=2013-09-02|archive-date=2012-11-19|archive-url=https://web.archive.org/web/20121119050241/http://www.comicbookresources.com/?page=article&id=15081|url-status=live}}</ref> ''Invincible'' follows the [[coming of age]] of [[superhero]] [[Invincible (character)|Mark Grayson / Invincible]], a Viltrumite and first-born son of [[Omni-Man]], the most powerful person on the planet. The series began publication on January 22, 2003, concluding on February 14, 2018 with 144 issues. A [[Invincible (TV series)|television series adaptation]] began streaming on [[Amazon Prime Video]] on March 25, 2021 to critical acclaim.<ref>{{cite web|title=Robert Kirkman's Animated Series 'Invincible' Gets Premiere Date On Amazon|url=https://deadline.com/2021/01/robert-kirkmans-animated-series-invincible-premiere-date-amazon-clip-watch-1234678592/|last=Petski|first=Denise|website=[[Deadline Hollywood]]|date=January 22, 2021|access-date=January 22, 2021|archive-date=January 22, 2021|archive-url=https://web.archive.org/web/20210122213120/https://deadline.com/2021/01/robert-kirkmans-animated-series-invincible-premiere-date-amazon-clip-watch-1234678592/|url-status=live}}</ref>
+
+==Plot synopsis==
+[[Mark Grayson]] was a normal high school senior with a normal part-time job whose father Nolan is the alien (but human-appearing) [[Omni-Man]], the most powerful superhero on the planet. At age 17, Mark begins to display superpowers, which come from his father being a member of the Viltrumite race, who, according to Nolan, pioneer the galaxy on a mission of benevolence and enlightenment.
+
+As [[Invincible (character)|Invincible]], Mark begins working as a superhero with his father acting as his mentor, and meeting other heroes (including Robot, [[Rex Splode]], Dupli-Kate and [[Atom Eve]]).  His exploits range from discovering that his physics teacher has been turning his students into human bombs, to foiling a plan by the Mauler Twins to make an army of robots. Meanwhile, Omni-Man is kidnapped by aliens, taken to another dimension. He returns after what seems to be only a few days but was actually eight months to him.
+
+==Publication history==
+[[File:Ryan Ottley, Robert Kirkman and Cory Walker - Lucca Comics & Games 2018.jpg|thumb|right|[[Ryan Ottley]], [[Robert Kirkman]] and [[Cory Walker]] at [[Lucca Comics & Games]] 2018.]]
+While Robert Kirkman has been the sole writer of the series, Cory Walker and [[Ryan Ottley]] have contributed the art. [[Cory Walker]] co-created the book and provided art from #1 to #7 as well as #127–132. [[Ryan Ottley]] assumed art duties with issue #8 and drew all other issues. Kirkman has provided back-up space for a few aspiring comic creators, most notably [[Benito Cereno (writer)|Benito Cereno]] and Nate Bellegarde. The series is known for its extreme [[graphic violence]] despite its colorful nature and visuals.<ref>{{Cite web|last=Kabir|first=Kaisar|date=June 14, 2021|title=A truly 'Invincible' comic book series |url=https://www.thedailystar.net/book-reviews/news/the-true-invincible-comic-book-series-2110881|url-status=live|access-date=2021-06-20|website=[[The Daily Star (Bangladesh)|The Daily Star]]|language=en}}</ref>
+
+The series ended with issue #144, with Ryan Ottley "coming back to the book" for the final twelve-issue sequence.<ref>{{cite web|last1=Kirkman|first1=Robert|title=Robert Kirkman Brings Invincible To An End|url=http://www.bleedingcool.com/2016/08/17/robert-kirkman-brings-invincible-to-an-end|website=Bleeding Cool|access-date=19 December 2016|date=2016-08-17|archive-date=2016-12-21|archive-url=https://web.archive.org/web/20161221165157/http://www.bleedingcool.com/2016/08/17/robert-kirkman-brings-invincible-to-an-end/|url-status=live}}</ref> The double-sized final issue was released on 14 February 2018.<ref>{{Cite news|url=https://www.skybound.com/comics/weeks-comics-invincible-144-slots-5/|title=This Week's Comics: Invincible #144 & Slots #5 - Skybound|date=2018-02-13|work=Skybound|access-date=2018-02-14|language=en-US|archive-date=2018-02-15|archive-url=https://web.archive.org/web/20180215083957/https://www.skybound.com/comics/weeks-comics-invincible-144-slots-5/|url-status=live}}</ref> In April 2022, it was announced that a Battle Beast story would be published in Skybound X #25 with Kirkman and Ottley reuniting for the story and published on July 20, 2022.<ref>{{Cite web |date=2022-04-20 |title=“Skybound X” #25 to Preview Four New Series |url=http://www.multiversitycomics.com/news/skybound-x-25/ |access-date=2022-08-05 |website=Multiversity Comics |language=en}}</ref> In October 2022, it was announced that, in celebration of the series 20th anniversary in 2023, the series first issue would be getting a reprinted facsimile edition reprint, a deluxe edition repirint of issue one, a comic shop exclusive harcover of compendium vol 1, a reprint of the series in a new 6"x9" graphic novel format with new covers from Cory Walker and Dave McCaig, an Invincible Universe compendium, and a secret annoucnement in January 2023.<ref>{{Cite web |title=Skybound Announces Massive Plans for Invincible's 20th Anniversary (Exclusive) |url=https://comicbook.com/comics/news/skybound-invincible-20th-anniversary-announcement/ |access-date=2022-10-11 |website=Comics |language=en}}</ref>
+
+==Characters==
+===Grayson family===
+* '''[[Invincible (character)|Mark Grayson]]''': A 17-year-old high school student and a Viltrumite/human hybrid who becomes the superhero Invincible.
+* '''[[Omni-Man]]''': Mark's father Nolan, Debbie's husband and formerly the greatest superhero of Earth.
+* '''Debbie Grayson''': Mark's mother, Nolan's wife, adoptive mother of Oliver Grayson.
+* '''Lord Argall''': The former king of the Viltrumites prior to his death and the father of Omni-Man and grandfather of Invincible and Oliver Grayson.
+* '''Oliver Grayson''': Mark's alien half-brother. The result of a relationship between Nolan and a member of an alien race who have short life spans, growing at a rapidly increased rate compared to humans, though his father's DNA is slowing his aging over time. Although his mother is an insect-like humanoid, he resembles a Viltrumite/human with purple skin (later fades to pink). His mother tells his brother to take him to Earth, so that he can have a life with the people there, because their lifespan is longer than her people's, and he gets adopted by Debbie. He first takes the sobriquet of Kid Omni-Man and then Young Omni-Man as he attempts to rehabilitate the memory of Omni-Man in the general public. 
+* '''Terra Grayson''': The daughter of Atom Eve and Mark Grayson who would go on to become the third Invincible.
+* '''Markus Murphy''': Also known as Marky, he is the son of Mark and Anissa after the latter raped the former. He would go to become Kid Invincible.
+
+===Superheroes===
+* '''Atom Eve''': Samantha Eve Wilkins is a former classmate of Mark's and member of the Teen Team. Eve was created as a result of a government experiment to create super-beings. She can manipulate all matter, although a mental block has previously stopped her from creating and manipulating living things. Eventually she and Mark realize their true feelings for each other and the pair start dating, fall in love, and get married after Eve gives birth to their daughter Terra.
+* '''Allen the Alien''': Previously a Champion Evaluation Officer who worked for the Coalition of Planets, he traveled on a tight schedule and tested the skills of various powered heroes on each planet in order to determine if there is a suitable "champion" to defend that planet. He was later promoted to leader of the Coalition of Planets.
+* '''[[Guardians of the Globe|The Guardians of the Globe]]''':
+** '''The Immortal''': Apparently unkillable leader of the Guardians of the Globe and currently married to Dupli-Kate. It is suggested in flashbacks that one of his past identities was in fact [[Abraham Lincoln]]. In the present storyline, he is alive. Revealed to rule the world as a tyrant in the far alternate future, where he is finally killed by Invincible at his own behest. Invincible prevents this in his own timeline by giving The Immortal the assistance of Robot's brain to rule with suggestive guidance.
+** '''Black Samson''': Lost his powers (and with them, his Guardian status) for a while before recovering them very abruptly.
+** '''Rex Splode''': Former member of the Teen Team and the Guardians of the Globe who can make objects explode by charging kinetic energy. He sacrificed himself to kill a hostile alternate-dimension Invincible.
+** '''Dupli-Kate''': Former Member of the Teen Team and the Guardians of the Globe, creates an army of duplicates of herself.
+** '''Bulletproof''': Initially turned down of membership in the Guardians of the Globe, Bulletproof did later join the team and is currently a member. In a related note, Bulletproof was one of the proposed names for the title character before the series saw print. Bulletproof later becomes the second Invincible after Mark temporarily loses his powers.
+** '''Shrinking Ray''': Former member of the Guardians of the Globe, now dead.
+** '''Monster Girl''': A girl who was cursed by a gypsy, now able to shapeshift into a large ogre-like creature with superhuman strength. A side effect is that with each change into Monster Girl, her normal self becomes younger physically. Her boyfriend, Robot, however found a cure for the curse, allowing her to develop normally.
+** '''The Shapesmith''': A Martian, disguised as human astronaut Rus Livingston, who uses his metamorphic powers to change his shape. 
+** '''Darkwing''': Formerly Night Boy, the original Darkwing's sidekick, he continued Darkwing's legacy but snapped and started killing criminals until Invincible apprehended him. A reformed Darkwing joined the Guardians of the Globe. He can teleport himself and others via the Shadow-verse using any shadow large enough to envelop him. Dragged by one of the extra-dimensional Invincibles into the Shadow-verse, this new Darkwing is later revealed to be alive and aged from the experience.
+* '''Fightmaster and Drop Kick''': Two time-travelling martial arts masters who stole the [[United States Declaration of Independence|Declaration of Independence]], he is from the same era as the future insane Immortal.
+
+===Allies===
+* '''Amber Justine Bennett''': Mark's ex-girlfriend.
+* '''William Francis Clockwell''': Mark's roommate and best friend. He initially dates Eve, though Eve admitted she only did it to get close to Mark. He is revealed to be homosexual and begins dating Rick.
+* '''Cecil Stedman''': Government liaison and head of the clandestine Global Defense Agency.
+* '''Donald Ferguson''': Cecil's assistant, Guardians of the Globe contact, and android.
+* '''Art Rosenbaum''': Tailor of superhero costumes and family friend of the Graysons.
+* '''Rick Sheridan''': Mark and William's classmate at Upstate University, turned into one of the Reanimen. After he recovers from the ordeal, he begins dating William.
+* '''B. N. Winslow''': Mark and William's principal at Reginald Vel Johnson High School, and later dean at Upstate College.
+* '''Thaedus''': A peaceful member of the Viltrumites killed by Thragg.
+* '''D. A. Sinclair''': A young and reclusive scientist at Upstate University, is the creator of the "Reanimen", robotic zombies intended to be "the soldiers of the future", who is hired by Cecil to build Reanimen out of the corpses of extra-dimensional Invincibles.
+
+===Enemies===
+* '''David Hiles''': A weapons engineer for a military sanctioned research firm. His son committed suicide which also resulted in him getting divorced from his wife. He also shortly thereafter lost his job. He joined the staff of "Reginald Vel Johnson High School", where one of his students was Mark Grayson, the teenage superhero called Invincible.
+* '''Robot''': Former leader of the Teen Team and leader of the Guardians of the Globe until replaced by the Immortal. Not an actual robot, but a drone body controlled by a malformed human living in life-support tank, he cloned a new human body for himself using Rex Splode's DNA with the help of the Mauler twins. Afterwards, he would become romantically involved with Monster Girl. In issue #71, he and Monster Girl disappear into a Flaxxan portal and return several issues later. Changed from the time he spent in the Flaxxan dimension, he becomes an antagonist to Invincible and other heroes who oppose him.
+* '''Mauler Twins''': An evil super-strong scientist and his clone, who both continuously argue as to which is the original. After the original was definitely killed, making them both clones, they switched to arguing which is the original clone. During a fight against the Guardians of the Globe, both Mauler twins were killed by Kid Omni-Man. They come back in a later issue, with one of them explaining that they have counter-measures in case both of them die.
+* '''Angstrom Levy''': A genius with the ability to leap across dimensions. After being disfigured by one of his inventions, he blames Invincible and swears revenge. He is one of Invincible's archenemies.
+* '''The Viltrumite Empire''': Invincible and Omni-Man's species:
+** '''Conquest''': An elderly, battle-scarred member of the Viltrumite Empire, a psychopath who relishes in fighting and killing those who oppose the empire.
+** '''Thragg''': The Grand Regent of the Viltrumites. He would later go rogue after being deposed and now seeks vengeance on Omni-Man and his family. He later fathers an entire army of half-Viltrumite children in order to attack Earth. Thragg is Invincible's arch-enemy and the main antagonist of the series.
+** '''Anissa''': A female Viltrumite that was infatuated with Invincible to the point that she raped him and gave birth to their son, Marky.
+** '''Ursaal''': A daughter of Thragg, and one of his many children.
+** '''Onnan''': One of Thragg's sons killed by Invincible.
+** '''General Kregg''': One of the many members of the Viltrumites, possesses a distinct cybernetic eye.
+** '''Thula''': A female member of the Viltrumites, uses her long hair as a weapon.
+** '''Lucan''': A male member of the Viltrumites.
+** '''Alternative Mark Graysons''': Versions of Mark Grayson from parallel universes who are evil.
+* '''Titan''': Titan can encase his body in super-strong, nearly invulnerable rock. Titan first appeared in ''Capes''. Titan was a member of the organized crime group The Order, until Mister Liu revoked his membership.
+* '''Battle Beast''': One of Machine Head's several henchmen, a [[white lion]]-like alien. He is later released from imprisonment on the Viltrumite Prison Warship where Allen the Alien and Omni-Man were held, and Allen the Alien used his insatiable lust for battles to coax him into helping in their jailbreak.
+* '''The Flaxans''': Aliens from another dimension, in which time passes at a dramatically faster pace.
+* '''Machine Head''': A crime boss with a robotic head.
+* '''Doc Seismic''': A villain with special gauntlets that enable him to induce earthquakes, also controls an army of lava men and other subterranean monsters.
+* '''Rus Livingston''': An astronaut accidentally left on Mars, he's been attacked and made a host of the psychic Sequids.
+* '''The Lizard League''': A group of lizard-themed terrorists, they are parodies of fictional reptile based villain groups The [[Serpent Society]], [[Hydra (Marvel Comics)|HYDRA]] and [[Cobra (G.I. Joe)|Cobra]]. The Lizard League consisted of lizard-named agents along with an army of human followers. Their secret headquarters lies in the [[Florida Everglades]] and bears a striking resemblance to a Cobra Terrordrome.
+** '''King Lizard''': The leader of the Lizard League who is an expert strategist and an expert at hand-to-hand combat. King Lizard is the only member of the Lizard League to currently be alive.
+** '''Komodo Dragon''': A member of the Lizard League with super-strength. He was killed when he bit off Rex Sloan's explosive hand.
+** '''Komodo Dragon II''': The successor of the original Komodo Dragon.
+** '''Salamander''': A member of the Lizard League with toxic abilities.
+** '''Iguana''': A female member of the Lizard League with claws
+* '''Furnace''': A villain with a massive steam-powered iron suit armed with dual flame-throwers and jets. He is actually a man made entirely of liquid heat from which the suit earns its power.
+* '''Magnattack''': A villain for hire with the ability to apparently push metal objects away from him, hence his massive armor plated suit.
+* '''Kursk''': A Russian villain for hire who can electrify single targets at a time. He was hired by Machine Head to deal with Titan, but was quickly defeated by the Guardians of the Globe.
+* '''Tether Tyrant''': A freelance villain with a vest which houses elastic appendages which can pull and throw victims around. Later merged with the sentient alien vest.
+* '''Magmaniac''': A freelance villain who is part lava.
+* '''Master Mind''': A criminal with the ability to mentally control the bodies of large groups of people. He was previously seen in the pages of ''[[Brit (comics)|Brit]]''.
+* '''Bi-Plane''': An age-old villain who believes in using old-fashioned technology for his attacks. 
+* '''The Elephant''': A small-time [[elephant]]-themed supervillain that has been described in-story as a "lame [[Rhino (character)|Rhino]] rip-off".
+* '''Isotope''': A teleporting criminal, Titan's lieutenant.
+* '''Giant''': An eight-year-old boy who was pulled into another dimension where he transformed by a sorcerer into gigantic orange-red cyclops. He became a king in the other dimension until he was teleported back by one of his enemies.
+* '''Multi-Paul''': Dupli-Kate's Brother, and a member of the criminal organization called the Order. He shares Kate's self-duplicating power.
+* '''Mister Liu''': Mister Liu is an elderly Asian cyborg and high-ranking member of the criminal organization called the Order. He can project his soul out of his body, taking the form of a giant oriental dragon.
+* '''Dinosaurus''': A mutant dinosaur humanoid who transforms when he feels indifferent. As Dinosaurus, he is highly intelligent and develops various plans to improve the world, but they are usually destructive and result in many lives being lost.
+
+[[File:KirkmanCreations.jpg|thumb|185px|right|Several of Kirkman's superheroes. Cover art by [[Ryan Ottley]].]]
+In 2003 and 2004, Image and Robert Kirkman published several other superhero series: ''[[Tech Jacket]]'' pencilled in a manga style by [[E. J. Su]] (cancelled at #6), the 3-issue ''Capes Inc.'' series drawn by Mark Englert and three oneshots starring [[Brit (comics)|Brit]], the first two with artwork from Tony Moore and the third with artwork by Cliff Rathburn.
+
+In 2007, ''Brit'' was launched as an ongoing full-color series written by Bruce Brown, with artwork by Cliff Rathburn. The series was overseen and edited by Robert Kirkman. In late 2007, a two issue mini-series starring Atom Eve was released.
+
+''Tech Jacket'' was first collected as a [[digest-sized]], black and white [[graphic novel]] and later reissued in regular sized, full color and a cover scheme similar to Kirkman's other trade paper backs. ''Capes'' was collected as a trade paperback in summer 2007, and the three Brit one-shots were colored by Val Staples and published as a collection in 2007, as well.
+
+At first shown to barely coexist in the same universe, the characters have since been integrated into Invincible's book. ''[[Tech Jacket]]'' was an ongoing series that tied into ''Invincible'' #27, and the character has been seen in the background of various battles during the series. The characters from ''Capes'' have also been supporting characters seen mainly in large superhero battles Invincible participates in, and the series ran as a back-up in the ''Invincible'' book starting with #27. Brit has had an even less substantial role, appearing a couple of times in the aforementioned brawls (understandable considering that after the last book ''Brit'' was somewhat-retired). Brit later went on to become the leader of the [[Guardians of the Globe]] and was featured heavily in comic spin-offs ''Guarding the Globe'' and ''Invincible Universe''. In ''[[The Astounding Wolf-Man]]'', Art, Invincible's tailor, appeared, designing the title character's costume. Wolf-man has also appeared in ''Invincible'' #48 & 49.
+
+==Collected editions==
+===Trade paperbacks===
+With the exception of volumes 14, 18, 22, 24, and 25, every volume of the ''Invincible'' [[trade paperback (comics)|trade paperbacks]] is named after a television [[sitcom]]:
+{| class="wikitable"
+|-
+! Title !! ISBN !! Release Date !! Collected Material
+|-
+| '''''Invincible'' Vol. 1: Family Matters'''
+| Paperback: {{ISBN|1-58240-320-1}}
+| 2003-11-02
+| ''Invincible'' #1–4
+|-
+| '''''Invincible'' Vol. 2: Eight Is Enough'''
+| Paperback: {{ISBN|1-58240-347-3}}
+| 2004-04-28
+| ''Invincible'' #5–8
+|-
+| '''''Invincible'' Vol. 3: Perfect Strangers'''
+| Paperback: {{ISBN|1-58240-391-0}}
+| 2004-12-01
+| ''Invincible'' #9–13
+|-
+| '''''Invincible'' Vol. 4: Head of the Class'''
+| Paperback: {{ISBN|1-58240-440-2}}
+| 2005-04-20
+| ''Invincible'' #14–19; ''Image Comics Summer Special''
+|-
+| '''''Invincible'' Vol. 5: The Facts of Life'''
+| Paperback: {{ISBN|1-58240-554-9}}
+| 2005-11-16
+| ''Invincible'' #0, 20–24, 25 (origin stories from the back only).
+|-
+| '''''Invincible'' Vol. 6: A Different World'''
+| Paperback: {{ISBN|1-58240-579-4}}
+| 2006-06-05
+| ''Invincible'' #25–30
+|-
+| '''''Invincible'' Vol. 7: Three's Company'''
+| Paperback: {{ISBN|1-58240-656-1}}
+| 2006-12-20
+| ''Invincible'' #31–35; ''[[The Pact (comics)|The Pact]]'' #4
+|-
+| '''''Invincible'' Vol. 8: My Favorite Martian'''
+| Paperback: {{ISBN|1-58240-683-9}}
+| 2007-07-19
+| ''Invincible'' #36–41
+|-
+| '''''Invincible'' Vol. 9: Out of This World'''
+| Paperback: {{ISBN|1-58240-827-0}}
+| 2008-06-18
+| ''Invincible'' #42–47
+|-
+| '''''Invincible'' Vol. 10: Who's the Boss?'''
+| Paperback: {{ISBN|1-60706-013-2}}
+| 2009-05-20
+| ''Invincible'' #48–53
+|-
+| '''''Invincible'' Vol. 11: Happy Days'''
+| Paperback: {{ISBN|1-60706-062-0}}
+| 2009-08-24
+| ''Invincible'' #54–59; ''[[The Astounding Wolf-Man]]'' #11
+|-
+| '''''Invincible'' Vol. 12: Still Standing'''
+| Paperback: {{ISBN|1-60706-166-X}}
+| 2010-05-26
+| ''Invincible'' #60–65
+|-
+| '''''Invincible'' Vol. 13: Growing Pains'''
+| Paperback: {{ISBN|1-60706-251-8}}
+| 2010-08-25
+| ''Invincible'' #66–70; ''Invincible Returns'' #1
+|-
+| '''''Invincible'' Vol. 14: The Viltrumite War'''
+| Paperback: {{ISBN|1607063670}}
+| 2011-04-25
+| ''Invincible'' #71–78
+|-
+| '''''Invincible'' Vol. 15: Get Smart'''
+| Paperback: {{ISBN|1-60706-498-7}}
+| 2012-01-11
+| ''Invincible'' #79–84
+|-
+| '''''Invincible'' Vol. 16: Family Ties'''
+| Paperback: {{ISBN|9781607065791}}
+| 2012-07-05
+| ''Invincible'' #85–90
+|-
+| '''''Invincible'' Vol. 17: What's Happening?'''
+| Paperback: {{ISBN|1-60706-662-9}}
+| 2013-01-23
+| ''Invincible'' #91–96
+|-
+| '''''Invincible'' Vol. 18: The Death of Everyone'''
+| Paperback: {{ISBN|1-60706-762-5}}
+| 2013-08-13
+| ''Invincible'' #97–102
+|-
+| '''''Invincible'' Vol. 19: The War at Home'''
+| Paperback: {{ISBN|1-60706-856-7}}
+| 2014-03-11
+| ''Invincible'' #103–108
+|-
+| '''''Invincible'' Vol. 20: Friends'''
+| Paperback: {{ISBN|1632150433}}
+| 2014-11-12
+| ''Invincible'' #109–114
+|-
+| '''''Invincible'' Vol. 21: Modern Family'''
+| Paperback: {{ISBN|1-63215-318-1}}
+| 2015-06-24
+| ''Invincible'' #115–120
+|-
+| '''''Invincible'' Vol. 22: Reboot?'''
+| Paperback: {{ISBN|1-63215-626-1}}
+| 2016-02-25
+| ''Invincible'' #121–126
+|-
+| '''''Invincible'' Vol. 23: Full House'''
+| Paperback: {{ISBN|1-63215-888-4}}
+| 2017-04-04
+| ''Invincible'' #127–132
+|-
+| '''''Invincible'' Vol. 24: The End of All Things, Part 1'''
+| Paperback: {{ISBN|1534303227}}
+| 2017-09-26
+| ''Invincible'' #133–138
+|-
+| '''''Invincible'' Vol. 25: The End of All Things, Part 2'''
+| Paperback: {{ISBN|1534305033}}
+| 2018-03-27
+| ''Invincible'' #139–144
+|-
+| '''''Invincible'' Compendium Vol. 1'''
+| {{ISBN|1-60706-411-1}}
+| 2011-08-17
+| Collects #1–47, #0, Invincible story from the ''Image Comics Summer Special'', ''The Pact'' #4.
+|-
+| '''''Invincible'' Compendium Vol. 2'''
+| {{ISBN|1-60706-772-2}}
+| 2013-08-27
+| Collects #48–96, ''Invincible Returns'' #1, ''Astounding Wolf-Man'' #11.
+|-
+| '''''Invincible'' Compendium Vol. 3'''
+| {{ISBN|1-53430-686-2}}
+| 2018-07-24
+| Collects #97–144
+|-
+| '''''Invincible'' Presents: Atom Eve & Rex Splode, Vol. 1'''
+| Paperback: {{ISBN|1-60706-255-0}}
+| 2010-06-14
+| ''Invincible Presents: Atom Eve'' #1–2; ''Invincible Presents: Atom Eve & Rex Splode'' #1–3
+|}
+
+===Hardcovers===
+{| class="wikitable"
+|-
+! Title
+! ISBN
+! Release Date
+! Collected Material
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 1
+| {{ISBN|1-58240-500-X}}
+| 2005-08-03
+| Collects #1–13, plus extras.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 2
+| {{ISBN|1-58240-594-8}}
+| 2006-06-20
+| Collects #14–24, #0, Free Comic Book Day 2004 story, parts of #25, plus extras.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 3
+| {{ISBN|1-58240-763-0}}
+| 2007-11-07
+| Collects #25–35, ''The Pact'' #4, plus extras.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 4
+| {{ISBN|1-58240-989-7}}
+| 2009-04-29
+| Collects #36–47, plus extras.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 5
+| {{ISBN|1-60706-116-3}}
+| 2010-01-13
+| Collects #48–59, ''The Astounding Wolf-Man'' #11.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 6
+| {{ISBN|1-60706-360-3}}
+| 2011-04-05
+| Collects #60–70, ''Invincible Returns'' #1.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 7
+| {{ISBN|1-60706-509-6}}
+| 2012-02-15
+| Collects #71–84.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 8
+| {{ISBN|1-60706-680-7}}
+| 2013-05-01
+| Collects #85–96.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 9
+| {{ISBN|1-63215-032-8}}
+| 2014-08-19
+| Collects #97–108.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 10
+| {{ISBN|1-63215-494-3}}
+| 2015-12-10
+| Collects #109–120.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 11
+| {{ISBN|1-53430-045-7}}
+| 2017-05-23
+| Collects #121–132.
+|-
+| ''Invincible'' Ultimate Collection Hardcover Vol. 12
+| {{ISBN|1-53430-658-7}}
+| 2018-05-22
+| Collects #133–144.
+|-
+| The Complete ''Invincible'' Library Vol.1
+| {{ISBN|1-58240-718-5}}
+| 2007-03-28
+| Collects #1–24, #0, Free Comic Book Day 2004 story, parts of #25, plus extras.
+|-
+| The Complete ''Invincible'' Library Vol.2
+| {{ISBN|1-60706-112-0}}
+| 2009-11-25
+| Collects #25–47, ''The Pact'' #4, plus extras.
+|-
+| The Complete ''Invincible'' Library Vol.3
+| {{ISBN|1-60706-421-9}}
+| 2011-11-30
+| Collects #48–70, ''The Astounding Wolf-Man'' #11, ''Invincible Returns'' #1, plus extras.
+|}
+
+===Other collections===
+* Invincible also appeared in ''[[Marvel Team-Up]]'' Vol. 3 #14, which was collected in ''Marvel Team-Up Volume 3: League of Losers'' {{ISBN|0-7851-1946-9}}. This story occurs "between the pages" of ''Invincible'' #33.
+* In November 2006, the ''Official Handbook of the Invincible Universe'' was released. This two-issue series told the origins of all of the characters seen in the series so far, and was done in the style of the ''[[Official Handbook of the Marvel Universe]]'', including similar covers. The series was collected into a trade paperback in November 2007.
+
+==In other media==
+===Motion comics===
+The comic has been turned into a [[motion comic]] by Gain Enterprises using the Bomb-xx process, and is broadcast on [[MTV2]]<ref>{{cite web|author=mtv|url=http://www.mtv.com/videos/shows/comic-book-week/259584/episode-1.jhtml|title=Episode 1|publisher=MTV|date=2008-08-27|access-date=2015-05-03|archive-date=2014-12-14|archive-url=https://web.archive.org/web/20141214141100/http://www.mtv.com/videos/shows/comic-book-week/259584/episode-1.jhtml|url-status=live}}</ref> and downloadable to mobile phones, from [[iTunes]],<ref>{{cite web |author=George Gene Gustines |url=https://www.nytimes.com/2008/07/14/business/media/14mtv.html |title=A Comic Book Superhero Is Headed to Small Screens&nbsp;– NYTimes.com |publisher=NYTimes/com |date=2008-07-14 |access-date=2015-05-03 |archive-date=2015-07-05 |archive-url=https://web.archive.org/web/20150705223521/http://www.nytimes.com/2008/07/14/business/media/14mtv.html |url-status=live}}</ref><ref>[https://itunes.apple.com/us/tv-season/invincible-season-1/id284814183] {{webarchive |url=https://web.archive.org/web/20121113145053/http://itunes.apple.com/us/tv-season/invincible-season-1/id284814183 |date=November 13, 2012}}</ref> and [[Amazon (company)|Amazon]].<ref>{{cite web|url=https://www.amazon.com/dp/B001DE8IJM|title=Amazon.com: Invincible Season 1|website=www.amazon.com|access-date=2021-05-01|archive-date=2021-03-17|archive-url=https://web.archive.org/web/20210317044454/https://www.amazon.com/dp/B001DE8IJM|url-status=live}}</ref>
+
+'''Cast'''
+* [[Patrick Cavanaugh]] as [[Invincible (character)|Invincible]]
+* Mark Fountain as [[Omni-Man|Nolan Grayson]]
+* Victoria Kelleher as Debbie Grayson
+* Wendy Allyn as Atom Eve
+* [[Stan Kirsch]] as Robot
+* Jeff Shuter as William Clockwell
+* J. Anthony McCarthy as Criminal
+* Tom Ohmer as Cecil Stedman
+* [[Hosea Chanchez]] as Mauler Twins
+* Daniel Kirschner as Criminals
+* Eric Wolfgang Nelson as Rex Splode
+* Keith Stone as Allen the Alien
+* Mike Connel as Derek
+* Bill Garnet as Art Rosenbaum
+* [[Leslie-Anne Huff]] as Dupli-Kate
+* Paul Kresge as Teen Bomb
+* Cynthia Sophiea as Mrs. Thatcher
+
+===Film===
+[[Point Grey Pictures]] and [[Skybound Entertainment]] were set to produce a live-action adaptation with [[Seth Rogen]] and [[Evan Goldberg]] attached as writers and directors and [[Universal Pictures]] distributing it. Series creator Robert Kirkman was also set to produce the film, along with Rogen, Goldberg, David Alpert, Bryan Furst, and Sean Furst.<ref>{{Cite web|title=Seth Rogen, Evan Goldberg to Adapt Robert Kirkman Comic 'Invincible' for Universal (Exclusive)|date=4 April 2017|url=https://www.hollywoodreporter.com/heat-vision/seth-rogen-evan-goldberg-adapt-robert-kirkman-comic-invincible-universal-990931|access-date=2021-05-01|archive-date=2021-02-04|archive-url=https://web.archive.org/web/20210204082435/https://www.hollywoodreporter.com/heat-vision/seth-rogen-evan-goldberg-adapt-robert-kirkman-comic-invincible-universal-990931|url-status=live}}</ref> In January 2021, Kirkman reaffirmed that the film is still in development despite the release of a [[Invincible (TV series)|streaming television adaptation]], and that Rogen and Goldberg are still involved with the project.<ref>{{Cite web|title='Invincible' live-action movie will exist separate from Amazon's animated series|url=https://ew.com/movies/invincible-movie-live-action-separate-from-amazon-animated-series/|access-date=2021-01-26|website=EW.com|language=en|archive-date=2021-01-26|archive-url=https://web.archive.org/web/20210126152209/https://ew.com/movies/invincible-movie-live-action-separate-from-amazon-animated-series/|url-status=live}}</ref>
+
+===Television series===
+{{Main|Invincible (TV series)}}
+A [[Invincible (TV series)|television adult animated adaptation of the comic series]] by [[Amazon Studios]] was produced with creator Robert Kirkman as executive producer of the series.<ref>{{cite web|url=https://deadline.com/2018/06/amazon-invincible-superhero-animated-series-the-walking-dead-robert-kirkman-1202413387/|title=Amazon Greenlights 'Invincible' Superhero Animated Series From Robert Kirkman|last=Andreeva|first=Nellie|publisher=Deadline|date=June 19, 2018|access-date=June 20, 2018|archive-date=May 30, 2020|archive-url=https://web.archive.org/web/20200530133112/https://deadline.com/2018/06/amazon-invincible-superhero-animated-series-the-walking-dead-robert-kirkman-1202413387/|url-status=live}}</ref> The cast features [[Steven Yeun]], [[Sandra Oh]], and [[J. K. Simmons]] as Invincible, Debbie Grayson, and Omni-Man respectively,<ref>{{cite web |title=Invincible |url=https://www.imdb.com/title/tt6741278/fullcredits/?ref_=tt_ov_st_sm |website=IMDb.com |publisher=Internet Movie Database |access-date=29 March 2021 |archive-date=23 March 2021 |archive-url=https://web.archive.org/web/20210323211831/https://www.imdb.com/title/tt6741278/fullcredits/?ref_=tt_ov_st_sm |url-status=live }}</ref> with Rogen ending up being involved as a part of the cast, but he and Goldberg were not set to direct/write/produce the series.<ref>{{Cite web|url=https://deadline.com/2019/01/invincible-cast-steven-yeun-j-k-simmons-robert-kirkman-amazon-series-1202546501/|title='Invincible': Steven Yeun & J.K. Simmons Top Loaded Voice Cast For Robert Kirkman's Animated Amazon Series|last=Petski|first=Denise|date=2019-01-31|website=Deadline|language=en|access-date=2019-02-01|archive-date=2019-02-01|archive-url=https://web.archive.org/web/20190201065237/https://deadline.com/2019/01/invincible-cast-steven-yeun-j-k-simmons-robert-kirkman-amazon-series-1202546501/|url-status=live}}</ref> It premiered on March 26, 2021.<ref>{{Cite web |url=https://www.animationmagazine.net/streaming/clip-invincible-takes-flight-on-amazon-march-26/ |title=Clip: 'Invincible' Takes Flight on Amazon March 26 |date=24 January 2021 |access-date=2021-05-01 |archive-date=2021-02-01 |archive-url=https://web.archive.org/web/20210201160304/https://www.animationmagazine.net/streaming/clip-invincible-takes-flight-on-amazon-march-26/ |url-status=live }}</ref> The series was renewed for a second and third season.<ref>{{Cite web|last=Otterson|first=Joe|date=2021-04-29|title='Invincible' Renewed for Seasons 2 and 3 at Amazon|url=https://variety.com/2021/tv/news/invincible-renewed-season-2-amazon-1234963347/|access-date=2021-05-06|website=Variety|language=en-US|archive-date=2021-05-03|archive-url=https://web.archive.org/web/20210503220641/https://variety.com/2021/tv/news/invincible-renewed-season-2-amazon-1234963347/|url-status=live}}</ref>
+
+==In popular culture==
+* In the ''[[King of the Hill]]'' episode [[Behind Closed Doors (King of the Hill)|"Behind Closed Doors"]], [[Bobby Hill (King of the Hill)|Bobby]] is seen reading a comic entitled ''Unvincible'', whose title and cover art is similar to the first issue of ''Invincible''. Also, in the 13th-season episode "[[Earthly Girls are Easy]]", [[Buck Strickland]] plays with an Invincible action figure when planning his entrance at the benefit concert.
+* In the film ''[[Paul (film)|Paul]]'', [[Simon Pegg]] can be seen wearing an Invincible shirt, and issues of the comic appear in a comic book shop. According to [[Robert Kirkman]], he, along with ''Invincible'' co-creator [[Cory Walker]] and current ''Invincible'' artist [[Ryan Ottley]], had a cameo in the film as The Big Guy's henchmen.<ref>{{cite tweet |last=Kirkman |first=Robert |author-link=Robert Kirkman |user=RobertKirkman |number=3216236821 |date=August 9, 2009 |title=Flying out tomorrow to New Mexico... |access-date=2010-07-25}}</ref>
+* On the 8th episode of [[The Walking Dead (season 6)|Season 6]] of ''[[The Walking Dead (TV series)|The Walking Dead]]'', during the first scene, four [[Minimates]] action figures of the characters Invincible, Allen the Alien, Atom Eve and Omni-Man are shown in Sam Anderson's room. Carl and the other kids in Alexandria periodically read ''Invincible'' comic books as well.<ref>{{cite web |website=[[Popsugar]] |first=Maggie |last=Pehanick |url=http://www.popsugar.com/entertainment/Walking-Dead-Season-6-Winter-Finale-Easter-Egg-39243890 |title=If You Blinked, You Missed This Easter Egg From The Walking Dead's Winter Finale |date=November 30, 2015 |access-date=2010-07-25 |url-status=dead |archive-url=https://web.archive.org/web/20160303045533/http://www.popsugar.com/entertainment/Walking-Dead-Season-6-Winter-Finale-Easter-Egg-39243890 |archive-date=March 3, 2016}}</ref> Robert Kirkman, co-creator of ''Invincible'', is the co-creator of ''The Walking Dead'' [[The Walking Dead (comic book)|comic book series]] that originated the TV series, also acting as executive producer for the show.
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{gcdb series|id=17010|title=''Invincible''}}
+*{{comicbookdb|type=title|id=25072|title=''Invincible''}}
+{{refend}}
+
+==External links==
+* {{official website|https://www.skybound.com/invincible}}
+* [https://imagecomics.com/comics/series/invincible ''Invincible''] at [[Image Comics]]
+
+{{Invincible}}
+{{Image Comics}}
+
+{{DEFAULTSORT:Invincible (comics)}}
+[[Category:Invincible (comic)| ]]
+[[Category:2003 comics debuts]]
+[[Category:2018 comics endings]]
+[[Category:Comics by Robert Kirkman]]
+[[Category:Skybound Entertainment titles]]

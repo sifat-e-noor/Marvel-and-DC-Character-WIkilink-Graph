@@ -1,0 +1,57 @@
+{{Short description|In maritime context, emergency control of situations which may cause the sinking of a ship}}
+{{Other uses}}
+{{more citations needed|date=August 2013}}
+[[File:US Navy 020811-N-6817C-007 USS Abraham Lincoln (CVN 72) pipe-patching techniques during a ^lsquo,Damage Control Fair^rsquo.jpg|thumb|upright|A United States Navy damage controlman practices pipe-patching techniques]]
+[[Image:USS Nevada temporarily beached on hospital point 925AM NARA-80-G-19940.jpg|thumb|The {{USS|Nevada|BB-36|6}} is shown temporarily beached and burning after being hit by Japanese bombs and torpedoes on December 7, 1941]]
+In [[Navy|navies]] and the maritime industry, '''damage control''' is the emergency control of situations that may cause the sinking of a [[watercraft]].
+
+Examples are:
+
+* rupture of a pipe or [[Hull (watercraft)|hull]] especially below the waterline and
+* damage from grounding (running aground) or hard berthing against a [[wharf]].
+* temporary fixing of bomb or explosive damage.
+
+==Measures used==
+Simple measures may stop flooding, such as:
+
+* locking off the damaged area from other ship's compartments;
+* blocking the damaged area by wedging a box around a tear in the ship's hull,
+* putting a band of thin sheet steel around a tear in a pipe, bound on by clamps.
+
+More complicated measures may be needed if a repair must take the pressure of the ship moving through the water. For example:
+
+* [[Thermal lance]] cutting around the rupture.
+* [[Oxy-fuel welding and cutting|Oxyacetylene welding]] or electric [[arc welding]] of plates over the rupture.
+* Quick-drying [[cement]] is applied underwater over the rupture.
+
+Damage control training is undertaken by most seafarers, but the engineering staff are most experienced in making lasting repairs.
+
+Damage control is distinct from [[firefighting]]. Damage control methods of fighting fire are based on the class of ship and cater to ship specific equipment on board.
+
+==Notable contemporary examples==
+[[File:USS Cole (DDG-67) Departs.jpg|thumb|Damage to USS ''Cole'']]
+
+Particular examples:
+
+* [[USS Samuel B. Roberts (FFG-58)|USS ''Samuel B. Roberts'']]: After an [[Iran]]ian [[naval mine|mine]] holed the [[frigate]] beneath the waterline in 1988, the crew fought fire and flooding that threatened to sink it.<ref>{{cite web|url=http://www.navybook.com/no-higher-honor/timeline/mine-strike/|title=Mine Strike!|date=5 February 2013}}</ref>
+* [[USS Princeton (CG-59)|USS ''Princeton]]: After an Iraqi naval mine damaged the [[cruiser]] during the 1991 [[Gulf War]], her crew fought fires and sealed cracks in the hull, then repaired electronic systems, bringing the [[Aegis combat system]] back on line within 2 hours.
+* [[USS Cole (DDG-67)|USS ''Cole'']]: immediate measures to stop sinking after the ship was [[USS Cole bombing|bombed in 2000]].
+* [[HMS Nottingham (D91)|HMS ''Nottingham'']]: measures to keep the ship afloat after, on 7 July 2002, the ''Nottingham'' ran aground on the submerged but well-charted [[Wolf Rock, Lord Howe Island|Wolf Rock]] near [[Lord Howe Island]].
+
+==See also==
+*[[Naval architecture]]
+
+== Notes ==
+{{Reflist}}
+
+==External links==
+*{{YouTube| XaJtVG9Mcpo | "Royal Navy Damage Control (The Modern Navy - State of Alert)" }}
+{{Commons category-inline|Damage control}}
+
+{{Wiktionary-inline|damage control}}
+{{Authority control}}
+
+{{DEFAULTSORT:Damage Control}}
+[[Category:Navies]]
+[[Category:Ship management]]
+[[Category:Nautical terminology]]

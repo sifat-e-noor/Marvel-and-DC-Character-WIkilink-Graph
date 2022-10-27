@@ -1,0 +1,547 @@
+{{short description|None}}
+
+{{More citations needed|date=November 2020}}
+'''Alpha Flight members''' are [[fictional character|fictional]] [[comic book]] characters in the [[Marvel Comics]] [[Marvel Universe|universe]], featured mainly in the ''[[Alpha Flight (comic book)|Alpha Flight]]'' series. In the comics, the Flight teams were created by [[Department H]] and tasked with protecting [[Canada]].
+
+==The Alpha Flight==
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''The Flight'''
+The team that would be split into Alpha through Gamma Flights was led by Wolverine. Their first mission is seen in ''Alpha Flight Special'' #1 (1992).
+|-
+||[[Wolverine (character)|Wolverine]]
+||James "Logan" Howlett
+||''Alpha Flight Special'' #1 (1992)
+||Currently member of [[X-Force]] on [[Dawn of X|Krakoa]]
+|-
+||[[Groundhog (comics)|Groundhog]]
+||Sean Benard
+||''Alpha Flight Special'' #1 (1992)
+||Quit after the battle with Egghead's Emissaries of Evil.
+|-
+||Saint Elmo
+||Saint Elmo
+||''Alpha Flight Special'' #1 (1992)
+||Died in ''Alpha Flight Special'' #1 (1992)
+|-
+||[[Smart Alec (comics)|Smart Alec]]
+||Alexander Thorne
+||''Alpha Flight Special'' #1 (1992)
+||Died in ''Alpha Flight'', vol. 1 #46
+|-
+||[[Snowbird (comics)|Snowbird]]
+||Narya
+||''Alpha Flight Special'' #1 (1992)
+||
+|-
+||[[Stitch (comics)|Stitch]]
+||Jodi Furman
+||''Alpha Flight Special'' #1 (1992)
+||Left the team under undisclosed circumstances
+|-
+||[[Wild Child (comics)|Wild Child]] a.k.a. '''Weapon Omega''' and '''Wildheart'''
+||Kyle Gibney
+||''Alpha Flight'', vol. 1 #127 (1993)
+||Later revealed to have been a Flight member
+|}
+
+==[[Alpha Flight]]==
+
+===Original===
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Original Alpha Flight'''
+The team as it debuted in ''X-Men'', vol. 1 #120 (1979).
+|-
+||[[Guardian (Marvel Comics)|Guardian]] a.k.a. '''Weapon Alpha''' and '''Vindicator'''
+||James MacDonald Hudson
+||''X-Men'', vol. 1 #109 (1978)
+||Currently a member of J.A.N.U.S.<ref>{{Cite web|date=2020-07-06|title=Who Are the Members of JANUS, Marvel's Newest (and Most Dangerous) Group?|url=https://www.cbr.com/marvel-who-is-janus-secret-cabal/amp/|access-date=2020-08-09|website=CBR|language=en-US}}</ref>
+|-
+||[[Aurora (comics)|Aurora]]
+||Jeanne-Marie Beaubier
+||''X-Men'', vol. 1 #120 (1979)
+||Currently living in Krakoa<ref name=":0">{{Cite web|date=2020-07-31|title=X-Factor: Marvel's New X-Team Is Investigating an X-Man's Death|url=https://www.cbr.com/x-factor-marvel-x-men-team-death/amp/|access-date=2020-08-09|website=CBR|language=en-US}}</ref>
+|-
+||[[Northstar (Marvel Comics)|Northstar]]
+||Jean-Paul Beaubier
+||''X-Men'', vol. 1 #120 (1979)
+||Current member of the X-Factor<ref name=":0" />
+|-
+||[[Sasquatch (comics)|Sasquatch]]
+||Walter Langkowski
+||''X-Men'', vol. 1 #120 (1979)
+||Died in Immortal Hulk #21 (2019)
+|-
+||[[Shaman (comics)|Shaman]]
+||Michael Twoyoungmen
+||''X-Men'', vol. 1 #120 (1979)
+||Current member of Stranger Academy<ref name=":1" />
+|- bgcolor="#DDDDDD"
+|-
+||[[Snowbird (comics)|Snowbird]]
+||Narya/Anne McKenzie
+||''X-Men'', vol. 1 #120 (1979)
+||Member of the re-formed Alpha Flight
+|}
+
+====Recruits====
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Alpha Flight''', volume 1 recruits
+|-
+||[[Marrina Smallwood|Marrina]]
+||Marrina Smallwood
+||''Alpha Flight'', vol. 1 #1 (1983)
+||Married Namor the Sub-Mariner in ''Alpha Flight'', vol. 1 #40; killed by Namor after she mutated in ''Avengers'' vol. 1 #291-293; resurrected in ''Chaos War: Alpha Flight''; member of the re-formed Alpha Flight
+|-
+||[[Puck (comics)|Puck]]
+||Eugene Milton Judd
+||''Alpha Flight'', vol. 1 #1 (1983)
+||Current member of Gamma Flight<ref>{{Cite web|title=Marvel Creates Gamma Flight|url=https://comicbook.com/marvel/amp/news/marvel-creates-gamma-flight/|access-date=2020-08-09|website=comicbook.com}}</ref>
+|-
+||[[Vindicator (comics)|Vindicator]] a.k.a. '''Guardian'''
+||Heather MacNeil Hudson
+||''Alpha Flight'', vol. 1 #17 (1984)
+||Died in ''New Avengers'', vol. 1 #16; resurrected in ''Chaos War: Alpha Flight''; betrayed the re-formed Alpha Flight and joined the Canadian government's new Alpha Strike team
+|-
+||[[Talisman (comics)|Talisman]]
+||Elizabeth Twoyoungmen
+||''Alpha Flight'', vol. 1 #20 (1985)
+||Former member of the government-sponsored Omega Flight team
+|-
+||[[Box (comics)|Box]]
+||Roger Bochs
+||''Alpha Flight'', vol. 1 #24 (1985)
+||Died in ''Alpha Flight'', vol. 1 #49
+|-
+||[[Madison Jeffries|Transmutator/Box]]
+||Madison Jeffries
+||''Alpha Flight'', vol. 1 #28 (1985)
+||Current member of the X-Men and X-Club
+|-
+||[[Diamond Lil (Marvel Comics)|Diamond Lil]]
+||Lillian Crawley-Jeffries
+||''Alpha Flight'', vol. 1 #73 (1989)
+||Married Madison Jeffries after ''Alpha Flight'', vol. 1 #105; died in ''X-Force'', vol. 3 #23
+|-
+||[[Windshear (comics)|Windshear]]
+||Colin Ashworth Hume
+||''Alpha Flight'', vol. 1 #95 (1991)
+||Depowered on M-Day; currently retired
+|-
+||[[Wild Child (comics)|Weapon Omega]]
+||Kyle Gibney
+||''Alpha Flight'', vol. 1 #102 (1991)
+||Last seen as member of Dark X-Men (2009)
+|-
+||[[Nemesis (Alpha Flight)|Nemesis]]
+||Jane Thorne
+||''Alpha Flight'', vol. 1 #125 (1993)
+||Succeeded by Amelia Weatherly
+|-
+||[[Wyre (comics)|Wyre]]
+||
+||''Alpha Flight'', vol. 1 #125 (1993)
+||Current whereabouts unknown
+|}
+
+===Re-formed (Volume 2)===
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Alpha Flight''', volume 2 recruits
+The team that debuted in ''Alpha Flight'', vol. 2 #1 (1997)
+|-
+||[[Guardian (Marvel Comics)|Guardian]] a.k.a. '''Vindicator'''
+||"James MacDonald Hudson"
+||''Alpha Flight'', vol. 2 #1 (1997)
+||Younger synthoid duplicate of James Hudson; died in ''Wolverine'', vol. 2 #143 (1999)
+|-
+||[[Flex (comics)|Flex]]
+||Adrian Corbo
+||''Alpha Flight'', vol. 2 #1 (1997)
+||Depowered on M-Day
+|- 
+||[[Manbot]]
+||Bernie Lachenay
+||''Alpha Flight'', vol. 2 #1 (1997)
+||
+|-
+||[[Murmur (Marvel Comics)|Murmur]]
+||Arlette Truffaut
+||''Alpha Flight'', vol. 2 #1 (1997)
+||Depowered on M-Day
+|-
+||[[Radius (comics)|Radius]]
+||Jared Corbo
+||''Alpha Flight'', vol. 2 #1 (1997)
+||Depowered on M-Day, as noted in ''Official Handbook of the Marvel Universe'' #8
+|-
+||[[Sasquatch (comics)|Sasquatch]]
+||
+||''Alpha Flight'', vol. 2 #1 (1997)
+||Actual Sasquatch mistaken for Walter Langkowski; died in ''Alpha Flight'', vol. 2 #12 (1998)
+|-
+||[[Sunfire (comics)|Sunfire]]
+||Shiro Yoshida
+||''Alpha Flight'', vol. 2 #4 (1997)
+|-
+||[[Ghost Girl]]
+||Lilli Stephens
+||''Alpha Flight'', vol. 2 #20 (1999)
+||
+|-
+||Earthmover <!-- Article needs to be created -->
+||Charles "Chuck" Moss
+||''Uncanny X-Men'' #421 (2003)
+||Apprentice to [[Shaman (comics)|Shaman]]
+|}
+
+===Re-formed (Volume 3)===
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Alpha Flight''', volume 3 recruits
+The team as it debuted in ''Alpha Flight'', vol. 3 #2 (2004)
+|-
+||[[Centennial (comics)|Centennial]]
+||Rutherford Princeton
+||''Alpha Flight'', vol. 3 #2 (2004)
+||Died sometime off panel, as described in ''Alpha Flight'', vol. 3 #12
+|-
+||[[Major Mapleleaf]]
+||Louis Sadler Jr.
+||''Alpha Flight'', vol. 3 #2 (2004)
+||Died in ''New Avengers'', vol. 1 #16
+|-
+||[[Nemesis (Alpha Flight)|Nemesis]]
+||Amelia Weatherly
+||''Alpha Flight'', vol. 3 #2 (2004)
+||Died sometime off panel, as described in ''Alpha Flight'', vol. 3 #12
+|-
+||[[Puck (comics)|Puck]]
+||Zuzha Yu
+||''Alpha Flight'', vol. 3 #2 (2004)
+||Died in ''New Avengers'', vol. 1 #16
+|-
+||[[Yukon Jack]]
+||Yukotujakzurjimozoata
+||''Alpha Flight'', vol. 3 #2 (2004)
+||Married the time-displaced Snowbird and retired
+|-
+||Mar
+||
+||''Alpha Flight'', vol. 3 #7 (2004)
+||A young member of Marrina's species
+|}
+
+==Alpha Flight temporal copies==
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Alpha Flight''' from the past
+Temporal copies of Alpha Flight members from the past are brought to the present in ''Alpha Flight'', vol. 3 #12 (2005). They have since left the team, presumably returning to their own timeline.
+|-
+||[[Aurora (comics)|Aurora]]
+||Jeanne-Marie Beaubier
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|-
+||[[Guardian (Marvel Comics)|Guardian]]
+||James MacDonald Hudson
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|-
+||[[Northstar (Marvel Comics)|Northstar]]
+||Jean-Paul Beaubier
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|-
+||[[Puck (comics)|Puck]]
+||Eugene Judd
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|-
+||[[Shaman (comics)|Shaman]]
+||Michael Twoyoungmen
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|-
+||[[Snowbird (comics)|Snowbird]]
+||Narya
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|-
+||[[Vindicator (comics)|Vindicator]]
+||Heather Hudson
+||''Alpha Flight'', vol. 3 #12 (2005)
+||Current status unrevealed
+|}
+
+==[[Beta Flight]]==
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Secondary Team'''
+The team as it was revealed in ''Alpha Flight'', vol. 1 #1 (1983).
+|-
+|[[Box (comics)|Box]]
+|Roger Bochs
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|[[Flashback (comics)|Flashback]]
+|Gardner Monroe
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|[[Marrina Smallwood|Marrina]]
+|Marrina Smallwood
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|[[Puck (comics)|Puck]]
+|Eugene Judd
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Trainee Team'''
+Originally re-formed as a trainee team, Beta Flight was later promoted to going on missions separate from Alpha Flight.
+|-
+|[[Persuasion (comics)|Purple Girl/Persuasion]] 
+|Kara Killgrave
+|''Alpha Flight'', vol. 1 #42 (1987)
+|Current member of the Canadian government's new Alpha Strike team as '''Purple Woman'''
+|-
+|[[Manikin (comics)|Manikin]]
+|Whitman Knapp
+|''Alpha Flight'', vol. 1 #50 (1987)
+|
+|-
+|[[Goblyn]]
+|Goblyn Dean
+|''Alpha Flight'', vol. 1 #55 (1988)
+|
+|-
+|[[Pathway (comics)|Pathway]]
+|Laura Dean
+|''Alpha Flight'', vol. 1 #55 (1988)
+|
+|-
+|[[Talisman (comics)|Talisman]]
+|Elizabeth Twoyoungmen
+|''Alpha Flight'', vol. 1 #95 (1991)
+|Currently teaching the Mystic arts in Strange Academy<ref name=":1">{{Cite web|date=2020-07-08|title=Strange Academy Reveals the Ultimate Mystical Marvel Class Schedule|url=https://www.cbr.com/strange-academy-class-schedule/amp/|access-date=2020-08-09|website=CBR|language=en-US}}</ref>
+|-
+|[[Witchfire (Marvel Comics)|Witchfire]]
+|Ananym
+|''Alpha Flight'', vol. 1 #95 (1991)
+|Currently seeking to rule Limbo
+|-
+|Feedback
+|Albert Louis
+|''Alpha Flight'', vol. 1 #126 (1993)
+|
+|-
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Secret Trainee Team'''
+Secret, captive trainee team that was released following the death of General Clarke.
+|-
+|[[Ghost Girl]]
+|Lilli Stephens
+|''Alpha Flight'', vol. 2 #8 (1998)
+|Joined Alpha Flight after her release
+|-
+|Flinch
+|Toby Wood
+|''Alpha Flight'', vol. 2 #14 (1998)
+|
+|-
+|Ouija
+|Bill Astin
+|''Alpha Flight'', vol. 2 #14 (1998)
+|
+|-
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Secondary Team'''
+The team as it debuted in a flashback in ''Wolverine'', vol. 2 #142 (1999).
+|-
+|[[Guardian (Marvel Comics)|Vindicator]]
+|"James MacDonald Hudson"
+|''Wolverine'', vol. 2 #142 (1999)
+|Younger synthoid duplicate of James Hudson; team leader
+|-
+|[[Flex (comics)|Flex]]
+|Adrian Corbo
+|''Wolverine'', vol. 2 #142 (1999)
+|
+|-
+|[[Ghost Girl]]
+|Lilli Stephens
+|''Wolverine'', vol. 2 #142 (1999)
+|
+|-
+|[[Manbot]]
+|Bernie Lachenay
+|''Wolverine'', vol. 2 #142 (1999)
+|
+|-
+|[[Murmur (Marvel Comics)|Murmur]]
+|Arlette Truffaut
+|''Wolverine'', vol. 2 #142 (1999)
+|
+|-
+|[[Radius (comics)|Radius]]
+|Jared Corbo
+|''Wolverine'', vol. 2 #142 (1999)
+|
+|-
+|}
+
+==[[Gamma Flight]]==
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Trainee Team'''
+The team as revealed in ''Alpha Flight'', vol. 1 #1 (1983).
+|-
+|[[Diamond Lil (Marvel Comics)|Diamond Lil]]
+|Lillian Crawley
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|[[Madison Jeffries]]
+|Madison Jeffries
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|[[Smart Alec (comics)|Smart Alec]]
+|Alec Thorne
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+|[[Wild Child (comics)|Wild Child]]
+|Kyle Gibney
+|''Alpha Flight'', vol. 1 #1 (1983)
+|
+|-
+| colspan=4 align=center | Additional Revealed Members
+|-
+|[[Marrina Smallwood|Marrina]]
+|Marrina Smallwood
+|
+|Revealed to have been a member in ''Alpha Flight'', vol. 1 #2 (1983)
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Primary Government Team'''
+The team as it debuted in ''Alpha Flight'', vol. 1 #76 (1989).
+|-
+|[[Auric (comics)|Auric]]
+|Zhao Tang
+|''Alpha Flight'', vol. 1 #76 (1989)
+|
+|-
+|[[Nemesis (Alpha Flight)|Nemesis]]
+|"Jane Doe"
+|''Alpha Flight'', vol. 1 #76 (1989)
+|
+|-
+|[[Silver (comics)|Silver]]
+|Jimon Tang
+|''Alpha Flight'', vol. 1 #76 (1989)
+|
+|-
+|[[Wild Child (comics)|Wild Child]]
+|Kyle Gibney
+|''Alpha Flight'', vol. 1 #76 (1989)
+|
+|-
+|[[Witchfire (Marvel Comics)|Witchfire]]
+|Ananym
+|''Alpha Flight'', vol. 1 #76 (1989)
+|
+|-
+|}
+
+==[[Omega Flight]]==
+{| class="wikitable" width=100%
+!width=15%| Character
+!width=20%| Real name
+!width=20%| Joined in
+!width=45%| Notes/current status
+|- bgcolor="#DDDDDD"
+| colspan=4 align=center | '''Government Team'''
+The team as revealed in ''Omega Flight'' #1 (2008).
+|-
+|[[Julia Carpenter|Arachne]]
+|Julia Carpenter
+|''Omega Flight'' #1 (2008)
+|
+|-
+|[[Michael Pointer (comics)|Guardian/Weapon Omega]]
+|Michael Pointer
+|''Omega Flight'' #1 (2008)
+|
+|-
+|[[Sasquatch (comics)|Sasquatch]]
+|Walter Langkowski
+|''Omega Flight'' #1 (2008)
+|
+|-
+|[[U.S. Agent (comics)|U.S. Agent]]
+|John Walker
+|''Omega Flight'' #1 (2008)
+|
+|-
+|[[Beta Ray Bill]]
+|Beta Ray Bill
+|''Omega Flight'' #1 (2008)
+|Honorary member
+|-
+|[[Shroud (comics)|Shroud]]
+|Maximillian Quincy Coleridge
+|''Marvel Comics Presents'' #8 (2009)
+|
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Flight Program}}
+
+{{DEFAULTSORT:Flight members}}
+[[Category:Lists of Marvel Comics characters by organization]]
+[[Category:Alpha Flight|Members]]

@@ -1,0 +1,1392 @@
+{{Short description|Marvel Comics and Dark Horse Comics character}}
+{{see also|Adaptations of works by Robert E. Howard}}
+{{redirect-distinguish|The Chronicles of Conan|The Conan Chronicles|The Conan Chronicles, 1|The Conan Chronicles (Robert Jordan)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = [[Conan the Barbarian|Conan]]
+|image = Conan the Savage 6.jpg
+|caption = Cover to ''Conan the Savage'' #6 (Jan. 1996).<br/>Art by [[the Brothers Hildebrandt]]
+|publisher = [[Marvel Comics]]<br/>[[Dark Horse Comics]] (2003–2018)
+|debut = ''[[Conan the Barbarian (comics)|Conan the Barbarian]]'' #1<br/>(October 1970)
+|creators = [[Robert E. Howard]]<br/>[[Roy Thomas]]<br/>[[Barry Windsor-Smith|Barry Smith]]
+|alliances =
+|aliases = [[Conan the Barbarian|Amra the Lion]]
+|powers =Peak human physical condition<br>Melee weapons master<br>Knowledge and experience of fighting the supernatural
+|}}
+[[Conan the Barbarian]] by [[Robert E. Howard]] was first adapted into [[comics]] in 1952 in Mexico. [[Marvel Comics]] began publishing '''Conan''' comics with the series ''Conan the Barbarian'' in 1970. [[Dark Horse Comics]] published [[Conan (Dark Horse Comics)|Conan]] from 2003 to 2018, after which the rights were reacquired by Marvel Comics.<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/conan-barbarian-comics-moving-back-marvel-1074351|title='Conan the Barbarian' Comics Moving Back to Marvel|last=McMillan|first=Graeme|work=The Hollywood Reporter|date=January 12, 2018|access-date=January 13, 2018}}</ref>
+
+==''La reina de la Costa Negra''==
+The first comic book adaptation of a Howard Conan story was the feature ''[[La reina de la Costa Negra]]'' (taken from the original Conan story, "[[Queen of the Black Coast]]") in the miniature-size Mexican anthology title ''Cuentos de Abuelito'' #8 (1952) published by Corporacion Editorial Mexicana, SA.<ref name="Shanks 2013 5">{{Harvtxt|Shanks|2013|p=5}}</ref> The series features the main characters, Conan and [[Bêlit (Robert E. Howard)|Bêlit]], though Conan is depicted as blond rather than black-haired.<ref>{{Harvtxt|Lord|1976|p=333}}</ref> Issues 8 through 12 adapted the original Howard story, while subsequent issues featured original material. The feature ran in nearly every issue of ''Cuentos de Abuelito'' up through number 61.<ref>{{Harvtxt|Shanks|2013|pp=4–5}}</ref> A digest-sized standalone series, ''La reina de la Costa Negra'', was published by Ediciones Mexicanas Asocidas in 1958–1959 which lasted for at least eleven issues. In 1965–66 Ediciones Joma published a standard-size ''La reina de la Costa Negra'' comic that ran for at least 53 issues.<ref name="Shanks 2013 5"/>
+
+==Marvel Comics==
+{{main|Conan the Barbarian (comics)}}
+
+Marvel Comics introduced a version of Conan in 1970 with ''[[Conan the Barbarian (comic)|Conan the Barbarian]]'', written by Roy Thomas with art initially by [[Barry Windsor-Smith]], then [[John Buscema]] and Ernie Chan (aka Ernie Chua). The successful ''Conan the Barbarian'' series spawned the more adult, black-and-white ''[[Savage Sword of Conan]]'' in 1974, by Thomas, Buscema, and [[Alfredo Alcala]]. ''Savage Sword of Conan'' soon became one of the most popular comic series in the 1970s.{{fact|date=April 2022}}
+
+The Marvel Conan stories were also adapted as a newspaper comic strip which appeared daily and Sunday from September 4, 1978, to April 12, 1981. Originally written by Roy Thomas and illustrated by John Buscema, the strip was continued by several different Marvel artists and writers.<ref>{{Cite web |last=Degg |first=D. D. |date=2019-04-27 |title=First and Last – Marvel Comic Strips |url=https://www.dailycartoonist.com/index.php/2019/04/27/first-and-last-marvel-comic-strips/ |url-status=live |archive-url=https://web.archive.org/web/20190429014540/https://www.dailycartoonist.com/index.php/2019/04/27/first-and-last-marvel-comic-strips/ |archive-date=2020-04-29 |website=The Daily Cartoonist |language=en-US}}</ref>
+
+Other Marvel Conan titles over the years include ''[[Savage Tales]]'' (1971–1975, issues 1–5 only), ''Giant-Size Conan'' (1974–1975), ''King Conan/Conan the King'' (1980–1989), ''Conan the Adventurer'' (1994–1995), ''Conan'' (1995–1996), and ''Conan the Savage'' (1995–1996).
+
+After the 2019 return of Conan to Marvel titles included ''Conan: Serpent War'' (2019–2020 miniseries), ''Conan: Battle for the Serpent Crown'' (2020 miniseries), alongside the reappearance of ''Conan the Barbarian'' (2019-present) and ''Savage Sword of Conan'' (2019), which both received new #1s but retained the original "Legacy Numbering" continuing where their original Marvel series left off.
+
+Conan later appeared in the pages of ''[[Savage Avengers]]''.
+
+''King Conan'' caused controversy when it included a character named Matoaka, the real name of [[Pocahontas]], and with a sexualized design and a backstory similar to that of the actual Native American woman. There was backlash at what was perceived a disrespectful portrayal, so Marvel announced that name would be changed in later issues, reprints and digital editions. Writer Jason Aaron issued an apology, and pointed that "This new character is a supernatural, thousand-year-old princess of a cursed island within a world of pastiche and dark fantasy and was never intended to be based on anyone from history".<ref>{{cite web |url= https://www.cbr.com/marvel-king-conan-pocahontas-name-change/|title=Marvel Changes King Conan 'Pocahontas' Character's Name in Digital and Future Printings|author= Jeremy Blum|date= March 3, 2022|publisher= CBR|accessdate=May 16, 2022}}</ref>
+
+===Marvel Epic Collections===
+{| class="wikitable sortable" width=98%
+|-
+! Volume
+ ! width="18%" | Subtitle
+! Years covered
+! class="unsortable" width="50%" | Issues collected 
+! Pages
+! Publication date
+! class="unsortable" | ISBN
+|-
+! colspan="8" | The Original Marvel Years 
+|-
+| 1
+| ''The Coming of Conan''
+| 1969-1972
+| ''Conan the Barbarian'' (1970) #1-13 and material from ''Chamber of Darkness'' (1969) #4
+| 352
+| {{dts|June 23, 2020}}
+| {{ISBNT|978-1302925550}}
+|-
+| 2
+| ''Hawks From the Sea''
+| 1972-1973
+| ''Conan the Barbarian'' (1970) #14-26
+| 290
+| {{dts|December 2020}}
+| 
+|-
+| 3
+| ''The Curse of the Golden Skull''
+| 1973-1974
+| ''Conan the Barbarian'' (1970) #27-42; material from Annual (1973) #1
+| 336
+| {{dts|July 2021}}
+| {{ISBNT|978-1302929565}}
+|-
+| 4
+| ''Queen of the Black Coast''
+| 1974-1976
+| ''Conan the Barbarian'' (1970) #43-59, ''Giant-Size Conan'' (1974) #5 (cover only), material from ''Savage Sword of Conan'' (1974) #1
+| 360
+| {{dts| December 2021}}
+| {{ISBNT|978-1302929558}}
+|-
+| 5
+| ''Of Once And Future Kings''
+| 1976-1977
+| ''Conan the Barbarian'' (1970) #60-71, Conan Annual #2-3 And Power Records #31 - Conan The Barbarian: Crawler In The Mists.
+| 360
+| {{dts|March 29, 2022}}	
+| {{ISBNT|978-1302933531}}<ref>{{Cite book|isbn=978-1302933531|title=Conan the Barbarian Epic Collection: The Original Marvel Years - of Once and Future Kings|last1=Comics|first1=Marvel|date=29 March 2022}}</ref>
+|-
+| 6
+| ''Vengeance In Asgalun''
+| 1977-1978
+| ''Conan the Barbarian'' (1970) #72-88
+| 328
+| {{dts|September 27, 2022}}
+| {{ISBNT|978-1302933548}}
+|-
+! colspan="7" | Conan Chronicles
+|-
+| 1
+| ''Out of the Darksome Hills''
+| 2004–2005
+| ''Conan'' (2004) #0, #1–19
+| 496
+| {{dts|February 6, 2019}}
+| {{ISBNT|978-1302915902}}
+|-
+| 2
+| ''The Heart of Yag-Kosha''
+| 2005–2007
+| ''Conan'' (2004) #20–39
+| 504
+| {{dts|April 3, 2019}}
+| {{ISBNT|978-1302915919}}
+|-
+| 3
+| ''Return to Cimmeria''
+| 2007–2009
+| ''Conan'' (2004) #40–50; ''Conan the Cimmerian'' #0–7
+| 504
+| {{dts|October 2, 2019}}
+| {{ISBNT|978-1302916022}}
+|-
+| 4
+| ''The Battle of Shamla Pass''
+| 2009-2010
+| ''Conan the Cimmerian'' #8-25
+| 472
+| {{dts|January 14, 2020}}
+| {{ISBNT|978-1302921910}}
+|-
+| 5
+| ''The Horrors Beneath the Stones''
+| 2010-2012
+| ''Conan: Road of Kings'' #1-12; ''Conan the Barbarian'' #1-6
+| 456
+| {{dts|June 16, 2020}}
+| {{ISBNT|978-1302923273}}
+|-
+| 6
+| ''The Song of Bêlit''
+| 2012-2014
+| ''Conan the Barbarian'' #7-25
+| 472
+| {{dts|January 26, 2021}}
+| {{ISBNT|978-1302923280}}
+|-
+| 7
+| ''Shadows over Kush''
+| 2014 - 2015
+| ''Conan the Avenger'' #1-19
+| 448
+| {{dts|December 28, 2021}}
+| 
+|-
+| 8
+| ''Blood In His Wake''
+| 2015 - 2017
+| ''Conan the Avenger'' 20-25,  ''Conan the Slayer'' 1-12
+| 432
+| {{dts|January 18, 2022}}
+| {{ISBNT|978-1302933708}}
+|-
+! colspan="7" |King Conan Chronicles
+|-
+| 1
+| ''Phantoms and Phoenixes''
+|
+|  ''Conan and the Midnight God'' (2007) #1-5, ''King Conan: The Scarlet Citadel'' (2011) #1-4, ''King Conan: The Phoenix on the Sword'' (2012) #1-4, ''Conan: The Phantoms of the Black Coast'' (2012) #1-5, material from ''Age of Conan: Hyborian Adventures'' (2006) #1 
+| 464
+| {{dts|August 16, 2022}}
+| {{ISBNT|9781302945954}}<ref>{{Cite web|url=https://www.edelweiss.plus/#sku=1302945955|title=Edelweiss+}}</ref>
+|-
+| 2
+| ''Wolves and Dragons''
+|
+|  ''King Conan: The Hour of the Dragon'' (2013) #1-6,<br> ''King Conan: The Conqueror'' (2014) #1-6,<br> ''Conan: Wolves Beyond the Border'' (2015) #1-4,<br>and material from:<br>''Robert E. Howard's Savage Sword'' #5
+| 
+| {{dts|October 2022}}
+| 
+|-
+|}
+
+===Awards===
+Academy of Comic Book Arts Shazam Awards:
+
+1970
+*Best New Talent: Barry Smith
+
+1971
+*Best Continuing Feature: Conan the Barbarian
+*Best Writer (Dramatic): Roy Thomas
+
+1973
+*Best Individual Story (Dramatic): "Song of Red Sonja" from ''Conan the Barbarian'' #24 by Roy Thomas and Barry Smith
+
+1974
+*Best Continuing Feature: Conan the Barbarian
+*Best Penciller (Dramatic): John Buscema
+*Superior Achievement by an Individual: Roy Thomas
+
+==Dark Horse Comics==
+{{main|Conan (Dark Horse Comics)}}
+[[Image:ConanTheLegend1415.jpg|thumb|250px|right|An interior panel of ''[[Conan (Dark Horse Comics)|Conan]]'' comic adaptation by [[Dark Horse Comics]] featuring the art of [[Cary Nord]] and [[Thomas Yeates]]]]
+
+[[Dark Horse Comics]] began [[Conan (Dark Horse Comics)|their take on Conan]] in 2003, which ended in 2018 when the rights were repurchased by Marvel{{cn|date=November 2021}}.
+
+The first [[Conan (Dark Horse Comics)#First series|comic series]] published was written by [[Kurt Busiek]] and [[Tim Truman]] and pencilled by [[Cary Nord]] and [[Tomas Giorello]]. This was followed by ''[[Conan (Dark Horse Comics)#Conan the Cimmerian|Conan the Cimmerian]]'', written by [[Tim Truman]] and pencilled by Tomas Giorello, [[Richard Corben]] and [[José Villarrubia]]. This series was a fresh interpretation, based solely on the works of Robert E. Howard and on the Dale Rippke [[Conan chronologies|chronology]], with no connection to the large Marvel run.
+
+Dark Horse Comics also published digitally re-coloured compilations of the 1970s Marvel Comics ''Conan the Barbarian'' series in graphic-novel format, by Roy Thomas (writer), Barry Windsor-Smith, John Buscema, Ernie Chan (artists), and others.
+
+===Creative teams===
+*Kurt Busiek (writer) and Cary Nord (artist) (2003–2006)
+*Tim Truman (writer) and Cary Nord (artist) (2007)
+*Tim Truman (writer) and Tomas Giorello (artist) (2008)
+*Tim Truman (writer) and Tomas Giorello (artist), Richard Corben (artist 2008), José Villarrubia (colorist) (2008–2018)
+
+===Awards===
+*2004 Will Eisner Comic Industry Awards
+:Best Single Issue or One-Shot: ''Conan #0: The Legend''
+*2004 Eagle Awards
+:Favourite new comicbook: ''Conan''
+
+==Glénat==
+In [[France]], the character is under [[public domain]], and on the [[Franco-Belgian comics|Franco-Belgian]] market, the publisher [[Glénat Editions|Glénat]] has, since 2018, published a series of [[comic album|albums]] with the character, "Conan le Cimmérien", written and drawn by local talent.<REF>[https://www.bedetheque.com/serie-60536-BD-Conan-le-Cimmerien.html "Conan le Cimmérien"], listing on [[Bedetheque]].</REF>
+
+== Weird Book ==
+In [[Italy]], the collective Leviathan Labs publishes a version by the publisher Weird Book.<ref>{{Cite web|date=2018-04-11|title=Conan il Barbaro: Leviathan Labs annuncia un fumetto tutto italiano|url=https://www.mangaforever.net/513962/conan-il-barbaro-leviathan-labs-annuncia-un-fumetto-tutto-italiano|access-date=2021-10-03|website=MangaForever.net|language=it-IT}}</ref>
+
+== DQómics  ==
+In 2021, the Spanish publisher DQómics  ''Conan de Cimmeria'', written by Ángel G. Nieto with drawings by Julio Rod and colors by Esteban Navarro.<ref>{{Cite web|title=Conan El Cimmerio dqcomics Comprar|url=https://comicsbarcelona.com/editorial/130165-conan-el-cimmerio-dqcomics.html|access-date=2021-10-03|website=comicsbarcelona.com}}</ref>
+
+==Titles==
+===Conan series===
+{| class="wikitable"
+! Title
+! Publisher
+! Issues
+! Dates
+|-
+| ''[[Conan the Barbarian (comic)|Conan the Barbarian]]''
+| Marvel
+| #1–275
+| 1970–1993
+|-
+| ''[[Savage Tales]]''
+| Marvel
+| #1–5
+| 1971–1975
+|-
+| ''[[Savage Sword of Conan]]''
+| Marvel
+| #1–235
+| 1974–1995
+|-
+| ''Giant-Size Conan''
+| Marvel
+| #1–5
+| 1974–1975
+|-
+| ''King Conan''
+| Marvel
+| #1–19
+| 1980–1983
+|-
+| ''Conan the King''
+Was renamed from 'King Conan'
+| Marvel
+| #20–55
+| 1984–1989
+|-
+| ''[[Conan the Adventurer (comic)|Conan the Adventurer]]''
+| Marvel
+| #1–14
+| 1994–1995
+|-
+| ''Conan the Savage''
+| Marvel
+| #1–10
+| 1995–1996
+|-
+| ''Conan''
+| Marvel
+| #1–11
+| 1995–1996
+|-
+| ''[[Conan (Dark Horse Comics)|Conan]]''
+| Dark Horse
+| #0–50
+| 2003–2008
+|-
+| ''[[Conan (Dark Horse Comics)#Conan the Cimmerian|Conan the Cimmerian]]''
+| Dark Horse
+| #0–25
+| 2008–2010
+|-
+|''Conan: Road of Kings''
+|Dark Horse
+|#1–12
+|2010–2012
+|-
+| ''[[Conan the Barbarian (Dark Horse Comics)|Conan the Barbarian]]''
+| Dark Horse
+| #1–25 
+| 2012–2014
+|-
+|''Conan the Avenger''
+|Dark Horse
+|#1–25
+|2014–2016
+|-
+|''Conan the Slayer''
+|Dark Horse
+|#1–12
+|2016–2017
+|-
+| ''Conan the Barbarian''
+| Marvel
+| #1–25
+| 2019–2021
+|-
+| ''Savage Sword of Conan''
+| Marvel
+| #1–12
+| 2019–2019
+|-
+| ''King Conan''
+| Marvel
+| #1–6
+| 2021–2022
+|}
+
+=== Annuals ===
+{| class="wikitable"
+!Title
+!Publisher
+!Issues
+!Year
+|-
+|''Conan the Barbarian Annual''
+|Marvel
+|#1–12
+|1973–1989
+|-
+|''The Savage Sword of Conan Annual''
+|Marvel
+|#1
+|1975
+|}
+* Newspaper Strip (September 4, 1978 – April 12, 1981), ?? strips.
+
+===Miniseries===
+{| class="wikitable"
+! Title
+! Publisher
+! Issues
+! Dates
+! Notes
+|-
+|''[[Conan the Barbarian (1982 film)|Conan the Barbarian Movie Special]]''
+|Marvel
+|#1–2
+|1982
+|1982 movie adaptation of the same name
+|-
+|''[[Conan the Destroyer]]''
+|Marvel
+|#1–2
+|1985
+|1985 movie adaptation of the same name
+|-
+|''Conan and the Stalker of the Woods''
+|Marvel
+|#1–3
+|1997
+|
+|-
+|''Conan the Barbarian–The Usurper''
+|Marvel
+|#1–3
+|1997–1998
+|
+|-
+|''Conan the Barbarian–River of Blood''
+|Marvel
+|#1–3
+|1998
+|
+|-
+|''Conan the Barbarian–The Lord of Spiders''
+|Marvel
+|#1–3
+|1998
+|
+|-
+|''Conan the Barbarian–Return of Styrm''
+|Marvel
+|#1–3
+|1998
+|
+|-
+|''Conan the Barbarian–Scarlet Sword''
+|Marvel
+|#1–3
+|1998–1999
+|
+|-
+|''Conan the Barbarian–Death Covered in Gold''
+|Marvel
+|#1–3
+|1999
+|
+|-
+|''Conan the Barbarian–Flame and the Fiend''
+|Marvel
+|#1–3
+|2000
+|
+|-
+|''Conan and the [[Jewels of Gwahlur]]''
+|Dark Horse
+|#1–3
+|2005
+|
+|-
+| ''Conan and the Demons of Khitai''
+| Dark Horse
+| #1–4
+| 2005–2006
+| ‡
+|-
+| ''Conan and the Songs of the Dead''
+| Dark Horse
+| #1–5
+| 2006
+|
+|-
+| ''Conan: Book of Thoth''
+| Dark Horse
+| #1–4
+| 2006
+|
+|-
+| ''Conan and the Midnight God''
+| Dark Horse
+| #1–5
+| 2006–2007
+|
+|-
+|''King Conan: [[The Scarlet Citadel]]''
+|Dark Horse
+|#1–4
+|2011
+|
+|-
+|''Conan: Island of No Return''
+|Dark Horse
+|#1–2
+|2011
+|
+|-
+|''King Conan: [[The Phoenix on the Sword]]''
+|Dark Horse
+|#1–4
+|2012
+|
+|-
+|''King Conan: [[The Hour of the Dragon]]''
+|Dark Horse
+|#1–6
+|2013
+|
+|-
+|''Conan and [[the People of the Black Circle]]''
+|Dark Horse
+|#1–4
+|2013–2014
+|
+|-
+|''King Conan: The Conqueror''
+|Dark Horse
+|#1–6
+|2014
+|
+|-
+|''[[Groo the Wanderer|Groo]] vs. Conan''
+|Dark Horse
+|#1–4
+|2014
+|
+|-
+|''Conan / [[Red Sonja]]''
+|Dark Horse
+|#1–4
+|2015
+|Crossover with Dynamite Comics
+|-
+|''Red Sonja / Conan''
+|Dynamite
+|#1–4
+|2015
+|Crossover with Dark Horse Comics
+|-
+|''King Conan: [[Wolves Beyond the Border]]''
+|Dark Horse
+|#1–4
+|2015–2016
+|
+|-
+|''[[Wonder Woman]] – Conan''
+|DC Comics
+|#1–6
+|2017–2018
+| DC Comics/Dark Horse Comics crossover
+|-
+|''Conan – Serpent War''
+|Marvel 
+|#1–4
+|2019–2020
+|
+|-
+|''Conan – Battle for the Serpent Crown''
+|Marvel 
+|#1–5
+|2020
+|
+|-
+|''The Cimmerian: Queen of the Black Coast''
+|Ablaze
+|#1–2
+|2019
+|
+|-
+|''The Cimmerian: Red Nails''
+|Ablaze
+|#1–2
+|2020
+|
+|-
+|''The Cimmerian: People of the Black Circle''
+|Ablaze
+|#1–3
+|2020
+|
+|-
+|''The Cimmerian: The Frost-Giant's Daughter''
+|Ablaze
+|#1–3
+|2020-2021
+|
+|-
+|''The Cimmerian: Iron Shadows in the Moon''
+|Ablaze
+|#1–3
+|2021
+|
+|-
+|''The Cimmerian: The Man-Eaters of Zamboula''
+|Ablaze
+|#1–2
+|2021
+|
+|-
+|''The Cimmerian: Beyond the Black River''
+|Ablaze
+|#1–2
+|2021
+|
+|-
+|''The Cimmerian: Hour of the Dragon''
+|Ablaze
+|#1–4
+|2022
+|}
+
+‡ ''Conan and the Demons of Khitai'' #3 featured a spoof nude advert for ''Conan'' #24–after complaints a second printing was issued replacing the spoof nude advert with the actual (non-nude) advert for ''Conan'' #24, with retailers offering the option to swap copies. (See [[Recalled comics]] for more pulped, recalled and erroneous comics.)
+
+===One-Shots===
+{| class="wikitable"
+!Title
+!Publisher
+!Dates
+!Notes
+|-
+| ''Conan vs. Rune''
+|Marvel
+|1995
+|
+|-
+|''Conan and the Daughters of Midora''
+|Dark Horse
+|2004
+|-
+|''Conan: The Weight of the Crown''
+|Dark Horse
+|2010
+|
+|-
+|''[[Conan the Barbarian]]: The Mask of Acheron''
+|Dark Horse
+|2011
+|2011 Conan movie adaption 
+|-
+|''Conan the Barbarian – Exodus''
+|Marvel
+|2019
+|
+|-
+|''Conan the Barbarian 2099''
+|Marvel
+|2019
+|-
+|''The Official Handbook of the Conan Universe'' 
+|Marvel
+|2020
+|The 50th Anniversary Celebration Edition
+|-
+|''King-Size Conan''
+|Marvel
+|2021
+|The 50th Anniversary Celebration Edition
+|-
+|}
+
+=== Graphic novels ===
+{| class="wikitable"
+!Title
+!Publisher
+!Dates
+!Notes
+|-
+|''The Witch Queen of Acheron''
+|Marvel
+|1985
+|
+|-
+|''Conan the Reaver''
+|Marvel
+|1987
+|
+|-
+|''Conan of the Isles''
+|Marvel
+|1988
+|
+|-
+|''The Skull of Set''
+|Marvel
+|1989
+|
+|-
+|''The Horn of Azoth''
+|Marvel
+|1990
+|Based on an early draft of the film ''[[Conan the Destroyer]]''
+|-
+|''Conan the Rogue''
+|Marvel
+|1991
+|
+|-
+|''The Ravagers Out of Time''
+|Marvel
+|1992
+|
+|}
+
+=== Other series ===
+{| class="wikitable"
+!Title
+!Publisher
+!Issues
+!Dates
+!Notes
+|-
+|''Robert E. Howard's Savage Sword''
+|Dark Horse
+|#1–10
+|2010–2015
+|Each issue has at least one Conan story along with other REH character stories
+|}
+
+=== Miscellaneous ===
+{| class="wikitable"
+!Title
+!Publisher
+!Issues
+!Dates
+!Notes
+|-
+|''Chamber of Darkness''
+|Marvel
+|#4
+|1970
+|An early tale of Conan as Starr the Slayer before Marvel got the rights to Conan
+|-
+|''Marvel Comics Index: Conan the Barbarian''
+|Marvel
+|#2
+|1976
+|
+|-
+|''Marvel Feature Presents: Red Sonja''
+|Marvel
+|#6
+|1976
+|Parallel related story in ''Conan the Barbarian'' #66 and continues in ''Conan the Barbarian'' #67
+|-
+|''Marvel Feature Presents: Red Sonja''
+|Marvel
+|#7
+|1976
+|Continued from ''Conan the Barbarian'' #67
+Concluded in ''Conan the Barbarian'' #68
+|-
+|''A Marvel Comics Super Special – The Savage Sword of Conan''
+|Marvel
+|#2
+|1977
+|
+|-
+|''A Marvel Comics Super Special – The Savage Sword of Conan''
+|Marvel
+|#9
+|1978
+|
+|-
+|''What If: What if Conan the Barbarian Walked the Earth Today?''
+|Marvel
+|#13
+|1979
+|
+|-
+|''A Marvel Comics Super Special – Conan the Barbarian Movie Adaptation''
+|Marvel
+|#21
+|1982
+|Reprint of the miniseries but in large ''Savage Sword'' format
+|-
+|''What If: What if Thor Battled Conan the Barbarian?''
+|Marvel
+|#39
+|1983
+|
+|-
+|''A Marvel Comics Super Special – Conan the Destroyer Movie Adaptation''
+|Marvel
+|#35
+|1984
+|Reprint of the miniseries but in large ''Savage Sword'' format
+|-
+|''What If: What if Conan the Barbarian were Stranded in the 20th Century?''
+|Marvel
+|#43
+|1985
+|
+|-
+|''The Official Handbook of the Conan Universe''
+|Marvel
+|#1
+|1986
+|One Shot - 1st printing 
+|-
+|''The Official Handbook of the Conan Universe''
+|Marvel
+|#1
+|1987
+|One Shot - 2nd printing was sold with Conan Saga #75 + No Date Listed & Reprints the 1986 issue with changes 
+|-
+|''What If (2nd Series): What if Wolverine Battled Conan the Barbarian?''
+|Marvel
+|#16
+|1989
+|
+|-
+|''Conan the Cruel''
+|SQP
+| –
+|1996
+|Collection of Conan art from numerous artists
+|-
+|''Age of Conan Hyborian Adventures Funcom Special''
+|Dark Horse
+| –
+|2006
+|Special collectable issue originally released with a copy of ''Game Pro'' magazine
+|-
+|''Conan – The Ultimate Guide to the World's Most Savage Barbarian''
+|Dark Horse
+| –
+|2007
+|Hard cover
+|-
+|''Conan the Phenomenon''
+|Dark Horse
+| –
+|2007
+|Hard cover
+|-
+|''Conan – The Newspaper Strips, Vol. 1''
+|Dark Horse
+| –
+|2010
+|Collection of Conan newspaper strips
+|-
+|-
+|''CBLDF Presents Liberty Annual 2010''
+|Image
+| 
+|2010
+| Contains the Conan story "Speak" by Darick Robertson. 
+|-
+|''Conan: The Phantoms of the Black Coast TPB''
+|Dark Horse
+|TPB
+|2014
+|Collects ''Conan: The Phantoms of the Black Coast'' #1–5 special comics sent to digital comics subscribers and not sold in the market
+|-
+|''Dark Horse Presents: Conan the Swamp King''
+|Dark Horse
+|#21
+|2016
+|
+|-
+|''Avengers: No Road Home''
+|Marvel
+|#5–10
+|2019
+|
+|-
+|''[[Savage Avengers]]''
+|Marvel
+|#1–28
+|2019-2022
+|Team member
+|-
+|''Age of Conan – Belit''
+|Marvel
+|#1–5
+|2019
+| Limited series for the supporting character
+|-
+|''Age of Conan – Valeria''
+|Marvel
+|#1–5
+|2019
+| Limited series for the supporting character
+|
+|-
+|''Belit & Valeria''
+|Ablaze
+|#1-?
+|2022-?
+| Spin-off from Ablaze's ''The Cimmerian'' (Ongoing)
+|}
+
+===Reprints===
+{| class="wikitable"
+!Title
+!Publisher
+!Issues
+!Dates
+!Notes
+|-
+|''Conan Saga''
+|Marvel
+|#1–97
+|1987–1995
+|All reprints from ''Savage Sword of Conan'' and ''Conan the Barbarian'' in large, black and white ''Savage Sword of Conan'' magazine format
+|-
+|''Conan Classic''
+|Marvel
+|#1–11
+|1994–1995
+|Reprints ''Conan the Barbarian'' #1–11
+|-
+|''[[Marvel Treasury Edition]]''
+|Marvel
+|#4, 15, 19 and 23
+|1975–1979
+|Color reprints but in an oversized 10" × 14" tabloid (or "treasury") format
+|-
+|''Conan the Barbarian Special Edition&nbsp;– Red Nails''
+|Marvel
+|1983
+|Color reprints of ''Savage Tales'' #2 & #3
+|-
+|''Essential Conan''
+|Marvel
+|Vol. 1
+|2000
+|Collects ''Conan the Barbarian'' #1–25 (530 pages, black and white, paperback)
+|-
+|''Conan the Barbarian''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1970) #1 
+|-
+|''Tower of the Elephant''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1971) #4
+|-
+|''Devil-God of Bal-Sagoth''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1972) #17 
+|-
+|''Swords in the Night''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1973) #23 
+|-
+|''Curse of the Golden Skull''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1974) #37
+|-
+|''Queen of the Black Coast''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1976) #58
+|-
+|''What If Conan the Barbarian Walked the Earth''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting What If? (1977) #13 
+|-
+|''King Conan''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting  King Conan (1980) #1
+|-
+|''Resurrection''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Conan the Barbarian (1986) #187
+|-
+|''Secret of Skull River''
+|Marvel
+|One Shot
+|2019
+|True Believers - Reprinting Savage Tales (1971) #5
+|-
+|''Serpent War: Valley of the Worm''
+|Marvel
+|One Shot
+|2020
+|True Believers - Supernatural Thrillers (1973) #3
+|-
+|}
+* ''Robert E Howard's Conan: The Frost-Giant's Daughter''
+
+===Adaptations===
+{| class="wikitable"
+| Story
+| Company
+| Series
+| Issue
+| Notes
+|-
+| rowspan="3" | "[[Queen of the Black Coast]]"
+| Marvel
+| ''Conan the Barbarian''
+| #57–58, #100
+| 
+* Collected in 
+** ''The Chronicles of Conan Volume 8: The Tower of Blood and Other Stories''
+** ''The Chronicles of Conan Volume 12: The Beast King of Abombi and Other Stories''
+|-
+| Dark Horse
+| ''Conan the Barbarian''
+| #1–3, #22–25
+| 
+* Collected in 
+** ''Conan Volume 13: Queen of the Black Coast''
+** ''Conan Volume 16: The Song of Bêlit''
+|-
+| Ablaze
+| ''The Cimmerian: Queen of the Black Coast''
+| #1-2
+| 
+* Collected in The Cimmerian Vol 1
+|-
+| rowspan="4" | "[[The Frost-Giant's Daughter]]" ("Gods of the North")
+| rowspan="2" | Marvel
+| ''Conan the Barbarian''
+| #16
+| 
+* Collected in
+** ''Conan The Barbarian Volume 4''
+** ''The Chronicles of Conan Volume 2: Rogues in the House and Other Stories''
+|-
+| ''Savage Sword of Conan''
+|  #1
+|
+* Collected in ''The Savage Sword of Conan Volume 3''
+|-
+| Dark Horse
+| ''Conan''
+| #2
+| 
+* Reprinted as ''Robert E. Howard's Conan: The Frost-Giant's Daughter''
+* Collected in ''Conan Volume 1: The Frost-Giant's Daughter and Other Stories''
+|-
+| Ablaze
+| ''The Cimmerian: The Frost-Giant's Daughter''
+| #1-3
+| 
+*Collected in The Cimmerian Vol 2
+|-
+| rowspan="3" | "[[The Tower of the Elephant]]"
+| rowspan="2" | Marvel
+| ''Conan the Barbarian''
+| #4
+| 
+* Collected in ''The Chronicles of Conan Volume 1: Tower of the Elephant and Other Stories''
+|-
+| ''Savage Sword of Conan''
+|  #24
+|
+* Collected in ''The Savage Sword of Conan Volume 2''
+|-
+| Dark Horse
+| ''Conan''
+| #20–22
+|
+* Collected in ''Conan Volume 3: The Tower of the Elephant and Other Stories''
+|-
+| rowspan="2" | "[[The God in the Bowl]]"
+| Marvel
+| ''Conan the Barbarian''
+| #7
+| 
+* Collected in ''The Chronicles of Conan Volume 1: The Tower of the Elephant and Other Stories''
+|-
+| Dark Horse
+| ''Conan''
+| #10–11
+| 
+* Collected in ''Conan Volume 2: The God in the Bowl And Other Stories''
+|-
+| rowspan="5" | "[[The Hour of the Dragon]]" 
+| rowspan="2" | Marvel
+| ''Giant-Size Conan''
+| #1–4
+| rowspan="2" |
+* Story carries across both titles
+* Savage Sword chapters are collected in ''Savage Sword of Conan Volume 1''
+* Collected by Marvel in 2019 trade paperback ''Conan: The Hour of the Dragon''
+|-
+| ''Savage Sword of Conan''
+| #8, #10
+|-
+| rowspan="2" | Dark Horse
+| ''King Conan: The Hour of the Dragon''
+| #1–6
+| 
+* Collected in ''King Conan: The Hour of the Dragon''
+|-
+| ''King Conan: The Conqueror''
+| #1–6
+| 
+* Collected in ''King Conan: The Conqueror''
+|-
+| Ablaze
+| ''The Cimmerian: Hour of the Dragon''
+| #1–3
+| 
+|-
+| rowspan="2" | "[[Red Nails]]"
+| Marvel
+| ''Savage Tales''
+| #2–3
+| 
+* Collected in ''Savage Sword of Conan Volume 1''
+* ''The Chronicles of Conan Volume 4: The Song of Red Sonja and Other Stories''
+|-
+| Ablaze
+| ''The Cimmerian: Red Nails''
+| #1-2
+| 
+* Collected in The Cimmerian Vol 1
+|-
+| rowspan="2" | "[[The Phoenix on the Sword]]"
+| Marvel
+| ''Conan the Barbarian Annual''
+| #2
+| 
+* Collected in ''The Chronicles of Conan Volume 2: Rogues In the House and Other Stories''
+|-
+| Dark Horse
+| ''King Conan: The Phoenix on the Sword''
+| #1–4
+| 
+* Collected in ''King Conan: The Phoenix on the Sword''
+|-
+| rowspan="2" | "[[The Scarlet Citadel]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #30
+| 
+* Collected in ''Savage Sword of Conan Volume 3''
+|-
+| Dark Horse
+| ''King Conan: The Scarlet Citadel''
+| #1–4
+| 
+* Collected in ''King Conan: The Scarlet Citadel''
+|-
+| rowspan="2" | "[[Rogues in the House]]"
+| Marvel
+| ''Conan the Barbarian''
+| #11
+| 
+* Collected in ''The Chronicles of Conan Volume 2: Rogues in the House and Other Stories''
+|-
+| Dark Horse
+| ''Conan''
+| #41–44
+| 
+* Collected in ''Conan Volume 5: Rogues in the House and Other Stories''
+|-
+| rowspan="3" | "[[The People of the Black Circle]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #16–19
+| 
+* Collected in ''Savage Sword of Conan Volume 2''
+|-
+| Dark Horse
+| ''Conan and the People of the Black Circle''
+| #1–4
+| 
+* Collected in ''Conan and the People of the Black Circle''
+|-
+| Ablaze
+| ''The Cimmerian: People of the Black Circle''
+| #1–3
+| 
+* Collected in The Cimmerian Vol 2
+|-
+| rowspan="2" | "[[Black Colossus]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #2
+| 
+* Collected in 
+** ''Savage Sword of Conan Volume 1''
+** ''Marvel Treasury Edition'' #15 (in color)
+|-
+| Dark Horse
+| ''Conan the Cimmerian''
+| #8–13
+| 
+* Collected in ''Conan Volume 8: Black Colossus''
+|-
+| rowspan="2" | "[[The Slithering Shadow]]" ("Xuthal of the Dusk")
+| Marvel
+| ''Savage Sword of Conan''
+| #20
+| 
+* Collected in ''Savage Sword of Conan Volume 2''
+|-
+| Dark Horse
+| ''Conan the Avenger''
+| #13–19
+| 
+* Collected in ''Conan Volume 19: Xuthal of the Dusk''
+|-
+| rowspan="2" | "[[The Hall of the Dead]]"
+| Marvel
+| ''Conan the Barbarian''
+| #8
+| 
+* Collected in ''The Chronicles of Conan Volume 1: The Tower of the Elephant and Other Stories''
+|-
+| Dark Horse
+| ''Conan''
+| #29–31
+| 
+* Collected in ''Conan Volume 4: The Hall of the Dead and Other Stories''
+|-
+| "[[The Pool of the Black One]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #22–23
+| 
+* Collected in ''Savage Sword of Conan Volume 2''
+|-
+| rowspan="3" | "[[Iron Shadows in the Moon]]" ("Shadows in the Moonlight")
+| Marvel
+| ''Savage Sword of Conan''
+| #4
+| 
+* Collected in ''Savage Sword of Conan Volume 1''
+|-
+| Dark Horse
+| ''Conan the Cimmerian''
+| #22–25
+| 
+* Collected in ''Conan Volume 10: Iron Shadows in the Moon and Other Stories''
+|-
+| Ablaze
+| ''The Cimmerian: Iron Shadows in the Moon''
+| #1–3
+| 
+* Collected in The Cimmerian Vol 3
+|-
+|-
+| rowspan="2" | "[[The Devil in Iron]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #15
+| 
+* Collected in ''Savage Sword of Conan Volume 2''
+|-
+| Dark Horse
+| ''Conan the Slayer''
+| #7–12
+| 
+* Collected in ''Conan the Slayer Volume 2: The Devil in Iron''
+|-
+| rowspan="2" | "[[A Witch Shall be Born]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #5
+| 
+* Collected in ''Savage Sword of Conan Volume 1''
+|-
+| Dark Horse
+| ''Conan the Avenger''
+| #20–25
+| 
+* Collected in ''Conan Volume 20: A Witch Shall be Born''
+** ''Marvel Treasury Edition'' #23 (in color)
+|-
+| rowspan="2" | "[[Jewels of Gwahlur]]" ("The Servants of Bit-Yakin")
+| Marvel
+| ''Savage Sword of Conan''
+| #25
+| 
+* Collected in ''Savage Sword of Conan Volume 3''
+|-
+| Dark Horse
+| ''Conan and the Jewels of Gwahlur''
+| #1–3
+| 
+* Collected in ''Conan and the Jewels of Gwahlur''
+|-
+| rowspan="2" | "[[Beyond the Black River]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #26–27
+| 
+* Collected in ''Savage Sword of Conan Volume 3''
+|-
+| Ablaze
+| ''The Cimmerian - Beyond the Black River''
+| #1-2
+| 
+|-
+| rowspan="2" | "[[The Hand of Nergal]]"
+| Marvel
+| ''Conan the Barbarian''
+| #30
+| 
+* Collected in ''The Chronicles of Conan Volume 5: The Shadow in the Tomb and Other Stories''
+|-
+| Dark Horse
+| ''Conan''
+| #47–50
+| 
+* Collected in ''Conan Volume 6: The Hand of Nergal''
+|-
+| rowspan="2" | "[[Shadows in Zamboula]]" ("The Man-Eaters of Zamboula")
+| Marvel
+| ''Savage Sword of Conan''
+| #14
+| 
+* Collected in ''Savage Sword of Conan Volume 2''
+|-
+| Ablaze
+| ''The Cimmerian: The Man-Eaters of Zamboula''
+| #1-2
+| 
+* Collected in The Cimmerian Vol 3
+|-
+| "[[The Black Stranger]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #47–48
+| 
+* Collected in ''Savage Sword of Conan Volume 4''
+|-
+| "[[The Vale of Lost Women]]"
+| Marvel
+| ''Conan the Barbarian''
+| #104
+| 
+* Collected in ''The Chronicles of Conan Volume 13: Whispering Shadows and Other Stories''
+|-
+| rowspan="2" | "[[The Snout in the Dark]]"
+| Marvel
+| ''Conan the Barbarian''
+| #106–107
+| 
+* Collected in ''The Chronicles of Conan Volume 13: Whispering Shadows and Other Stories''
+|-
+| Dark Horse
+| ''Conan the Avenger''
+| #1–6
+| 
+* Collected in ''Conan Volume 17: Shadows Over Kush''
+|-
+| "[[Drums of Tombalku]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #20
+| 
+* Collected in ''Savage Sword of Conan Volume 2''
+|-
+| rowspan="2" | "[[Wolves Beyond the Border]]"
+| Marvel
+| ''Savage Sword of Conan''
+| #59
+| 
+* Collected in ''Savage Sword of Conan Volume 5''
+* Set in Conan's world, was not originally written as a Conan story
+|-
+| Dark Horse
+| ''King Conan''
+| #21–24
+| 
+* Collected in ''King Conan: Wolves Beyond the Border''
+|}
+
+==Miscellaneous or parody appearances==
+* ''[[National Lampoon (magazine)|National Lampoon]]'' (May 1972)
+* ''[[Mad (magazine)|Mad]]'' magazine #235, December 1982, Conehead the {{sic|Barb|ituate}} by Dick De Bartolo and Don Martin.
+* ''Mad'' magazine #340, October 1995 Superhero High School (with Archie's Jughead)
+* ''[[Captain Carrot and His Amazing Zoo Crew!]]'' (DC, 1982), issue 7. Written by Roy Thomas: Bow-Zar the Barkbarian.
+* ''[[What The--?!]]'' #12 versus Groo (Goo) among others such as Hot Stuff and Yogi the Bear and Frosty the Snowman.
+* ''[[UHF (film)|UHF]]'' in a dream sequence titled ''Conan the Librarian'' (1989).
+*[[Discworld]]'' (novels) by Terry Pratchett, featuring a parody character called "Cohen the Barbarian"
+* ''[[Action League Now!|The Flesh]]'', a modified Conan the Barbarian action figure
+
+==Footnotes==
+{{reflist}}
+
+==Sources==
+* {{citation
+|last = Lord
+|first = Glenn
+|author-link = Glenn Lord
+|year = 1976
+|title = [[The Last Celt]]
+|publisher = Berkley Windhover Books
+|isbn = 978-0-425-03630-3
+}}
+* {{citation
+|last = Shanks
+|first = Jeffrey
+|title = La reina de la Costa Negra: The Mystery of the Mexican Conan Comics
+|journal = Comic Book Quarterly
+|issue = 11
+|date = Spring 2013
+|pages = 3–6
+|url = http://www.comiccollecting.org/forum/viewtopic.php?f=61&t=2039
+|access-date = 2013-05-22
+|archive-url = https://web.archive.org/web/20140312213735/http://www.comiccollecting.org/forum/viewtopic.php?f=61&t=2039
+|archive-date = 2014-03-12
+|url-status = dead
+}}
+
+==External links==
+*[https://www.conan.com/ Conan official website]
+*[http://www.darkhorse.com/Zones/Conan Dark Horse Comics Conan Zone]
+
+{{Conan}}
+
+[[Category:Conan the Barbarian comics| ]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Characters created by Barry Windsor-Smith]]
+[[Category:Comics characters introduced in 1970]]

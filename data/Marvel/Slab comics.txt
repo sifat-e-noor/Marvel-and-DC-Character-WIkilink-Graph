@@ -1,0 +1,71 @@
+{{short description|Group of fictional characters}}
+{{About|the comic book villains|other uses|Nasty Boys (disambiguation)}}
+{{in-universe|date=June 2018}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=
+|caption=
+|name=Nasty Boys
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Factor]]'' #75 (February 1992)
+|creators=[[Peter David]]<br/>[[Larry Stroman]]
+|base=
+|members='''Former members'''<br>[[#Gorgeous George|Gorgeous George]]<br>[[#Hairbag|Hairbag]]<br>Ramrod<br>[[#Ruckus|Ruckus]]<br>[[#Slab|Slab]]
+|subcat=Marvel Comics
+|hero=
+|villain=y
+}}
+
+The '''Nasty Boys''' are a group of <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] [[Mutant (Marvel Comics)|mutants]] appearing in [[American comic book]]s published by [[Marvel Comics]]. This group exists in Marvel's [[shared universe]], known as the [[Marvel Universe]].
+
+These characters are the personal strike force of [[X-Men]] and [[X-Factor (comics)|X-Factor]] nemesis [[Mister Sinister]]. The Nasty Boys should not be confused with the [[Marauders (comics)|Marauders]], who were a group of mercenaries brought together by Mister Sinister to specifically kill the [[Morlocks (comics)|Morlocks]].<ref>{{Cite web |last=Hill |first=Brad |title=Who are The Marauders? Marvel relaunches mutant team with new members |url=https://www.sportskeeda.com/comics/news-who-the-marauders-marvel-relaunches-mutant-team-new-members |access-date=2022-07-28 |website=www.sportskeeda.com |language=en-us}}</ref>
+
+==Fictional team biography==
+Self-proclaimed "Nasty Boy" [[Slab (comics)|Slab]] faced [[X-Factor (comics)|X-Factor]] member [[Strong Guy]] before the full team appeared.<ref>''X-Factor'' #74</ref> The full team battled X-Factor in the next issue seemingly led by US Senator Steven Shaffran. Senator Shaffran (also known as Ricochet) was a mutant who could alter probability in his favor. The Shaffran that appeared with the Nasty Boys was a disguised [[Mister Sinister]] who had taken the Senator's form in order to publicly discredit him as a mutant terrorist. Sinister tells Shaffran he did it because of the harm that would come to mutants if he became President of the United States. He also tells him that he has a personal interest in the safety of [[Havok (comics)|Havok]] and [[Polaris (Marvel Comics)|Polaris]].<ref>''X-Factor'' #75</ref>
+
+The Nasty Boys were taken into custody following their first appearance and battle in Washington DC. [[Ramrod (comics)|Ramrod]] is subsequently deported from the US due to his immigrant status. Both Hairbag and Slab are rescued from prison by the [[Mutant Liberation Front]] (MLF). Sinister collects Hairbag from them, but Slab stays with the MLF for several weeks to spend time with his sister, the MLF's [[Thumbelina (comics)|Thumbelina]].<ref>''X-Factor'' #77–78</ref>
+
+The five members of the Nasty Boys are reunited when Sinister orders them to capture and kill former [[Marauders (comics)|Maurader]] [[Malice (comics)#Malice|Malice]]. Malice interrupts the Hawaiian vacation of Havok and his girlfriend Lorna Dane (a.k.a. [[Polaris (Marvel Comics)|Polaris]]) in order to kill the latter mutant, whom she fears (at Sinister's request) she may be forced to bond to permanently. The Nasty Boys have a hard time controlling the situation, as Malice continues to jump back and forth between Alex and Lorna. She uses their considerable powers against anyone in her way. Both Alex and Lorna are willing to die in order to end Malice once and for all, and their combined willpower forces Malice to be stuck between them. This allows Sinister to trap her. The Boys get away, as their battle does not draw the attention of the local authorities until after their getaway.<ref>''X-Factor'' #104–105</ref>
+
+Later, [[Ruckus (comics)|Ruckus]] appears at a speech given by [[Robert Kelly (comics)|Senator Kelly]] in an attempt to assassinate the senator. The [[X-Men]] stop Ruckus, and he is placed in custody.<ref>''X-Men Forever'' #1</ref> Ruckus was apparently able to evade custody as he was seen attending the X-Cise clinic as a client in the hope of receiving the mutant cure, however this was all a scheme by the Red Skull. Joined with Ramrod, Ruckus later travelled to England and attempted to rob banks but both were arrested,<ref>''X-Men Legacy'' (vol. 2) #11</ref> and saved by the X-Men from a Terrigen Mist cloud about to hit their prison.<ref>''Extraordinary X-Men'' Annual #1</ref>
+
+Meanwhile Slab, Ruckus and Gorgeous George established a drug lab, harvesting and selling mutant growth hormone, until Psylocke attacked their lab, defeated the three in combat and shut down their operation.<ref>''Uncanny X-Men'' (vol. 4) #15</ref> The Nasty Boys were later hunted down and killed by the Upstarts, in order to lure out Cyclops and his ragtag team of X-Men to Washington Heights. After a brief moment of words, the two groups engaged each other in battle with the X-Men gaining the upperhand.<ref>''Uncanny X-Men'' (vol. 5) #20</ref>
+
+==Members==
+There are five Nasty Boys:
+
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+! width="13%" |Member !!width="20%"| First appearance !!width="67%"| Description
+|-
+| '''Gorgeous George''' || ''X-Factor'' #75 (February 1992) || '''George Blair''' was a mutant whose body is composed of an unidentified semi-solid, tar-like substance. Effectively, George possesses limited shape-shifting powers enabling him to elongate, inflate, or open holes into his body at will. His semi-solid form gives him a certain degree of resistance to physical harm, as he can allow projectiles to pass harmless through his gelatin-like body. Like the other members of The Nasty Boys, little has been revealed about him.
+|-
+| '''Hairbag''' || ''X-Factor'' #75 (February 1992) || '''Michael Suggs''' was recruited by [[Mister Sinister]] and possesses a feral mutation that grants him enhanced strength, speed, stamina, agility, reflexes, resistance to injury, superhumanly acute senses, fangs, claws, fur covering his body and flexible hair follicles. During altercations with [[X-Factor (comics)|X-Factor]], Hairbag often fought against [[Wolfsbane (comics)|Wolfsbane]]. In the Nasty Boys' final fight, Hairbag was captured along with his teammate Slab and taken to a holding cell by X-Factor. While waiting for his lawyer to negotiate [[bail]], Hairbag and Slab were broken out of prison by the [[Mutant Liberation Front]] and returned to the Nasty Boys shortly afterwards. In the animated series ''[[X-Men: The Animated Series|X-Men]]'', Hairbag has poisonous breath.
+|-
+| '''Ramrod''' || ''X-Factor'' #75 (February 1992) || '''Patrick Mahoney''' was a mutant who could psionically control wood and plants. He always carried with him a wooden staff with which he could use his powers offensively. He was also an undocumented immigrant in the United States. Unlike the other Nasty Boys, Ramrod did not appear in the [[X-Men: The Animated Series|''X-Men'' TV series]].
+|-
+| '''Ruckus''' || ''X-Factor'' #75 (February 1992) || '''Clement Wilson''' was the field leader who possesses the mutant power to absorb ambient sounds, amplify them in his body and scream them back with great force. The resulting sonic attack (a nearby police siren amplified a thousandfold, for example) could be released in the form of a concentrated blast or with a larger area of effect. Ruckus believed himself to be above the law, and he tried displaying his superiority at every opportunity; he once hit a grocery store, severely wounded the store clerk and blasted his way through police just to obtain free beer.
+|-
+| '''Slab''' || ''X-Factor'' #74 (January 1992) || '''Kris Anderson''' is the team's powerhouse, able to increase his size and thereby boost his strength, stamina and resistance to injury to levels similar to those of [[Strong Guy]]. His sister is the villainous [[Thumbelina (comics)|Thumbelina]], once a member of [[Stryfe]]'s [[Mutant Liberation Front]].
+|}
+
+==In other media==
+[[Image:SinisterNasty.jpg|thumb|The Nasty Boys as shown in the animated series ''X-Men'']]
+While the Nasty Boys make few appearances in comics featuring "X" teams, the villainous team was featured prominently in [[Fox Broadcasting Company|FOX's]] 1992 [[X-Men: The Animated Series|''X-Men'']] animated TV series. Appearing first in the episode "'Til Death Do Us Part, Part II", the cartoon featured four of the Boys: Gorgeous George (the Boys' field leader), Hairbag, Ruckus, and Slab. Ruckus is voiced by [[Dan Hennessey]] and Gorgeous George is voiced by Rod Wilson. 
+
+The X-Man [[Changeling (Marvel Comics)#X-Men: The Animated Series|Morph]], who had been resurrected by [[Mister Sinister|Sinister]], had an "evil" side to his personality. "Evil" Morph was often a part-time member of the Nasty Boys, but Sinister increasingly lost control of him. The Nasty Boys reappear in both parts of "Reunion" where, teamed with the [[Savage Land Mutates]]. They prove to be quite imposing to the X-Men, whom Sinister had rendered powerless. The X-Men eventually regain their powers, free Morph from Sinister completely, and defeat Sinister and the Boys. 
+
+After leaving the Savage Land, the Boys reappear with Sinister in all four parts of "Beyond Good and Evil". [[Vertigo (Marvel Comics)|Vertigo]] apparently accompanies them (Sinister had given her a [[Magneto in other media#X-Men (TV series)|Magneto]]-inspired energy boost in "Reunion") and is made into a member, despite her female status. In the comics, Vertigo was originally a member of the Savage Land Mutates, but she joins the [[Marauders (comics)|Marauders]] and helps to annihilate most of the [[Morlocks (comics)|Morlocks]] during the [[Mutant Massacre]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://uncannyxmen.net/groups/nasty-boys Nasty Boys profile at uncannyxmen.net]
+
+{{X-Men characters}}
+
+[[Category:Fictional henchmen]]
+[[Category:Marvel Comics supervillain teams]]
+[[Category:Characters created by Peter David]]
+[[Category:X-Men supporting characters]]

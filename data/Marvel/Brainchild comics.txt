@@ -1,0 +1,144 @@
+{{Redirect|Amphibius|other uses|Amphibious (disambiguation)}}
+{{Multiple issues|
+{{in-universe|date=November 2015}}
+{{lead too short|date=January 2016}}
+{{more citations needed|date=August 2016}}
+}}
+{{short description|Group of mutants in Marvel Comics}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|noimage=yes
+|imagesize=
+|caption=
+|name=Savage Land Mutates
+|publisher=[[Marvel Comics]]
+|debut=''The [[X-Men]]'' #62 (1969)
+|creators=[[Roy Thomas]] (writer)<br>[[Neal Adams]] (artist)<br>[[Tom Palmer (comics)|Tom Palmer]] (artist)
+|base= [[Savage Land]]
+|members=[[#Membership|Membership]]
+|subcat=Marvel Comics
+|hero=
+|villain=y
+}}
+The '''Savage Land Mutates''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] group of criminals appearing in [[American comic book]]s published by [[Marvel Comics]]. Their creators were writer [[Roy Thomas]] and the penciler/inker team of Neal Adams and Tom Palmer. Within the comic books, the group is based in the imaginary place called the [[Savage Land]], which is a hidden [[Antarctica|Antarctic]] environment of [[dinosaur]]s and primitive humans within Marvel Comics' fictional [[Marvel Universe]].
+
+==Publication history==
+The Savage Land Mutates first appeared in ''The [[X-Men]]'' #62 and were created by [[Roy Thomas]], [[Neal Adams]], and [[Tom Palmer (comics)|Tom Palmer]].
+
+==Fictional team biography==
+The Savage Land Mutates were originally the human inhabitants of the [[Savage Land]] (most of them being from the Swamp Men tribe) that were genetically altered by the mutant [[Magneto (Marvel Comics)|Magneto]] to serve as his troops. The mutations in the Savage Land were occurring easy due to the levels of radiation.<ref>''The X-Men'' #62. Marvel Comics.</ref> They clashed with the [[X-Men]] and [[Ka-Zar (Kevin Plunder)|Ka-Zar]] on multiple occasions. On one occasion, they turned [[Spider-Man]] into the Man-Spider and [[Warren Worthington III|Angel]] into a bird monster. They have also encountered the [[Avengers (comics)|Avengers]]. Although the group is fairly large, most appearances of the group contain only about half of the group's members, usually under leadership of [[Sauron (comics)|Sauron]], Brainchild, or [[Zaladane]].{{fact|date=January 2022}} 
+
+After Sauron escaped from the Raft during a jailbreak concocted by the Skrulls, the Avengers believed he and the Mutates were responsible for the breakout and pursued him to the Savage Land.<ref>''The New Avengers'' #5. Marvel Comics.</ref>
+
+Amphibius later tells Sauron and the other Savage Land Mutates that Magneto's Asteroid M has risen from the sea, but they didn't want to go find him. Worm took control of Barbarus, Lupo, and Sauron and commandeered a ship to go find Magneto. When threatened by the Japanese military, Sauron attacked an armored car causing an international incident. Cannonball, Sunspot, and Warlock investigated and found the Savage Land Mutates on the deck of the ship. Cannonball fought Sauron in the skies while Karma discovered that the Savage Land Mutates were immune to her powers of psychic persuasion. Cannonball managed to defeat Sauron while the other New Mutants defeated the Savage Land Mutates. Upon learning why the Savage Land Mutates were on the ship, Karma told Worm, Sauron, Barbarus, and Lupo that they were in charge of Asteroid M and Magneto. Worm then orders the Savage Land Mutates to return to the Savage Land.<ref>''New Mutants'' vol. 4 #10. Marvel Comics.</ref>
+
+During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Sauron returned to the Savage Land to claim leadership over the mutates. He ruled until Vertigo, Lupa, and Whiteout turned on him, driving him out of the Citadel. A resistance group of Avengers, searching for [[Cosmic Cube]] fragments, teamed up with Sauron to investigate, as they speculated that the mutates may have found it. The group was then ambushed by Gaza riding a tyrannosaurus rex. He revealed that Sauron only kept the three female mutates at his side because they were desirable and had powers that weren't a threat to him. As the group arrived at the Citadel, Sauron attempted to betray them but was quickly defeated by [[Mockingbird (Marvel Comics)|Mockingbird]]. She then bartered with Lupa, Vertigo, and Whiteout, offering to give them Sauron in exchange for the fragment. The trio refuse, as the fragment enabled them to overthrow Sauron and push the Savage Land towards peace. The two groups clashed, with Vertigo confronting Sauron with the knowledge that she had been cloned and killed many times. During the skirmish, Sauron managed to grab the shard but was defeated by the combined effort of both groups. [[Quicksilver (comics)|Quicksilver]] then grabbed the shard and escaped. Lupa, Vertigo, and Whiteout allowed the group to leave in exchange for locking Sauron in a dungeon.<ref>''Secret Empire: Underground'' (Aug. 2017). Marvel Comics.</ref>
+
+==Membership==
+{| class="wikitable" width=100%
+!width=11%| Character
+!width=18%| Real Name
+!width=23%| Joined In
+!width=48%| Notes
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Original incarnation'''
+|-
+||'''[[Magneto (Marvel Comics)|Magneto]]'''<br>("The Creator")
+||Max Eisenhardt
+|rowspan="8"|''X-Men'' #62 (Nov. 1969)
+|| The creator and the original leader of the Savage Land Mutates.
+|-
+||'''Amphibius'''
+||Unknown
+||Formerly a Swamp Men tribesman that lived in the Savage Land. He is saved from hostile tribesmen by Magneto, and changed into a humanoid frog-like mutate. He is the first of the Savage Land Mutates to see the X-Men, and has fought not just the X-Men but also Ka-Zar, who is a human inhabitant of the Savage Land. He has also fought Spider-Man. Amphibius is one of Magneto's first Savage Land Mutates, and has been involved in all the Mutates' subsequent activities.
+|-
+||'''Barbarus'''
+||Unknown
+||A four-armed Swamp Men tribesman mutate with physical strength, endurance, and injury resistant powers. Escaped from the Raft holding facility in the breakout of Sauron.
+|-
+||'''Brainchild'''
+||Unknown
+||A Swamp Men tribesman mutate with an enlarged cranium with psychic powers. Tends to most often be second-in-command, after Sauron, and in his absences (when taken by [[Weapon X]] or dominated by his Karl Lykos personality), Brainchild actually leads the group.
+|-
+||'''Equilibrius'''
+||Unknown
+||A mutate who can induce sensations of vertigo in anyone who looks him in the eyes.
+|-
+||'''Gaza'''
+||Unknown
+||A Swamp Men tribesman mutate with slightly enhanced strength and durability. He is blind, but makes up for it with an additional power, radar senses.
+|-
+||'''Lupo'''
+||Unknown
+||A Swamp Men tribesman mutate who has enhanced strength, speed, reflexes & reactions, agility, and durability as well as hyper keen senses (including night vision), sharp claws and fangs, and can psionically command canine creatures. In later appearances, he gained a [[werewolf]]-like appearance. At one point, Lupo had an [[Bear|ursine]] appearance looking like a humanoid [[Tibetan blue bear|blue bear]]. It is unknown whether he is related to Lupa.
+|-
+||'''Piper'''
+||Unknown
+||A mutate who can psionically control large groups of animals using his flute as a focus for his power. In his first appearance as one of the Savage Land Mutates, Piper sent a monster to attack the X-Men and Ka-Zar. Piper later aided Magneto by causing dinosaurs to attack the Avengers in the Savage Land. With the Savage Land Mutates, Piper was later employed by Zaladane in her attempt to conquer the Savage Land. With the other Savage Land Mutates, Piper again aided Zaladane in battle with Magneto, Ka-Zar, and their allies.
+|-
+||'''[[Lorelei (Mutate)|Lorelei]]'''
+||Lani Ubana
+||''X-Men'' #63 (Dec. 1969)
+||A mutate who is able to place men in a hypnotic trance using her hypersonic vocal emissions. She was also briefly a member of the first [[Brotherhood of Mutants|Brotherhood of Evil Mutants]].
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Second incarnation''' <br>Led by '''Sauron'''. Included original members '''Amphibius''', '''Barbarus''', '''Brainchild''', '''Gaza''', and '''Lupo'''.
+|-
+||'''[[Sauron (comics)|Sauron]]'''
+||Dr. Karl Lykos
+|rowspan="2"|''Marvel Fanfare'' #1 (March 1982)
+||A life-force draining human who transforms into a mind controlling, savage [[Pteranodon]]-like creature if he feeds on mutant energy.
+|-
+||'''[[Vertigo (Marvel Comics)|Vertigo]]'''
+||Unknown
+||A mutate that can emit waves that affect the [[equilibrioception]] of anyone hit by them. She left the Savage Land to join [[Mister Sinister]]'s [[Marauders (comics)|Marauders]], but later returned under mysterious circumstances.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Third incarnation''' <br>Led by '''Zaladane'''. Included original members '''Amphibius''', '''Barbarus''', '''Brainchild''', '''Gaza''', and '''Lupo'''.
+|-
+||'''[[Zaladane]]'''
+||Zala Dane
+||''Uncanny X-Men'' #249 (Oct. 1989)
+||High Priestess to the Savage Land deity [[Garokk]], Zaladane sought power for herself and claimed the role of Empress of the Savage Land. She was previously an associate of the mutates, having worked with them in prior appearances.
+|-
+||'''Whiteout'''
+||Unknown
+||''Uncanny X-Men'' #249 (Oct. 1989)
+||A mutate who can emit brilliant flashes of psionic "light" that can blind anyone she chooses.
+|-
+||'''Worm'''
+||Unknown
+||''Uncanny X-Men'' #250 (Nov. 1989)
+||A mutate who secretes mucus that allows him to override other living beings' motor and autonomic nervous functions after coating them with it. He also has a [[worm]]-like lower body and enlarged hands with suction-cups on them.
+|- bgcolor="#DDDDDD"
+| colspan=5 align=center | '''Fourth incarnation''' <br>Led by '''Brainchild'''. Included original members '''Amphibius''', '''Barbarus''', '''Gaza''', '''Vertigo''', and '''Whiteout'''. Later appearances also included '''Piper''' and '''Worm'''.
+|-
+||'''Lupa'''
+||Unknown
+||''X-Treme X-Men: Savage Land'' #2 (Dec. 2001)
+||A Swamp Men tribeswoman mutate with enhanced strength, speed, reflexes & reactions, agility, and durability as well as hyper keen senses (including night vision). She controls a small army of [[Dire wolf|dire wolves]]. She can also emit pheromones that allow her to control bestial creatures. It is unknown whether she is related to Lupo.
+|-
+||'''Leash'''
+||Unknown
+||''X-Treme X-Men: Savage Land'' #3 (Jan. 2002)
+||A mutate who can psychically imprison another being's [[astral body|astral essence]], rendering them catatonic or under her mental control.
+|}
+
+==In other media==
+The Savage Land Mutates have appeared on a few episodes of the 1990s ''[[X-Men: The Animated Series|X-Men]]'' TV series. The lineup was formed by [[Sauron (comics)|Sauron]], Vertigo, Brainchild, Amphibius, Barbarus, and Lupo. They were creations of Magneto, though they were later recruited by [[Mister Sinister]].
+
+The Savage Land Mutates are featured as a henchman group in the popular deck-building board game ''Legendary''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Savage_Land_Mutates Savage Land Mutates] at Marvel.com
+* [https://marvel.fandom.com/wiki/Savage_Land_Mutates_(Earth-616) Savage Land Mutates] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/savagelandmutates.htm|Savage Land Mutates}}
+* Savage Land Mutates  [https://uncannyxmen.net/groups/savage-land-mutates] at uncannyxmen.net 
+{{Avengers characters}}
+{{Ka-Zar}}
+{{New Mutants}}
+{{X-Men}}
+
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillain teams]]
+[[Category:X-Men supporting characters]]

@@ -1,0 +1,303 @@
+{{Short description|Fictional character}}
+{{for|the Swedish cartoon slacker character|Robin (TV series)}}
+{{redirect|Robin (comics)|the British children's magazine|Robin (magazine)}}
+{{redirect|The Boy Wonder|other uses|Boy Wonder (disambiguation)}}
+{{other uses|Robin (disambiguation)}}
+{{pp-semi-indef}}
+{{Infobox comics set and title <!-- Wikipedia:WikiProject Comics -->
+<!--Character section-->
+| code_name = Robin
+| image = Robins (DC Comics characters).png
+| caption = Various incarnations of the character Robin, art by Yasmine Putri
+| publisher = [[DC Comics]]
+| debut = ''[[Detective Comics]]'' #38
+| debutmo = April
+| debutyr = 1940
+| creators = [[Bill Finger]]<br/>[[Bob Kane]]<br/> [[Jerry Robinson]]
+| characters = {{collapsible list|[[Dick Grayson]]<br/>[[Jason Todd]]<br/>[[Tim Drake]]<br/>[[Stephanie Brown (comics)|Stephanie Brown]]<br/>[[Damian Wayne]]}}
+<!--Series section-->
+| title = [[#Robin monthlies|Robin]]
+| cvr_image = Robin v2 1 (November 1993).png
+| cvr_caption = Cover of ''Robin'' (vol. 4) #1 (November 1993)<br/>featuring the Tim Drake version of the character,<br/>art by [[Tom Grummett]] and Scott Hanna
+| schedule = {{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'', vol. 4-5)''': Monthly<br/>'''(''Robin III: Cry of the Huntress'')''': Bi-weekly}}
+| format = {{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'', ''Robin III: Cry of the Huntress'')''': [[Limited series (comics)|Limited series]]<br/>'''(vol. 4-5)'''<br/>[[Ongoing series]]}}
+| limited = Y
+| ongoing = Y
+| Superhero = y
+| pub_series = DC Comics
+| 1stishhead =
+| 1stishyr =
+| 1stishmo =
+| endishyr =
+| endishmo = 
+| date = {{collapsible list|'''(vol. 1)'''<br>January 1991 – May 1991 <br> '''(''Robin II: The Joker's Wild!'')'''<br> October 1991 – December 1991 <br> '''(''Robin III: Cry of the Huntress'')'''<br>December 1992 – March 1993 <br> '''(vol. 4)'''<br> November 1993 – April 2009 <br> '''(vol. 5)'''<br> April 2021 – present}}
+| issues = {{collapsible list|'''(vol. 1)''': 5 <br> '''(''Robin II: The Joker's Wild!'')''': 4 <br> '''(''Robin III: Cry of the Huntress'')''': 6<br/>'''(vol. 4)''': 185 (including issues #0 and 1,000,000), plus 7 ''Annual''s<br/>'''(vol. 5)''': 17 (as of October 2022 [[cover date]])<!--use cover date rather than on sale date-->}}
+| main_char_team = {{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'')'''<br/>Tim Drake<br/>'''(''Robin III: Cry of the Huntress'')'''<br/>Tim Drake, the [[Huntress (Helena Bertinelli)]]<br/>'''(vol. 4)'''<br/>Tim Drake, Stephanie Brown<br/>'''(vol. 5)'''<br/>Damian Wayne}}
+| writers = {{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'', ''Robin III: Cry of the Huntress'', vol. 4)'''<br>[[Chuck Dixon]]<br>'''(vol. 4)'''<br>[[Chuck Dixon]]<br>Jon Lewis <br>[[Bill Willingham]]<br>[[Adam Beechen]]<br> [[Fabian Nicieza]]<br>'''(vol. 5)'''<br>Joshua Williamson}}
+| artists =
+| pencillers = {{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'', ''Robin III: Cry of the Huntress'')'''<br>[[Tom Lyle]]<br>'''(vol. 4)'''<br>[[Tom Grummett]]<br>[[Phil Jimenez]]<br>[[Mike Wieringo]]<br>[[Staz Johnson]]<br>[[Pete Woods]]<br>[[Damion Scott (comics)|Damion Scott]]<br>[[Scott McDaniel]]<br>[[Freddie Williams II]]<br>'''(vol. 5)'''<br>Gleb Melnikov}}
+| inkers = {{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'', ''Robin III: Cry of the Huntress'')'''<br>[[Bob Smith (comics)|Bob Smith]]<br>'''(vol. 4)'''<br>Scott Hanna<br> Stan Woch <br> [[Bob Smith (comics)|Bob Smith]]}}
+| letterers =
+| colorists ={{collapsible list|'''(vol. 1, ''Robin II: The Joker's Wild!'', ''Robin III: Cry of the Huntress'')'''<br> [[Adrienne Roy]]<br>'''(vol. 4)'''<br> Adrienne Roy <br> Guy Major}}
+| editors =
+| creative_team_month =
+| creative_team_year =
+| creators_series =
+| TPB =
+| ISBN =
+| nonUS =
+| cat = super
+| altcat =
+| hero = y
+| villain =
+| sortkey = Robin
+| sort_title = Robin
+}}
+'''Robin''' is the alias of several [[superhero]]es appearing in [[American comic book]]s published by [[DC Comics]]. The character was originally created by [[Bob Kane]], [[Bill Finger]], and [[Jerry Robinson]], to serve as a junior counterpart and the [[sidekick]] to the superhero [[Batman]]. As a team, Batman and Robin have commonly been referred to as the ''Caped Crusaders'' and the ''Dynamic Duo''.<ref>{{cite book |last1=Fleisher |first1=Michael L. |title=The Encyclopedia of Comic Book Heroes, Volume 1: Batman |date=1976 |publisher=Macmillan Publishing Co |isbn=0-02-538700-6 |url=https://archive.org/details/encyclopediaofco01flei/page/316/mode/2up |access-date=29 March 2020 |pages=317–332}}</ref> The character's first incarnation, [[Dick Grayson]], debuted in ''[[Detective Comics]]'' #38 (April 1940). Conceived as a way to attract young readership, Robin garnered overwhelmingly positive critical reception, doubling the sales of the Batman titles.<ref name="Batman: The Complete History">{{Cite book | last=Daniels | first=Les | author-link=Les Daniels | title=Batman: The Complete History | publisher=[[Chronicle Books]] | year=2004 | page=37 | url=https://books.google.com/books?id=73wknu2cVIkC | isbn=0-8118-4232-0}}</ref> Robin's early adventures included ''[[Star Spangled Comics]]'' #65–130 (1947–1952), the character's first solo feature. He made regular appearances in Batman-related comic books and other DC Comics publications from 1940 through the early 1980s, until the character set aside the Robin identity and became the independent superhero [[Nightwing]]. 
+
+The character's second incarnation, [[Jason Todd]], first appeared in ''[[Batman (comic book)|Batman]]'' #357 (1983). He made regular appearances in Batman-related comic books until 1988, when he was murdered by the [[Joker (character)|Joker]] in the storyline "[[Batman: A Death in the Family|A Death in the Family]]" (1989). Jason later found himself alive after a reality-changing incident, eventually becoming the [[Red Hood (comics)#Jason Todd|Red Hood]]. The premiere ''Robin'' limited series was published in 1991, featuring the character's third incarnation, [[Tim Drake]], training to earn the role of Batman's vigilante partner. After two successful sequels, the monthly ''Robin'' series began in 1993 and ended in early 2009, which also helped his transition from sidekick to a superhero in his own right. In 2004 storylines, established DC Comics character [[Stephanie Brown (comics)|Stephanie Brown]] became the fourth Robin for a short time before the role reverted to Tim Drake. [[Damian Wayne]] succeeds Drake as Robin in the 2009 story arc "[[Batman: Battle for the Cowl|Battle for the Cowl]]."
+
+The current and former Robins always feature prominently in [[Batman Family|Batman's cast of supporting heroes]]; Dick, Jason, Tim, and Damian all regard him as a father. In current continuity as of 2021, Dick Grayson serves as Nightwing, Jason Todd is the Red Hood, Stephanie Brown is [[Batgirl]], and Tim Drake has picked up the mantle of Robin again after a stint as [[Red Robin (comics)|Red Robin]]. Damian has left behind the title Robin, but remains the title character of the ''Robin'' comic book. In recent years, Batman has also adopted new sidekicks in the form of [[Bluebird (DC Comics)|Bluebird]], whose name references Robin, and [[Duke Thomas (character)|The Signal]].
+
+==Creation==
+[[File:N. C. Wyeth Robin Hood Nottingham 1917 illustration detail.jpg|thumb|left|upright|Characters from an illustration by [[N. C. Wyeth]] for "Robin Hood" (1917) by Paul Creswick. The look inspired Jerry Robinson's design for Robin.<ref name="ComicsJournal271" />{{Rp|83}}]]
+About a year after [[Batman]]'s debut, Batman creators [[Bob Kane]] and [[Bill Finger]] introduced Robin the Boy Wonder in ''[[Detective Comics]]'' #38 (1940). The name "Robin the Boy Wonder" and the medieval look of the original costume were inspired by [[Robin Hood]]. Jerry Robinson noted he "came up with Robin because the adventures of Robin Hood were boyhood favorites of mine. I had been given a Robin Hood book illustrated by [[N. C. Wyeth]]&nbsp;... and that's what I quickly sketched out when I suggested the name Robin Hood, which they seemed to like, and then showed them the costume. And if you look at it, it's Wyeth's costume, from my memory, because I didn't have the book to look at."<ref name="ComicsJournal271">[[Groth, Gary]] (November 2005). "Jerry Robinson: Been There, Done That". ''[[The Comics Journal]]'' #271</ref>{{Rp|83}} Other accounts of Robin's origin state that the name comes from the bird called the [[American robin]], not from [[Robin Hood]],<ref>
+{{Cite comic | writer=[[E. Nelson Bridwell|Bridwell, E. Nelson]] | penciller=[[Ross Andru|Andru, Ross]] | inker=[[Mike Esposito (comics)|Esposito, Mike]] | story=The Origin of Robin | title=[[Batman (comic book)|Batman]] | volume=1 | issue=#213 | date=July–August 1969 | publisher=[[DC Comics]]}}</ref> [[Frank Miller]]'s ''[[All Star Batman and Robin]]'' being a notable exception.{{peacock term|date=December 2019}}{{citation needed|date=December 2019}} Sometimes both sources are credited, as in [[Len Wein]]'s ''[[The Untold Legend of the Batman]]''. Although Robin is best known as Batman's sidekick, the Robins have also been members of the superhero groups the [[Teen Titans]] (with the original Robin, [[Dick Grayson]], as a founding member and the latter group's leader) and [[Young Justice]].
+
+In Batman stories, the character of Robin was intended to be Batman's [[Doctor Watson|Watson]]: Bill Finger, writer for many early Batman adventures, wrote:{{citation needed|date=December 2019}}
+
+<blockquote>
+"Robin was an outgrowth of a conversation I had with [[Bob Kane|Bob]]. As I said, Batman was a combination of [[Douglas Fairbanks]] and [[Sherlock Holmes]]. Holmes had his [[Doctor Watson|Watson]]. The thing that bothered me was that Batman didn't have anyone to talk to, and it got a little tiresome always having him thinking. I found that as I went along Batman needed a Watson to talk to. That's how Robin came to be. Bob called me over and said he was going to put a boy in the strip to identify with Batman. I thought it was a great idea."
+</blockquote>
+
+==Fictional character biography==
+The following fictional characters have assumed the Robin role at various times in the main {{DC Universe}} [[Continuity (fiction)|continuity]]:
+
+===Dick Grayson===
+{{main|Dick Grayson}}
+[[File:Robin (Dick Grayson).png|thumb|upright|[[Dick Grayson]] as Robin on the cover of ''Detective Comics'' #48 (February 1941), art by [[Bob Kane]]]]
+In the comics, Dick Grayson was an 8-year-old [[Acrobatics|acrobat]] and the youngest of a family act called the "Flying Graysons". A gangster named [[Tony Zucco|Boss Zucco]], loosely based on actor [[Edward G. Robinson]]'s ''[[Little Caesar (film)|Little Caesar]]'' character, had been extorting money from the circus and killed Grayson's parents, John and Mary, by sabotaging their [[trapeze]] equipment as a warning against defiance. Batman investigated the crime and, as his alter ego billionaire Bruce Wayne, had Dick put under his custody as a legal ward. Together they investigated Zucco and collected the evidence needed to bring him to justice. From his debut appearance in 1940 through 1969, Robin was known as the Boy Wonder. Batman creates a costume for Dick, consisting of a red tunic, yellow cape, green gloves, green boots, green spandex briefs, and a utility belt. As he grew older, graduated from high school, and enrolled in [[Hudson University (comics)|Hudson University]], Robin continued his career as the Teen Wonder, from 1970 into the early 1980s.
+
+The character was rediscovered by a new generation of fans during the 1980s because of the success of ''[[Teen Titans|The New Teen Titans]]'', in which he left Batman's shadow entirely to assume the identity of [[Nightwing]]. He aids Batman throughout the later storyline regarding the several conflicts with Jason Todd until he makes his final return as the "Red Hood". Grayson temporarily took over as Batman (while Wayne was traveling through time), using the aid of Damian Wayne, making his newish appearance as "Robin", to defeat and imprison Todd.<ref>{{cite web | last=Phillips | first=Dan | url=https://www.ign.com/articles/2009/05/22/grant-morrisons-new-batman-and-robin | title=Grant Morrison's New Batman and Robin | work=[[IGN]] | date=May 22, 2009 | access-date=December 15, 2021}}</ref><ref name="Interview">{{cite web | url=https://www.ign.com/articles/2009/03/11/grant-morrison-discusses-batman-robin | last=George | first=Richard | title=Grant Morrison Discusses Batman and Robin | work=IGN | date=March 11, 2009|access-date=December 15, 2021}}</ref> With Bruce Wayne's return, Grayson went back to being Nightwing.
+
+===Jason Todd===
+{{main|Jason Todd}}
+{{more citations needed|date=August 2012}}
+
+[[File:Robin's (Jason Todd) death.jpg|thumb|upright|Cover art of ''Batman'' #428 (December 1988) from the storyline ''[[Batman: A Death in the Family|A Death in the Family]]'', art by Mike Mignola]]
+DC was initially hesitant{{Citation needed|date=April 2007}} to turn Grayson into [[Nightwing]] and to replace him with a new Robin. To minimize the change, they made the new Robin, Jason Peter Todd, who first appeared in ''Batman'' #357 (1983), similar to a young Grayson. Like Dick Grayson, Jason Todd was the son of circus acrobats murdered by a criminal (this time the Batman adversary [[Killer Croc]]), and then adopted by Bruce Wayne. In this incarnation, he was originally red-haired and unfailingly cheerful, and wore his circus costume to fight crime until Dick Grayson presented him with a Robin suit of his own. At that point, he dyed his hair black.
+
+After the miniseries ''[[Crisis on Infinite Earths]]'', much of the [[DC Universe|DC Comics continuity]] was redone. Dick Grayson's origin, years with Batman, and growth into Nightwing remained mostly unchanged; but Todd's character was completely revised. He was now a black-haired street orphan who first encountered Batman when he attempted to steal tires from the [[Batmobile]]. Batman saw to it that he was placed in a school for troubled youths. Weeks later, after Dick Grayson became Nightwing and Todd proved his crime-fighting worth by helping Batman catch a gang of robbers, Batman offered Todd the position as Robin.
+
+Believing that readers never truly bonded with Todd, DC Comics made the controversial decision in 1988 to poll readers using a [[1-900]] number as to whether or not Todd should be killed. The event received more attention in the mainstream media than any other comic book event before it.  Readers voted "yes" by a small margin (5,343 to 5,271) and Todd was subsequently murdered by the [[Joker (character)|Joker]] in the storyline, ''[[Batman: A Death in the Family|A Death in the Family]]'', in which the psychopath beat the youngster severely with a crowbar, and left him to die in a warehouse rigged with a bomb.
+
+Jason Todd later returned as the new [[Red Hood]] (the original alias of the Joker) when he was brought back to life due to reality being altered.  After the continuity changes following [[the New 52]] DC Comics relaunch, Jason becomes a leader of the Outlaws, a superhero team that includes [[Starfire (Koriand'r)|Starfire]] and [[Roy Harper (comics)|Arsenal]] who had spent years with Grayson in the Titans.
+
+===Tim Drake===
+{{main|Tim Drake}}
+[[File:Robin (Tim Drake - circa 1990).png|thumb|left|upright|[[Tim Drake]] in ''[[Batman (comic book)|Batman]]'' #457 (December 1990), showcasing a redesigned Robin costume, art by [[Norm Breyfogle]]]]
+DC Comics was left uncertain about readers' decision to have Jason Todd killed, wondering if readers preferred Batman as a lone vigilante, disliked Todd specifically, or just wanted to see if DC would actually kill off the character. In addition, the [[1989 in film|1989]] ''[[Batman (1989 film)|Batman]]'' film did not feature Robin, giving DC a reason to keep him out of the comic book series for marketing purposes. Regardless, Batman editor [[Dennis O'Neil|Denny O'Neil]] introduced a new Robin. The third Robin, Timothy Drake, first appeared in a flashback in ''Batman'' #436 (1989) as a preadolescent boy, introduced by writer [[Marv Wolfman]], interior penciler [[Pat Broderick]], and inker [[John Beatty (illustrator)|John Beatty]]. Drake's first name was a nod to [[Tim Burton]], director of the 1989 ''[[Batman (1989 film)|Batman]]'' film. The character first donned the Robin costume, and became associated with the third version of Robin, in the acclaimed "A Lonely Place of Dying" sequel storyline, which culminated in issue #442, written by Marv Wolfman with cover art by [[George Pérez]], storyline interior pencils by Pérez, [[Tom Grummett]], as well as [[Jim Aparo]], and inks by [[Mike DeCarlo]]. In addition to establishing Tim Drake as a principal character in ''[[Batman (comic book)|Batman]]'' and ''[[Detective Comics]]'', Lauren R. O'Connor argues that "A Lonely Place of Dying" served as the dénouement of a transition from [[Dick Grayson]]'s "absent sexuality," which earlier incited reader [[Homosexuality in the Batman franchise|interpretations of homosexuality]], to definitive heterosexual presence as a maturation narrative. O'Connor offers multiple examples from this 1989 storyline, such as Drake's encounter with [[Starfire (Teen Titans)|Starfire]] and Grayson's heeding of Drake's concerns over Batman's psychology, to substantiate the notion of a heterosexual ''[[bildungsroman]]'' [[subplot]].<ref>{{cite book |last1=O'Connor |first1=Lauren R. |title=Robin and the Making of American Adolescence |date=2021 |publisher=Rutgers University Press |location=New Brunswick |isbn=9781978819795 |pages=50–54}}</ref>
+
+The ensuing [[Tim Drake]] storylines, authored by the late [[Alan Grant (writer)|Alan Grant]] and penciled by the late [[Norm Breyfogle]], coupled with the 1989 release of Burton's ''[[Batman (1989 film)|Batman]]'', spurred sales of both ''[[Batman (comic book)|Batman]]'' and ''[[Detective Comics]]''. For the latter title, Grant attested in 2007 that "when the ''[[Batman (1989 film)|Batman]]'' movie came out, the sales went up, if I recall correctly, from around 75,000 to about 675,000." 1989-90 was indeed the "Year of the Bat:" Capital and Diamond City Distributors reported that the ''[[Batman: Year One|Year One]]''-inspired ''[[Batman: Legends of the Dark Knight]]'' dominated four out of the five spots for preorders (''not'' total sales and second printings). The only exception was the third preorder spot, snagged by ''Batman'' #442, the conclusion to Tim Drake's "A Lonely Place of Dying" storyline.<ref>{{cite web |title=Comichron: 1989 Comic Book Sales to Comics Shops |url=https://www.comichron.com/monthlycomicssales/1989.html |website=www.comichron.com}}</ref> The "Year of the Bat" continued into the first half of 1990. Preorders for ''Batman'' and ''Detective Comics'' issues featuring a revived [[Joker (character)|Joker]] and [[Penguin (character)|Penguin]] began to compete with, and even edged out, the last three parts of [[Grant Morrison]]'s and [[Klaus Janson]]'s ''[[Batman: Gothic|Gothic]]'' storyline in ''Legends''. [[Todd McFarlane]]'s ''Spider-Man'' arrived in the second half of 1990, inaugurating six months of Spidermania (or Mcfarlamania, depending on the reader).<ref>{{cite web |title=Comichron: 1990 Comic Book Sales to Comics Shops |url=https://www.comichron.com/monthlycomicssales/1990.html |website=www.comichron.com}}</ref> DC closed out 1990 with vendors under-ordering issues, prompting the publisher to push ''Batman'' #457 and the first part of the ''Robin'' mini-series into second and then third printings. The next year, 1991, witnessed the ascension of [[Chris Claremont]]'s, [[Jim Lee]]'s, and [[Scott Williams (comics)|Scott Williams]]'s ''X-Men'' against [[Magneto (Marvel Comics)|Magneto]], as well as [[Fabian Nicieza]]'s and [[Rob Liefeld]]'s ''[[X-Force (comic book)|X-Force]]'', into the top of the preorder rankings. The only exception to this X-mania was, again, Tim Drake and the sequel to the ''Robin'' miniseries, the first variant issue of which garnered the third spot, firmly wedged between variant issues of ''X-Force'' and ''X-Men''. The mini-series pitted solo Robin against the Joker, in response to fan demands for a matchup since "A Death in the Family." The 1990s comic booming bust had begun.<ref>{{cite web |title=Comichron: 1991 Comic Book Sales to Comics Shops |url=https://www.comichron.com/monthlycomicssales/1991.html |website=www.comichron.com}}</ref> In a supplemental interview with Daniel Best, Alan Grant added that "every issue from about that time [after the 'Year of the Bat'] that featured Robin sales went up because Robin did have his own fans." Although both Grant and Breyfogle initially believed that their ''[[Anarky]]'' character could potentially become the third version of Robin, they were quick to support the editorial decision to focus on Drake. The [[Social anarchism|social anarchist]] duo adopted the character as their [[Anarchist economics|own]] in the early 1990s, during Grant's shift to [[libertarian socialism]] but before his late 1990s emphasis on [[Frank R. Wallace|Neo Tech]]. Breyfogle agreed that "it was a big thing to bring in the new Robin, yes. I know my fans often point specifically to that double page splash where his costume first appears as a big event for them as fans and I usually have to point out to them that [[Neal Adams]] was the one who designed the costume. The ‘R’ symbol and the staff were all that was really mine." In the "Rite of Passage" storyline for ''[[Detective Comics]]'', Grant and Breyfogle intertwined 1) Drake matching wits with [[Anarky]]; 2) a criminal and anthropological investigation into an apocryphal [[Haitian Vodou|Haitian ''vodou'']] cult (revealed by Batman, asserting anthropological and investigative authority, as a front for extortion and [[crony capitalism]]); 3) the murder of Drake's mother by vilified cult leaders; 4) the beginning of Drake's [[nightmare disorder|recurrent nightmares]] and [[psychological trauma|trauma]]; as well as 5) the perspective of a child of one of the cult's Haitian followers, unknowingly and inadvertently orphaned by Batman at the end of the four-issue arc.<ref>{{cite journal |last1=Irving |first1=Christopher |title=Gotham City's Other Dynamic Duo |journal=Back Issue |date=June 2007 |volume=1 |issue=22 |pages=18–20 (with Daniel Best interview notes)}}</ref>
+
+Tim Drake eventually transitioned from late preadolescence to adolescence, becoming the third Robin over the course of the storylines "Rite of Passage"<ref>''Detective Comics'' #618-621, July-Sept. 1990</ref> and "Identity Crisis,"<ref>''Batman'' #455-457, Oct.-Dec. 1990</ref> with all issues scripted by Alan Grant and penciled by Norm Breyfogle. Story arcs that included Drake only in [[subplot]]s or featured his training in criminal investigation, such as "Crimesmith"<ref>''Batman'' #443-444, Jan.-Feb. 1990</ref> and "The Penguin Affair,"<ref>''Detective Comics'' #615 and "Batman" #448-49, June 1990</ref> were either written or co-written by Grant and Wolfman, with pencils by Breyfogle, Aparo, and [[M. D. Bright]]. Immediately afterwards, the character starred in the five-issue miniseries ''Robin,''<ref>''Robin'' #1-5, Jan.-May 1991</ref> written by [[Chuck Dixon]], with interior pencils by [[Tom Lyle]] and cover art by [[Brian Bolland]]. The new Batman and Robin team went on their first official mission together in the story "Debut,"<ref>''Batman'' #465</ref> again written by Grant and penciled by Breyfogle. Lauren R. O'Connor contends that, in early Tim Drake appearances, writers such as Grant and [[Chuck Dixon]] "had a lexicon of teenage behavior from which to draw, unlike when Dick Grayson was introduced and the concept of the teenager was still nascent. They wisely mobilized the expected adolescent behaviors of parental conflict, hormonal urges, and identity formation to give Tim emotional depth and complexity, making him a relatable character with boundaries between his two selves." In the ''Robin'' ongoing series, when Drake had fully transitioned into an adolescent character, Chuck Dixon depicted him as engaging in adolescent intimacy, yet still stopped short at overt heterosexual consummation. This narrative benchmark maintained Robin's "estrangement from sex" that began in the Grayson years.<ref>{{cite book |last1=O'Connor |first1=Lauren R. |title=Robin and the Making of American Adolescence |date=2021 |publisher=Rutgers University Press |location=New Brunswick |isbn=9781978819795 |page=54}}</ref> Erica McCrystal likewise observes that Alan Grant, prior to Dixon's series, connected Drake to Batman's philosophy of [[hero|heroic]] or [[Antihero|anti-heroic]] "[[vigilantism]]" as "therapeutic for children of trauma. But this kind of therapy has a delicate integration process." The overcoming of trauma entailed distinct identity intersections and emotional restraint, as well as a "complete understanding" of symbol and self. Bruce Wayne, a former child of trauma, guided "other trauma victims down a path of righteousness." Tim Drake, for example, endured trauma and "emotional duress" as a result of the death of his mother (father in a coma and on a ventilator). Drake contemplated the idea of fear, and overcoming it, in both the "Rite of Passage" and "Identity Crisis" storylines. Grant and Breyfogle subjected Drake to [[nightmare disorder|recurrent nightmares]], from hauntings by a ghoulish Batman to the disquieting lullaby (or informal nursery rhyme), "My Mummy's dead...My Mummy's Dead...I can't get it through my head," echoing across a cemetery for deceased parents. Drake ultimately defeated his own preadolescent fears "somewhat distant from Bruce Wayne" and "not as an orphan." By the end of "Identity Crisis," an adolescent Drake had "proven himself as capable of being a vigilante" by deducing the role of fear in instigating a series of violent crimes.<ref>{{cite book |last1=McCrystal |first1=Erica |title=Gotham City Living: The Social Dynamics in the Batman Comics and Media |date=2021 |publisher=Bloomsbury Academic |location=London, UK |isbn=9781350148895 |pages=36–46}}</ref>
+
+In the comics, Tim Drake was a late preadolescent boy who had followed the adventures of Batman and Robin ever since witnessing the murder of the Flying Graysons. This served to connect Drake to Grayson, establishing a link that DC hoped would help readers accept this new Robin. Drake surmised their secret identities with his amateur but instinctive detective skills and followed their careers closely. Tim stated on numerous occasions that he wishes to become "The World's Greatest Detective", a title currently belonging to the Dark Knight. Batman himself stated that one day Drake will surpass him as a detective. Despite his combat skills not being the match of Grayson's (although there are some similarities, in that they are far superior to Todd's when he was Robin), his detective skills more than make up for this. In addition, Batman supplied him with a new armored costume for his transition to the adolescent Robin.<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |pages=119–122}}</ref>
+
+Tim Drake's first Robin costume had a red torso, yellow stitching and belt, black boots, and green short sleeves, gloves, pants, and domino mask. He wore a cape that was black on the outside and yellow on the inside. This costume had an armored tunic and [[gorget]], an emergency "R" [[shuriken]] on his chest in addition to the traditional [[batarang]]s and a collapsible bo staff as his primary weapon, which Tim Drake continues to use as the superhero [[Red Robin (comics)|Red Robin]]. [[Neal Adams]] redesigned the entire costume with the exception of the "R" shuriken logo, first sketched by Norm Breyfogle.<ref>{{cite web |last1=Sawyer |first1=James |title=Robin Relics: Designing Tim Drake's Robin Costume... |url=http://www.1989batman.com/2014/07/robin-relics-desigining-tim-drakes.html?m=1 |language=en}}</ref>
+
+Tim Drake is the first Robin to have his own comic book series, where he fought crime on his own. Tim Drake, as Robin, co-founded the superhero team [[Young Justice]] in the absence of the [[Teen Titans]] of Dick Grayson's generation, but would then later re-form the Teen Titans after Young Justice disbanded following a massive ''sidekick crossover'' during which Donna Troy was killed. Tim served as leader of this version of the Titans until 2009, at which point he quit due to the events of ''[[Batman R.I.P]].''
+
+Following ''[[Infinite Crisis]]'' and ''52'', Tim Drake modified his costume to favor a mostly red and black color scheme in tribute to his best friend, [[Superboy (Kon-El)]], who died fighting Earth-Prime [[Superman-Prime|Superboy]]. This Robin costume had a red torso, long sleeves, and pants. It also included black gloves and boots, yellow stitching and belt, and a black and yellow cape. Tim Drake continued the motif of a red and black costume when he assumed the role of Red Robin before and during the events of ''[[The New 52]]''.
+
+Tim Drake assumes the identity of the Red Robin after Batman's disappearance following the events of ''[[Final Crisis]]'' and "[[Batman: Battle for the Cowl|Battle for the Cowl]]" and Damian Wayne becoming Grayson's Robin. Following 2011's continuity changes resulting from ''[[The New 52]]'' DC Comics relaunch, history was altered such that Tim Drake never took up the Robin mantle after Jason Todd's death, feeling that it would be inappropriate. Instead, he served as Batman's sidekick under the name of the [[Red Robin (comics)|Red Robin]]. However, in DC's ''[[DC Rebirth|Rebirth]]'' relaunch, his original origin was restored.
+
+===Stephanie Brown===
+[[File:Robin (Stephanie Brown).jpg|right|thumb|upright|Stephanie Brown on the cover of ''Robin 80th Anniversary 100-Page Super Spectacular'' #1 (March 2020), art by Derrick Chew]]
+{{main|Stephanie Brown (character)}}
+Stephanie Brown, [[Tim Drake]]'s girlfriend and the costumed adventurer previously known as the Spoiler, volunteered for the role of Robin upon Tim's resignation. Batman fired the Girl Wonder for not obeying his orders to the letter on two occasions. Stephanie then stole one of Batman's incomplete plans to control Gotham's crime and executed it. Trying to prove her worthiness, Brown inadvertently set off a gang war on the streets of Gotham. While trying to help end the war, Brown was captured and tortured by the lunatic crime boss [[Black Mask (comics)|Black Mask]]. She managed to escape, but apparently died shortly afterwards due to the severity of her injuries. Tim Drake keeps a memorial for her in his cave hideout underneath [[Titans Tower]] in [[San Francisco]]. She appeared alive and stalking Tim, after his return from traveling around the globe with his mentor.<ref>''Robin'' (vol. 4) #172</ref> It turned out that [[Dr. Leslie Thompkins]] had faked Stephanie's death in an effort to protect her.<ref>''Robin'' (vol. 4) #174</ref> For years she operated on and off as the Spoiler, but was then recruited as [[Barbara Gordon]]'s replacement as Batgirl. She had her own series, as well as making appearances throughout various Batman and Batman spin-off series.  Her time as the Spoiler, Robin, and Batgirl was retconned to have never occurred after the ''[[Flashpoint (comics)|Flashpoint]]'' event, with her being reintroduced having just become the Spoiler in ''[[Batman Eternal]]''. However, her history as Robin was later restored.<ref>''Young Justice'' (vol. 3) #5</ref>
+
+===Damian Wayne===
+{{main|Damian Wayne}}
+[[File:Robin (Damian Wayne - circa 2016).png|thumb|left|upright|Damian Wayne on the cover of ''Robin: Son of Batman'' (vol. 1) #8 (January 2016), art by Patrick Gleason]]
+Damian Wayne was the child of [[Bruce Wayne (Batman)|Bruce Wayne]] and [[Talia al Ghul]], thus the grandson of the [[Immortality|immortal]] [[Ra's al Ghul]]. Batman was unaware of his son's existence for years until Talia left Damian in his care. Damian was violent and lacking in discipline and morality, and was trained by the [[League of Assassins]]. Learning to kill at a young age, Damian's murderous behavior created a troubled relationship with his father, who vowed never to take a life.
+
+Originally conceived to become a host for his maternal grandfather's soul as well as a pawn against the Dark Knight, Batman saved his child from this fate, which forced Ra's to inhabit his own son's body, and thus, Damian was affectionate to his father.  After Batman's apparent death during ''[[Final Crisis]]'', Talia left her son under [[Dick Grayson]] and [[Alfred Pennyworth]]'s care and Damian was deeply affected by his father's absence. In the first issue of "Battle for the Cowl", Damian was driving the Batmobile and was attacked by [[Poison Ivy (character)|Poison Ivy]] and [[Killer Croc]]. Damian was rescued by [[Dick Grayson|Nightwing]], who then tries to escape, but was shot down by Black Mask's men. Nightwing tried to fight the thugs, but the thugs were shot by Jason Todd. After a fight between Nightwing and Todd, Todd eventually shot Damian in the chest. In the final issue of the series, Alfred made Damian into Robin. Damian's first task as Robin was to rescue Tim. After "Battle for the Cowl", Grayson adopted the mantle of Batman, and instead of having Tim (who he viewed as an equal rather than a protégé) remain as Robin, he gave the role to Damian, who he felt needed the training that his father would have given him.
+
+Following the ''[[Batman: The Return of Bruce Wayne]]'' and  ''[[Flashpoint (comics)|Flashpoint]]'' events, Bruce Wayne returned to his role as Batman, while Dick resumed as Nightwing. As of ''The New 52'', Damian continued to work with his father, but temporarily gave up being Robin (as his mother had put a price on his head), and went under the identity of Red Bird. Damian met his end at the hands of the Heretic, an aged clone of Damian working for [[Leviathan (DC Comics)|Leviathan]], bravely giving up his life.<ref>''Batman Incorporated'' #8</ref> Despite his status as deceased, Damian starred in his own miniseries, ''Damian: Son of Batman'', written and drawn by [[Andy Kubert]], set in a future where Damian is on the path to become Batman after his father fell victim to a trap set by the Joker.  Batman eventually started a difficult quest to resurrect him, returning Damian to life with [[Darkseid]]'s Chaos Shard.<ref>''Batman and Robin'' (vol. 2) #37 (December 2014)</ref>
+
+==Other versions==
+{{further|Alternative versions of Robin}}
+
+===Bruce Wayne===
+{{see also|Batman}}
+A Batman story from the 1950s featured the young Bruce Wayne assuming the identity of Robin, complete with the original costume, in order to learn the basics of detective work from a famous [[detective]] named Harvey Harris. The purpose of the secret identity was to prevent Harris from learning Wayne's true motivation for approaching him, which could have led to the detective attempting to discourage the boy from pursuing his obsession.<ref>{{Cite comic | writer = [[Edmond Hamilton]] | penciller = [[Dick Sprang]] | inker = [[Charles Paris]] | story = "When Batman Was Robin" | title = [[Detective Comics]] | issue = #226 | date = December 1955| publisher = [[DC Comics]]}}</ref> Though this story remained canonical through most of the 1980s (it was revisited in the three-issue miniseries ''[[The Untold Legend of the Batman]]'' in 1980), it was revised [[Crisis on Infinite Earths|Post-''Crisis'']] to edit out any reference to Bruce Wayne having ever called himself "Robin" or worn any costume before he finally donned his Batman costume as an adult.<ref>{{Cite comic | writer = [[Mark Waid]] | cowriters = [[Brian Augustyn]] | penciller = [[Val Semeiks]] | inker = [[Michael Bair]] | story = "Blood Secrets" | title = Detective Comics Annual | issue = #2 | date = 1989 | publisher = [[DC Comics]]}}</ref> [[John Byrne (comics)|John Byrne]] later worked this aspect into his non-canonical story ''[[Superman & Batman: Generations]]''.
+
+Post-''Crisis'', there was one instance in continuity when Bruce Wayne adopted the Robin persona. In ''Batboy & Robin'', a tie-in special to the DC Comics storyline ''Sins of Youth'', Bruce and Tim Drake, the third Robin, had their ages magically switched. In an effort to keep up the illusion of Batman, Bruce had Tim adopt the Batman identity, while he is forced to be Robin.
+
+===Earth-Two Robin, before ''Crisis on Infinite Earths''===
+[[File:Robin Earth 2.jpg|thumb|upright|The Pre-''Crisis'' Earth-Two Robin]]
+{{Main|Robin (Earth-Two)}}
+{{see also|Crisis on Infinite Earths}}
+
+On [[Earth-Two]], home of the [[Golden Age of Comic Books|Golden Age]] version of DC's superheroes, Dick Grayson continued to be Robin even as an adult, having no successors, and even after [[Batman#Golden Age version|Batman]]'s death. His allies as a boy included the [[All-Star Squadron]], along with [[Batwoman]] and [[Flamebird]].
+
+By the 1960s, Grayson had become an adult, and was a lawyer and the ambassador to [[South Africa]]. He adopted a more Batman-like costume, but still fought crime as Robin. This adult version of Dick Grayson debuted in ''Justice League of America'' #55, where he also became a member of the [[Justice Society of America]]. Although in semi-retirement for a time, he was called back to active duty when he rejoined the Justice Society during the period when he, [[Power Girl]] and the [[Star-Spangled Kid]], assisted them as the Super Squad.
+
+He appeared to have died during the 1985 miniseries ''[[Crisis on Infinite Earths]]'', in which the [[Multiverse (DC Comics)|DC Multiverse]] was reduced to one Universe, and this version of Grayson, as well as the Earth-Two Batman, were deemed never to have existed. The Earth-2 concept was revived and reimagined twice subsequently, following the comic books ''[[52 (comics)|52]]'' (2006–7) and ''[[Flashpoint (comics)|Flashpoint]]'' (2011).
+
+===The Toy Wonder===
+{{see also|DC One Million}}
+In the ''DC One Million'' storyline, members of the [[Justice League of America]] encounter a variety of heroes from the future, including an 853rd-century Batman who patrols the prison planet [[Pluto]]. This version of Batman is accompanied by a robotic Robin who contains a transcribed copy of his own personality from before his parents were murdered by Plutonian criminals.
+
+This Robin (who calls himself "the Toy Wonder") is a member of the [[Young Justice|Justice Legion T]] in addition to serving as a deliberate counterbalance to Batman's dark personality.
+
+===''Elseworlds'' versions===
+{{see also|Alternative versions of Robin#Elseworlds}}
+''Elseworlds'' versions of DC characters are ones that exist in alternate timelines or realities that take place in entirely self-contained continuities. In ''Elseworlds'', Robin has been a German immigrant during World War II named Richart Graustark, Bruce Wayne Jr. (the son of Julia Madison and Bruce Wayne), a genetically enhanced ape named Rodney, a samurai named Tengu, a pirate's cabin boy, a girl traveling via space ship to a far-off colonial planet, Bruce Wayne's nephew Thomas Wayne III, MI-6 agent Alfred Pennyworth, Bruce Wayne's sister during the Reign of Terror in France, and a Native American named Red Bird.
+
+=== Carrie Kelley ===
+{{Main|Carrie Kelley}}
+
+In [[Frank Miller]]'s non-canonical ''[[The Dark Knight Returns]]'', the role of Robin is filled by [[Carrie Kelley]], a 13-year-old girl. She becomes Robin, and is accepted by the Batman after she saves his life. Unlike the previous Robins, Carrie is not an orphan, but she appears to have rather neglectful parents who are never actually depicted (one of them mutters "Didn't we have a kid?" while their daughter is watching the fierce battle between Batman and the Mutants). It is hinted through their dialogue that they were once activists and possibly [[hippie]]s during the 1960s, but have since become apathetic stoners. She was the first female Robin and the first Robin with living parents. In the sequel, ''[[Batman: The Dark Knight Strikes Again]]'', 2001, Carrie dons the identity of '''Catgirl''', but still works as Batman's second-in-command.
+
+She was also featured in an episode of ''[[The New Batman Adventures]]'' entitled "Legends of the Dark Knight". She then appeared in ''[[Batman: The Brave and the Bold]]''{{'s}} episode entitled "Batman Dies At Dawn!" along with Dick Grayson, Jason Todd, Tim Drake, Stephanie Brown, and Damian Wayne. Kelley joined the ''New 52'' DC universe in ''Batman and Robin'' #19, in a story titled ''Batman and Red Robin''.<ref>{{cite web|url=http://www.ign.com/articles/2013/04/05/the-dark-knight-returns-carrie-kelley-is-back|title=The Dark Knight Returns' Carrie Kelley is Back|last=Esposito|first=Joey|date=April 5, 2013|access-date=April 6, 2013}}</ref>
+
+===Talon===
+The Crime Syndicate version of Robin is called '''Talon''' on Earth-3, associate of Owlman. Talon refers to Owlman as his father; whether he is the biological son of Thomas Wayne II or an alternate version of Jason Todd or Tim Drake is unknown. Talon first appeared in ''[[Teen Titans]]'' #32 (March 2006).<ref>''Teen Titans Vol 3'' #38</ref>
+
+===''52'' Multiverse===
+In the final issue of ''[[52 (comics)|52]]'', a new Multiverse is revealed, originally consisting of 52 identical realities. Among the parallel realities shown is one designated "[[Earth-Two|Earth-2]]". As a result of [[Mister Mind]] "eating" aspects of this reality, it takes on visual aspects similar to the Pre-''Crisis'' Earth-2, including Robin, among other Justice Society of America characters.<ref>{{Cite comic | title=[[52 (comics)|52]] | issue=52 | date=May 2, 2007 | publisher=DC Comics | page=13 | panel=3}}</ref> Based on comments by [[Grant Morrison]], this alternate universe is not the pre-Crisis Earth-2.<ref>{{cite web | url=http://forum.newsarama.com/showthread.php?t=111900 | title=The ''52'' Exit Interviews: Grant Morrison | access-date=May 12, 2007 | last=Brady | first=Matt | date=May 8, 2007 | work=[[Newsarama]] | url-status=dead | archive-url=https://web.archive.org/web/20070510010101/http://forum.newsarama.com/showthread.php?t%3D111900| archive-date=May 10, 2007 }}</ref> However, in ''Justice Society of America Annual'' #1, published in 2008, the [[Hector Hall|Silver Scarab]] explains that the events of the Crisis are remembered by the people of this Earth-2, and from ''their'' perspective, Earth-2 seemed to be the only Earth to have survived the Crisis, raising theories as to whether or not Earth-2 was really destroyed, or was perhaps replaced by a new Earth-2.  Indeed, in ''Justice Society of America'' #20, published in December 2008, Starman explains that during the re-expansion of the [[Multiverse (DC Comics)|DC Multiverse]], Earth-2 was reborn "along with everyone on it", including Robin.
+
+Following ''[[Flashpoint (comics)|Flashpoint]]'' (2011) and ''[[The New 52]]'' reboot, this Earth is replaced by another reimagining of Earth 2, one where Batman's daughter Helena Wayne served as Robin until an incident five years prior to the relaunch sent her to DC's primary continuity, Earth-0, where she works as the Huntress. The 2014 series ''Earth 2: World's End'' establishes that Dick Grayson never served as Robin on this Earth, and was instead a reporter who married Barbara Gordon and had a son. During [[Darkseid]]'s invasion of Earth 2, Barbara is killed, and Dick is trained in how to fight by [[Wildcat (DC Comics)|Ted Grant]] and goes on a mission to find his missing son.
+{{Clear}}
+
+==''Robin'' monthlies==
+The first ''Robin'' miniseries was printed in 1992 following Tim Drake's debut as Robin. The series centered around Tim's continued training and set up villains linked to the character. It was followed up by another series ''Robin II: The Joker's Wild!'', which pitted Tim against his predecessor's murderer the [[Joker (character)|Joker]]. With Batman out of town, it was up to Tim and Alfred to end the Joker's latest crime spree. A final miniseries, ''Robin III: Cry of the Huntress'' wrapped up the trilogy, teaming Tim with the [[Huntress (comics)|Huntress]]. In 1993, the success of the three miniseries led to the ongoing ''Robin'' series, which ran 183 issues until 2009. The title was replaced by a ''Batman and Robin'' series following the ''Battle for the Cowl'' miniseries, as well as an ongoing ''Red Robin'' monthly which continues the story of Tim Drake.
+
+The ongoing ''Robin'' series has taken part in a number of crossovers with other comics, especially ''Batman'' and related series. These include:
+* ''Robin'' (vol. 4) #7: [[Batman: Knightfall#"The Search"|Knightquest: The Search]]
+* ''Robin'' (vol. 4) #8: [[Batman: Knightfall#"KnightsEnd"|KnightsEnd]]
+* ''Robin'' (vol. 4) #9: [[Batman: Knightfall#"KnightsEnd: Aftermath"|KnightsEnd: Aftermath]]
+* ''Robin'' (vol. 4) #11–13: [[Batman: Knightfall#"Prodigal"|Prodigal]]
+* ''Robin'' (vol. 4) #14: [[Batman: Knightfall#"Troika"|Troika]]
+* ''Robin'' (vol. 4) #27–28: [[Batman: Contagion]]
+* ''Robin'' (vol. 4) #32–33: [[Batman: Legacy]]
+* ''Robin'' (vol. 4) #52–53: [[Batman: Cataclysm]]
+* ''Robin'' (vol. 4) #67–73: [[No Man's Land (comics)|Batman: No Man's Land]]
+* ''Robin'' (vol. 4) #86: Batman: Officer Down
+* ''Robin'' (vol. 4) #95: [[Last Laugh (comics)|Joker: Last Laugh]]
+* ''Robin'' (vol. 4) #98–99: [[Bruce Wayne: Murderer?]]
+* ''Robin'' (vol. 4) #129–131: [[Batman: War Games]]
+* ''Robin'' (vol. 4) #168–169: [[The Resurrection of Ra's al Ghul]]
+* ''Robin'' (vol. 4) #175–176: [[Batman R.I.P.]]
+
+In addition, two Robin-related series launched in June 2015: ''[[We Are Robin (comic book)|We Are Robin]]'', featuring writer [[Lee Bermejo]] and artists Rob Haynes and [[Khary Randolph]], and detailing multiple teenagers in Gotham who take up the mantle of Robin; and ''Robin, Son of Batman'', written and drawn by [[Patrick Gleason (artist)|Patrick Gleason]], showing the individual adventures of Damian Wayne.
+
+==Reception==
+According to ''[[Entertainment Weekly]]'' in 2008, Robin is one of the "greatest sidekicks".<ref>{{Cite magazine | last=Schott | first=Ben | title=Schott's Miscellany Calendar 2009 | magazine=[[Entertainment Weekly]] | location=New York | publisher=Workman Publishing | date=March 21, 2008}}</ref>
+
+==Portrayals==
+{{see also|Robin in other media}}
+Robin (Dick Grayson) was portrayed by [[Douglas Croft]] and [[Johnny Duncan (actor)|Johnny Duncan]], respectively, in the [[Batman (serial)|1943]] and [[Batman and Robin (serial)|1949]] fifteen chapter ''Batman'' serials. [[Burt Ward]] played him in the 1966–1968 ''[[Batman (TV series)|Batman]]'' television series and the [[Batman (1966 film)|related 1966 film]]. In the live-action movies ''[[Batman Forever]]'' and ''[[Batman & Robin (film)|Batman & Robin]]'', he was played by [[Chris O'Donnell]]. [[Michael Cera]] voiced the character in ''[[The Lego Batman Movie]]''.
+
+The Dick Grayson version of Robin also appears in ''[[Batman: The Animated Series]]'', voiced by [[Loren Lester]]. Grayson is replaced by Tim Drake, played by [[Mathew Valencia]], in the subsequent series ''[[The New Batman Adventures]]''.
+
+An older version of Robin (Dick Grayson) is portrayed by [[Brenton Thwaites]] in the live action series ''[[Titans (2018 TV series)|Titans]].''
+
+The animated series ''[[Teen Titans (TV series)|Teen Titans]]'' features Robin (voiced by [[Scott Menville]]) as the leader of a team of young heroes; it is hinted in several episodes that this Robin is Dick Grayson. In the season two episode  "Fractured", a version of Bat-Mite is introduced who claims to be Robin's "DNA buddy" (genetic twin).  Bat-Mite gives his name as Nosyarg Kcid ("Dick Grayson" spelled backwards). In another episode, Raven reads Robin's mind and sees a man and a woman falling from a trapeze (an event known only to have happened to Grayson and not to any other Robin). In another episode, Starfire travels to the future and discovers that Robin has taken the identity of Nightwing. Menville reprises his role as Robin in ''[[Teen Titans Go!]]''. The second-season episode "The Best Robin" introduces Carrie Kelly and Tim Drake as their Robins. They are also voiced by Menville.
+
+Robin is also seen in the 1987 [[Zeller's]] commercial, which features the infamous catchphrase, "Well said, Robin!".
+
+Dick Grayson is Robin in ''[[Young Justice (TV series)|Young Justice]]'', voiced by Jesse McCartney. In the second season, Grayson has become Nightwing, while Tim Drake, voiced by Cameron Bowen, is the new Robin, succeeding Jason Todd, who is already dead by the start of the season.
+
+Robin is portrayed by Nick Lang in ''[[Holy Musical B@man!]]''. His portrayal is based mainly on Burt Ward's Dick Grayson.
+
+==Collected editions==
+
+{| class="wikitable" width="100%"
+|-
+! width="25%" | Title
+! width="35%" | Material collected
+! width="5%" | Pages
+! width="15%" | Publication date
+! width="20%" | ISBN
+|-
+| ''Robin Vol. 1: Reborn''
+| ''Batman'' #455–457; ''Detective Comics'' #618–621; ''Robin'' #1–5
+| 296
+| November 10, 2015
+| Paperback: {{ISBNT|978-1401258573}}
+|-
+| ''Robin Vol. 2: Triumphant''
+| ''Batman'' #465, 467–469; ''Robin II: The Joker's Wild!'' #1–4; ''Robin III: Cry of the Huntress'' #1–6
+| 360
+| March 22, 2016
+| Paperback: {{ISBNT|978-1401260897}}
+|-
+| ''Robin Vol. 3: Solo''
+| ''Robin'' (vol. 4) #1–5; ''Robin Annual'' #1–2; ''Showcase '93'' #5–6, 11–12
+| 328
+| December 6, 2016
+| Paperback: {{ISBNT|978-1401263621}}
+|-
+| ''Robin Vol. 4: Turning Point''
+| ''Robin'' (vol. 4) #6–13; ''Showcase '94'' #5–6
+| 264
+| July 25, 2017
+| Paperback: {{ISBNT|978-1401265878}}
+|-
+| ''Robin Vol. 5: War of the Dragons''
+| ''Robin'' (vol. 4) #14–22; ''Robin Annual'' #3; ''Detective Comics'' #685–686
+| 328
+| January 2, 2018
+| Paperback: {{ISBNT|978-1401275129}}
+|-
+| ''Robin: Son of Batman Vol. 1: Year of Blood''
+| ''Robin: Son of Batman'' #1–6
+| 176
+| March 29, 2016
+| Hardcover: {{ISBNT|978-1401261559}}<br>Paperback: {{ISBNT|978-1401264796}}
+|}
+
+==See also==
+* [[Homosexuality in the Batman franchise]]
+* [["Holy..."|List of exclamations by Robin]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.dccomics.com/characters/robin Robin] at DC Comics' official website
+* [https://web.archive.org/web/20170216220040/http://www.imdb.com/character/ch0000216/ Robin] on [[IMDb]]
+* [https://web.archive.org/web/20070208084327/http://www.titanstower.com/source/whoswho/nightwing.html Extensive biography on Dick Grayson]
+* [https://web.archive.org/web/20110211052930/http://titanstower.com/source/whoswho/robin2.html Extensive biography on Jason Todd]
+*[http://www.titanstower.com/source/whoswho/robin3.html Extensive biography on Tim Drake]
+*{{DCdatabase|Robin}}
+{{Robin}}
+{{Dick Grayson}}
+{{Batman characters}}
+{{Justice League characters}}
+{{GoldenAge}}
+{{Authority control}}
+
+{{DEFAULTSORT:Robin (Comics)}}
+[[Category:Articles about multiple fictional characters]]
+[[Category:Batman characters code names]]
+[[Category:Characters created by Bill Finger]]
+[[Category:Characters created by Bob Kane]]
+[[Category:Characters created by Jerry Robinson]]
+[[Category:DC Comics sidekicks]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics child superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics orphans]]
+[[Category:Fictional detectives]]
+[[Category:Robin (character)| ]]
+[[Category:Superheroes who are adopted]]
+[[Category:Teenage characters in comics]]
+[[Category:Teenage superheroes]]
+[[Category:Vigilante characters in comics]]

@@ -1,0 +1,152 @@
+{{short description|None}}
+
+This is a list of ''[[Black Panther (character)|Black Panther]]'' supporting characters.
+{{TOC limit|3}}
+
+==Family tree of T'challa==
+{{chart top|[[Black Panther (character)|''Black Panther'']] family tree}}
+{{Tree chart/start|style=font: 100% sans-serif;|align=center}}
+{{Tree chart| | | | | | | | | | | | | | | | |MLION| |ASHKE
+              |MLION=[[Black Panther (character)#Black Panther 1,000,000 B.C.|The Black Panther<br>of 1,000,000 BC]]
+              |ASHKE=Ashake of Egypt}}
+{{Tree chart| | | | | | | | | | | | | | | | | |!| | | |!}}
+{{Tree chart| | | | | | | | | | | | | | | | |UNKWN| |AYSHE
+              |UNKWN=Unknown number of generations
+              |AYSHE=Ayesha of Balobedu}}
+{{Tree chart| | | | | | | | | | | | | | | | | |!| | | |!}}
+{{Tree chart| | | | | | | | | | | | | | | | |BSHNG| |ASHKE
+              |BSHNG=[[Black Panther (character)#Bashenga|Bashenga<br>{{small|Black Panther}}]]
+              |ASHKE=Ashake of Meroë}}
+{{Tree chart| | | | | | | | | | | | | | | | | |!| | | |!}}
+{{Tree chart| | | | | | | | | | | | | | | | |UNKWN| |UNKWN
+              |UNKWN=Unknown number of generations}}
+{{Tree chart| | | | | | | | | | | | | | | | | |!| | | |!}}
+{{Tree chart| | | | | | | | | | | | |NANLI|y|ACTWS| |QUNOK| |ACHMD|V|AINET
+              |NANLI=Nanali
+              |ACTWS=[[Black Panther (character)#Chanda (Azzuri)|Azzuri T'Chanda the Wise<br>{{small|Black Panther}}]]
+              |QUNOK=[[Queen regnant|Queen]] of [[Kenya]]
+              |ACHMD=Achmed El-Gibar
+              |AINET=Ainet}}
+{{Tree chart| |,|-|v|-|-|-|-|-|v|-|-|-|-|-|'| |,|-|-|-|(| | | | | |:}}
+{{Tree chart|WRMCH|!|SNSBR|y|TONYS|y|PEPPR| |SHTNI| |NDARE|y|ARNO1|:
+              |WRMCH=[[Black Panther (character)#S'Yan|S'Yan the Fast<br>{{small|Black Panther}}]]
+              |SNSBR=Ramonda
+              |TONYS=[[T'Chaka|T'Chaka<br>{{small|Black Panther}}]]
+              |PEPPR=N'Yami
+              |SHTNI=Colonel Shetani
+              |NDARE=N'Dare Munroe
+              |ARNO1=David Munroe}}
+{{Tree chart| |!| |!| |,|-|l3| |!| |`|-|j|-|-|-|j|-|-|-|.| |`|-|.|F|J}}
+{{Tree chart|TSHAN|!|SHURI|:|JKRRA| |HNTWW| |DORAM|~|TCHLA|y|ORORO
+              |TSHAN=T'Shan<br>{{small|The Cannibal}}
+              |SHURI=[[Shuri (character)|Shuri<br>{{small|Black Panther}}]]
+              |JKRRA=Jakarra
+              |HNTWW=[[List of Marvel Comics characters: W#White Wolf|Hunter<br>{{small|The White Wolf}}]]
+              |DORAM=[[Dora Milaje]]
+              |TCHLA=[[Black Panther (character)|T'Challa Haramu-Fal<br>{{small|Black Panther}}]]
+              |ORORO=[[Storm (Marvel Comics)|Ororo Iquadi Munroe<br>{{small|Storm}}]]
+              |KKCWT=[[White Tiger (Kasper Cole)|Kevin "Kasper" Cole<br>{{small|Black Panther}}]] {{small|/ [[White Tiger (comics)|White Tiger]]}}}}
+{{Tree chart| | | |!| |F|~|%|~|V|~|V|~|V|~|V|~|%|~|~|~|J| |!}}
+{{Tree chart| | | |!|CEAAD|:|NAKIA|:|OKOYE|:|IRONH|~|~|~|NKANG
+              |CEAAD=[[Dora Milaje#Members|Queen Divine Justice<br>{{small|Ce'Athauna Asira Davin}}]]
+              |NAKIA=[[Malice (comics)#Malice (Nakia)|Nakia Shauku<br>{{small|Malice}}]]
+              |OKOYE=[[Okoye (character)|Okoye]]
+              |IRONH=[[Venomverse|Ngozi<br>{{small|Black Panther}}]]
+              |NKANG=[[List of Black Panther supporting characters#Allies|Azari T'Challa T'Chaka<br>{{small|Black Panther}}]]}}
+{{Tree chart| | | |)|-|.| |:| | | |D|~|V|~|%|~|V|~|7}}
+{{Tree chart| | |NJOBU|!|ANEKA| |AYODM|:|XLSWA|:|NREMA
+              |NJOBU=[[Black Panther (film)#Cast|N'Jobu]]{{small|{{refn|group=n|name=MCU}}}}
+              |ANEKA=[[Dora Milaje#Members|Aneka]]
+              |AYODM=[[Dora Milaje#Members|Ayo]]
+              |XLSWA=[[Black Panther (film)#Cast|Xoliswa]]{{small|{{refn|group=n|name=MCU}}}}
+              |NREMA=[[Dora Milaje#Members|Nareema]]}}
+{{Tree chart| | | |!| |`|-|.| | | |F|~|A|~|V|~|A|~|7}}
+{{Tree chart| | |NJOBU| |MBAKU| |ZOLAD| |MYRAD| |TEELA
+              |NJOBU=[[Erik Killmonger|N'Jadaka<br>{{small|Erik Killmonger / Black Panther}}]]{{small|{{refn|group=n|name=MCU}}}}
+              |MBAKU=[[Man-Ape#Ultimate Marvel|M'Baku<br>{{small|Man-Ape}}]]{{small|{{refn|group=n|name=Ultimate}}}}
+              |ZOLAD=[[Dora Milaje#Members|Zola]]
+              |MYRAD=[[Dora Milaje#Members|M'yra]]
+              |TEELA=[[Dora Milaje#Members|Teela]]}}
+{{Tree chart/end}}
+|-
+|style="text-align: left;"|'''Notes:'''
+{{reflist|group=n|refs=
+{{refn|group=n|name=MCU|In the [[Continuity (fiction)|continuity]] of the [[Marvel Cinematic Universe]] only.}}
+{{refn|group=n|name=Ultimate|In the [[Continuity (fiction)|continuity]] of the [[Ultimate Marvel]] [[Imprint (trade name)|imprint]] only.}}
+}}
+{{Chart bottom}}
+
+===Immediate Family===
+* '''[[T'Chaka]]''': T'Challa's father and former King of [[Wakanda]]. He was killed by Ulysses Klaw.
+* '''N'Yami ''': T'Challa's mother marries her husband T'Chaka for Bast's approval until she fell ill and died from childbirth.
+* '''[[Ramonda (comics)|Ramonda]]''': T'Challa's caring stepmother and biological mother of Shuri.
+* '''[[Shuri (character)|Shuri]]''': T'Challa's half-sister and Ramonda's biological daughter.
+* '''[[S'Yan]]''': T'Challa's uncle and T'Chaka's brother. He was later killed by Doctor Doom's soldiers.
+* '''Azari''': Son of Black Panther and Storm and future Black Panther from the Earth-555326 timeline.
+
+===Black Panthers===
+These are the known Black Panthers besides T'Challa:
+* ''' The Black Panther of 1,000,000 BC/Mosi''': The first Black Panther chosen by Bast and T'Challa's ancestor who survived the heart-shaped herb's fatally. He joins the Avengers of 1,000,000 BC to fight against outside threats such as the celestials, the broods, and demons until he died from his wounds. His death causes the panther tribes to live in isolation from the outside world.
+* '''[[T'Chaka]]''': he took the role of Black Panther after he succeeded his father Azzuri The Wise who dedicate his role to protecting [[Wakanda]]. He was killed by Ulysses Klaw.
+* '''S'Yan''': He took up his role as Black Panther after his brother was killed and chose to concede the throne to his nephew.
+* '''[[Shuri (comics)|Shuri]]''': She has taken up the role of Black Panther and is currently the ruler of Wakanda after T'Challa was badly injured by [[Doctor Doom]].
+* '''Olumo Bashenga''': T'Challa's paternal ancestor. After being granted powers from Bast and serving as a Shaman, he becomes the second known Black Panther who founded the panther cult, establishing a sovereign country and anointed himself as Wakandan's first king after discovering the mounds of Vibranium.
+* '''Azzuri The Wise/Chanda''': T'Challa's grandfather and T'Chaka's predecessor. He is well known for easily outmatching his ally [[Captain America]] and repelling Nazi super-powered invasion forces from their invasion during World War II. Unlike his grandson, Azzuri is more hostile and suspicious of the outside world.
+* '''Mamadou Fall''': One of T'Challa's ancestors and one of the many carriers of the generations-old mantle of the Black Panther.
+* '''Nehanda''': One of T'Challa's ancestors who took the role of Black Panther during the 11th century.
+
+==Love interests==
+* '''Monica Lynne''': A singer who saved T'Challa from drowning after being bested by Killmonger. His longest love interest, to whom he pledged eternal devotion. They later drifted apart though Lynne was genuinely saddened to hear that T'Challa was marrying Storm. She later died from cancer, but not before seeing her former lover one final time.
+* '''[[Storm (Marvel Comics)|Storm]]''': Ororo Iqadi T'Challa (née Munroe), a member of the [[X-Men]]; she was the Black Panther's [[wife]] and Queen of Wakanda but the marriage was later annulled after [[Avengers vs. X-Men|Namor attacks Wakanda]].
+
+==Supporting Characters==
+* '''Abner Little''': A shrewd businessman and negotiator who aids T'Challa on his quest to recover the mystery of King Solomon's Golden Frogs and his treasures. They later reunite while confronting Zanda for her possession of the frog.
+* '''[[Bast (Marvel Comics)|Bast]]''': A [[Heliopolitan]] who is known as the Panther God by Wakandans. She was responsible for creating the Black Panther royal lineage and Wakandan monarchy, following the discovery of the Heart-shaped herb and mounds of vibranium. She also formed the Wakandan Pantheons known as the Orisha after banishing the Originators into the Neither-realms. She tests T'Challa's leadership after taking his enhanced powers and abilities.
+* '''Changamire''': A former Wakandan philosopher and T'Challa's tutor who was exiled for teaching anti-monarchy which inspires Tetu to commit terrorism. As a pacifist who opposes violence, he later serves as a scholar and later conceded that T'Challa is less tyrannical than he would've expected.
+* '''[[Dora Milaje]]''': A group of warrior women who are served as Black Panther's professional bodyguards.
+* '''[[Everett K. Ross]]''': A [[U.S. State Department]] employee, whose job was to escort foreign diplomats onto American soil. His world changed forever when he was assigned to [[T'Challa]], the Black Panther, the ruler of Wakanda.
+* '''Midnight Angels''': The subgroup of Dora Milaje established their name as a strike force under Shuri's leadership. Having lost faith in T'Challa's leadership, their leader Ayo and Aneka formed their own independence to help fight against Women's persecution from corrupted men.
+* '''N'Gassi''': T'Challa's former adviser and acting regent when T'Challa departs Wakanda for other missions.
+* '''[[Okoye (comics)|Okoye]]''': One of the former ''[[Dora Milaje]]'', a ceremonial betrothed/bodyguard of T'Challa. Okoye is of the J'Kuwali tribe and acted as a traditional, proper concomitant to the king, speaking only to the king and only in [[Hausa language|Hausa]], an African language widely spoken in Wakanda and thus affording the king and his wives a measure of privacy.
+* '''Queen Divine Justice''': Ce'Athauna Asira Davin is the street-smart queen of the Jabari tribe of Wakanda raised in [[Chicago]], and former ''Dora Milaje'' of T'Challa. She originally went by the name Chanté Giovanni Brown.<ref>{{cite web|url=http://www.marvel.com/universe/Queen_Divine_Justice |title=Queen Divine Justice – Marvel Universe: The definitive online source for Marvel super hero bios |publisher=Marvel.com |date=June 23, 2006 |accessdate=January 6, 2011}}</ref>
+* '''[[W'Kabi]]''': T'Challa's competent second-in-command, completely loyal to his liege.
+* '''[[Zuri (character)|Zuri]]''': A grumpy and gigantic elderly warrior. A close friend of the late T'Chaka, and one of T'Challa's most trusted advisers.
+
+==Allies==
+
+* '''[[Avengers (comics)|Avengers]]''': T'Challa joins the team after rescuing them from the [[Grim Reaper (Marvel Comics)|Grim Reaper]] and requires their help to reclaim his rightful throne. He occasionally departs the team for his responsibility of protecting Wakanda from outside threats as king before rejoining them. T'Challa is best known as the first black superhero to join the team and be recognized as one of the best-known rosters.
+* '''[[Fantastic Four]]''': T'Challa tests the Fantastic Four for their skills and respected them as friends after defeating Klaw and Doctor Doom.
+* '''[[Gentle (character)|Gentle]]''': A Wakandan mutant with the ability to gain enhanced strength via a temporary increase of his muscle mass. He was shunned and outcasted by his people, including his mother, because of his father who is an outsider. Unlike other Wakandans, T'Challa has shown sympathy for his condition and secretly entrusted him to work as his sleeper agent.
+* '''[[Illuminati (comics)|Illuminati]]''': A secret society who tend to make difficult decision. During their formation, T'Challa refuses to join them because of his distrust of their self-righteous attitude and lack of consequence. He was later forced to join them because of the multiversal colliding.
+* '''[[Spider-man]]''': A New York superhero with spider powers.
+* '''[[White Tiger (Kasper Cole)|White Tiger]]''': A former NYPD cop and a vigilante who adopted the moniker of Black Panther and later the White Tiger to fight against crime. T'Challa contact him for his help in exchange for his training and was respected as his ally.
+
+==Enemies==
+* '''[[Achebe (comics)|Achebe]]''' (later known as '''Reverend Achebe'''): A poor farmer somewhere in [[South Africa]], Achebe sold his soul to the demon [[Mephisto (comics)|Mephisto]]. He is portrayed as a grinning, unpredictable, lunatic, warrior-mystic, regularly talking to his hand-puppet Daki with delusions that it is truly alive.
+*'''Desturi''': A group of xenophobic conservation criminal organization who prefers to live the old tradition of isolation. With Doctor Doom's aid, they successfully overthrow the Wakandan throne forcing T'Challa to retake the throne with the help of X-men and Dora Milaje.
+* '''[[Doctor Doom]]''': the archenemy of [[Fantastic Four]] and the ruler of [[Latvaria]]. He plays his role by implanting the nanites on Wakandans for infiltration and manipulating the Desturi into taking over Wakanda and seeking to take Vibranium for himself resulting in DoomWar.
+* '''[[Erik Killmonger]]''': A powerful warrior and strategic genius in politics and economics.
+* '''Jakarra''': T'Challa's half-brother. He was a military general who sought to take over the Wakandan throne as the rightful king. During his attempted coup, he transforms into a mutated monster when he accidentally exposed himself to the amount of Vibranium.
+* ''' Kiber the Cruel''': A scientist who gained the ability to absorb the psionic consciousness/life forces of human beings.
+* '''[[Klaw (Marvel Comics)|Klaw]]''': Murderer and betrayer of T'Chaka and archenemy of T'Challa who can control sound.
+* '''[[Kraven the Hunter]]''': A hunter who has fought Black Panther on occasion.
+* '''[[Malice (comics)#Malice|Malice]]''': A Wakandan mutate with superhuman strength, speed, and agility. She is a former Dora Milaje (ceremonial betrothed/bodyguard) of T'Challa.
+* '''[[Man-Ape]]''': Ruler of the Jabari Tribe, a recognized [[micronation]] within Wakanda's borders. Founding member of the "Pan African Congress on the Treatment of Superhumans".
+* '''[[Namor]]''': Namor the Sub-Mariner is the ruler of undersea Atlantis. Black Panther has a long-time rivalry with Namor. After being possessed by the Phoenix Force, Namor was responsible for releasing tsunami waves resulting in the destruction of Wakandan Areas which causes a strained relationship between them.
+* '''[[Venomm]]''': A man who can control the behavior of snakes through training, chemicals, and apparently some form of psionic influence
+* '''[[List of Marvel Comics characters: Z#Princess Zanda|Princess Zanda]]''': Zanda was the ruler of the African nation of Narobia and the potential love interest of T'Challa.
+* '''[[White Wolf (comics)|White Wolf]]''': T'Challa's adopted elder brother and the former leader of the ''Hatut Zeraze'', the espionage elite police of Wakanda.
+* '''Windeagle''': A villain who wears an anti-gravity costume which enabled him to fly and glide on wind currents.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=372}}</ref>
+* '''[[Tetu (comics)|Tetu]]''': An exiled Wakandan and a rebel leader of the Nigandan army with powers of nature manipulation. Tetu is an anti-monarchist whose goal is to overthrow the Wakandan monarchy and sought to liberate Wakanda as a nation without rulers.
+* '''[[Zenzi (comics)|Zenzi]]''': A Wakandan empath originates from Niganda with powers of mind manipulation. Zenzi possesses the ability to read and control the emotions of others like bringing out the anger of fellow Wakandans. She supports Tetu's goal of overthrowing T'Challa and later became Bast's new host.
+
+==References==
+{{Reflist}}
+
+{{Black Panther}}
+
+[[Category:Black Panther (Marvel Comics) characters| ]]
+[[Category:Black Panther (Marvel Comics) lists|Characters]]
+[[Category:Lists of fictional superhuman characters|Black Panther]]
+[[Category:Lists of Marvel Comics characters|Black Panther]]
+[[Category:Lists of supporting characters in comics]]

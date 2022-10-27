@@ -1,0 +1,74 @@
+{{short description|Fictional comic book characters}}
+{{Distinguish|Eternals (comics)}}
+{{other uses|External (disambiguation)}}
+{{Multiple issues|
+{{notability|date=June 2018}}
+{{in-universe|date=June 2018}}
+}}
+
+{{Infobox comics species
+<!--Wikipedia:WikiProject Comics-->
+<!-- |species   = Externals -->
+|image = <!-- filename format only -->
+|imagesize = <!-- default 250 -->
+|caption =
+|publisher = [[Marvel Comics]]
+|debut = ''[[X-Force]]'' #10
+|debutmo = May
+|debutyr = 1992
+|creators = [[Rob Liefeld]]<br />[[Fabian Nicieza]]<br />[[Mark Pacella]]
+|deities =
+|homeworld =
+|members = [[Absalom (comics)|Absalom]]<br />[[Burke (comics)|Burke]]<br />[[Candra (comics)|Candra]]<br />[[Crule (comics)|Crule]]<br />[[Gideon (comics)|Gideon]]<br />[[Nicodemus (comics)|Nicodemus]]<br />[[Saul (comics)|Saul]]<br />[[Selene (comics)|Selene]]<br />[[Apocalypse (comics)|Apocalypse]] <br />[[White Sword (comics)|White Sword]]
+|powers = Immortality, Rebirth, Postmortem Power Absorption, Varies
+|subcat = Marvel Comics
+|sortkey = Externals
+|mutant = y
+}}
+'''The Externals''' are a group of fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. Considered a rare subspecies of [[Mutant (Marvel Comics)|mutants]], most of them were [[X-Men]] [[antagonist]]s.  The original, unused name for the group was to be The Prophets, as seen on the back of the Sunspot & Gideon trading card included with X-Force #1. The characters first appeared in ''[[X-Force]]'' #10 (May 1992).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=127}}</ref>
+
+==Background==
+The Externals are all mutants with the additional gift of [[immortality]] and, as expressed by [[Cable (comics)|Cable]], they play an important role in the future and [[Apocalypse (comics)|Apocalypse]]'s rise to power.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=259}}</ref> Their true origins are scattered throughout history, but its known that they all share a psychic-link with each other that separates them from other immortals as it allows them to not only sense each other and where, but allows them to summon each other at will from great distances and also allows them to sense when one rises from the dead and when one is killed. Saul, Absalom, Gideon, Nicodemus, Burke, Selene, Candra and Crule (to a lesser extent) formed the self-fashioned "High Lords", bent on playing power games and manipulating events behind the scenes. Crule was employed as an enforcer and assassin for the other High Lords, while Candra and Selene preferred to play their own schemes separately and didn't take any part on the High Lords gatherings.
+
+Each External was claimed to represent an intangible concept:<ref>''X-Force'' #36–37</ref>
+* [[Absalom (comics)|Absalom]] - [[Wikt:despair|despair]] 
+* Burke - [[courage|fortitude]] 
+* [[Candra (comics)|Candra]] - [[Wikt:guile|guile]] 
+* [[Cannonball (comics)|Cannonball]] - [[hope]] (His status as an External is still unclear, while his awakening was felt by all the other Externals, Selene and more recently Cable, had stated that Cannonball is not an External)<ref>''X-Force'' #10</ref><ref>''X-Force'' #54</ref><ref>''Cable'' #151</ref>
+* [[Crule (comics)|Crule]] - [[violence|ferocity]] 
+* [[Gideon (comics)|Gideon]] - [[Wikt:opportunity|opportunity]]
+* Nicodemus - [[wisdom]] 
+* [[Saul (comics)|Saul]] - [[patience]]
+* [[Selene (comics)|Selene]] - [[Wikt:corruption|corruption]] 
+* [[Apocalypse (comics)|Apocalypse]] - [[Wikt:evolution|evolution]]
+
+At one point, X-Men regular and former [[New Mutants|New Mutant]] [[Cannonball (comics)|Cannonball]] was declared an External by Cable.<ref>''X-Force'' #8</ref> Later, Selene betrayed her fellow Externals<ref>''X-Force'' #52</ref> and despite the efforts of X-Force, she managed to slay them by absorbing their life forces.<ref>''X-Force'' #53</ref> Selene ultimately escaped, but not before summarily dismissing the assumption that Cannonball was an External, calling into question Cable's conclusion and the reasons for it.<ref>''X-Force'' #54</ref> Yet, more recently, Cannonball was shot three times through the chest by [[William Stryker|Reverend Stryker's]] [[Purifiers (comics)|Purifiers]], and was back up and around in a matter of hours. When asked about it, Hank McCoy mentioned Cannonball's status as an immortal again, though it's not sure if he was joking or not.<ref>''New X-Men'' vol. 2 #28</ref> [[Apocalypse (comics)|Apocalypse]] has also been referred to as an External on several occasions; his [[longevity]] is believed by Selene to be mostly due to technological means, although Apocalypse was already many centuries old before his first encounter with the technology he would later integrate himself with. To note, Selene herself needs to maintain her supply of life force that she drains from human victims.
+
+More recently however it was revealed that all Externals previously believed to have been killed by Selene or the Legacy Virus had in fact survived.<ref>''Cable'' #150</ref> As it turns out, apparently the only way of effectively killing an External is by destroying their hearts<ref>''Cable'' #151</ref> but when that happens the life-force of the slain External is channeled into the others making them virtually all powerful.<ref>''Cable'' #154</ref> Selene reveals she didn't accomplishing this deed herself because she could not handle the stress that came with it. Also, Selene's assumptions about Cannonball and Apocalypse not being part of the Externals cannot be taken lightly as she mentions to be a total of seven Externals when there's actually eight.<ref>''Cable'' #154</ref> Evidently, even after death, as long as there are at least two Externals alive in the same timeframe, those who died will simply be revived to life and health, as was the case seen with Burke, who was killed by the future version of Gideon only to be reborn as a baby with purple eyes because the present versions of Selene and Gideon were alive.<ref>''Cable'' #154</ref> More recently it was confirmed that Apocalypse is indeed an External and the performer of the process that created Candra's gem alongside Selene and the other Highlords eons ago.
+
+Later following the creation of a mutant nation on Krakoa, Apocalypse decided this as the right time to rescue his first Horsemen. He summoned his fellow Externals, Selene, Crule, Gideon, Saul, Candra, Nicodemus and Absolom, to the Eternal Caldera on Krakoa. Revealing his intentions to sacrifice some of their life energy to power the Arak Maw Gate, Apocalypse—along with Selene, Gideon and Absolom, who are revealed to be a part of his plan—quickly turns on their fellow immortals. With the unexpected help of Rictor, the group is actually able to wipe out four of the Externals and extract their life energy to fuel the crystals that powered the gateway to Arakko.<ref>''Excalibur'' vol. 4 #12</ref>
+
+It is later revealed by Apocalypse's own grandson Summoner (son of Apocalypse's daughter War) and Apocalypse's wife Genesis (Summoner's grandmother and War's mother) that the mutant known only as the "White Sword", the Champion of Okkara (the living continent that was once the single mutant homeland on Earth) and an Omega-level healer with his own personal army of One Hundred Champions, composed of all the warriors he has personally defeated and then resurrected as his followers, is also an External.
+
+== Other versions ==
+
+=== Askani ===
+In (Earth-4935), the Externals were purged by Apocalypse who ascended to power and gained control of the entire planet up until the 39th century.
+
+=== Age of Apocalypse ===
+In the alternate reality created when the time traveling Legion killed his own father, it's unknown what happened with the Externals as only a few had made their presence known as soldiers of Apocalypse. Candra, Selene and Gideon were recruited as the first wave of Horsemen of Apocalypse.
+
+== In other media ==
+
+=== ''X-Men: The Animated Series'' ===
+* In the episode "Sanctuary Part 2", Saul and Gideon are seen watching [[Fabian Cortez]] announce his scheme to the Earth.
+* In the episode "Externally Yours", [[Gambit (Marvel Comics)|Gambit]]'s past involvement with the respective guilds of Thieves and Assassins, as well as with the External Candra (merely known as "The External") are detailed.
+
+==References==
+{{Reflist|1}}
+
+{{X-Men characters}}
+
+[[Category:X-Men supporting characters]]
+
+[[it:Mutante (Marvel Comics)#Externi]]

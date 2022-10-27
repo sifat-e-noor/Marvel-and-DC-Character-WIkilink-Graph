@@ -1,0 +1,507 @@
+{{Short description|Several comic book series by Marvel Comics}}
+{{Other uses|Venom (disambiguation)}}
+{{update|reason=The article does not include info about the 2016, 2018 and 2021 comic books and the "Venomverse" and "Venomized" events|date=April 2018}}
+{{Infobox comic book title  <!--Wikipedia:WikiProject Comics--> 
+|title=Venom
+| image = Venom Lethal Protector no 1.jpg
+| caption = The cover of ''Venom: Lethal Protector'' #1, February 1993. The first Venom solo comic. Art by [[Mark Bagley]].
+| format = 
+| ongoing=y
+| publisher = [[Marvel Comics]]
+| date = {{plainlist|
+*'''(consecutive limited series)'''
+*February 1993 – January 1998
+*'''Vol. 1''':
+*June 2003 – November 2004
+*'''Vol. 2''':
+*April 2011 – October 2013
+*'''Vol. 3''':
+*January 2017 – June 2017
+*'''Vol. 1 (resumed)''':
+*July 2017 – June 2018
+*'''Vol. 4''':
+*July 2018 — July 2021
+*'''Vol. 5''':
+*January 2022 – present
+}}
+| issues = {{plainlist|
+*'''(consecutive limited series)''': 60
+*'''Vol. 1''': 18
+*'''Vol. 2''': 42
+*'''Vol. 3''': 6
+*'''Vol. 1 (resumed)''': 16
+*'''Vol. 4''': 35
+*'''Vol. 5''': 3
+}}
+| main_char_team = [[Venom (Marvel Comics character)|Venom symbiote]]<br />[[Eddie Brock]]<br />Patricia Robertson<br />[[Flash Thompson]]<br />[[Dylan Brock]]
+| writers = [[Donny Cates]] (vol. 4)
+| artists = 
+| pencillers = 
+| inkers = 
+| colorists = 
+| creative_team_month = 
+| creative_team_year = 
+| creators = 
+}}
+
+'''''Venom''''' is the title of several American comic book series published by [[Marvel Comics]] focusing on the various heroic and villainous incarnations of the character [[Venom (Marvel Comics character)|Venom]], which have usually consisted of a human host and amorphous alien being called a [[Symbiote (comics)|symbiote]]. The first incarnation of the character was the one created by the third and current human host to the symbiote (the first two being [[Spider-Man]] and [[Kree|Tel-Kar]]), [[Eddie Brock]], and—since 2011—its fifth host, [[Flash Thompson]]. Beginning with ''[[Venom: Lethal Protector]]'', eighteen [[Limited series (comics)|limited series]] following Brock's adventures were published monthly between February 1993 and January 1998. A monthly ''Venom'' series began publication in 2003, following a new character, Patricia Robertson, and a clone of the original symbiote. The series concluded in 2004 after 18 issues. In 2011 another monthly series, following the adventures of Flash Thompson, was launched. The series resumed with vol. 3, vol. 4, and vol. 5 from 2016 to present.
+
+==Publication history==
+The first run of ''Venom'' titles consisted of eighteen [[Limited series (comics)|limited series]] published consecutively, [[cover date]]d from February 1993 to January 1998. This limited-series run consisted of 60 issues altogether,<ref name="MiscStories1"/> effectively acting as an ongoing monthly series whose issue numbering reset with each story arc. The first limited series, ''[[Venom: Lethal Protector]]'', was written by Venom co-creator [[David Michelinie]] and began the character's transition from unambiguous villain to anti-hero; the story also introduced the symbiote offspring ([[Scream (comics)|Scream]], [[Phage (comics)|Phage]], [[Riot (comics)|Riot]], [[Lasher (comics)|Lasher]] and [[Agony (comics)|Agony]]),<ref name="LP1"/> who would recur in Marvel comics until the 2011 ''[[Carnage, U.S.A.]]'' limited series. Subsequent limited series included 1994's ''[[Venom: Separation Anxiety]]'', which continued the story of Venom's offspring and spawned the 1995 "[[Planet of the Symbiotes]]" cross-series story arc; 1996's ''Venom: Along Came a Spider'', which introduced symbiote anti-hero [[Hybrid (Scott Washington)|Hybrid]]; and 1997's ''Venom: On Trial'', which saw Eddie Brock tried for his crimes as Venom. Also published during this time was the [[prequel]] [[One-shot (comics)|one-shot]] comic ''Venom: Seed of Darkness'' #-1 (cover dated July 1997), following a pre-Venom Eddie Brock. [[Larry Hama]] wrote the most individual series with eight in total, including the 1997 final instalment ''Venom: The Finale'' which saw the symbiote apparently killed.<ref name="MiscStories1"/> According to editor [[Tom Brevoort]], the series was cancelled because "The return on the book had declined to the point where any immediate financial reward was overshadowed by [then editor-in-chief [[Bob Harras]]{{'}}s] discomfort with the character starring in his own title."<ref>{{cite news | last = Shutt | first= Craig | date = August 1997 | title = Villain Turned Hero: Venom | work = [[Wizard (magazine)|Wizard]] | issue = 72 | page = 37}}</ref>
+
+A new ongoing ''Venom'' series began in June 2003, written by [[Daniel Way]]. This series followed a new character, Patricia Robertson, and a clone of the Venom symbiote. Eighteen issues were produced by Way through November 2004, comprising the story arcs "Shiver" (#1-5), "Run" (#6-10), "Patterns" (#11-13), and "Twist" (#14-18).
+
+In 2011, an ongoing ''Venom'' series began under writer [[Rick Remender]] with Spider-Man supporting character [[Flash Thompson]] in a leading role. The character regained the use of his legs while using the symbiote following their loss during his service in the [[Iraq War]] (as shown in ''[[The Amazing Spider-Man]]'' #574). The first issue introduced new versions of the villains [[Crime Master#Bennett Brant|Crime Master]] and [[Jack O'Lantern (Marvel Comics)#Crime Master.27s Jack O.27Lantern|Jack O'Lantern]], who became recurring antagonists for Thompson. Issue #18 featured the return of Brock, who killed Hybrid and Scream in his crusade against the symbiotes and eventually bonded to the Toxin symbiote. The series was born after Thompson was first unveiled as the new Venom by writer [[Dan Slott]] in ''[[The Amazing Spider-Man]]'' #654. Remender was unsure how to develop the  Thompson narrative until he realized that he was a tragic hero: a violent man, haunted by a drinking problem and physical abuse suffered at the hands of his father.<ref name="RemenderLeaves"/>
+
+Slott suggested that the new Crime Master's secret identity would be Bennett Brant, the thought-dead brother of Thompson's then-girlfriend Betty. Remender and his co-writer Cullen Bunn developed the new character, with Bunn developing the idea of multiple Crime Masters existing throughout history. Thompson found an arch-rival in the new Jack O'Lantern, developed by Remender and artist Tony Moore. Remender decided that making him a parallel of Thompson would create a stronger nemesis; therefore, Jack was also given a traumatic childhood in which he was exploited by Crime Master. ''Venom'' #13 saw the first mini-event of the series: a crossover with the [[Red Hulk]], [[X-23]] and the new  [[Ghost Rider]]. The event was initially conceived as a reunion of [[List of Fantastic Four members#New Fantastic Four|New Fantastic Four]] members [[Hulk]], [[Wolverine (character)|Wolverine]], Ghost Rider and Spider-Man as part of a ''Venom''-''Wolverine'' crossover. As the idea developed with writer [[Jason Aaron]], it was decided to incorporate those characters' legacy characters into the Red Hulk, X-23, the new female Ghost Rider and Thompson's Venom. Following the event, Thompson joined another Remender-written book (''[[Secret Avengers]]'').<ref name="RemenderLeaves"/>
+
+Remender stopped writing ''Venom'' in August 2012 (after issue #22) to work on ''[[Captain America]]'' and the launch of ''[[Uncanny Avengers]]''. He was replaced by Cullen Bunn, who had periodically worked as co-writer during Remender's term. The Venom character remained a member of the Secret Avengers, a series still written by Remender.<ref name="RemenderLeaves"/> In September 2012, Bunn said that Thompson would be moved from New York to Philadelphia from ''Venom'' #28. This relocation would allow the introduction of a new love interest, the superhero [[Valkyrie (Marvel Comics)#Valkyrie .28Brunnhilde.29|Valkyrie]]. Editor Tom Brennan explained, "His superhero career almost cost him everything...this is a good man with a troubled past who needed a fresh start...to take his next steps in becoming the hero he was born to be."<ref name="2012SepBunn"/> Marvel editor Stephen Wacker said the location change reflected Marvel's desire to expand the Marvel universe beyond New York City.<ref name="2012OctWacker"/> Bunn's run introduced the new character Mania, one of Thompson's students who is empowered by part of the Venom symbiote. In August 2013, Marvel announced that ''Venom'' would end with issue #42 in October 2013. Bunn was informed of the decision while writing ''Venom'' #31-#38, which he stated gave him time to bring some plot threads to a conclusion, but having originally outlined thirty issues worth of stories, there would be some ideas left to be told.<ref name="Venom2011End"/><ref name="Venom2011End2"/>
+
+As part of the [[All-New, All-Different Marvel]] line-wide relaunch, a new ongoing title ''Venom: Space Knight'' was launched with writer Robbie Thompson and artist [[Ariel Olivetti]]. The series ran for 13 issues, cover-dated January 2016 to December 2016.
+
+''Venom: Space Knight'' was immediately followed by a new ongoing ''Venom'' series (beginning January 2017) written by Mike Costa, starring new Venom host Lee Price. After six issues, the series was re-numbered to #150 and Eddie Brock was brought back as Venom's host. During Costa's run on the ongoing ''Venom'' title, two Venom-centric comic events were published, both centred around five-issue weekly series written by Cullen Bunn: ''Venomverse'' (November to December 2017) and ''Venomized'' (June 2018). Costa's run ended with issue #165, after which he wrote the five-issue limited series ''Venom: First Host'' (October to November 2018).
+
+As part of the [[Fresh Start (comics)|Fresh Start]] line-wide relaunch, a new volume of ''Venom'' was launched (cover-dated July 2018, published May 9) written by Donny Cates. Event miniseries during this time included ''Absolute Carnage'' in 2019 and ''King in Black'' in 2020–21, both also by Cates. This volume concluded in 2021 with the end of Cates's run.
+
+The fifth and current ongoing volume of ''Venom'' is written by Al Ewing and Ram V, with art by Bryan Hitch. The first issue, cover-dated January 2022, went on sale November 10th 2021. It stars Dylan Brock, son of Eddie Brock, as Venom's latest host.
+
+=={{anchor|Limited Series (1993-1998)}}Limited series (1993–1998)==
+
+===''Venom: Lethal Protector'' (1993)===
+[[File:MarkBagley2.jpg|thumb|alt=Man with black shirt and glasses, sitting at a table at a comic-book convention|[[Mark Bagley]] provided art for the first three issues of ''Venom''{{'}}s inaugural title.]]
+{{Main|Venom: Lethal Protector}}
+* Writer: [[David Michelinie]]
+*[[Penciler]]: [[Mark Bagley]] (#1–3), [[Ron Lim]] (#4–6)
+*[[Inker]]: [[Al Milgrom]] (#1–4), Sam de la Rosa (#1–6) 
+The initial six-part series was published between February and July 1993. The story follows former reporter [[Eddie Brock]], (first introduced in Amazing Spider-Man #298 (March 1988) and as Venom in Amazing Spider-Man #299 (April 1988))
+as a villain and enemy of the superhero [[Spider-Man]]. In his appearances in ''The Amazing Spider-Man'', Brock blames Spider-Man for ending his career by debunking one of his stories. He bonds with the [[Venom (Marvel Comics character)|Venom symbiote]], a sentient alien that had previously bonded with (and been rejected by) Spider-Man. Together, Brock and the symbiote become Venom. In ''The Amazing Spider-Man'' #375, Brock makes peace with Spider-Man after he saves Brock's wife (Ann Weying) from death. Brock then moves back to his home city of San Francisco for a fresh start, starting the events of ''Venom: Lethal Protector''.{{sfn|Michelinie|February 1993|loc=Issue 1|}}
+
+''Venom: Lethal Protector'' initiated the character's transition from unambiguous villain to anti-hero, and introduced several new characters (including Venom's symbiote offspring [[Scream (comics)|Scream]], [[Phage (comics)|Phage]], [[Riot (comics)|Riot]], [[Lasher (comics)|Lasher]] and [[Agony (comics)|Agony]],{{sfn|Michelinie|February 1993}}<ref name="LP1"/> who would recur in Marvel comics until the 2011 ''Carnage, U.S.A.'' limited series,{{sfn|Wells|January 2012|loc=Issue 4|p=5}} vigilante group [[The Jury (comics)|The Jury]], its creator [[General Orwell Taylor]], the [[Sentry (Curtis Elkins)|Sentry]], [[Bomblast]], [[Ramshot]], [[Screech (comics)|Screech]] and Firearm).{{sfn|Michelinie|February 1993|loc=Issue 2, 3|}}
+
+According to North American comic distributor [[Diamond Comic Distributors]] (DCD) and former distributor [[Capital City Distribution]], ''Venom: Lethal Protector'' #1 was the bestselling issue of December 1992 and DCD's overall third-bestselling issue of DCD's bestselling 300 titles of 1992.<ref name="1992Sales"/> On DCD's 1993 list, subsequent issues gradually dropped in sales: ''Venom: Lethal Protector'' #2 (placed at number 44), #3 (45), #4 (56), #5 (90) and #6 (120).<ref name="1993Sales"/>
+
+===''Venom: Deathtrap: The Vault'' (1993)===
+[[File:10.12.12DannyFingerothByLuigiNovi1.jpg|thumb|alt=Smiling man with black shirt and glasses, in front of a curtain|[[Danny Fingeroth]]]]
+* Writer: [[Danny Fingeroth]]
+*Penciler: Ron Lim
+*Inker: Jim Sanders, [[Fred Fredericks]]
+This [[One-shot (comics)|one-shot]] issue was published in March 1993. The story was originally published in graphic-novel form in 1991 as ''Avengers-Deathtrap: The Vault'' (1991), but was later reprinted under the ''Venom'' label.{{sfn|Fingeroth|October 1993|p=3}} As a result, the fictional events precede those of ''Venom: Lethal Protector'' and are referenced in that series.{{sfn|Michelinie|February 1993|loc=Issue 2, 3|}} The issue follows a supervillain prison outbreak at [[Vault (Marvel Comics)|The Vault]], led by Brock, that allows the inmates to overrun the prison and take its staff hostage. The Avengers and [[Freedom Force (comics)#Mystique's Freedom Force|Freedom Force]] attempt to defeat the villains in a race against time because the prison's final fail-safe, a powerful explosive device, has been activated by Vault warden Truman Marsh.{{sfn|Fingeroth|October 1993}} DCD estimated that the comic was their 13th-bestselling [[Trade paperback (comics)|trade paperback]] of 1993.<ref name="1993Sales"/>
+
+===''Venom: Funeral Pyre'' (1993)===
+* Writer: [[Carl Potts]]
+*Penciler: [[Tom Lyle]]
+*Inker: Scott Hanna, Al Milgrom and [[Josef Rubinstein|Joe Rubinstein]]
+This was a three-part series published between August and October 1993. The story continued Brock's adventures in San Francisco, dealing with street gangs in an uneasy alliance with the [[Punisher]], and saw the creation of the villain Pyre.{{sfn|Potts|October 1993}} According to DCD's 300 bestselling issues of 1993, ''Venom: Funeral Pyre'' #1 was number 72; sales declined for ''Funeral Pyre'' #2 and #3, which appeared at numbers 238 and 295 respectively.<ref name="1993Sales"/>
+
+==={{anchor|''Venom: The Madness'' (1993-1994)}}''Venom: The Madness'' (1993–1994)===
+*Writer: [[Ann Nocenti]]
+*Penciler: [[Kelley Jones]]
+*Inker: [[John Beatty (illustrator)|John Beatty]] (#1–3), Al Milgrom (#3), [[Keith Williams (comics)|Keith Williams]] (#3)
+A three-part series published between November 1993 and January 1994, the series introduces attorney Beck as a love interest for Brock. When Beck pursues a lawsuit against Scarmore Industries for employees poisoned by a sentient liquid-mercury virus, Venom is injured trying to protect her from the [[Juggernaut (comics)|Juggernaut]]'s kidnap attempt. The symbiote is submerged and infected with the sentient virus (which heals Brock), bonding with the pair and introducing a third mind into their relationship. The virus drives Brock insane (causing him to murder a cleaning lady), and he is physically transported to the realm of insanity to confront its avatars: Paranoia, Dusk and the Necromancer. The symbiote overcomes the virus; Brock regains his senses, and Venom is returned to earth. Beck later insists on only being Brock's friend, because his romantic feelings for her make him more violent.{{sfn|Nocenti|November 1993}}<ref name="MiscStories1"/> Among DCD's 300 bestselling issues of 1993 ''Venom: The Madness'' #1 was number 173; the remaining issues did not chart.<ref name="1993Sales"/>
+
+===''Venom: Enemy Within'' (1994)===
+*Writer: [[Bruce Jones (comics)|Bruce Jones]]
+*Penciler: [[Bob McLeod (comics)|Bob McLeod]]
+*Inker: Bob McLeod (#1–2), Harry Candelario (#3)
+In a three-part series published between February and April 1994, Brock attempts to save San Francisco as it is besieged by an army of goblins. [[Morbius the Living Vampire]] and the [[Demogoblin]] are magically transported from New York; Morbius joins Brock to defeat the goblins, led by criminal-turned-politician Charles Palentine (who wears a magic necklace which controls the goblins). Palentine uses fear of the goblin attacks to seize control of the city and convince its citizens to burn it down. Demogoblin takes the necklace, and the liberated goblins attack Palentine. Demogoblin then leads the goblins across the Golden Gate Bridge, ordering them to leap to their deaths. Demogoblin and Morbius then leave for New York.{{sfn|Jones|February 1993}} Of DCD's 300 bestselling issues of 1994, ''Venom: Enemy Within'' #2 was number 286; the remaining issues did not chart.<ref name="1994Sales"/>
+
+===''Venom: The Mace'' (1994)===
+* Writer: Carl Potts
+*Penciler: [[Liam Sharp]]
+*Inker: [[Bill Reinhold]]
+A three-part series published between May and July 1994, this series introduces the superhuman hit man Mace and the secretive Sunrise Society that created him. Continuing Brock's adventures in San Francisco, ''Venom: The Mace'' sees him confront (and later join forces with) Mace to defeat a squadron of Sunrise Society soldiers sent to capture Mace. A subplot involves some people Brock protects, who steal from the needy. When he learns what they have done, Brock promises Beck he will banish them from the community; he kills them instead, concealing the truth from her.{{sfn|Potts|May 1993}} According to DCD's 300 bestselling issues of 1994, ''Venom: The Mace'' #1 was number 255; the remaining issues did not chart.<ref name="1994Sales"/>
+
+===''Venom: Nights of Vengeance'' (1994)===
+[[File:5.31.12HowardMackieByLuigiNovi2.jpg|thumb|alt=Smiling, gray-bearded man in white shirt|[[Howard Mackie]] wrote two ''Venom'' limited series (including 1994's ''[[Venom: Separation Anxiety]]''), which led to the five-part 1995 "[[Planet of the Symbiotes]]".]]
+* Writer: [[Howard Mackie]]
+*Penciler: Ron Lim
+*Inker: Al Milgrom
+In a four-part series published between August and November 1994, Brock teams up with the anti-hero [[Vengeance (comics)#Lt. Michael Badilino|Vengeance]] to fight the Stalkers, a group of alien-technology-enhanced humans who have kidnapped Beck (and others) with Venom's protection. This series also introduces another romantic interest for Brock (Elizabeth, a doctor) in addition to Beck. It also begins a plot thread in which Brock is informed that there are other symbiotic hosts like himself.{{sfn|Mackie|August 1994}}
+
+==={{anchor|''Venom: Separation Anxiety'' (1994-1995)}}''Venom: Separation Anxiety'' (1994–1995)===
+{{Main|Venom: Separation Anxiety}}
+* Writer: Howard Mackie
+*Penciler: Ron Randall
+*Inker: Sam de la Rosa
+A four-part series published between December 1994 and March 1995, the story covers the return of Venom's offspring (Scream, Lasher, Phage, Riot, and Agony), who are seeking aid to control their symbiotes, and the murder of Lasher, Phage, Riot and Agony's hosts by Scream (who has become insane). The storyline also raised the question of whether Brock or the Venom symbiote was in control, leading into the five-part crossover story "[[Planet of the Symbiotes]]" in 1995.{{sfn|Mackie|December 1994}}
+
+===''Venom: Carnage Unleashed'' (1995) ===
+[[File:Loz hamatalk.png|thumb|alt=Man seated at a table, talking into a microphone|[[Larry Hama]] wrote eight ''Venom'' limited series between 1995 and 1998, including the concluding series ''Venom: The Finale'' (1997)]]
+* Writer: [[Larry Hama]]
+*Penciler: [[Andrew Wildman]] (#1-4), Art Nichols (#1 - Finishes)
+*Inker: Joe Rubinstein
+In a four-part series published between April and July 1995, Brock returns to New York City in pursuit of supervillain [[Carnage (character)|Carnage]] after learning about ''Carnage Unleashed'', a video game based on Carnage's rampage in ''[[Maximum Carnage]]'' (1993). Carnage discovers a method of transporting his symbiote through phone lines, which he uses to hack computers and attack people playing the game. He escapes from the Ravencroft asylum and kidnaps his caregiver, Dr. Pazzo. Venom confronts Carnage in cyberspace, before Pazzo douses Carnage in flammable liquid and sets him ablaze. Venom saves Carnage from dying, reasoning that death is what he wants. A subplot has Brock meeting Kirstin, a young musician. When Brock accidentally paralyzes her boyfriend Clive, Kirstin asks her mother to avenge him; this storyline continues in ''Venom: Sinner Takes All''.{{sfn|Hama|April 1995}}<ref name="MiscStories1"/>
+
+===''Venom: Sinner Takes All'' (1995)===
+* Writer: Larry Hama
+*Penciler: Greg Luzniak (#1–4), Ted Halsted (#5)
+*Inker: Scott Koblish (#1–2), [[Jimmy Palmiotti]] (#3, #5) Ken Branch (#3), Keith Aiken (#4), Jeff Albrecht (#4), Ralph Cabrera (#5)
+A five-part series published between August and December 1995, it marks the first appearance of [[She-Venom]] after the symbiote bonds with Brock's wife Ann to save her from gunshot wounds. It also features the debut of a new [[Sin-Eater (comics)|Sin-Eater]], Michael Engelschwert, following the death of the original. The story concludes the plotline begun in ''Venom: Carnage Unleashed'' with Kirstin's mother, a skilled assassin, trying to kill Venom and killing the Sin-Eater.{{sfn|Hama|August 1995}}
+
+Each issue also contained an installment (or backup story) of the four-part "Tour of Jury Duty", detailing the initiation of former Vault guard Jennifer Stewart into the Jury as [[Wysper]]. She fights (and kills) the second [[Tarantula (Marvel Comics)#Luis Alvarez|Tarantula]], a supervillain who murdered Wysper's husband during the riot in ''Venom: Deathtrap-The Vault''. The series also features the return of the vigilante, Sentry.{{sfn|Slott|August 1995}}
+
+===''Venom: Along Came a Spider'' (1996)===
+* Writer: Larry Hama
+*Penciler: Joe St. Pierre (#2–4), [[Tom Grindberg]] (#2)
+*Inker: [[Randy Emberlin]] (#2, #4), Mark McKenna (#2–4), Rodney Ramos (#2), Greg Adams (#2)
+A four-part series published between January and April 1996, the story begins with the New York Police Department using Brock's wife, Ann, to trap him. Brock sends the symbiote to Ann, turning her into She-Venom again and letting her escape. In issue #3, Ann is afraid of the symbiote's influence and refuses to have anything to do with Brock while he wears it.{{sfn|Hama|April 1996}} This plotline is resolved in ''The Amazing Spider-Man Vol.2'' #19 (2000), in which Ann's experience with the symbiote triggers her suicide.{{sfn|Mackie|July 2000|pp=7,11-16,21-22}} The story includes contemporary Spider-Man [[Ben Reilly]] trying to bring Venom to justice.{{sfn|Hama|April 1996}}
+
+The series also contained the four-part backup story, "Hybrid", with the Phage, Riot, Lasher and Agony symbiotes combining into a new symbiote which joins with former Vault guard Scott Washington to create the anti-hero [[Hybrid (Scott Washington)|Hybrid]].{{sfn|Skolnick|April 1996}} The events of "Planet of the Symbiotes" take place during "Hybrid", with the defeat of the symbiotes in that story creating the Hybrid.{{sfn|Skolnick|April 1996|loc=Issue 1|pp=31-34}}
+
+===''Venom: The Hunted'' (1996)===
+[[File:10.14.12DuncanRouleauByLuigiNovi.jpg|thumb|alt=Man with a goatee, wearing a black short-sleeved shirt|[[Duncan Rouleau]] provided art for ''Venom: The Hunted''.]]
+* Writer: Larry Hama
+*Penciler: [[Duncan Rouleau]]
+*Inker: John Stageland
+A three-part series published between May and July 1996, it references the symbiote invasion in ''Planet of the Symbiotes'' as a symbiote-eating alien (the Xenophage) arrives on earth to hunt the remaining symbiotes. Scream returns as an anti-hero after the events of ''Venom: Separation Anxiety'' to protect the hosts of the invasion symbiotes. Venom is hunted by the police, who blame it for the murders committed by the Xenophage. Venom and Scream kill the Xenophage and escape their police pursuit.{{sfn|Hama|May 1996}}
+
+The series contained a three-part backup story featuring Hybrid. He is captured by the Jury, now under the command of Orwell's son Maxwell and dealing with criminals through the legal process. Washington and his symbiote are put on trial as criminals. The Jury's guards include many of Hybrid's former co-workers, including Sentry. The [[New Warriors]] try to free Hybrid, who is ultimately released.{{sfn|Skolnick|May 1996}}
+
+===''Venom: The Hunger'' (1996)===
+* Writer: Len Kaminski
+*Penciler: Ted Halsted
+*Inker: Scott Koblish
+A four-part series published between August and November 1996, ''Venom: The Hunger'' introduces the Venom symbiote's reliance on [[phenethylamine]] for survival (which requires it to eat human brains after depleting Brock's supply of the chemical) and reveals that chocolate is a source of the chemical. Brock refuses to eat human brains; the symbiote abandons him, and he is locked in an asylum under the care of the deranged Dr. Paine. Brock escapes to hunt the symbiote, which has gone on a killing spree to obtain brains. He reunites with the symbiote (after finding an alternative source of the chemical), but Paine steals the symbiote for himself. Brock frees the symbiote, and again becomes Venom.{{sfn|Kaminski|August 1996}}
+
+===''Venom: Tooth and Claw'' (1996-1997)===
+* Writer: Larry Hama
+*Penciler: Josh Hood
+*Inker: Al Milgrom
+A three-part series published between December 1996 and February 1997, this marks the return of Scream; Wolverine and Venom collaborate against the villains Dirt Nap and Chimera. In the final issue, Scream and Venom begin hunting Carnage.{{sfn|Hama|December 1996}}
+
+===''Venom: On Trial'' (1997) ===
+* Writer: Larry Hama
+*Penciler: Joe St. Pierre
+*Inker: Derek Fisher
+A three-part series, published between March and May 1997, which follows Brock as he is captured and tried for his crimes as Venom. Brock is represented by Matt Murdock ([[Daredevil (Marvel Comics series)|Daredevil]]), with Cletus Kasady (Carnage) testifying against him. After Kasady bonds again with his symbiote, Brock, Daredevil and Spider-Man unite to stop him. Before Brock can be judged, agent Daryll Smith (from an unknown agency) offers Brock amnesty in exchange for becoming an agent.{{sfn|Hama|March 1997}}
+
+===''Venom: License to Kill'' (1997)===
+* Writer: Larry Hama
+*Penciler: Derek Aucoin (#1–3), Josh Hood (#3)
+*Inker: Rich Faber (#1–2), Ralph Cabrera (#1), Eric Cannon (#3), Scott Koblish (#3)
+In a three-part series published between June and August 1997, the story continues with Venom as a government agent controlled by a bomb implanted in his chest. He is tasked with neutralizing biological-weapons expert Dr. Sergei Yesenofsky before he can release a deadly toxin. Yesenofsky's son Kostya sacrifices his life to divert a nuclear missile heading for Yesenofsky's base, and uses the explosion to destroy the toxin. Yesenofsky survives, swearing to avenge Kostya.{{sfn|Hama|June 1997}}
+
+===''Venom: Sign of the Boss'' (1997)===
+* Writer: [[Ivan Velez, Jr.]]
+*Penciler: Tom Derenick
+*Inker: Chris Ivy
+In a two-part series published between September and October 1997, Venom continues his career as a government agent, working as a bodyguard for foreign president Franco Santera. He confronts (and later joins forces with) Danny Ketch, the Ghost Rider.{{sfn|Velez|September 1997}}<ref name="MiscStories1"/>
+
+===''Venom: The Finale'' (1997–1998)===
+* Writer: Larry Hama
+*Penciler: Mark Pajarillo
+*Inker: Robert Jones (#1–3), Pam Eklund (#3)
+This three-part finale to the ''Venom'' series was published between November 1997 and January 1998. The Overreach Committee (the organization in charge of Brock's clandestine agency) decides to terminate him because of his brutal methods. Brock cuts the bomb from his chest, and uses it to escape. His escape brings him into a confrontation with Spider-Man. After a fight with Spider-Man and an injection of [[dopamine]] blockers by Agent Smith, Brock is separated from the symbiote (which is apparently killed when Brock is re-arrested).{{sfn|Hama|November 1997}} The final issue sees Brock recover some memory of his history with Spider-Man; he had lost his knowledge of the hero's secret identity in the ''Spider-Man/Venom'' single issue (December 1997).{{sfn|Hama|November 1997|loc=Issue 2|p=17}}{{sfn|Hama|November 1997|loc=Issue 3|pp=13-15}}
+
+=={{anchor|''Venom'' (2003-2004)}}''Venom'' (2003–2004)==
+[[File:Daniel-Way-Flipped-Horizontal.jpg|thumb|alt=Man seated in front of microphone, shading his eyes and pointing to audience member|[[Daniel Way]] wrote the 2003–2004 series.]]
+* Writer: [[Daniel Way]]
+*Penciler: Francisco Herrera (#1–5, #11–13), Paco Medina (#6–10), Sean Galloway (#13), [[Skottie Young]] (#14–18)
+*Inker: Carlos Cuevas (#1–5, #11–13), Juan Vlasco (#6–10), Wayne Faucher (#13), Rick Ketcham (#14–18)
+An eighteen-issue monthly series, published under the [[Tsunami (Marvel Comics)|Tsunami]] imprint between June 2003 and November 2004, follows U.S. Army communications specialist Patricia Robertson. During a supply run to an outpost owned by the Ararat Corporation, she discovers that all the scientists except one have been killed. The Ararat Corporation is run by an alien colony of miniature spider robots (led by an entity named Bob) that have infiltrated the U.S. government. The Ararat Corporation has cloned Venom to facilitate the extermination of humanity; however, the clone ravages its hosts and kills the outpost crew.{{sfn|Way|2003|}}
+
+Robertson finds an ally in the Suit, a mysterious individual made of the same miniature robots as Bob (which were accidentally brought to earth by [[Reed Richards]]). The Suit modifies Robertson while she is unconscious, allowing her to control the clone if it bonds with her. The Suit sabotages Wolverine (the clone's preferred host), forcing it to bond with Robertson. One of Bob's agents convinces Robertson to kill the real Venom to save humanity, and she frees the incarcerated Venom. She and Venom fight, but Venom escapes. Bob remotely deactivates the technology allowing Robertson to control the clone, forcing her to rely on willpower to maintain control. Robertson and Venom again fight, and Venom absorbs the clone. Venom decides to carry out the mission given to the clone by the Ararat Corporation.{{sfn|Way|2003|}}<ref name="MiscStories1"/> 
+{{clear}}
+
+=={{anchor|''Venom'' (2011-present)}}''Venom'' (2011–2013)==
+
+==={{anchor|Project Rebirth 2.0 (#1-22)}}Project Rebirth 2.0 (#1–22)===
+* Writer: [[Rick Remender]] <!--, Rob Williams (13.1-13.2), Jeff Parker (13.3), Cullen Bunn (17, 18) -->
+* Penciler: [[Tony Moore (artist)|Tony Moore]]<!--(#1-2, 4-5, 13-14)-->, Tom Fowler<!--(3, 5, 6-8)-->, Lan Medina <!-- (10-12, 13.4, 15, 18)--><!-- for info sake these are here for future use, but for space sake, the section is limited to participants of multiple issues - , Stefano Caselli (9),  Lee Garbett (13.1), Sana Takeda (13.2), Julian Tedesco (13.3), Kev Walker (16-17) -->
+* Inker: Crimelab! Studios, <!--(2, 4-5), John Rauch (3), -->Nelson Decastro <!--(10-12, 18), Terry Pallot (17)-->
+[[File:Rick Remender - 01.jpg|thumb|alt=Man in a blue hooded sweatshirt smiles at the camera|[[Rick Remender]] wrote the first 22 issues of ''Venom''{{'}}s 2011 series.]]
+Published by Marvel Comics since 2011, the series follows Spider-Man supporting character [[Flash Thompson]] (who debuted as the latest Venom, an agent of the United States military bonded with the symbiote, in the February 2011 ''The Amazing Spider-Man'' #654).{{sfn|Slott|February 2011|}} Recurring enemies [[Crime Master]] and [[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]] are introduced in ''Venom'' #1 and learn Thompson's secret identity in ''Venom'' #2, enabling them to threaten his loved ones in exchange for his cooperation.{{sfn|Remender|May 2011|pp=6-7}}{{sfn|Remender|June 2011|pp=22}} After Jack is disfigured by a grenade placed in his mask by Thompson, he considers himself Thompson's nemesis.{{sfn|Remender|May 2011|p=20}}{{sfn|Remender|August 2011|p=17}} The series' tie-in with the 2011 "[[Spider-Island]]" covered the death of Thompson's abusive father, Thompson facing the symbiote's former host Eddie Brock (Anti-Venom), the symbiote choosing Thompson over Brock{{sfn|Spider-Island|2011|loc=Issue 7|pp=13-19,22}} and Thompson helping [[Captain America]] and Spider-Man defeat The Queen.{{sfn|Spider-Island|2011}} The 2012 six-part story "Circle of Four" saw Thompson end his long-term relationship with [[Betty Brant]] for her safety; Venom joined the [[Red Hulk]], [[Ghost Rider]] and [[X-23]] to defeat [[Blackheart]] and the forces of hell (which are encroaching on earth).<ref name="RemenderLeaves"/> His performance results in Captain America recruiting him for the [[Secret Avengers]] in ''Secret Avengers'' #23 (April 2012) (also written by Remender).{{sfn|Remender|April 2012}} In ''Venom'' #15 (June 2012), Thompson had bonded with the symbiote to the point of lying for greater access to it.{{sfn|Remender|June 2012|pp=6-8}}
+
+The 2012 story "The Savage Six" sees the return of a symbiote-less Eddie Brock, who is intent on exterminating all of the symbiotes (resulting in the deaths of Scream and Hybrid).{{sfn|Remender|June 2012|pp=3-5, 12-15}} Crime Master forms the [[Savage Six#Earth-616|Savage Six]]: a team including Jack O'Lantern, [[Death Adder (comics)|Death Adder]], [[Megatak]] and the [[Human Fly (comics)|Human Fly]].{{sfn|Remender|July 2012|pp=7-10}} Brock is involuntarily recruited onto the team after being possessed by the Toxin symbiote which Thompson stole for Crime Master in ''Venom'' #12.{{sfn|Remender|March 2012|pp=12-14,19,27}}{{sfn|Remender|July 2012|pp=19-21}} The Savage Six is sent after Thompson and his loved ones after he tries to murder Crime Master, resulting in Betty's learning Thompson's secret identity.{{sfn|Remender|July 2012 B}}{{sfn|Remender|August 2012}}{{sfn|Remender|September 2012}} Crime Master is ultimately unmasked as Betty's brother, Bennett Brant. Venom immolates Toxin and Brock, defeating Crime Master's remaining forces; Betty shoots Crime Master dead to save Venom. Venom later confesses his covert actions to the Secret Avengers.{{sfn|Remender|September 2012 B|pp=4-6, 13, 18-19, 21}} Jack O'Lantern escapes and goes on a killing spree to torment Venom, abusing his father's body; he is eventually defeated and incarcerated by Venom.{{sfn|Remender|October 2012|pp=15-15, 22}}
+
+According to DCD, Remender's ''Venom'' #1 was the 128th-bestselling single issue of 2011 (based on an estimated 65,600 issues shipped). ''Venom'' #2 was number 389; sales dropped for each successive issue for the year, finishing at number 802 with ''Venom'' #11 (based on an estimated 28,700 issues shipped).<ref name="2011Sales"/> ''Venom'' #22 (October 2012), Remender's final issue, sold an estimated 26,734 issues.<ref name="2012SalesAugust"/> The trade paperback ''Venom Volume 1'' (''Venom'' #1-5) was the 134th-bestselling trade paperback of 2012, followed by ''Circle of Four'' at number 359 and ''Savage Six'' at number 407.<ref name="2012Sales"/> ''Venom'' #6-9 appeared in the ''Spider-Island'' trade paperback,<ref name="TPBSI1"/> which was listed at number 466.<ref name="2012Sales"/>
+
+==={{anchor|Monsters of Evil (#23-present)}}Monsters of Evil (#23–42)===
+* Writer: Cullen Bunn
+* Penciler: Thony Silas
+* Inker: Nelson Decastro
+Following Remender's departure from the series, co-writer Cullen Bunn took over beginning with issue #23. Bunn's tenure began with the "Monsters of Evil" arc explaining a villainous turn by [[Daimon Hellstrom]] in Bunn's [[Fear Itself (comics)|Fear Itself: The Fearless]],<ref name="2012SepBunnCBR"/> and continued a plot thread from Remender's "Circle of Four" arc which saw Venom, Hulk, X-23 and Ghost Rider unknowingly branded with [[Mephisto (comics)|Mephisto]]{{'}}s mystical symbol (marking them as Mephisto's potential heirs). The mark gives Venom control over demons; after a demon tries to possess him it becomes trapped in Thompson's body, unable to leave or control him. Venom must contend with Hellstrom, who is possessing monsters with demons (creating an army to help him become Mephisto's chosen heir).<ref name="2012SepBunnCBR"/>{{sfn|Bunn|November 2012|pp=15-17,19|loc=Issue 25}} ''Venom'' #23 (November 2012) introduced a new supporting character in journalist Kate Kiernan.{{sfn|Bunn|November 2012|pp=5-6|loc=Issue 23}} The 2012 story "[[Minimum Carnage]]" saw the series cross with ''[[Scarlet Spider (comic book)|Scarlet Spider]]'' to feature Venom and [[Kaine Parker#Scarlet Spider|Scarlet Spider]] against an escaped Carnage in the [[Microverse]].{{sfn|Bunn|December 2012}} The story concludes with Carnage defeated and lobotomized by Scarlet Spider, leaving the Carnage symbiote in control of his body and Venom able to sense Carnage's presence.{{sfn|Yost|December 2012|pp=8,20,24}} The events of "Monsters of Evil", "Minimum Carnage" and his fear of the symbiote controlling him prompt Thompson to move to Philadelphia in ''Venom'' #27.1.<ref name="2012SepBunnCBR"/> Thompson is possessed by the demon inside him while he sleeps, and terrorizes people as Venom.{{sfn|Bunn|January 2013}}
+
+In Philadelphia, Thompson gains employment as a high school gym coach,{{sfn|Bunn|March 2013 32|pp=8-11}} while as Venom he comes into conflict with the [[U-Foes]], who kidnap and experiment on victims with alien technology. When the U-Foes knock Venom, the demon takes control of his body and uses the alien technology to teleport the villains to their apparent death in space. Kiernan and Thompson's lover Valkyrie later return home, leaving Venom alone. Brock returns as Toxin in ''Venom'' #30,{{sfn|Bunn|March 2013|pp=20-21}} to pursue Thompson while he himself is hunting the result of one of the U-Foes experiments: an alien-lifeform infested human turned into a cannibal. Thompson and Brock's fight liberates the aliens who begin infecting and transforming other humans to target their new enemies: Venom and Toxin.{{sfn|Bunn|March 2013 32|pp=14-17}}{{sfn|Bunn|April 2013|pp=10,15,19-22}} Together, Thompson and Brock defeat the aliens, and afterwards Brock calls a truce with Thompson, promising that the Venom symbiote will inevitably take over Thompson, and that he will return to kill him when that happens.{{sfn|Bunn|May 2013|pp=11-20}} ''Venom'' #39 sees the return of Jack, and the introduction of the new symbiote character Mania—Thompson's teenage student Andi who bonds with a spawn of the Venom symbiote when Thompson uses it to protect her from Jack. Jack kills Mania's father, and is revealed to be merely a man who was brainwashed by some of Jack's technology into believing he is the real Jack. According to Bunn, when he envisioned a new symbiote character Andi was not intended to be the host, but as the series progressed his plans changed.{{sfn|Bunn|October 2013|pp=8-10}}<ref name="Venom2011Mania"/> It is revealed that Mania's symbiote is the cloned symbiote from Way's 2003 ''Venom'' series. The symbiote expelled the clone, and the demonic brand along with it, passing it to Mania. When a team led by [[Crossbones (comics)|Crossbones]] starts killing the brand bearers and taking the brands for themselves, Venom and Mania manage to fight them off with assistance from Mephisto. Mephisto then departs after telling Thompson that the deal he made in exchange for the brand was with the symbiote, not Thompson. The series ends with Thompson admitting that despite his issues with his father, he had always wanted to be a dad, and that he will now take responsibility for Benton.<ref name="Venom2011End2"/>{{sfn|Bunn|"Mania"|pp=7, 9, 19-21|loc=Issue 42}}<ref name="2013Venom42"/>
+
+=={{anchor|''Venom'' (2018-2021)}}''Venom'' (2018–2021)==
+* Writer: [[Donny Cates]] (#1-12, #16-35), Cullen Bunn (#13-15)
+*Penciler: [[Ryan Stegman]] (#1–6, #9-11), [[Iban Coello]] (#7-8, #13-15), [[Joshua Cassara]] (#11–12)
+*Inker: JP Mayer (#1–5, #11–13), Iban Coello (#7–8)
+Part of the [[Fresh Start (comics)|Fresh Start]] relaunch, with Eddie Brock as the focus.{{sfn|Cates|"Rex"|pp=1|loc=Issue 1}}
+
+==Collected editions==
+The series has been collected into [[trade paperback (comics)|trade paperbacks]]:
+
+===''Venom'' (limited series)===
+{| class="wikitable" style="width:99%;"
+|-
+! style="width:20%;" |Series !! style="width:3%;"|Volume !! style="width:10%;"|Release Date !! style="width:45%;"|Collected Material !! Pages !! Format !! style="width:10%;" | ISBN
+|-
+| ''Venom: Lethal Protector''<ref name="TPBLS1"/>
+| 1
+| October 19, 2011
+| ''Venom: Lethal Protector'' #1–6
+| 144
+| Paperback
+| {{ISBNT|978-0-7851-5847-9}}
+|-
+|}
+
+===''Venom'' (2003)===
+{| class="wikitable" style="width:99%;"
+|-
+! style="width:20%;" |Series !! style="width:3%;"|Volume !! style="width:10%;"|Release Date !! style="width:45%;"|Collected Material !! Pages !! Format !! style="width:10%;" | ISBN
+|-
+| ''Venom'' - "Shiver"
+| 1
+| July 1, 2004
+| ''Venom'' (2003) #1–5
+| 120
+| Paperback
+| {{ISBNT|0-7851-1252-9}}
+|-
+| ''Venom'' - "Run"
+| 2
+| October 1, 2004
+| ''Venom'' (2003) #6–13
+| 192
+| Paperback
+| {{ISBNT|0-7851-1553-6}}
+|-
+| ''Venom'' - "Twist"
+| 3
+| December 8, 2004
+| ''Venom'' (2003) #14–18
+| 120
+| Paperback
+| {{ISBNT|9780785115540}}
+|-
+| ''Venom'' - Ultimate Collection<ref name="TPBVenom03UC"/>
+| 1
+| March 2, 2011
+| ''Venom'' (2003) #1–18
+| 424
+| Paperback
+| {{ISBNT|0-7851-5704-2}}
+|-
+|}
+
+===''Venom'' (2011)===
+{| class="wikitable" style="width:99%;"
+|-
+! style="width:20%;" |Series !! style="width:3%;"|Volume !! style="width:10%;"|Release Date !! style="width:45%;"|Collected Material !! Pages !! Format !!style="width:10%;" | ISBN
+|-
+| rowspan="2" | ''Venom''
+| rowspan="2" | 1
+| October 5, 2011
+| rowspan="2" | ''Venom'' Vol. 2 #1–5
+| rowspan="2" | 120
+| Hardcover
+| {{ISBNT|0-7851-5811-1}}
+|-
+| April 4, 2012
+| Paperback
+| {{ISBNT|0-7851-5677-1}}
+|-
+| rowspan="2" | ''The Amazing Spider-Man: Spider-Island''<ref name="TPBSI1"/><ref name="TPBSI2"/>
+| rowspan="2" | -
+| January 25, 2012
+| rowspan="2" | ''The Amazing Spider-Man'' #666–673 and the "Infested" material from #659–660, ''Venom'' Vol. 2 #6–9, ''Spider-Island: Deadly Foes'', and ''Spider-Island Spotlight''
+| rowspan="2" | 376
+| Hardcover
+| {{ISBNT|0-7851-5104-4}}
+|-
+| September 12, 2012
+| Paperback
+| {{ISBNT|0-7851-5105-2}}
+|-
+| rowspan="2" | ''Venom'' - "Circle of Four"
+| rowspan="2" | 2
+| June 6, 2012
+| rowspan="2" | ''Venom'' Vol. 2 #10–13, 13.1–13.4, 14
+| rowspan="2" | 232
+| Hardcover
+| {{ISBNT|0-7851-6450-2}}
+|-
+| October 3, 2012
+| rowspan="8" | Paperback
+| {{ISBNT|0-7851-6451-0}}
+|-
+| ''Venom'' - "The Savage Six"
+| 3
+| October 31, 2012
+| ''Venom'' Vol. 2 #15–22
+| 184
+| {{ISBNT|0-7851-5812-X}}
+|-
+| ''Carnage: Minimum Carnage''
+| 1
+| January 22, 2013
+| ''Minimum Carnage: Alpha'' #1; ''Venom'' Vol. 2 #26–27; ''Scarlet Spider'' Vol. 2 #10–12; ''Minimum Carnage: Omega'' #1
+| 152
+| {{ISBNT|978-0785167266}}
+|-
+| ''Venom - Devil's Pack''
+| 4
+| April 30, 2013
+| ''Venom'' Vol. 2 #23–25, 28–30
+| 136
+| {{ISBNT|978-0785161240}}
+|-
+| ''Venom: Toxin with a Vengeance!''
+| 5
+| September 3, 2013
+| ''Venom'' Vol. 2 #31–35
+| 136
+| {{ISBNT|978-0785166924}}
+|-
+| ''Venom: The Land Where the Killers Dwell''
+| 6
+| January 7, 2014
+| ''Venom'' Vol. 2 #36–42, 27.1
+| 136
+| {{ISBNT|978-0785166931}}
+|-
+| ''Venom: Space Knight Vol. 1: Agent of the Cosmos''
+| 1
+| July 12, 2016
+| ''Venom: Space Knight'' #1–6
+| 136
+| {{ISBNT|978-0785196549}}
+|-
+| ''Venom: Space Knight Vol. 2: Enemies And Allies''
+| 2
+| December 13, 2016
+| ''Venom: Space Knight'' #7–13
+| 160
+| {{ISBNT|978-0785196556}}
+|}
+
+==See also==
+*[[List of Venom titles]]
+
+==References==
+{{reflist|30em|refs=
+<ref name="1992Sales">{{cite web |url=http://www.comichron.com/monthlycomicssales/1992.html |title=1992 Comic Book Sales Figures |publisher=The Comics Chronicles |access-date=December 6, 2012 |archive-url=https://web.archive.org/web/20121119064241/http://www.comichron.com/monthlycomicssales/1992.html |archive-date=November 19, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="1993Sales">{{cite web |url=http://www.comichron.com/monthlycomicssales/1993.html |title=1993 Comic Book Sales Figures |publisher=The Comics Chronicles |access-date=December 6, 2012 |archive-url=https://web.archive.org/web/20121119064400/http://www.comichron.com/monthlycomicssales/1993.html |archive-date=November 19, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="1994Sales">{{cite web |url=http://www.comichron.com/monthlycomicssales/1994.html |title=1994 Comic Book Sales Figures |publisher=The Comics Chronicles |access-date= December 31, 2012}}</ref>
+
+<ref name="2011Sales">{{cite web |url=http://www.comichron.com/monthlycomicssales/2011.html |title=2011 Comic Book Sales Figures |publisher=The Comics Chronicles |access-date= January 1, 2013}}</ref>
+
+<ref name="2012Sales">{{cite web |first=Steve |last=Sunu |date=January 8, 2013 |url=http://www.comicbookresources.com/?page=article&id=43051 |title="The Walking Dead" Dominates Diamond Comics' 2012 Top 500 Lists |publisher=Comic Book Resources |access-date=January 11, 2012 |archive-url=https://web.archive.org/web/20130112065844/http://www.comicbookresources.com/?page=article&id=43051 |archive-date=January 12, 2013 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="2012SalesAugust">{{cite web |first=John |last=Mayo |url=http://www.comicbookresources.com/?page=article&id=40939 |title=Sales Estimates for August, 2012 - "Avengers Vs. X-Men" Tops The Charts |publisher=Comic Book Resources |date=September 11, 2012 |access-date=January 8, 2012 |archive-url=https://web.archive.org/web/20121014093855/http://www.comicbookresources.com/?page=article&id=40939 |archive-date=October 14, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="2012SepBunn">{{cite web |url=http://www.newsarama.com/comics/venom-moves-to-philadelphia.html |title=VENOM Moves to the City of Brotherly Love in December |publisher=[[Newsarama]] |date=September 3, 2012 |access-date=September 9, 2012 |archive-url=https://web.archive.org/web/20120906043534/http://www.newsarama.com/comics/venom-moves-to-philadelphia.html |archive-date=September 6, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="2012SepBunnCBR">{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=40811 |title=Bunn Talks Injecting Philly with "Venom" |publisher=Comicbookresources.com |date=September 3, 2012 |access-date=November 10, 2012 |archive-url=https://web.archive.org/web/20121027081706/http://www.comicbookresources.com/?page=article&id=40811 |archive-date=October 27, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="2012OctWacker">{{cite web |first=Shaun |last=Manning |url=http://www.comicbookresources.com/?page=article&id=41624 |title=NYCC: Slott, Waid and Co. Host Amazing, Superior Spider-Man Show |publisher=Comicbookresources.com |date=October 14, 2012 |access-date=November 10, 2012 |archive-url=https://web.archive.org/web/20121116150843/http://www.comicbookresources.com/?page=article&id=41624 |archive-date=November 16, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="2013Venom42">{{cite web | first=Gregg |last=Katzman |url=http://www.comicvine.com/reviews/venom-42/1900-2324/ |title=Venom #42 - Mania Conclusion Review |publisher=GameSpot |work=Comic Vine |date=October 23, 2013 |access-date=December 1, 2013|archive-url=https://web.archive.org/web/20160408214517/http://comicvine.gamespot.com/reviews/venom-42/1900-2324/ |archive-date=April 8, 2016 |url-status=live}}</ref>
+
+<ref name="LP1">{{cite web|url=http://www.comics.org/series/4745/ |title=Venom: Lethal Protector |publisher=Comics.org |access-date=2011-06-21}}</ref>
+
+<ref name="MiscStories1">{{cite web |first=Gavin |last=Jasper |title=The 15 Craziest Venom Moments |url=http://www.denofgeek.us/books-comics/venom/214968/the-15-craziest-venom-moments |publisher=[[Dennis Publishing]] |work=Den of Geek |date=23 October 2013 |access-date=1 December 2013 |archive-url=https://web.archive.org/web/20160416231948/http://www.denofgeek.us/books-comics/venom/214968/the-15-craziest-venom-moments |archive-date=16 April 2016 |url-status=live |df=dmy-all }}</ref>
+
+<ref name="RemenderLeaves">{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=40305 |title=Remender Says Farewell To The Solo Adventures of "Venom" |publisher=[[Comicbookresources.com]] |date=August 7, 2012 |access-date=August 13, 2012 |archive-url=https://web.archive.org/web/20120811101432/http://www.comicbookresources.com/?page=article&id=40305 |archive-date=August 11, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="TPBLS1">{{cite web|url=http://marvel.com/comic_books/collection/39830/venom_lethal_protector_trade_paperback|title=Venom: Lethal Protector (Trade Paperback)|publisher=[[Marvel Comics]]|work=marvel.com|access-date=September 20, 2012|archive-url=https://web.archive.org/web/20111111045716/http://marvel.com/comic_books/collection/39830/venom_lethal_protector_trade_paperback|archive-date=November 11, 2011|url-status=live|df=mdy-all}}</ref>
+
+<ref name="TPBSI1">{{cite web|url=http://marvel.com/comic_books/collection/36633/spider-man_spider-island_tpb_trade_paperback|title=Spider-Man: Spider-Island TPB (Trade Paperback)|publisher=Marvel Comics|work=marvel.com|date=September 12, 2012|access-date=November 10, 2012|archive-url=https://web.archive.org/web/20121025132930/http://marvel.com/comic_books/collection/36633/spider-man_spider-island_tpb_trade_paperback|archive-date=October 25, 2012|url-status=live|df=mdy-all}}</ref>
+
+<ref name="TPBSI2">{{cite web |url=http://comicbookdb.com/issue.php?ID=257381 |title=Spider-Man: Spider-Island (2012) - TPB |publisher=ComicBookDB.com |year=2012 |access-date=November 10, 2012 |archive-url=https://web.archive.org/web/20121112024711/http://comicbookdb.com/issue.php?ID=257381 |archive-date=November 12, 2012 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="TPBVenom03UC">{{cite web |url=http://marvel.com/comic_books/collection/38701/venom_by_daniel_way_ultimate_collection_trade_paperback |title=Venom by Daniel Way Ultimate Collection (Trade Paperback) |publisher=Marvel Comics |work=marvel.com |date=March 2, 2011 |access-date=November 10, 2012 |archive-url=https://web.archive.org/web/20110308020106/http://marvel.com/comic_books/collection/38701/venom_by_daniel_way_ultimate_collection_trade_paperback |archive-date=March 8, 2011 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="Venom2011End">{{cite web |first=Albert |last=Ching |url=http://www.comicbookresources.com/?page=article&id=47469 |title=MARVEL CONFIRMS "VENOM" ENDING IN OCTOBER |publisher=Comic Book Resources |date=August 22, 2013 |access-date=September 12, 2013 |archive-url=https://web.archive.org/web/20160420061540/http://www.comicbookresources.com/?page=article&id=47469 |archive-date=April 20, 2016 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="Venom2011End2">{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=47591 |title=CULLEN BUNN PLANS A HELLACIOUS END FOR "VENOM" |publisher=Comic Book Resources |date=September 6, 2013 |access-date=September 14, 2013 |archive-url=https://web.archive.org/web/20160420112754/http://www.comicbookresources.com/?page=article&id=47591 |archive-date=April 20, 2016 |url-status=live |df=mdy-all }}</ref>
+
+<ref name="Venom2011Mania">{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=47415 |title=BUNN DEVELOPS A MANIA FOR "VENOM" |publisher=Comic Book Resources |date=August 20, 2013 |access-date=September 14, 2013 |archive-url=https://web.archive.org/web/20160420110401/http://www.comicbookresources.com/?page=article&id=47415 |archive-date=April 20, 2016 |url-status=live |df=mdy-all }}</ref>
+}}
+
+===Bibliography===
+{{refbegin}}
+;Venom limited series
+*{{Cite comic | writer=[[David Michelinie|Michelinie, David]] | cowriters= | penciller=[[Mark Bagley|Bagley, Mark]], Lim, Ron | copencillers= | inker=Delarosa, Sam, Milgrom, Al | coinkers= |colorist=Javins, Marie | title=[[Venom: Lethal Protector]] | story= | volume=1 | issue= 1-6 | date=February–July 1993 | publisher=Marvel Comics | location=[[New York, NY]] | id=  |ref={{sfnref|Michelinie|February 1993}}|}}
+*{{Cite comic | writer=Potts, Carl | cowriters= | penciller=Lyle, Tom | copencillers= | inker=Milgrom Rubinstein, Hanna, Rubinstein, Joe | coinkers= |colorist=Lazellari, Ed | title=Venom: Funeral Pyre |volume=1 | issue= 1-3 | date=August–October 1993 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Potts|October 1993}}}}
+*{{Cite comic | writer=Fingeroth, Danny | cowriters= | penciller=Lim, Ron| copencillers= | inker=Sanders, Jim, Fredricks, Fred | coinkers= |colorist=Rosas, Joe | title=Venom: Deathtrap: The Vault |volume=1 | issue= 1 | date=March 1993 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Fingeroth|October 1993}}}}
+*{{Cite comic | writer=[[Ann Nocenti|Nocenti, Ann]]| cowriters= | penciller=Jones, Kelley | copencillers= | inker=Beatty, John, Milgrom, Al, [[Keith Williams (comics)|Williams, Keith]]  | coinkers= |colorist=Rosas, Joe | title=Venom: The Madness|volume=1 | issue= 1-3 | date=November 1993-January 1994 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Nocenti|November 1993}}}}
+*{{Cite comic | writer=Jones, Bruce | cowriters= | penciller=McLeod, Bob | copencillers= | inker=McLeod, Bob, Candelario, Harry | coinkers= |colorist=Smith, Tom | title=Venom: The Enemy Within |volume=1 | issue= 1-3 | date=February–May 1994 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Jones|February 1993}}}}
+*{{Cite comic | writer=Potts, Carl | cowriters= | penciller=Sharp, Liam | copencillers= | inker=Reinhold, Ben | coinkers= |colorist=Smith, Tom | title=Venom: The Mace|volume=1 | issue= 1-3 | date=May–July 1994 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Potts|May 1993}}}}
+*{{Cite comic | writer=Mackie, Howard | cowriters= | penciller=Lim, Ron | copencillers= | inker=Milgrom, Al | coinkers= |colorist=Smith, Tom | title=Venom: Nights of Vengeance |volume=1 | issue= 1-4 | date=August–November 1994 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Mackie|August 1994}}}}
+*{{Cite comic | writer=Mackie, Howard | cowriters= | penciller=Randall, Ron | copencillers= | inker=DeLaRosa, Sam | coinkers= |colorist=Smith, Tom | title=[[Venom: Separation Anxiety]] |volume=1 | issue= 1-4 | date=December 1994-March 1995 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Mackie|December 1994}}}}
+*{{Cite comic | writer=[[Larry Hama|Hama, Larry]] | cowriters= | penciller=Wildman, Andrew, Nichols, Art | copencillers= | inker=Rubinstein, Joe| coinkers= |colorist=Smith, Tom| title=Venom: Carnage Unleashed | story=| volume=1 | issue= 1-4 | date=April–August 1995 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|April 1995}}}}
+*{{Cite comic | writer=Hama, Larry | cowriters= | penciller=Luzniak, Greg, Halsted, Ted | copencillers= | inker=Koblish, Scott, Cabrera, Ralph, et al. | coinkers= |colorist=Smith, Tom| title=Venom: Sinner Takes All | story=| volume=1 | issue= 1-5 | date=August–December 1995 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|August 1995}}}}
+*{{Cite comic | writer=[[Dan Slott|Slott, Dan]] | cowriters= | penciller=Calimee, Jan | copencillers= | inker=Adams, Greg | coinkers= |colorist=Bernardo, Mark| title=Venom: Sinner Takes All | story=Trial Run| volume=1 | issue= 1-4 | date=August–November 1995 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Slott|August 1995}}}}
+*{{Cite comic | writer=Hama, Larry | cowriters= | penciller=St. Perre, Joe | copencillers=[[Tom Grindberg|Grindberg, Tom]] | inker=[[Randy Emberlin|Emberlin, Randy]], McKenna, Mark, Ramos, Rodney, Adams, Greg | coinkers= |colorist=Smith, Tom| title=Venom: Along Came a Spider | story=| volume=1 | issue= 1-4 | date=January–April 1996 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|April 1996}}}}
+*{{Cite comic | writer=Skolnick, Evan | cowriters= | penciller=Zircher, Patrick | copencillers= | inker=Adams, Greg | coinkers= |colorist=Smith, Tom| title=Venom: Along Came a Spider | story=Hybrid | volume=1 | issue= 1-4 | date=January–April 1996 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Skolnick|April 1996}}}}
+*{{Cite comic | writer=Hama, Larry | cowriters= | penciller=Rouleau, Duncan | copencillers= | inker=Stangeland, John | coinkers= |colorist=Smith, Tom| title=Venom: The Hunted | story= | volume=1 | issue= 1-3 | date=May–July 1996 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|May 1996}}}}
+*{{Cite comic | writer=Skolnick, Evan | cowriters= | penciller=Califiore, Jim | copencillers= | inker=McKenna, Mark, Palmiotti, Pete | coinkers= |colorist=Smith, Tom| title=Venom: The Hunted | story=Jury-Rigged Justice | volume=1 | issue= 1-3 | date=May–July 1996 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Skolnick|May 1996}}}}
+*{{Cite comic | writer=Kaminski, Len | cowriters= | penciller=Halsted, Ted | copencillers= | inker=Koblish, Scott | coinkers= |colorist=Smith, Tom| title=Venom: The Hunger | story= | volume=1 | issue= 1-4 | date=August–November 1996 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Kaminski|August 1996}}}}
+*{{Cite comic | writer=Hama, Larry| cowriters= | penciller=St. Pierre, Joe | copencillers= | inker=Milgrom, Al | coinkers= |colorist=Smith, Tom| title=Venom: Tooth and Claw | story= | volume=1 | issue= 1-3 | date=December 1996-February 1997 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|December 1996}}}}
+*{{Cite comic | writer=Hama, Larry| cowriters= | penciller=Hood, Josh | copencillers= | inker=Fisher, Derek | coinkers= |colorist=Smith, Tom| title=Venom: On Trial | story= | volume=1 | issue= 1-3 | date=March–May 1997 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|March 1997}}}}
+*{{Cite comic | writer=Hama, Larry| cowriters= | penciller=Aucoin, Derek | copencillers= | inker=Faber, Rich, Cabrera, Ralph, Cannon, Erik, Koblish, Scott | coinkers= |colorist=Smith, Tom| title=Venom: License to Kill | story= | volume=1 | issue= 1-3 | date=June–August 1997 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|June 1997}}}}
+*{{Cite comic | writer=Velez Jr, Ivan| cowriters= | penciller=Derenick, Tom | copencillers= | inker=Ivy, Chris | coinkers= |colorist=Smith, Tom| title=Venom: Sign of the Boss | story= | volume=1 | issue= 1-2 | date=September–October 1997 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Velez|September 1997}}}}
+*{{Cite comic | writer=Hama, Larry | cowriters= | penciller=Pajarillo, Mark | copencillers= | inker=Jones, Robert, Eklund, Pam | coinkers= |colorist=Smith, Tom| title=Venom: The Finale | story= | volume=1 | issue= 1-3 | date=November 1997-January 1998 | publisher=Marvel Comics | location=New York, NY | id=  |ref={{sfnref|Hama|November 1997}}}}
+
+;Venom (2003)
+<!--Way's Venom 2003 -->
+*{{Cite comic | writer=[[Daniel Way|Way, Daniel]] | cowriters= | penciller=Herrera, Francisco | copencillers= | inker=Cuevas, Carlos | coinkers= | title=Venom Vol. 1| date=June 2003 | publisher=[[Marvel Comics]] | location=New York, NY | id=  |ref={{sfnref|Way|2003}}}}
+
+;Venom (2011)
+*{{Cite comic | writer=[[Rick Remender|Remender, Rick]]| cowriters= | penciller=Moore, Tony | copencillers= | inker=Crimelab! Studios, Florea, Sandu, Kesel, Karl | coinkers=| colorist=Rauch, John| story =Project Rebirth 2.0 | title =Venom | volume = | issue =1 | date =May 2011 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|May 2011}}}}
+*{{Cite comic | writer=Remender, Rick | cowriters= | penciller=Moore, Tony | copencillers= | inker=Crimelab! Studios, | coinkers=| colorist=Rauch, John | story = | title =Venom | volume = | issue =2 | date =June 2011 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|June 2011}}}}
+*{{Cite comic | writer=Remender, Rick | cowriters= | penciller=Moore, Tony | copencillers= | inker=Crimelab! Syndicate | coinkers=| colorist=Rauch, John | story =The Same Coin... | title =Venom | volume = | issue =4 | date =August 2011 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|August 2011}}}}
+*{{Cite comic | writer=Remender, Rick  | cowriters= | artist = Fowler, Tom |penciller= | copencillers= | inker= | coinkers= | colorist = Rauch, John |story =Spider-Island | title =Venom | volume = | issue =6-8 | date =September–November 2011 | publisher =[[Marvel Comics]] | location =New York, NY | page = | panel = | id = |ref={{sfnref|Spider-Island|2011}}}}
+*{{Cite comic | writer=Remender, Rick | cowriters= | penciller=Medina, Lan | copencillers= | inker=Decastro, Nelson | coinkers=Gracia, Marte, Rauch, John | story =Road Trip Part 3 | title =Venom | volume = | issue =12 | date =March 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|March 2012}}}}
+*{{Cite comic | writer=Remender, Rick | cowriters= | penciller=Medina, Lan | copencillers= | inker=Decastro, Nelson | coinkers=Pallot, Terry |colorist=Mossa, Andres| story =Home Again | title =Venom | volume = | issue =15 | date =June 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|June 2012}}}}
+*{{Cite comic | writer=Remender, Rick, Bunn, Cullen | cowriters= | penciller=Walker, Kev | copencillers= | inker=Pallot, Terry | coinkers= | colorist=Sotomayor, Chris | story =Savage Six: Prologue | title =Venom | volume = | issue =17 | date =July 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|July 2012}}}}
+*{{Cite comic | writer=Remender, Rick, Bunn, Cullen | cowriters= | penciller=Medina, Lan  | copencillers= | inker=Decastro, Nelson| coinkers= | colorist=Sotomayor, Chris | story =Savage Six, Part 1: Public Enemies | title =Venom | volume = | issue =18 | date =July 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|July 2012 B}}}}
+*{{Cite comic | writer=Remender, Rick, Bunn, Cullen | cowriters= | penciller=Medina, Lan  | copencillers= | inker=Decastro, Nelson| coinkers= | colorist=Sotomayor, Chris | story =Savage Six, Part 2: Family | title =Venom | volume = | issue =19 | date =August 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|August 2012}}}}
+*{{Cite comic | writer=Remender, Rick, Bunn, Cullen | cowriters= | penciller=Medina, Lan, Atkins, Robert  | copencillers= | inker=Decastro, Nelson, Ketcham, Rich| coinkers= | colorist=Sotomayor, Chris | story =Savage Six, Part 3: The Truth | title =Venom | volume = | issue =20 | date =September 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|September 2012}}}}
+*{{Cite comic | writer=Remender, Rick, Bunn, Cullen | cowriters= | penciller=Medina, Lan | copencillers= | inker=Pallot, Terry,  Kesel, Karl, Sotomayor, Chris   | coinkers=  |artist= |colorist=Sotomayor, Chris |story= Savage Six, Part Four: Best Laid Plans... | title =Venom | volume = | issue =21| date =September 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|September 2012 B}}}}
+*{{Cite comic | writer=Remender, Rick | cowriters= | penciller= | copencillers= | inker= | coinkers= |artist=Shalvey, Declan |colorist=Loughridge, Lee |story= Father's Day | title =Venom | volume = | issue =22| date =October 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|October 2012}}}}
+*{{Cite comic | writer=Bunn, Cullen | cowriters= | penciller= Silas, Thony | copencillers= | inker=Decastro, Nelson | coinkers= |artist= |colorist= Sotomayor, Chris |story= Monsters of Evil | title =Venom | volume = | issue =23-25| date =November 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|November 2012}}}}
+*{{Cite comic | writer=Bunn, Cullen | cowriters= | penciller=  | copencillers= | inker= | coinkers= |artist=[[Declan Shalvey|Shalvey, Declan]] |colorist= [[Lee Loughridge|Loughridge, Lee]] |story= Minimum Carnage Part 3: The Madman & The Microverse | title =Venom | volume = | issue =26| date =November 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|December 2012}}}}
+*{{Cite comic | writer=Bunn, Cullen | cowriters= | penciller=  | copencillers= | inker= | coinkers= |artist=Checchetto, Marco |colorist= D'Auria, Fabio |story=The Evil Inside Us All... | title =Venom | volume = | issue =27.1| date =January 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|January 2013}}}}
+*{{Cite comic | writer=Bunn, Cullen | cowriters= | penciller= Silas, Thony | copencillers=Robinson, Roger | inker=Decastro, Nelson, Mendoza, Jamie, Robinson, Roger, Bit | coinkers=|artist= |colorist= Mossa, Andres, Fabela, Antonio |story=The Unwanted | title =Venom | volume = | issue =30| date =March 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|March 2013}}}}
+*{{Cite comic | writer=Bunn, Cullen | cowriters= | penciller= Silas, Thony | copencillers= | inker=| coinkers=|artist=Shalvey, Declan |colorist= Loughridge, Lee |story=Toxic Lifestyle | title =Venom | volume = | issue =32| date =March 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|March 2013 32}}}}
+*{{Cite comic |writer=Bunn, Cullen | cowriters= | penciller= Silas, Thony | copencillers= | inker=| coinkers=|artist=Shalvey, Declan |colorist= Loughridge, Lee  |story=Family Bonding | title =Venom | volume = | issue =34| date =April 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|April 2013}}}}
+*{{Cite comic |writer=Bunn, Cullen | cowriters= | penciller=  | copencillers= | inker=| coinkers=|artist=Shalvey, Declan |colorist= Loughridge, Lee  |story=Night of the Symbiote Slayers | title =Venom | volume = | issue =35| date =May 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|May 2013}}}}
+*{{Cite comic |writer=Bunn, Cullen | cowriters= | penciller=  | copencillers= | inker=| coinkers=|artist=Jacinto, Kim, Henderson, Mike |colorist= Loughridge, Lee  |story= | title =Venom | volume = | issue =39| date =October 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|October 2013}}}}
+*{{Cite comic |writer=Bunn, Cullen | cowriters= | penciller=  | copencillers= | inker=| coinkers=|artist=Coelho, Jorge |colorist= Loughridge, Lee  |story=Mania | title =Venom | volume = | issue =40-42| date =October 2013-December 2013 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Bunn|"Mania"}}}}
+
+;Other issues
+*{{Cite comic | writer=Mackie, Howard, Larsen, Erik, Beatty, John | cowriters= |artist=Mackie, Howard, Larsen, Erik, Beatty, John| penciller=  | copencillers= | inker=| coinkers=| colorist=Wright, Gregory| story =Mirror Mirror | title =The Amazing Spider-Man | volume = 2 | issue =19  | date =July 2000 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Mackie|July 2000}}}}
+*{{Cite comic | writer=[[Dan Slott|Slott, Dan]] | cowriters= | penciller= Siquerira, Paulo | copencillers=Cliquet De Oliveira, Ronan | inker=Siqueira, Paulo| coinkers=Paris, Roland and Adams, Greg | story =Rebirth | title =The Amazing Spider-Man | volume = | issue =654 | date =February 2011 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Slott|February 2011}}}}
+*{{Cite comic | writer=[[Zeb Wells|Wells, Zeb]] | artist=[[Clayton Crain|Crain, Clayton]] | cowriters= | penciller=  | copencillers= | inker= | coinkers= | story = | title =Carnage, U.S.A. | volume = | issue =1-5 | date =January–May 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Wells|January 2012}}}}
+*{{Cite comic | writer=Remender, Rick | cowriters= | penciller=  | copencillers= | inker=| coinkers= | artist=Hardman, Gabriel | story =A Victory for the Little Guy | title =Secret Avengers | volume = | issue =23 | date =April 2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Remender|April 2012}}}}
+*{{Cite comic | writer=Bunn, Cullen, Yost, Colin | cowriters= | penciller=  | copencillers= | inker=Kesel, Wong, Mendoza, Bit | coinkers= |artist=Medina, Lan |colorist= Sotocolor |story=Minimum Carnage Omega | title =Minimum Carnage | volume = | issue =| date =December  2012 | publisher =Marvel Comics | location =New York, NY | page = | panel = | id = |ref={{sfnref|Yost|December 2012}}}}
+{{refend}}
+
+==External links==
+*[https://web.archive.org/web/20060118100514/http://users.rcn.com/aardy/comics/awards/cbg.shtml Comics Buyer's Guide Fan Awards]
+*[http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+
+{{Symbiote Family and Hosts}}
+{{Spider-Man}}
+{{Spider-Man publications}}
+
+[[Category:Spider-Man titles]]
+[[Category:Venom (character) titles]]
+[[Category:Superhero comics]]
+[[Category:Comics by David Michelinie]]
+[[Category:Comics by Rick Remender]]
+[[Category:1993 comics debuts]]
+[[Category:1994 comics debuts]]
+[[Category:1995 comics debuts]]
+[[Category:1996 comics debuts]]
+[[Category:1997 comics debuts]]
+[[Category:2003 comics debuts]]
+[[Category:2011 comics debuts]]
+[[Category:2018 comics debuts]]
