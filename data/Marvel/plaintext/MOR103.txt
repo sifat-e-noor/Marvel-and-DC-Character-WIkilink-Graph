@@ -1,0 +1,23 @@
+Otilimab (development codes MOR103 and GSK3196165) is a fully human antibody which has been developed by the biotechnology company MorphoSys. It can also be referred to as HuCAL antibody, HuCAL standing for Human Combinatorial Antibody Library and being a technology used to generate monoclonal antibodies. Otilimab is directed against the granulocyte-macrophage colony stimulating factor (GM-CSF), a monomeric glycoprotein functioning as a cytokine promoting both proliferation and activation of macrophages and neutrophils.
+
+
+Mode of action
+
+Otilimab, as its monoclonal antibody, specifically binds to GM-CSF which is consequently neutralised and incapable of binding its targeted inflammatory cells as it should in order to allow their proliferation and activation. There is no following induction of inflammation (through cytokines e.g. TNF-α, IL-1, IL-6), chemotaxis (via chemokines e.g. IL-8), tissue degradation (caused by e.g. MMPs, H2O2) or T and B cell response (following up-regulated MHC II level).
+
+
+Medical uses
+Beyond its role in natural immune pathways, GM-CSF has been shown to be involved in autoimmune diseases such as multiple sclerosis (MS) and rheumatoid arthritis (RA) in which cases GM-CSF levels are elevated and mediate an increased production of pro-inflammatory elements (cytokines, chemokines, proteases). The factor is also known to be involved in osteoarthritis of the hand. Research has thus been working on it as a molecular target for the treatment of such disorders, notably through immunotherapy such as monoclonal antibody therapy which is known to be efficient against autoimmune diseases.
+
+
+Rheumatoid arthritis
+There already exist treatments of rheumatoid arthritis through monoclonal antibodies (i.e. infliximab, adalimumab). These drugs are not targeting GM-CSF but TNF-α which is another cytokine involved in the disease. However, the major involvement of TNF-α in immunity makes its suppression delicate: it diminishes the immune defenses of treated patients against potential new infections and may allow the reactivation of latent ones such as hepatitis B and tuberculosis. The number of reported cases of severe side effects, including fatal ones, has led the FDA to instruct tight monitoring of patients before and during a treatment by TNF-inhibiting drugs. Nevertheless, another way to circumvent such outcomes may be to target an alternate cytokine.
+
+
+Multiple sclerosis
+In multiple sclerosis (MS), GM-CSF is produced by T helper cells (Th1 and Th17). It is able to cross the blood-brain barrier (BBB) and bind to CD52 on macrophages surface. Along with other pro-inflammatory events, this will participate in the central nervous system (CNS) inflammation process typically occurring in MS.
+There are numerous existing monoclonal antibodies used in the treatment of multiple sclerosis: natalizumab (targets α4-integrin), daclizumab and alemtuzumab (both binding to CD25, the α-subunit of IL-2 receptor on the surface of mature lymphocytes), ocrelizumab (against CD20 marker on B-cells). However, the frequent adverse effects notified, including secondary autoimmune phenomena, suggest that the uncovering of a new molecular target for monoclonal antibody therapy would be welcomed in the research for an improved treatment against MS.
+Otilimab is currently undergoing clinical trials to determine whether it could be used as treatment and has so far shown to be generally well tolerated by both relapsing-remitting multiple sclerosis (RRMS) and secondary progressive multiple sclerosis (SPMS) patients. Indeed, most TEAEs (treatment-emergent adverse events) which were observed were mild to moderate. There isn't evidence of immunogenecity either: no anti-otilimab antibodies were detected in patients following treatment. These results provide Class I evidence in regards to acceptable tolerance in MS patients and reveal that otilimab remains a fitted candidate for the treatment of multiple sclerosis
+
+
+References
